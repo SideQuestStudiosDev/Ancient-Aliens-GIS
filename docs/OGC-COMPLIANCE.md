@@ -123,23 +123,26 @@ template and `TileMatrixSet`:
 
 | Layer | Service | TileMatrixSet | Licence |
 |---|---|---|---|
-| Sentinel-2 cloudless 2025 | EOX `tiles.maps.eox.at/wmts` | `GoogleMapsCompatible` | CC BY-NC-SA 4.0 — **non-commercial** |
-| Terrain Light | EOX | `GoogleMapsCompatible` | CC BY-SA |
-| Coastline & graticule overlay | EOX | `GoogleMapsCompatible` | CC BY-SA |
-| VIIRS SNPP True Colour | NASA GIBS | `GoogleMapsCompatible_Level9` | public domain |
-| Blue Marble shaded relief + bathymetry | NASA GIBS | `GoogleMapsCompatible_Level8` | public domain |
+| Coastline & graticule overlay | EOX `tiles.maps.eox.at/wmts` | `GoogleMapsCompatible` | CC BY-SA |
 | VIIRS Black Marble | NASA GIBS | `GoogleMapsCompatible_Level8` | public domain |
 
-The remaining base layers (Esri Dark Gray Canvas, Esri World Imagery, Esri
-World Shaded Relief, OpenStreetMap, OpenTopoMap) use the XYZ slippy-tile
-convention, which is a de-facto standard rather than an OGC one. The Layers
-tab labels every layer with its protocol so the distinction is visible in
-the product, not buried here.
+The base layers (Esri World Imagery, OpenStreetMap, OpenTopoMap) and the
+Esri reference-label overlay use the XYZ slippy-tile convention, which is a
+de-facto standard rather than an OGC one. The Layers tab labels every layer
+with its protocol so the distinction is visible in the product, not buried
+here.
 
-> **Note on the Sentinel-2 licence.** EOX publishes s2cloudless under
-> CC BY-NC-SA 4.0. It is offered here because this is a non-commercial
-> reference project. Anyone forking this for commercial use must either
-> remove that layer or license it from EOX.
+The catalogue was cut from nine base layers to three. The six that went —
+Esri Dark Gray Canvas, EOX Sentinel-2 cloudless, EOX Terrain Light, NASA
+VIIRS true colour, NASA Blue Marble and Esri World Shaded Relief — were
+either featureless at the zoom levels this portal actually flies to, or
+duplicated what World Imagery already does better. Fewer, better layers
+beat a long menu of near-equivalents.
+
+> **The non-commercial licence is gone with them.** EOX publishes
+> s2cloudless under CC BY-NC-SA 4.0, which was the one term in this
+> project that forbade commercial reuse. Dropping that layer removes the
+> restriction entirely: nothing served here is non-commercial any more.
 
 ### Verifying the services
 

@@ -35,6 +35,9 @@ export const globe = {
   entities: new Map(),       // site id -> billboard entity
   areas: new Map(),          // site id -> ellipse entity
   selectionRing: null,
+  selectedId: null,        // site id the user is looking at, if any
+  siteById: new Map(),     // site id -> catalogue record
+  targetMode: '3D',        // mode a morph is heading for
 };
 
 const handlers = { pick: null, hover: null, camera: null, credit: null,
@@ -491,9 +494,11 @@ export function addSites(sites) {
   ds.entities.removeAll();
   globe.entities.clear();
   globe.areas.clear();
+  globe.siteById.clear();
 
   for (const s of sites) {
     if (s.off || s.lat == null) continue;        // off-world sites have no pin
+    globe.siteById.set(s.id, s);
     const hex = colorForCategory(s.c);
     const positions = s.mp?.length
       ? s.mp.map(([lat, lon]) => Cesium.Cartesian3.fromDegrees(lon, lat))
@@ -576,6 +581,7 @@ let pulseStop = null;
 
 export function highlight(siteId) {
   const Cesium = C();
+  globe.selectedId = siteId || null;
 
   for (const [id, entity] of globe.entities) {
     const cat = entity.properties?.category?.getValue?.();
@@ -704,7 +710,7 @@ export function flyToSite(site, { duration } = {}) {
   globe.pendingFlight = site.id;
   const d = duration ?? (prefersReducedMotion() ? 0 : CAMERA.flyDuration);
   const above = Math.max(400, site.h ?? 3000);
-  const pitch = Cesium.Math.toRadians(site.pi ?? -40);
+  const pitch = Cesium.Math.toRadians(CAMERA.sitePitch);
 
   // Region entries frame their whole extent from far enough out that
   // terrain is immaterial.
@@ -713,20 +719,26 @@ export function flyToSite(site, { duration } = {}) {
       new Cesium.BoundingSphere(
         Cesium.Cartesian3.fromDegrees(site.lon, site.lat), site.rk * 1400),
       { duration: d,
-        offset: new Cesium.HeadingPitchRange(
-          0, Cesium.Math.toRadians(site.pi ?? -55), 0) });
+        offset: new Cesium.HeadingPitchRange(0, pitch, 0) });
     render();
     return Promise.resolve();
   }
 
+  // Fly to the SITE, not to a position above it. flyTo places the camera
+  // and then aims it, so at any pitch other than straight down the thing
+  // you asked for ends up off screen by height / tan(pitch).
+  // flyToBoundingSphere is given the target and solves for the camera, so
+  // the site is centred whatever the pitch.
   const goTo = (ground, seconds) => {
     const target = Math.max(ground + above, ground + MIN_CLEARANCE);
-    viewer.camera.flyTo({
-      destination: Cesium.Cartesian3.fromDegrees(site.lon, site.lat, target),
-      orientation: { heading: 0, pitch, roll: 0 },
-      duration: seconds,
-      easingFunction: Cesium.EasingFunction.QUADRATIC_IN_OUT,
-    });
+    viewer.camera.flyToBoundingSphere(
+      new Cesium.BoundingSphere(
+        Cesium.Cartesian3.fromDegrees(site.lon, site.lat, ground), 0),
+      {
+        duration: seconds,
+        offset: new Cesium.HeadingPitchRange(0, pitch, target - ground),
+        easingFunction: Cesium.EasingFunction.QUADRATIC_IN_OUT,
+      });
     render();
     return target;
   };
@@ -768,13 +780,125 @@ export function flyToCoords(lat, lon, height = 2_000_000) {
   render();
 }
 
-export function setSceneMode(mode) {
+/** Where the view is currently pointed, as ground coordinates plus a
+ *  height above them.
+ *
+ *  A morph preserves the camera, not the subject. Going 3D -> 2D that is
+ *  not the same question: the projections disagree about what a camera
+ *  position means, and Cesium resolves it by backing out to the whole
+ *  world. Capturing the subject first and restoring it afterwards is the
+ *  only way the location survives the change. */
+function viewFocus() {
   const Cesium = C();
+  const { scene, camera } = globe.viewer;
+  // positionCartographic, NOT Cartographic.fromCartesian(positionWC).
+  // In 2D and Columbus the camera lives in the projection's own frame, so
+  // reading positionWC as geocentric returns nonsense — measured: a
+  // height of 8,790 km while framing a 3,942 m view. Cesium's accessor
+  // is projection-aware and right in all three modes.
+  const carto = camera.positionCartographic;
+  const height = Math.min(
+    Math.max(carto?.height ?? 2_000_000, CAMERA.minZoom), CAMERA.maxZoom);
+
+  // A selected site is the honest answer to "what are you looking at".
+  const entity = globe.selectedId && globe.entities.get(globe.selectedId);
+  const pos = entity?.position?.getValue?.(Cesium.JulianDate.now());
+  if (pos) {
+    const c = Cesium.Cartographic.fromCartesian(pos);
+    return { lon: Cesium.Math.toDegrees(c.longitude),
+             lat: Cesium.Math.toDegrees(c.latitude), height };
+  }
+
+  // Otherwise, whatever the middle of the screen is over. Falls back to
+  // the camera's own ground track when the centre ray misses the globe,
+  // which it does whenever the horizon is in shot.
+  const centre = new Cesium.Cartesian2(scene.canvas.clientWidth / 2,
+                                       scene.canvas.clientHeight / 2);
+  const ray = camera.getPickRay(centre);
+  const hit = ray && scene.globe.pick(ray, scene);
+  const c = hit ? Cesium.Cartographic.fromCartesian(hit) : carto;
+  // (hit is a genuine world-space point from globe.pick, so converting
+  //  that one IS correct; carto is already cartographic.)
+  if (!c) return null;
+  return { lon: Cesium.Math.toDegrees(c.longitude),
+           lat: Cesium.Math.toDegrees(c.latitude), height };
+}
+
+function restoreFocus(focus) {
+  const Cesium = C();
+  try {
+    // When a site is selected, re-fly to it rather than reconstructing a
+    // camera. flyToSite already solves for a centred target and handles
+    // ground elevation, and is the same path the rest of the app uses —
+    // hand-placing the camera agreed with it in 3D and Columbus but not
+    // in 2D, where the projection makes a camera position mean something
+    // different.
+    const site = globe.selectedId && globe.siteById.get(globe.selectedId);
+    const lon = site ? site.lon : focus?.lon;
+    const lat = site ? site.lat : focus?.lat;
+    if (lon == null || lat == null) return;
+
+    // 2D is orthographic: the frustum decides what you see, not where the
+    // camera sits. Flying a camera into it re-enters the transitioner and
+    // wedges the scene — measured, scene.mode stayed MORPHING for ten
+    // seconds. Framing a rectangle is the operation Cesium provides.
+    if (globe.scene.mode === Cesium.SceneMode.SCENE2D) {
+      const half = Math.max(0.002,
+        ((focus?.height ?? 3000) / 111_320) * 0.6);
+      globe.viewer.camera.setView({
+        destination: Cesium.Rectangle.fromDegrees(
+          lon - half, lat - half, lon + half, lat + half),
+      });
+      render();
+      return;
+    }
+
+    if (site) { flyToSite(site, { duration: 0 }); return; }
+
+    if (!focus) return;
+    globe.viewer.camera.setView({
+      destination: Cesium.Cartesian3.fromDegrees(
+        focus.lon, focus.lat, focus.height),
+      orientation: {
+        heading: 0,
+        pitch: Cesium.Math.toRadians(CAMERA.sitePitch),
+        roll: 0,
+      },
+    });
+    render();
+  } catch (err) {
+    // A failed restore must never leave the camera mid-transition.
+    console.warn('scene morph: could not restore the view', err);
+  }
+}
+
+export function setSceneMode(mode) {
   const { scene } = globe;
   const dur = prefersReducedMotion() ? 0 : 1.4;
+  const focus = viewFocus();
+  globe.targetMode = mode;
+
+  // morphComplete is raised BEFORE Cesium finishes restoring its own
+  // camera state, so anything set in that handler is overwritten a
+  // moment later — measured: the camera ended 8,790 km from the subject.
+  // Waiting one rendered frame puts the restore after Cesium's own.
+  const onDone = () => {
+    scene.morphComplete.removeEventListener(onDone);
+    const afterFrame = () => {
+      scene.postRender.removeEventListener(afterFrame);
+      restoreFocus(focus);
+    };
+    scene.postRender.addEventListener(afterFrame);
+    render();
+  };
+  scene.morphComplete.addEventListener(onDone);
+
   if (mode === '2D') scene.morphTo2D(dur);
   else if (mode === 'COLUMBUS') scene.morphToColumbusView(dur);
   else scene.morphTo3D(dur);
+
+  // A zero-duration morph can complete before the listener is useful.
+  if (dur === 0) restoreFocus(focus);
   render();
   return mode;
 }
@@ -784,7 +908,11 @@ export const sceneModeName = () => {
   switch (globe.scene?.mode) {
     case Cesium.SceneMode.SCENE2D: return '2D';
     case Cesium.SceneMode.COLUMBUS_VIEW: return 'COLUMBUS';
-    default: return '3D';
+    case Cesium.SceneMode.SCENE3D: return '3D';
+    // MORPHING has no case of its own and used to fall through to '3D',
+    // so the readout claimed 3D while the scene was halfway to 2D.
+    // Report where the morph is heading instead of a wrong answer.
+    default: return globe.targetMode ?? '3D';
   }
 };
 

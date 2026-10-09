@@ -30,31 +30,11 @@ UA = ("AncientAliensGIS/1.0 "
 SAMPLES = [(4, 8, 5), (4, 13, 6), (4, 1, 7)]
 
 BASE_LAYERS = {
-    "esri Dark Gray Canvas":
-        "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/"
-        "World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
     "esri World Imagery":
         "https://server.arcgisonline.com/ArcGIS/rest/services/"
         "World_Imagery/MapServer/tile/{z}/{y}/{x}",
-    "eox s2cloudless-2025":
-        "https://tiles.maps.eox.at/wmts/1.0.0/s2cloudless-2025_3857/default/"
-        "GoogleMapsCompatible/{TileMatrix}/{TileRow}/{TileCol}.jpg",
-    "gibs VIIRS true colour":
-        "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/"
-        "VIIRS_SNPP_CorrectedReflectance_TrueColor/default/2026-01-15/"
-        "GoogleMapsCompatible_Level9/{TileMatrix}/{TileRow}/{TileCol}.jpg",
-    "gibs Blue Marble":
-        "https://gibs.earthdata.nasa.gov/wmts/epsg3857/best/"
-        "BlueMarble_ShadedRelief_Bathymetry/default/"
-        "GoogleMapsCompatible_Level8/{TileMatrix}/{TileRow}/{TileCol}.jpeg",
     "osm standard":
         "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
-    "eox terrain-light":
-        "https://tiles.maps.eox.at/wmts/1.0.0/terrain-light_3857/default/"
-        "GoogleMapsCompatible/{TileMatrix}/{TileRow}/{TileCol}.jpg",
-    "esri World Shaded Relief":
-        "https://server.arcgisonline.com/ArcGIS/rest/services/"
-        "World_Shaded_Relief/MapServer/tile/{z}/{y}/{x}",
     "opentopomap":
         "https://tile.opentopomap.org/{z}/{x}/{y}.png",
 }

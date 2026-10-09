@@ -38,20 +38,15 @@ a condition of use — do not remove it.**
 | Layer | Provider | Terms |
 |---|---|---|
 | World Imagery | Esri, Maxar, Earthstar Geographics, GIS User Community | Esri terms of use |
-| Dark Gray Canvas (base + labels) | Esri, HERE, Garmin, OpenStreetMap contributors | Esri terms of use |
-| World Shaded Relief | Esri | Esri terms of use |
+| Dark Gray Reference (labels overlay) | Esri, HERE, Garmin, OpenStreetMap contributors | Esri terms of use |
 | Terrain3D elevation mesh | Esri and its data contributors | Esri terms of use |
-| **Sentinel-2 cloudless 2025** | **EOX IT Services** (modified Copernicus Sentinel data 2025) | **CC BY-NC-SA 4.0 — NON-COMMERCIAL** |
-| Terrain Light, overlay | EOX IT Services · OpenStreetMap contributors · Natural Earth | EOX terms |
-| VIIRS, Blue Marble, Black Marble | NASA EOSDIS GIBS | NASA imagery policy |
+| Coastline & graticule overlay | EOX IT Services · OpenStreetMap contributors · Natural Earth | EOX terms |
+| Black Marble (night overlay) | NASA EOSDIS GIBS | NASA imagery policy |
 | OpenStreetMap standard tiles | OpenStreetMap contributors | ODbL 1.0 (data) · tile usage policy |
 | OpenTopoMap | OpenStreetMap contributors · OpenTopoMap | CC BY-SA 3.0 |
 
-Two of these deserve a second look:
+One of these deserves a second look:
 
-- **Sentinel-2 cloudless is CC BY-NC-SA 4.0.** Non-commercial. If you
-  monetise a deployment with that layer reachable, you are infringing.
-  Remove it from `assets/js/config.js` first.
 - **Esri layers are fetched directly from `server.arcgisonline.com`** with
   no API key and no subscription. This is common practice and widely
   done, but Esri's terms of use have historically restricted access to

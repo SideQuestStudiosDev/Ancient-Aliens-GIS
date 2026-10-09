@@ -259,10 +259,9 @@ redistributing. In short:
 - **Encyclopaedic summaries** are English Wikipedia, **CC BY-SA 4.0** —
   share-alike, so adaptations of that text stay BY-SA. Attributed per
   site with a link to the source article.
-- **Imagery** is Esri, NASA EOSDIS GIBS, EOX, OpenStreetMap contributors
-  and OpenTopoMap. EOX **Sentinel-2 cloudless is CC BY-NC-SA 4.0 —
-  non-commercial**; remove that layer before monetising a deployment.
-  Layer attribution is rendered in the app and must stay there.
+- **Imagery** is Esri World Imagery, OpenStreetMap and OpenTopoMap, with
+  Esri label, EOX graticule and NASA Black Marble overlays. Layer
+  attribution is rendered in the app and must stay there.
 - **Elevation** is the Esri Terrain3D mesh, plus per-site ground
   elevation from the [Open-Meteo elevation API](https://open-meteo.com/)
   (Copernicus DEM), CC BY 4.0.
