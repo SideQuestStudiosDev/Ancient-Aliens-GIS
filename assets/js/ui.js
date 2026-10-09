@@ -615,6 +615,9 @@ export function renderDetail(site, feature) {
     addGeo('Longitude', `${fmtDeg(p.longitude)}  ${toDMS(p.longitude, 'lon')}`);
     addGeo('CRS', 'EPSG:4326 / OGC CRS84');
   }
+  if (Number.isFinite(p.ground_elevation_m)) {
+    addGeo('Ground elevation', `${Math.round(p.ground_elevation_m).toLocaleString('en')} m`);
+  }
   if (p.radius_km) addGeo('Extent', `≈ ${p.radius_km} km radius`);
   addGeo('Precision', el('span', {}, [
     el('span', { class: 'chip', style: { color: `var(${catToken})` } }, precLabel),

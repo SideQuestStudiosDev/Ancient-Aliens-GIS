@@ -40,6 +40,8 @@
   "longitude": 22.75387,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 218.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 800,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Treasury of Atreus",

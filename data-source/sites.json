@@ -39,7 +39,8 @@
    "summary": "Abydos (Arabic: أبيدوس, romanized: Abīdūs or Arabic: افود, romanized: Afūd; Sahidic Coptic: Ⲉⲃⲱⲧ Ebōt) was one of the oldest cities of ancient Egypt, and also of the eighth nome in Upper Egypt. It is located about 11 kilometres (6.8 miles) west of the Nile at latitude 26° 10' N, near the modern Egyptian towns of El Araba El Madfuna and El Balyana. In the ancient Egyptian language, the city was called Abedju (ꜣbḏw or AbDw)(Arabic Abdu عبد-و).",
    "shortdesc": "City in ancient Egypt",
    "image": "AbydosFacade.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 77.0
   },
   {
    "id": "amarna",
@@ -78,7 +79,8 @@
    "summary": "Amarna (Arabic: العمارنة, romanized: al-ʿAmārna) is an extensive ancient Egyptian archaeological site containing the ruins of Akhetaten (Ancient Egyptian: 𓈌𓐰𓏏𓐱𓉐𓇋𓏏𓐰𓈖𓐰𓇳, romanized: ꜣḫt-jtn), the capital city during the late Eighteenth Dynasty. The city was established in 1346 BC, built at the direction of the Pharaoh Akhenaten, and abandoned shortly after his death in 1332 BC.",
    "shortdesc": "Akhenaten's capital of Egypt, 1346–1332 BC",
    "image": "Small_aten_temple.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 47.0
   },
   {
    "id": "cairo-giza",
@@ -125,7 +127,8 @@
    "summary": "The Giza pyramid complex (also called the Giza necropolis) in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
    "shortdesc": "Archaeological site near Cairo, Egypt",
    "image": "Pyramids_of_the_Giza_Necropolis.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 66.0
   },
   {
    "id": "dendera",
@@ -165,7 +168,8 @@
    "summary": "Dendera (Arabic: دَنْدَرة Dandarah; Ancient Greek: Τέντυρις or Τέντυρα; Bohairic Coptic: ⲛⲓⲧⲉⲛⲧⲱⲣⲓ, romanized: Nitentōri; Sahidic Coptic: ⲛⲓⲧⲛⲧⲱⲣⲉ, romanized: Nitntōre), also spelled Denderah, ancient Iunet 𓉺𓈖𓏏𓊖 “jwn.t”, Tentyris,(Arabic: Ewan-t إيوان-ة ), Tentyra, or Dandara, is a small town and former bishopric in Egypt situated on the west bank of the Nile, about 5 kilometres (3 mi) south of Qena, on the opposite side of the river. It is located approximately 60 kilometres (37 mi) north of Luxor and remains a Latin Catholic titular see.",
    "shortdesc": "City in Qena, Egypt",
    "image": "Denderah_Outside.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 76.0
   },
   {
    "id": "edfu",
@@ -201,7 +205,8 @@
    "summary": "The Temple of Edfu is an Egyptian temple located on the west bank of the Nile in Edfu, Upper Egypt. The city was known in the Hellenistic period in Koine Greek as Ἀπόλλωνος πόλις and in Latin as Apollonopolis Magna, after the chief god Horus, who was identified as Apollo under the interpretatio graeca. It is one of the best preserved shrines in Egypt.",
    "shortdesc": "Ancient Egyptian temple, located on the west bank of the Nile in Edfu, Upper Egypt",
    "image": "Temple_Edfou_Egypte.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 86.0
   },
   {
    "id": "karnak-luxor",
@@ -241,7 +246,8 @@
    "summary": "The Karnak Temple Complex, commonly known as Karnak , comprises a vast mix of temples, pylons, chapels, and other buildings near Luxor, Egypt. Construction at the complex began during the reign of Senusret I (reigned 1971–1926 BCE) in the Middle Kingdom (c. 2000–1700 BC) and continued into the Ptolemaic Kingdom (305–30 BCE), although most of the extant buildings date from the New Kingdom. The area around Karnak was the ancient Egyptian Ipet-isut (\"The Most Selected of Places\") and the main place of worship of the 18th Dynastic Theban Triad, with the god Amun as its head.",
    "shortdesc": "Ancient Egyptian temple complex",
    "image": "Temple_de_Louxor_68.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 79.0
   },
   {
    "id": "naqada",
@@ -276,7 +282,8 @@
    "summary": "Naqada (Egyptian Arabic: نقادة Naqāda; Coptic language: ⲛⲉⲕⲁⲧⲏⲣⲓⲟⲛ Nekatērion; Ancient Greek: Παμπανις Pampanis, Ancient Egyptian: Nbyt \"City of Gold\") is a town on the west bank of the Nile in Qena Governorate, Egypt, situated ca. 20 km north of Luxor. It includes the villages of Tukh, Khatara, Danfiq, and Zawayda. According to the 1960 census, it is one of the most sparsely populated areas and had only 3,000 inhabitants, mostly of the Christian faith who preserved elements of the Coptic language up until the 1930s.",
    "shortdesc": "Place in Qena, Egypt",
    "image": "MbgIMG_0411.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 68.0
   },
   {
    "id": "saqqara",
@@ -318,7 +325,8 @@
    "summary": "Saqqara (Arabic: سقارة : saqqāra[t], Egyptian Arabic pronunciation: [sɑʔːɑːɾɑ]), also spelled Sakkara or Saccara in English , is an Egyptian village in the markaz (county) of Badrashin in the Giza Governorate, that contains ancient mausoleum crypts of Egyptian royalty, serving as the necropolis for the ancient Egyptian capital, Memphis. Saqqara contains numerous pyramids, including the Pyramid of Djoser, sometimes referred to as the Step Pyramid, and a number of mastaba tombs. Located some 30 km (19 mi) south of modern-day Cairo, Saqqara covers an area of around 7 by 1.5 km (4.3 by 0.9 mi).",
    "shortdesc": "Burial ground in Giza Governorate, Egypt",
    "image": "Saqqara_pyramid_ver_2.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 60.0
   },
   {
    "id": "nabta-playa",
@@ -358,7 +366,8 @@
    "summary": "Nabta Playa was once a large endorheic basin (a temporary lake, or \"playa\") in the Nubian Desert, located approximately 800 kilometers south of modern-day Cairo or about 100 kilometers west of Abu Simbel in southern Egypt, 22.51° north, 30.73° east. Today the region is characterized by numerous archaeological sites. The Nabta Playa archaeological site, one of the earliest of the Nubian Neolithic Period, is dated to circa 7500 BC.",
    "shortdesc": "Region of archaeological sites in the Nubian Desert",
    "image": "Calendar_aswan.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 177.0
   },
   {
    "id": "egypt-nile",
@@ -393,7 +402,8 @@
    "summary": "The Nile is a major north-flowing river in northeast Africa which empties into the Mediterranean Sea. At 7,088 kilometers (4,404 mi) long, it is the longest river in the world, although the volume of water it carries is much smaller than other major rivers such as the Amazon or the Congo. The Nile has played a central role in the environmental, economic, and cultural history of Africa for millennia.",
    "shortdesc": "Major river in northeast Africa",
    "image": "Beautiful_nature_along_Nile_River_01.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 290.0
   },
   {
    "id": "jebel-barkal",
@@ -433,7 +443,8 @@
    "summary": "Jebel Barkal or Gebel Barkal (Arabic: جبل بركل, romanized: Jabal Barkal) is a mesa located 400 km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO.",
    "shortdesc": "Archaeological Site in Sudan",
    "image": "Gebel_Barkal.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 330.0
   },
   {
    "id": "hoggar",
@@ -473,7 +484,8 @@
    "summary": "The Hoggar Mountains (Arabic: جبال هقار, romanized: Jibāl Haqqār; Berber: idurar n Ahaggar) are a highland region in the central Sahara in southern Algeria, along the Tropic of Cancer, that covers an area of approximately 550,000 km2.",
    "shortdesc": "Mountain range in Algeria",
    "image": "اسكرام_2_-_تمنراست.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2672.0
   },
   {
    "id": "mali-dogon",
@@ -514,7 +526,8 @@
    "summary": "The Bandiagara Escarpment (Arabic: منحدرات باندياغارا الصخرية, French: falaise de Bandiagara) is a sandstone cliff in the Dogon country of Mali. It rises about 500 m (1,600 ft) above the lower sandy flats to the south, and has a length of approximately 150 km (90 mi).",
    "shortdesc": "Escarpment in Dogon country of Mali",
    "image": "Les_Falaises_de_Bandiagara.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 388.0
   },
   {
    "id": "sierra-leone-nomoli",
@@ -554,7 +567,8 @@
    "summary": "A Nomoli is a carved stone figurine native to Sierra Leone and Liberia. They are usually made of soapstone, limestone or granite.",
    "shortdesc": "Carved stone figurine S/L",
    "image": "Nomoli-Mende-Sierra_Leone.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 168.0
   },
   {
    "id": "rhino-cave",
@@ -594,7 +608,8 @@
    "summary": "The Tsodilo Hills (Tswana: Lefelo la Tsodilo) are a UNESCO World Heritage Site (WHS), consisting of rock art, rock shelters, depressions, and caves in Botswana, Southern Africa.",
    "shortdesc": "UNESCO World Heritage Site in Botswana",
    "image": "Tsodilo_rock_paintings_1.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 465.0
   },
   {
    "id": "south-africa",
@@ -633,7 +648,8 @@
    "summary": "The Blaauboschkraal stone ruins are a provincial heritage site in the Mpumalanga province of South Africa. Its neighbouring town, Emgwenya, is 10 kilometres away. The site was declared a national monument on 18 April 1975 and is a heritage site recognised by the South African Heritage Resources Agency.",
    "shortdesc": "Archaeological site in South Africa",
    "image": "Bokoni_Stone_Ruins.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1606.0
   },
   {
    "id": "african-congo",
@@ -671,7 +687,8 @@
    "summary": "The Congo Basin is the sedimentary basin of the Congo River. The Congo Basin is located in Central Africa, in a region known as west equatorial Africa. The region is sometimes known simply as the Congo.",
    "shortdesc": "Sedimentary basin of the Congo River in Central Africa",
    "image": "Congobasinmap.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 373.0
   },
   {
    "id": "somalia-coast",
@@ -710,7 +727,8 @@
    "summary": "Laas Geel (Somali: Laas Geel), also spelled Laas Gaal, are cave formations on the rural outskirts of Hargeisa, Somaliland, situated in the Maroodi Jeex region of the country. They contain some of the earliest known cave paintings of domesticated African aurochs (Bos primigenius africanus) in the Horn of Africa. Laas Geel's rock art is estimated to be approximately 5,500 to 4,500 years old.",
    "shortdesc": "Cave painting in Hargeisa, Somaliland",
    "image": "Laas_Geel.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 931.0
   },
   {
    "id": "canary-islands",
@@ -751,7 +769,8 @@
    "summary": "The Pyramids of Güímar are six rectangular pyramid-shaped, terraced structures built from lava stone without the use of mortar. They are located in the district of Chacona, part of the town of Güímar on the island of Tenerife in the Canary Islands, Spain. The structures have been dated to the 19th century AD and were built as part of the lucrative exploitation of cochineal.",
    "shortdesc": "19th-century structures on the Canary Islands, Spain",
    "image": "Güímar_BW_1.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 338.0
   },
   {
    "id": "baalbek",
@@ -791,7 +810,8 @@
    "summary": "Baalbek ( BAHL-bek, BAY-əl-bek; Arabic: بَعْلَبَكّ, romanized: Baʿlabakk, Lebanese: Bʿalbak; Syriac: ܒܥܠܒܟ; Phoenician: 𐤁𐤏𐤋𐤁𐤊, romanized: bʿlbk) is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608.",
    "shortdesc": "City in Baalbek-Hermel, Lebanon",
    "image": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1144.0
   },
   {
    "id": "gobekli-tepe",
@@ -839,7 +859,8 @@
    "summary": "Göbekli Tepe (Turkish pronunciation: [ɟœbecˈli teˈpe] 'Potbelly Hill'; Kurdish: Girê Mirazan or Xerabreşkê, 'Wish Hill') is a Neolithic archaeological site in Upper Mesopotamia (al-Jazira) in modern-day Turkey. The settlement was inhabited from around 9500 BCE to at least 8000 BCE, during the Pre-Pottery Neolithic. It is known for its large circular structures that contain large stone pillars – among the world's oldest known megaliths.",
    "shortdesc": "Neolithic archaeological site in Turkey",
    "image": "Göbekli_Tepe,_Urfa.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 779.0
   },
   {
    "id": "derinkuyu",
@@ -878,7 +899,8 @@
    "summary": "Derinkuyu (Turkish pronunciation: [deˈɾinkuju]), also known as Malakopi, is an ancient multi-level underground city near the modern town of Derinkuyu in Nevşehir Province, Turkey, extending to a depth of approximately 85 metres (280 ft). It is large enough to have sheltered as many as 20,000 people together with their livestock and food stores. It is the largest excavated underground city in Turkey and is one of several underground complexes found throughout Cappadocia.",
    "shortdesc": "Ancient underground city in Turkey",
    "image": "Derinkuyu_Underground_City_9910_Nevit.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1352.0
   },
   {
    "id": "cappadocia",
@@ -918,7 +940,8 @@
    "summary": "Cappadocia (Turkish: Kapadokya) is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nevşehir, Kayseri, Aksaray, Kırşehir, Sivas and Niğde. Today, the touristic Cappadocia Region is located in Nevşehir province.",
    "shortdesc": "Historical region in Central Anatolia, Turkey",
    "image": "Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1102.0
   },
   {
    "id": "hierapolis",
@@ -959,7 +982,8 @@
    "summary": "Hierapolis (Ancient Greek: Ἱεράπολις, lit. \"Holy City\") was a Hellenistic Greek city in Phrygia, in southwestern Anatolia, Turkey. It was founded in the 3rd century BC, on the site of a Phrygian cult center of the Anatolian mother goddess Cybele, It was famous for its hot springs, its high quality wool fabrics and dyes, and as the birthplace of the Stoic philosopher Epictetus.",
    "shortdesc": "Ancient Greek city",
    "image": "Hierapolis_01.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 367.0
   },
   {
    "id": "nemrut-dagi",
@@ -999,7 +1023,8 @@
    "summary": "Mount Nemrut or Nemrud (Turkish: Nemrut Dağı; Kurdish: Çiyayê Nemrûdê; Armenian: Նեմրութ լեռ; Greek: Όρος Νεμρούτ) is a 2,150-metre-high (7,054 ft) mountain in southeastern Turkey, notable for the summit where a number of large statues are erected around what is assumed to be a royal tomb from the 1st century BC. It is one of the highest peaks in the east of the Taurus Mountains.",
    "shortdesc": "Mountain in Adıyaman, Turkey",
    "image": "Mount_Nemrut_-_East_Terrace_(4961323529).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2188.0
   },
   {
    "id": "taurus-mountains",
@@ -1034,7 +1059,8 @@
    "summary": "The Taurus Mountains (Turkish: Toros Dağları or Toroslar; are a mountain complex in southern Turkey, separating the Mediterranean coastal region on the Levantine Sea from the central Anatolian Plateau. The system extends along a curve from Lake Eğirdir in the west to the upper reaches of the Euphrates and Tigris rivers in the east. It is a part of the Alpide belt in Eurasia.",
    "shortdesc": "Mountain range in southern Turkey",
    "image": "Demirkazik_Crest_of_Aladag_Mountains_in_Nigde_Turkey.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2878.0
   },
   {
    "id": "troy",
@@ -1075,7 +1101,8 @@
    "summary": "Troy or Ilion was an ancient city located in present-day Çanakkale, Turkey. It is best known as the setting for the Greek myth of the Trojan War. The modern-day archaeological site, also known as Hisarlık, is open to the public as a tourist destination, and was added to the UNESCO World Heritage list in 1998.",
    "shortdesc": "Ancient city in northwest Asia Minor",
    "image": "Walls_of_Troy_(2).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 21.0
   },
   {
    "id": "turkey-anatolia",
@@ -1110,7 +1137,8 @@
    "summary": "Anatolia (Greek: Ανατολή, Turkish: Anadolu), also known as Asia Minor, is a peninsula in West Asia that makes up the majority of the land area of Turkey. It is the westernmost protrusion of Asia and is geographically bounded by three seas: the Mediterranean Sea to the south, the Aegean Sea to the west, the Propontis or Sea of Marmara to the northwest with its two choke points, Hellespont toward the Mediterranean and Bosporus toward the Black Sea, and the latter itself to the north. The eastern and southeastern limits have been expanded either to the entirety of Asiatic Turkey or to an imprecise line from the Black Sea to the Gulf of Alexandretta.",
    "shortdesc": "Peninsula of Turkey in Western Asia",
    "image": "Map_of_the_geographic_region_of_Anatolia.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1147.0
   },
   {
    "id": "black-sea-turkey",
@@ -1148,7 +1176,8 @@
    "summary": "The Black Sea deluge is the best known of three hypothetical flood scenarios for the Late Quaternary history of the Black Sea that have been proposed since 1997. One other flood scenario proposes a rapid, even catastrophic, rise in sea level of the Black Sea. The maximum depth of the Bosporus and Dardanelles straits is 110 meters (360 ft) and 103 meters (338 ft), respectively, which would put them above the ocean levels in the Last Glacial Maximum, some 125 meters (410 ft) lower than in present times.",
    "shortdesc": "Hypothetical flood scenario",
    "image": "Map_of_the_Black_Sea_with_bathymetry_and_surrounding_relief.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1227.0
   },
   {
    "id": "khorsabad",
@@ -1187,7 +1216,8 @@
    "summary": "Dur-Sharrukin (Neo-Assyrian Akkadian: 𒂦𒈗𒁺, romanized: Dūr Šarru-kīn, \"Fortress of Sargon\"; Arabic: دور شروكين, Syriac: ܕܘܪ ܫܪܘ ܘܟܢ), present day Khorsabad, was the Assyrian capital in the time of Sargon II of Assyria. Khorsabad is a village in northern Iraq, 15 km northeast of Mosul. The great city was entirely built in the decade preceding 706 BC.",
    "shortdesc": "Assyrian capital in the time of Sargon II; located in modern-day Iraq",
    "image": "Lammasu.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 319.0
   },
   {
    "id": "nineveh",
@@ -1227,7 +1257,8 @@
    "summary": "Nineveh was an ancient Near Eastern city of Upper Mesopotamia, located in the modern-day city of Mosul in northern Iraq. It is located on the eastern bank of the Tigris River and was the capital and largest city of the Neo-Assyrian Empire, and potentially the wealthiest city in the ancient world. Today, it is a common name for the half of Mosul that lies on the eastern bank of the Tigris, and the country's Nineveh Governorate takes its name from it.",
    "shortdesc": "Ancient Assyrian city",
    "image": "Nineveh_-_Mashki_Gate.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 245.0
   },
   {
    "id": "ur-ziggurat",
@@ -1268,7 +1299,8 @@
    "summary": "The Ziggurat (or Great Ziggurat) of Ur (Sumerian: 𒂍𒋼𒅎𒅍 é-temen-ní-gùru \"Etemenniguru\", meaning \"house whose foundation creates terror\") is a Neo-Sumerian ziggurat in what was the city of Ur near Nasiriyah, in present-day Dhi Qar Province, Iraq. The structure was built during the Early Bronze Age (21st century BC) by King Ur-Nammu of the Third Dynasty of Ur. It had crumbled to ruins by the 6th century BC of the Neo-Babylonian period, when it was restored by King Nabonidus.",
    "shortdesc": "Early Bronze Age ziggurat in present-day Iraq",
    "image": "Ziggarat_of_Ur_001.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 13.0
   },
   {
    "id": "iraq-mesopotamia",
@@ -1308,7 +1340,8 @@
    "summary": "Mesopotamia is a historical region of West Asia situated within the Tigris–Euphrates river system, in the northern part of the Fertile Crescent. It corresponds roughly to the territory of modern Iraq. Just beyond it lies southwestern Iran, where the region transitions into the Iranian plateau, marking the shift from the Arab world to Iran.",
    "shortdesc": "Historical region of West Asia",
    "image": "N-Mesopotamia_and_Syria_english.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 27.0
   },
   {
    "id": "baghdad-museum",
@@ -1346,7 +1379,8 @@
    "summary": "The Iraq Museum (Arabic: المتحف العراقي) is the national museum of Iraq, located in Baghdad. The Iraq Museum contains relics from the Mesopotamian, Abbasid, and Persian civilizations. It was looted during and after the 2003 Invasion of Iraq.",
    "shortdesc": "National museum of Iraq",
    "image": "المتحف_الوطني_العراقي_01.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 37.0
   },
   {
    "id": "tigris-euphrates",
@@ -1385,7 +1419,8 @@
    "summary": "The Shatt al-Arab (Arabic: شط العرب, lit. 'River of the Arabs') is a river about 200 kilometres (120 mi) in length that is formed at the confluence of the Euphrates and Tigris rivers in the town of al-Qurnah in the Basra Governorate of southern Iraq. The southern end of the river constitutes the Iran–Iraq border down to its mouth, where it discharges into the Persian Gulf.",
    "shortdesc": "River in West Asia",
    "image": "Shat_al-arab-22.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 7.0
   },
   {
    "id": "temple-mount",
@@ -1427,7 +1462,8 @@
    "summary": "The Temple Mount or al-Haram al-Sharif (Biblical Hebrew: הַר הַבַּיִת, romanized: Har hab-Bayiṯ, Arabic: الحَرَم الشَّرِيف, romanized: al-Ḥaram aš-Šarīf or الأَقْصَى, al-Aqṣā) is an elevated plateau in the Old City of Jerusalem that comprises the Islamic religious compound known as al-Aqsa, which includes the al-Aqsa Mosque and the Dome of the Rock. Historically the location of two successive Jewish temples, the area has been venerated as a holy site for thousands of years including in Judaism, Christianity, and Islam.",
    "shortdesc": "Religious site in Jerusalem",
    "image": "Jerusalem-2013(2)-Aerial-Temple_Mount-(south_exposure).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 744.0
   },
   {
    "id": "mount-of-olives",
@@ -1465,7 +1501,8 @@
    "summary": "The Mount of Olives or Mount Olivet (Hebrew: הַר הַזֵּיתִים, romanized: Har ha-Zeitim; Arabic: جبل الزيتون, romanized: Jabal az-Zaytūn; both lit. 'Mount of Olives'; in Arabic also الطور, Aṭ-Ṭūr, 'the Mountain') is a mountain ridge in East Jerusalem, east of and adjacent to Jerusalem's Old City. It is named for the olive groves that once covered its slopes.",
    "shortdesc": "Mountain in East Jerusalem",
    "image": "2013-Aerial-Mount_of_Olives.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 792.0
   },
   {
    "id": "bethlehem",
@@ -1503,7 +1540,8 @@
    "summary": "Bethlehem is a city in the West Bank, Palestine, located about ten kilometres (six miles) south of Jerusalem, and the capital of the Bethlehem Governorate. It had a population of 28,591 people, as of 2017. The city's economy is strongly linked to tourism, especially during the Christmas period, when Christians embark on a pilgrimage to the Church of the Nativity, which is revered as the location of the birth of Jesus.",
    "shortdesc": "City in the West Bank, Palestine",
    "image": "Church_of_the_Nativity_(7703592746).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 762.0
   },
   {
    "id": "jericho",
@@ -1542,7 +1580,8 @@
    "summary": "Jericho ( JERR-ik-oh; Arabic: أريحا, romanized: Arīḥā, IPA: [ʔaˈriːħaː] ; Hebrew: יְרֵחוֹ, romanized: Yərīḥō) is a city in the West Bank, Palestine, and the capital of the Jericho Governorate. The city is located in the Jordan Valley, with the Jordan River to the east and Jerusalem to the west.",
    "shortdesc": "Palestinian city in the West Bank",
    "image": "Tell_es-sultan.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": -249.0
   },
   {
    "id": "qumran",
@@ -1581,7 +1620,8 @@
    "summary": "Qumran (Hebrew: קומראן; Arabic: خربة قمران, romanized: Khirbet Qumrān) is an archaeological site in the West Bank managed by Israel's Qumran National Park. It is located on a dry marl plateau about 1.5 km (1 mi) from the northwestern shore of the Dead Sea, about 10 km (6 mi) south of the historic city of Jericho, and adjacent to the modern Israeli settlement and kibbutz of Kalya.",
    "shortdesc": "Archaeological site in the West Bank",
    "image": "Kumeran4.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": -326.0
   },
   {
    "id": "mount-sodom",
@@ -1620,7 +1660,8 @@
    "summary": "Mount Sodom (Hebrew: הר סדום, Har Sedom) is a hill along the southwestern part of the Dead Sea in Israel; it is part of the Judaean Desert Nature Reserve. It takes its name from the biblical city of Sodom, whose destruction is the subject of a narrative in the Bible.",
    "shortdesc": "Hill in Israel",
    "image": "MountSodom061607.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": -380.0
   },
   {
    "id": "mount-hermon",
@@ -1659,7 +1700,8 @@
    "summary": "Mount Hermon is a mountain cluster constituting the southern end of the Anti-Lebanon Mountains. Its summit straddles the border between Syria and Lebanon and at the elevation of 2,814 m (9,232 ft), is the highest point in Syria and the Israeli-occupied Golan Heights.",
    "shortdesc": "Mountain range in Syria and Lebanon",
    "image": "Hermonsnow.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2805.0
   },
   {
    "id": "mount-sinai",
@@ -1698,7 +1740,8 @@
    "summary": "Mount Sinai, also known as Jabal Musa (Arabic: جَبَل مُوسَى, lit. 'Mountain of Moses'), is a mountain on the Sinai Peninsula of Egypt. It is one of several locations claimed to be the biblical Mount Sinai, the place where, according to the sacred scriptures of the three major Abrahamic religions (Bible, and Quran), the Hebrew prophet Moses received the Ten Commandments from God.",
    "shortdesc": "Mountain in the Sinai Peninsula",
    "image": "Mount_Sinai_from_the_southwest.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2174.0
   },
   {
    "id": "israel-west-bank",
@@ -1733,7 +1776,8 @@
    "summary": "The Southern Levant is a geographical region in West Asia along the eastern coast of the Mediterranean Sea, a territory corresponding approximately to present-day Israel, Palestine, and Jordan; some definitions also include southern Lebanon, southern Syria, and the Sinai Peninsula. As a strictly geographical description, it is sometimes used by archaeologists and historians to avoid the religious and political connotations of other names for this area.",
    "shortdesc": "Geographical region",
    "image": "MiddleEast_A2003031_0820_250m_without_lines.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 872.0
   },
   {
    "id": "mecca-kaaba",
@@ -1774,7 +1818,8 @@
    "summary": "The Kaaba (Arabic: الكعبة, romanized: al-Kaʿba, lit. 'the Cube'), also spelled Kaʽba, Kaʽbah or Kabah, sometimes referred to as al-Kaʽba al-Musharrafa (Arabic: الكعبة المشرفة, lit. 'the Honored Ka'ba'), is a stone building at the center of Islam's most important mosque and holiest site, the Masjid al-Haram in Mecca, Saudi Arabia.",
    "shortdesc": "Building at the center of Masjid al-Haram",
    "image": "The_Ka'ba,_Great_Mosque_of_Mecca,_Saudi_Arabia_(4).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 290.0
   },
   {
    "id": "stonehenge",
@@ -1821,7 +1866,8 @@
    "summary": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique among contemporary monuments. Inside is a ring of smaller bluestones.",
    "shortdesc": "Prehistoric monument in England",
    "image": "Stonehenge2007_07_30.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 102.0
   },
   {
    "id": "avebury",
@@ -1861,7 +1907,8 @@
    "summary": "Avebury is a Neolithic henge monument containing three stone circles, around the village of Avebury in Wiltshire, in south-west England. One of the best-known prehistoric sites in Britain, it contains the largest megalithic stone circle in the world. It is both a tourist attraction and a place of religious importance to contemporary pagans.",
    "shortdesc": "Neolithic henge monument in Wiltshire, England",
    "image": "Wiltshire-Avebury.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 159.0
   },
   {
    "id": "anglesey",
@@ -1902,7 +1949,8 @@
    "summary": "Anglesey ( ANG-gəl-see), or Ynys Môn (Welsh: [ˈənɨs ˈmoːn]), is an island off the north-west coast of Wales. It forms the majority of the county of the Isle of Anglesey, which also includes Holy Island to the west and some islets and skerries. The county borders Gwynedd across the Menai Strait to the south-east and is otherwise surrounded by the Irish Sea.",
    "shortdesc": "Island county in Wales",
    "image": "View_from_the_Anglesey_Coastal_Path_(geograph_6222502).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 57.0
   },
   {
    "id": "callanish",
@@ -1942,7 +1990,8 @@
    "summary": "The Calanais Stones (also known as Calanais I; Scottish Gaelic: Clachan Chalanais or Tursachan Chalanais) are a prehistoric stone circle and stone alignment on the west coast of the Isle of Lewis in the Outer Hebrides of Scotland. The monument was built during the Neolithic period, around c. 2750 BC.",
    "shortdesc": "Neolithic standing stones in the Scottish Outer Hebrides",
    "image": "Callanish_at_sunset_-_geograph.org.uk_-_820680.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 19.0
   },
   {
    "id": "stenness",
@@ -1983,7 +2032,8 @@
    "summary": "The Standing Stones of Stenness are a Neolithic monument five miles northeast of Stromness on the mainland of Orkney, Scotland. This may be the oldest henge site in the British Isles. Various traditions associated with the stones survived into the modern era and they form part of the Heart of Neolithic Orkney World Heritage Site.",
    "shortdesc": "Henge in Orkney Islands, Scotland",
    "image": "Standing_Stones_of_Stenness_062015.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2.0
   },
   {
    "id": "edinburgh-castle",
@@ -2022,7 +2072,8 @@
    "summary": "The Stone of Scone (Scottish Gaelic: An Lia Fàil, meaning Stone of Destiny, also called clach-na-cinneamhuinn; Scots: Stane o Scone) is an oblong block of red sandstone that was used in the coronation of Scottish monarchs until the 13th century when it was seized by Edward I during the First War of Scottish Independence and taken to England. Thereafter, it was used in the coronation of English and later British monarchs.",
    "shortdesc": "Ancient Scottish coronation artefact",
    "image": "Coronation_Chair_and_Stone_of_Scone.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 93.0
   },
   {
    "id": "tintagel",
@@ -2062,7 +2113,8 @@
    "summary": "Tintagel Castle (Cornish: Kastel Dintagel) is a medieval fortification located on the peninsula of Tintagel Island adjacent to the village of Tintagel (Trevena), North Cornwall in the United Kingdom. The site was possibly occupied in the Romano-British period, as an array of artefacts dating from this period have been found on the peninsula, but as yet no Roman-era structure has been proven to have existed there. It was settled during the early medieval period, when it was probably one of the seasonal residences of the regional king of Dumnonia.",
    "shortdesc": "Medieval fortification in North Cornwall, England",
    "image": "Tintagel_Castle_-_May_2026.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 54.0
   },
   {
    "id": "ilkley-moor",
@@ -2103,7 +2155,8 @@
    "summary": "The Twelve Apostles (grid reference SE12614506) is a stone circle near Ilkley and Burley in Wharfedale in West Yorkshire, England.",
    "shortdesc": "Stone circle in West Yorkshire, England",
    "image": "The_Twelve_Apostles_of_Ilkley_Moor_Stone_Circle_-_geograph.org.uk_-_12971.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 390.0
   },
   {
    "id": "rudloe-manor",
@@ -2144,7 +2197,8 @@
    "summary": "RAF Rudloe Manor, formerly RAF Box, was a Royal Air Force station north-east of Bath, England, between the settlements of Box and Corsham, in Wiltshire. It was one of several military installations in the area and covered three dispersed sites. Parts of the site are now used by Defence Digital within the MoD Corsham complex; other areas are vacant and some have been sold, including the 17th-century manor house, Rudloe Manor.",
    "shortdesc": "Former Royal Air Force station in Wiltshire, England",
    "image": "RudloeManorHawkins.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 118.0
   },
   {
    "id": "rendlesham",
@@ -2192,7 +2246,8 @@
    "summary": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings. The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF). USAF personnel, including deputy base commander Lieutenant Colonel Charles I.",
    "shortdesc": "1980 UFO report in Suffolk, England",
    "image": "RAF_Woodbridge_East_Gate.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 27.0
   },
   {
    "id": "bonnybridge",
@@ -2230,7 +2285,8 @@
    "summary": "Bonnybridge (Scottish Gaelic: Drochaid Bhunaich; Scots: Bonniebrig) is a village in the Falkirk council area of Scotland. It is 4.0 miles (6.4 km) west of Falkirk, 5.3 miles (8.5 km) north-east of Cumbernauld and 8.3 miles (13.4 km) south-southwest of Stirling. The village is situated near the Bonny Water which runs through the town and lies north of the Forth and Clyde Canal.",
    "shortdesc": "Human settlement in Scotland",
    "image": "Bonnybridge_Terraces_-_geograph.org.uk_-_138508.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 28.0
   },
   {
    "id": "newgrange",
@@ -2272,7 +2328,8 @@
    "summary": "Newgrange (Irish: Sí an Bhrú) is a prehistoric monument in County Meath in Ireland, placed on a rise overlooking the River Boyne, eight kilometres (five miles) west of the town of Drogheda. It is an exceptionally grand passage tomb built during the Neolithic Period, around 3100 BC, making it older than Stonehenge and the Egyptian pyramids. Newgrange is the main monument in the Brú na Bóinne complex, a World Heritage Site that also includes the passage tombs of Knowth and Dowth, as well as other henges, burial mounds and standing stones.",
    "shortdesc": "Neolithic monument in County Meath, Ireland",
    "image": "Irelands_history.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 52.0
   },
   {
    "id": "uisneach",
@@ -2311,7 +2368,8 @@
    "summary": "The Hill of Uisneach or Ushnagh (Irish: Uisneach or Cnoc Uisnigh) is a hill and ancient ceremonial site in the barony of Rathconrath in County Westmeath, Ireland. It is a protected national monument. It consists of numerous monuments and earthworks—prehistoric and medieval—including a probable megalithic tomb, burial mounds, enclosures, standing stones, holy wells and a medieval road.",
    "shortdesc": "Hill in County Westmeath, Ireland",
    "image": "Hill_of_Uisneach.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 78.0
   },
   {
    "id": "cambridge-university",
@@ -2346,7 +2404,8 @@
    "summary": "The University of Cambridge is a collegiate public research university in Cambridge, England. Founded in 1209, the University of Cambridge is the second-oldest university in the English-speaking world and the world's third-oldest university in continuous operation. The university's founding followed the arrival of scholars who left the University of Oxford for Cambridge after a dispute with local townspeople.",
    "shortdesc": "Public collegiate university in England",
    "image": "Coat_of_Arms_of_the_University_of_Cambridge.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 14.0
   },
   {
    "id": "open-university",
@@ -2383,7 +2442,8 @@
    "summary": "The Open University (OU) is a public research university and the largest university in the United Kingdom by number of students. The majority of the OU's undergraduate students are based in the United Kingdom and principally study off-campus; many of its courses (both undergraduate and postgraduate) can also be studied anywhere in the world. There are also a number of full-time postgraduate research students based on the 45 ha (110-acre) university campus at Walton Hall in Milton Keynes, Buckinghamshire, where they use the staff facilities for research, as well as more than 1,000 members of academic and research staff and over 2,500 administrative, operational and support staff.",
    "shortdesc": "Public research university in the UK",
    "image": "Coat_of_Arms_of_the_Open_University.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 68.0
   },
   {
    "id": "carnac",
@@ -2426,7 +2486,8 @@
    "summary": "The Carnac stones (Breton: Steudadoù Karnag) are an exceptionally dense collection of megalithic sites near the south coast of Brittany in northwestern France, consisting of stone alignments (rows), dolmens (stone tombs), tumuli (burial mounds), and single menhirs. More than 3,000 prehistoric standing stones were hewn from local granite and erected by the pre-Celtic people of Brittany and form the largest such collection in the world. Most of the stones are within the Breton municipality of Carnac, but some to the east are within neighboring La Trinité-sur-Mer.",
    "shortdesc": "Set of megalithic sites in Brittany, France",
    "image": "4748.1099_Menhire,_bis_zu_4_Meter_hoch,_von_OstnachWest_in_1167_Meter_Langen_Alignements_(Granit-Steinreihen)_in_einem_Halbkreis_endend_Le_Ménec,_Carnac,_Departement_Morbihan,_Bretagne_Steffen_Heilfort.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 17.0
   },
   {
    "id": "chateau-chinon",
@@ -2471,7 +2532,8 @@
    "summary": "Château-Chinon is the name of two communes of the Nièvre département, in France:",
    "shortdesc": "Index of articles associated with the same name",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 549.0
   },
   {
    "id": "orleans",
@@ -2510,7 +2572,8 @@
    "summary": "Orléans (US: ; French: [ɔʁleɑ̃] ) is a city in north-central France, about 120 kilometres (74 miles) southwest of Paris. It is the prefecture of the department of Loiret, within the region of Centre-Val de Loire.",
    "shortdesc": "Prefecture and commune in France",
    "image": "Rue_Jeanne_dArc_Tramway_Orleans.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 115.0
   },
   {
    "id": "florence-vinci",
@@ -2559,7 +2622,8 @@
    "summary": "Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and palaeontology. Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
    "shortdesc": "Italian polymath (1452–1519)",
    "image": "Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 65.0
   },
   {
    "id": "montevecchia",
@@ -2598,7 +2662,8 @@
    "summary": "Montevecchia (Italian: [ˌmonteˈvɛkkja]; Brianzöö: Muntavégia) is a comune (municipality) in the Province of Lecco in the Italian region of Lombardy, located about 30 kilometres (19 mi) northeast of Milan and about 15 kilometres (9 mi) south of Lecco. As of 31 December 2004, it had a population of 2,477 and an area of 5.9 square kilometres (2.3 mi2).",
    "shortdesc": "Comune in Lombardy, Italy",
    "image": "",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 287.0
   },
   {
    "id": "rome",
@@ -2638,7 +2703,8 @@
    "summary": "Rome is the capital and largest city of Italy. It is also the administrative centre of the Lazio region and of the Metropolitan City of Rome. A special municipality named Roma Capitale with a population of 2.7 million in an area of 1,287.36 km2 (497.1 mi2), Rome is the third most populous city in the European Union by population within city limits.",
    "shortdesc": "Capital and largest city of Italy",
    "image": "Trevi_Fountain,_Rome,_Italy_2_-_May_2007.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 43.0
   },
   {
    "id": "vatican-city",
@@ -2685,7 +2751,8 @@
    "summary": "Vatican City, officially the Vatican City State (Italian: Stato della Città del Vaticano; Latin: Status Civitatis Vaticanae), often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence.",
    "shortdesc": "Enclaved Holy See's independent city-state",
    "image": "Flag_of_Vatican_City_(2023–present).svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 57.0
   },
   {
    "id": "sicily-shipwreck",
@@ -2725,7 +2792,8 @@
    "summary": "Gela (Sicilian and Italian pronunciation: [ˈdʒɛːla]; Ancient Greek: Γέλα) is a city and comune (municipality) in the Autonomous Region of Sicily, Italy; in terms of area and population, it is the largest municipality on the southern coast of Sicily. Gela is part of the Province of Caltanissetta and is one of the few comuni in Italy with a population and area that exceed those of the provincial capital.Gela was founded around 688 BC by Greek colonists from Rhodes and Crete; it was an influential polis of Magna Graecia in the 7th and 6th centuries BC and became one of the most powerful cities until the 5th c.",
    "shortdesc": "Comune in Sicily, Italy",
    "image": "Gela_Panorama.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 49.0
   },
   {
    "id": "fatima",
@@ -2764,7 +2832,8 @@
    "summary": "Our Lady of Fátima (Portuguese: Nossa Senhora de Fátima, pronounced [ˈnɔsɐ sɨˈɲɔɾɐ ðɨ ˈfatimɐ]; formally known as Our Lady of the Holy Rosary of Fátima) is a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iria in Fátima, Portugal. The three children were Lúcia dos Santos and her cousins Francisco and Jacinta Marto. José Alves Correia da Silva, Bishop of Leiria, declared the events worthy of belief on 13 October 1930.",
    "shortdesc": "Title for Mary, mother of Jesus",
    "image": "Fatima_(3_–_cropped).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 349.0
   },
   {
    "id": "spain-explorers",
@@ -2802,7 +2871,8 @@
    "summary": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union (EU) member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa.",
    "shortdesc": "Country in Southern and Western Europe",
    "image": "Flag_of_the_Kingdom_of_Spain.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 666.0
   },
   {
    "id": "gibraltar",
@@ -2842,7 +2912,8 @@
    "summary": "The Pillars of Hercules are the promontories that flank the entrance to the Strait of Gibraltar. The northern Pillar, Calpe Mons, is the Rock of Gibraltar. The identity of the corresponding southern Pillar, Abila Mons, has been disputed throughout history, with the two most likely candidates being Jebel Musa and Monte Hacho.",
    "shortdesc": "Phrase used in antiquity to label the promontories of the Strait of Gibraltar",
    "image": "De_Zuilen_van_Hercules_Gibraltar_en_Ceuta.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 267.0
   },
   {
    "id": "acropolis-athens",
@@ -2883,7 +2954,8 @@
    "summary": "The Acropolis of Athens (Ancient Greek: Ἡ Ἀκρόπολις τῶν Ἀθηνῶν, romanized: Hē Akropolis tōn Athēnōn; Modern Greek: Η Ακρόπολη των Αθηνών, romanized: I Akrópoli ton Athinón) is an ancient citadel located on a rocky outcrop above the city of Athens, Greece, and contains the remains of several ancient buildings of great architectural and historical significance, the most famous being the Parthenon. The word Acropolis is from Greek ἄκρον (akron) 'highest point, extremity' and πόλις (polis) 'city'. The term acropolis is generic and there are many other acropoleis in Greece.",
    "shortdesc": "Ancient citadel above the city of Athens",
    "image": "1029_Acropolis_of_Athens_in_Greece_at_night_Photo_by_Giles_Laurent.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 119.0
   },
   {
    "id": "delphi",
@@ -2924,7 +2996,8 @@
    "summary": "Delphi (Greek: Δελφοί [ðelˈfi]), in legend previously called Pytho (Πυθώ), was an ancient sacred precinct in central Greece. It was the seat of Pythia, the major oracle who was consulted about important decisions throughout the ancient classical world. The ancient Greeks considered the centre of the world to be in Delphi, marked by the stone monument known as the Omphalos of Delphi.",
    "shortdesc": "Sacred site and oracle of Ancient Greece",
    "image": "Delphi,_Greece_-_panoramio.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 590.0
   },
   {
    "id": "mount-olympus",
@@ -2963,7 +3036,8 @@
    "summary": "Mount Olympus (Greek: Όλυμπος, romanized: Ólympos, IPA: [ˈoli(m)bos]) is an extensive massif near the Thermaic Gulf of the Aegean Sea, in Greece, located on the border between Thessaly and Macedonia, between the regional units of Larissa and Pieria, about 80 km (50 mi) southwest from Thessaloniki. Mount Olympus has 52 peaks and deep gorges.",
    "shortdesc": "Highest mountain in Greece",
    "image": "Olympus_National_Park_30.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2776.0
   },
   {
    "id": "mycenae",
@@ -3005,7 +3079,8 @@
    "summary": "The Treasury of Atreus or Tomb of Agamemnon is a large tholos or beehive tomb constructed between 1300 and 1250 BCE in Mycenae, Greece.",
    "shortdesc": "Tholos tomb at Mycenae, Greece, dated to ca.1250 BCE",
    "image": "Treasury_of_Atreus_Mycenae.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 218.0
   },
   {
    "id": "crete-knossos",
@@ -3047,7 +3122,8 @@
    "summary": "Knossos (Ancient Greek: Κνωσσός, romanized: Knōssós; Greek: Κνωσός, romanized: Knōsós; Linear B: 𐀒𐀜𐀰 Ko-no-so) is an archaeological site and ancient urban centre in Crete, Greece. It is located within the southern periphery of Heraklion, about 5 km (3.1 mi) south of the city's historic centre. The site was occupied from the Neolithic period into the first millennium AD and became the largest and best-known centre of the Minoan civilisation.",
    "shortdesc": "Archaeological site and Minoan palace complex in Heraklion, Crete",
    "image": "Crete_integrated_map-en.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 99.0
   },
   {
    "id": "samos",
@@ -3088,7 +3164,8 @@
    "summary": "The Tunnel of Eupalinos or Eupalinian aqueduct (Greek: Ευπαλίνειο όρυγμα, romanized: Efpalinio orygma) is a tunnel of 1,036 m (3,399 ft) length running through Mount Kastro in Samos, Greece, built in the 6th century BC to serve as an aqueduct. The tunnel is the second known tunnel in history which was excavated from both ends (Ancient Greek: ἀμφίστομον, romanized: amphistomon, \"having two openings\"), and the first with a geometry-based approach in doing so. Today it is a popular tourist attraction.",
    "shortdesc": "UNESCO World Heritage Site in Greece",
    "image": "Eupalinian_aqueduct.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 44.0
   },
   {
    "id": "rhodes",
@@ -3128,7 +3205,8 @@
    "summary": "The Colossus of Rhodes was a statue of the Greek sun god Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. One of the Seven Wonders of the Ancient World, it was constructed to celebrate the successful defence of Rhodes against an attack by Demetrius I of Macedon, who had besieged it for a year with a large army and navy.",
    "shortdesc": "Statue of the Greek god Helios",
    "image": "Colosse_de_Rhodes_(Barclay).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 14.0
   },
   {
    "id": "patmos",
@@ -3168,7 +3246,8 @@
    "summary": "Patmos (Greek: Πάτμος, pronounced [ˈpatmos]) is a Greek island in the Aegean Sea. It is famous as the place where, according to Christian belief, John of Patmos received the vision found in the Book of Revelation of the New Testament, and where the book was written.",
    "shortdesc": "Greek island in the Aegean Sea",
    "image": "Chora-of-Patmos.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 10.0
   },
   {
    "id": "lemnos",
@@ -3209,7 +3288,8 @@
    "summary": "Lemnos (Ancient Greek: Λῆμνος [ˈlɛ̂ːmnos]) or Limnos (Modern Greek: Λήμνος [ˈlimnos]) is a Greek island in the northern Aegean Sea. Administratively the island forms a separate municipality within the Lemnos regional unit, which is part of the North Aegean region. The principal town of the island and seat of the municipality is Myrina.",
    "shortdesc": "Greek island in the northern Aegean Sea",
    "image": "MirinaLimnosGreece.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "euboea-dragon-houses",
@@ -3251,7 +3331,8 @@
    "summary": "The dragon houses (Greek: Δρακόσπιτα, Drakospita) or Draga (Δραγκά) are some twenty large, ruined buildings found in the south of the island of Euboea, Greece. They were built with massive stone blocks without mortar and large stone slabs for the roofs. The Dragon House on Mount Ochi (Δρακόσπιτο της Όχης), north of Karystos is the most famous and well preserved.",
    "shortdesc": "Ruined buildings on Euboea, Greece",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 997.0
   },
   {
    "id": "antikythera",
@@ -3297,7 +3378,8 @@
    "summary": "The Antikythera mechanism ( AN-tik-ih-THEER-ə, US also AN-ty-kih-) is an ancient Greek hand-powered orrery (model of the Solar System) built in the 2nd century BC and discovered in 1901. It is the oldest known example of an analogue computer. It could be used to predict astronomical positions and eclipses decades in advance.",
    "shortdesc": "Ancient Greek analogue astronomical computer",
    "image": "Antikythera_Fragment_A_(Front).webp",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 157.0
   },
   {
    "id": "nuremberg",
@@ -3336,7 +3418,8 @@
    "summary": "In April 1561, a broadsheet by Hans Glaser described a mass sighting of celestial phenomena or unidentified flying objects (UFO) above Nuremberg (then a Free Imperial City of the Holy Roman Empire). Ufologists have speculated that contemporary observers may have witnessed extraterrestrial spacecraft. Skeptics assert that the incident was likely to have been an atmospheric event, such as a sun dog.",
    "shortdesc": "Supposed celestial phenomenon in the Holy Roman Empire",
    "image": "Himmelserscheinung_über_Nürnberg_vom_14._April_1561.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 308.0
   },
   {
    "id": "oberjoch",
@@ -3374,7 +3457,8 @@
    "summary": "Oberjoch (German pronunciation: [ˈoːbɐˌjɔx]) is a small village in the municipality of Bad Hindelang in the German district of Oberallgäu, Bavaria. It has a total population of 15,230 people.",
    "shortdesc": "Ortsteil of Bad Hindelang in Bavaria, Germany",
    "image": "Oberjoch-1.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1155.0
   },
   {
    "id": "freiburg-black-forest",
@@ -3412,7 +3496,8 @@
    "summary": "The Black Forest (German: Schwarzwald [ˈʃvaʁtsvalt] ) is a large forested mountain range in the state of Baden-Württemberg in southwest Germany, bounded by the Rhine Valley to the west and south and close to the borders with France and Switzerland. It is the source of the Danube and Neckar rivers.",
    "shortdesc": "Mountain range in Germany",
    "image": "Blick_vom_Hohfelsen.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 272.0
   },
   {
    "id": "peenemunde",
@@ -3454,7 +3539,8 @@
    "summary": "The Peenemünde Army Research Center (German: Heeresversuchsanstalt Peenemünde, HVP) was founded in 1937 as one of five military proving grounds under the German Army Weapons Office (Heereswaffenamt). Several German guided missiles and rockets of World War II were developed by the HVP, including the V-2 rocket. The works were attacked by the British in Operation Crossbow from August 1943, before falling to the Soviets in May 1945.",
    "shortdesc": "Research center under Nazi Germany",
    "image": "Peenemunde_test_stand_VII.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 8.0
   },
   {
    "id": "wewelsburg",
@@ -3501,7 +3587,8 @@
    "summary": "Wewelsburg (German pronunciation: [ˈveːvl̩sbʊɐ̯k]) is a Renaissance castle located in the village of Wewelsburg, which is a district of the town of Büren, Westphalia, in the Landkreis of Paderborn in the northeast of North Rhine-Westphalia, Germany. The castle has a triangular layout, with three round towers connected by massive walls. After 1934 it was used by the Schutzstaffel (SS) under Heinrich Himmler and was to be expanded into a complex which would serve as the central SS cult-site.",
    "shortdesc": "Renaissance castle located in the village of Wewelsburg",
    "image": "Wewelsburg2010_b_(cropped).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 211.0
   },
   {
    "id": "humboldt-berlin",
@@ -3538,7 +3625,8 @@
    "summary": "The Humboldt University of Berlin (German: Humboldt-Universität zu Berlin, abbreviated HU Berlin) is a public research university in the central borough of Mitte in Berlin, Germany.",
    "shortdesc": "Public university in Berlin, Germany",
    "image": "Huberlin-logo.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 45.0
   },
   {
    "id": "the-hague",
@@ -3577,7 +3665,8 @@
    "summary": "The Hague (Dutch: Den Haag, short for 's-Gravenhage) is the capital city of the South Holland province of the Netherlands. With a population of over half a million, it is the third-largest city in the Netherlands. Situated on the west coast facing the North Sea, The Hague is the country's administrative centre and its seat of government, and has been described as the country's de facto capital since the time of the Dutch Republic, while Amsterdam is the official capital of the Netherlands.",
    "shortdesc": "City and municipality in the Netherlands",
    "image": "Den_Haag_Skyline_1.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 12.0
   },
   {
    "id": "southwestern-poland",
@@ -3619,7 +3708,8 @@
    "summary": "Riese ([ˈʁiːzə]; German for \"giant\") was the codename given to a construction project undertaken by Nazi Germany between 1943 and 1945. Consisting of seven underground structures at Książ Castle and in the Owl Mountains in Lower Silesia, which was then Nazi Germany and is now Poland.",
    "shortdesc": "Nazi construction project (1943–45)",
    "image": "Riese_1944.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 654.0
   },
   {
    "id": "moscow",
@@ -3658,7 +3748,8 @@
    "summary": "Moscow is the capital and largest city of Russia, situated on the Moskva River in Central Russia. The city has a population estimated at more than 13 million residents within city limits, more than 19.1 million residents in the urban area, and more than 21.5 million residents in the metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi); the urban area covers 5,891 square kilometers (2,275 sq mi); and the metropolitan area covers more than 26,000 square kilometers (10,000 sq mi).",
    "shortdesc": "Capital and most populous city of Russia",
    "image": "Saint_Basil's_Cathedral_and_the_Red_Square.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 139.0
   },
   {
    "id": "dubna",
@@ -3703,7 +3794,8 @@
    "summary": "The Joint Institute for Nuclear Research (JINR, Russian: Объединённый институт ядерных исследований, ОИЯИ), in Dubna, Moscow Oblast (110 km north of Moscow), Russia, is an international research center for nuclear sciences, with 5,500 staff members including 1,200 researchers holding over 1,000 PhDs from eighteen countries. Most scientists are scientists of the Russian Federation.",
    "shortdesc": "Physics research institute in Russia",
    "image": "Dubna.house_of_scientiests.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 126.0
   },
   {
    "id": "siberia",
@@ -3744,7 +3836,8 @@
    "summary": "The woolly mammoth (Mammuthus primigenius) is an extinct species of mammoth that lived from the Middle Pleistocene until its extinction in the Holocene epoch. It was one of the last in a line of mammoth species, beginning with the African Mammuthus subplanifrons in the early Pliocene. The woolly mammoth began to diverge from the steppe mammoth about 800,000 years ago in Siberia.",
    "shortdesc": "Extinct species of mammoth",
    "image": "Siegsdorfer_Mammut.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 794.0
   },
   {
    "id": "oslo",
@@ -3782,7 +3875,8 @@
    "summary": "The University of Oslo (Norwegian: Universitetet i Oslo; Latin: Universitas Osloensis) is a public research university located in Oslo, Norway. It is the oldest university in Norway. Originally named the Royal Frederick University, the university was established in 1811 as the de facto Norwegian continuation of Denmark–Norway's common university, the University of Copenhagen, with which it shares many traditions.",
    "shortdesc": "Norwegian public research university",
    "image": "Universitetet_i_Oslo_sentrum.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 93.0
   },
   {
    "id": "iceland",
@@ -3823,7 +3917,8 @@
    "summary": "Iceland is a Nordic island country between the Arctic Ocean and the North Atlantic Ocean, located on the Mid-Atlantic Ridge between Europe and North America. It is Europe's westernmost and most sparsely populated country. Its capital and largest city is Reykjavík, which is home to about 35% of the country's roughly 395,000 residents (excluding nearby towns/suburbs, which are separate municipalities and contribute a further substantial percentage).",
    "shortdesc": "Island country in the Atlantic Ocean",
    "image": "Flag_of_Iceland.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 816.0
   },
   {
    "id": "scandinavia",
@@ -3864,7 +3959,8 @@
    "summary": "Scandinavia is a subregion of northern Europe that most commonly comprises Denmark, Norway, and Sweden, which share strong historical, cultural, and linguistic ties. It may also refer to the Scandinavian Peninsula (which excludes Denmark but includes part of northern Finland). In English usage, the term is also used as a synonym for the Nordic countries.",
    "shortdesc": "Subregion of northern Europe",
    "image": "Scandinavia_M2002074_lrg.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 380.0
   },
   {
    "id": "mohenjo-daro",
@@ -3904,7 +4000,8 @@
    "summary": "Mohenjo-daro (Sindhi: موهن جو دڙو, lit. 'Mound of the Dead Men'; Urdu: موئن جو دڑو [muˑənⁱ dʑoˑ d̪əɽoˑ]) is an archaeological site in the Larkana District of Sindh, Pakistan. Built c. 2500 BCE, it was one of the largest settlements of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilisations of ancient Egypt, Mesopotamia, Minoa, and Norte Chico.",
    "shortdesc": "Archaeological site in Sindh, Pakistan",
    "image": "Mohenjodaro_-_view_of_the_stupa_mound.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 48.0
   },
   {
    "id": "harappa",
@@ -3943,7 +4040,8 @@
    "summary": "Harappa (Punjabi pronunciation: [ɦəɽəˈpaː]) was a settlement in Punjab, Pakistan, about 24 kilometres (15 miles) west of Sahiwal, that takes its name from a modern village near the former course of the Ravi River. The Ravi now runs eight kilometres (five miles) to the north.",
    "shortdesc": "Archaeological site in Punjab, Pakistan",
    "image": "View_of_Granary_and_Great_Hall_on_Mound_F_-_Archaeological_site_of_Harappa.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 176.0
   },
   {
    "id": "kot-diji",
@@ -3980,7 +4078,8 @@
    "summary": "Kot Diji (Sindhi: ڪوٽ ڏیجي; Urdu: کوٹ ڈیجی, IPA: [koːʈ ɖiːdʒiː]) is an ancient site which was part of the Indus Valley Civilisation, estimated to have been occupied around 3300 BCE. Located about 45 km (28 mi) south of Khairpur in the modern-day province of Sindh, Pakistan, it is on the east bank of the Indus River opposite Mohenjo-daro. The remains consist of two parts: the citadel area on the high ground (about 12 m [39 ft]), and the area around it.",
    "shortdesc": "Archeological site that predates the Indus Civilization",
    "image": "",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 82.0
   },
   {
    "id": "indus-valley",
@@ -4018,7 +4117,8 @@
    "summary": "The Indus Valley Civilisation (IVC), also known as the Indus Civilisation, was a Bronze Age civilisation in the northwestern regions of South Asia, lasting from 3300 BCE to 1300 BCE, and in its mature form from 2600 BCE to 1900 BCE. Together with ancient Egypt, Mesopotamia, and China, it was one of the four centres of the ancient world; it was geographically larger than ancient Egypt and Mesopotamia combined. It spanned much of Pakistan, northwestern India, and northeast Afghanistan.",
    "shortdesc": "Bronze Age civilisation in South Asia",
    "image": "Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 51.0
   },
   {
    "id": "thar-desert",
@@ -4058,7 +4158,8 @@
    "summary": "The Thar Desert (Rajasthani pronunciation: [t̪ʰaːɾ]), also known as the Great Indian Desert, is an arid region in the north-western part of the Indian subcontinent stretching across India and Pakistan. Covering an area of 264,091 km2 (101,966 sq mi), it is one of the largest subtropical deserts in Asia by area. About two-thirds of the desert area lies in India, with the remainder in Pakistan.",
    "shortdesc": "Arid region in India and Pakistan",
    "image": "Thar_desert_Rajasthan_India.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 206.0
   },
   {
    "id": "charama",
@@ -4097,7 +4198,8 @@
    "summary": "Uttar Bastar Kanker district is located in the southern region of the state of Chhattisgarh, India between latitudes 20.6-20.24 and longitudes 80.48-81.48. The district covers an area of 6432 square kilometers and has a population of 748,941.",
    "shortdesc": "District of Chhattisgarh in India",
    "image": "Stream_that_joins_Dood_river_Kanker_district.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 676.0
   },
   {
    "id": "amarnath-cave",
@@ -4138,7 +4240,8 @@
    "summary": "Amarnath Temple is a Hindu shrine located in the Pahalgam tehsil of Anantnag district of Jammu and Kashmir, India. It is a cave situated at an altitude of 3,888 m (12,756 ft), about 72 km from Anantnag, the district headquarters, 141 km (88 mi) from Srinagar, the summer capital of Jammu and Kashmir, accessible via either Sonamarg or Pahalgam",
    "shortdesc": "Hindu shrine in Kashmir, India",
    "image": "Cave_Temple_of_Lord_Amarnath.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3881.0
   },
   {
    "id": "tamil-nadu",
@@ -4179,7 +4282,8 @@
    "summary": "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
    "shortdesc": "State in southern India",
    "image": "Mamallapuram_view.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 138.0
   },
   {
    "id": "patna-ganges",
@@ -4221,7 +4325,8 @@
    "summary": "Patna (Hindi: Paṭanā, pronounced [ˈpəʈnaː] ), historically known as Pāṭaliputra, is the capital and largest city of the Indian state of Bihar. According to the United Nations, as of 2026, Patna had a population of 3.33 million, making it the 19th largest city in India. Covering 250 square kilometres (97 sq mi) and over 2.5 million people, its urban agglomeration is the 18th largest in India.",
    "shortdesc": "Metropolis and state capital of Bihar, India",
    "image": "Patna_high_court1.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 55.0
   },
   {
    "id": "india-general",
@@ -4262,7 +4367,8 @@
    "summary": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east.",
    "shortdesc": "Country in South Asia",
    "image": "Flag_of_India.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 413.0
   },
   {
    "id": "nepal-lumbini",
@@ -4303,7 +4409,8 @@
    "summary": "Lumbini is a Buddhist pilgrimage site in the Rupandehi District of Lumbini Province in Nepal. According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c. 563 BCE. Lumbini is one of four most sacred pilgrimage sites pivotal in the life of the Buddha.",
    "shortdesc": "Historical city in Lumbini Province, Nepal",
    "image": "BRP_Lumbini_Mayadevi_temple.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 98.0
   },
   {
    "id": "mount-kailash",
@@ -4345,7 +4452,8 @@
    "summary": "Mount Kailash is a mountain in Ngari Prefecture, Tibet Autonomous Region of China. It lies in the Gangdise Shan mountain range of the Transhimalaya, in the western part of the Tibetan Plateau. The peak of Mount Kailash is located at an elevation of 6,638 m (21,778 ft), near the western trijunction of China, India, and Nepal.",
    "shortdesc": "Religious mountain in Tibet Autonomous Region in China",
    "image": "Kailash_north.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 6365.0
   },
   {
    "id": "guge-ruins",
@@ -4386,7 +4494,8 @@
    "summary": "Guge (Tibetan: གུ་གེ་, Wylie: gu ge) was an ancient dynastic kingdom in Western Tibet. The kingdom was centered in present-day Zanda County, Ngari Prefecture, Tibet Autonomous Region. At various points in history after the 10th century AD, the kingdom held sway over a vast area including south-eastern Zanskar, Kinnaur district, and Spiti Valley, either by conquest or as tributaries.",
    "shortdesc": "Historical kingdom in Western Tibet",
    "image": "古格阴霾.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 3730.0
   },
   {
    "id": "tibet",
@@ -4427,7 +4536,8 @@
    "summary": "Tibet is a region in the western part of East Asia, covering much of the Tibetan Plateau. It is the homeland of the Tibetans. Other ethnic groups also reside on the plateau, including Mongols, the Lhoba, Monpa, Qiang, Sherpa, and since the 20th century, Han and Hui peoples.",
    "shortdesc": "Ethno-cultural region in Asia",
    "image": "Tibet-claims.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 5260.0
   },
   {
    "id": "shaanxi-pyramids",
@@ -4469,7 +4579,8 @@
    "summary": "Chinese pyramids are pyramidal-shaped burial mounds built as mausoleums for the early emperors of China and their imperial relatives. About 38 of them are located around 25 kilometres (16 mi) – 35 kilometres (22 mi) north-west of Xi'an, on the Guanzhong Plains in Shaanxi Province. The most famous is the Mausoleum of the First Qin Emperor, northeast of Xi'an and 1.7 km west of where the Terracotta Army was found.",
    "shortdesc": "Mostly ancient mausoleums and burial mounds",
    "image": "漢孝成皇帝陵·延陵·咸陽·（俯）.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 375.0
   },
   {
    "id": "zhongtiao-shan",
@@ -4508,7 +4619,8 @@
    "summary": "The Zhongtiao Mountains (simplified Chinese: 中条山; traditional Chinese: 中條山; pinyin: Zhōngtiáo Shān) are a major mountain range located in the south of China’s Shanxi Province.",
    "shortdesc": "Mountain range in Shanxi, China",
    "image": "G55_through_the_Zhongtiao_Mountains_2.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1160.0
   },
   {
    "id": "fuxian-lake",
@@ -4547,7 +4659,8 @@
    "summary": "Fuxian Lake (Chinese: 抚仙湖; pinyin: Fǔxiān Hú) is a body of water in Yunnan Province, China. It stretches through Chengjiang, Jiangchuan and Huaning Counties, spanning an area of 212 square kilometers. It is the third-largest lake in Yunnan, after Dian Lake and Erhai Lake, and the deepest, at 155 meters.",
    "shortdesc": "Lake in Yunnan, China",
    "image": "1_fuxian_lake_luchongcun_aerial_panorama_2018.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1721.0
   },
   {
    "id": "wucheng-sichuan",
@@ -4586,7 +4699,8 @@
    "summary": "Sichuan is an inland province in Southwestern China. It is located in the Sichuan Basin and Tibetan Plateau—between the Jinsha River to the west, the Daba Mountains to the north, and the Yunnan–Guizhou Plateau to the south. Its capital city is Chengdu, and the province's population stands at 83 million.",
    "shortdesc": "Province in Southwestern China",
    "image": "1_huanglong_2.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 498.0
   },
   {
    "id": "three-pagodas",
@@ -4625,7 +4739,8 @@
    "summary": "The Three Pagodas of the Chongsheng Temple (Chinese: 崇圣寺三塔; pinyin: Chóngshèng Sì Sāntǎ) are an ensemble of three independent pagodas arranged on the corners of an equilateral triangle, near the old town of Dali, Yunnan province, China, dating from the time of the Kingdom of Nanzhao and Kingdom of Dali in the 9th and 10th centuries.",
    "shortdesc": "Ensemble of three pagodas in Yunnan, China",
    "image": "Three_Pagodas_of_the_Chongsheng_Temple.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2039.0
   },
   {
    "id": "tsinghua",
@@ -4664,7 +4779,8 @@
    "summary": "Tsinghua University (Chinese: 清华大学; pinyin: Qīnghuá Dàxué; THU) is a public research university in Haidian, Beijing, China. It is affiliated with and funded by the Ministry of Education of China. The university is part of the Double First-Class Construction, and was a part of its predecessor initiatives: Project 211 and Project 985.",
    "shortdesc": "Public university in Beijing, China",
    "image": "Tsinghua_University_Logo.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 53.0
   },
   {
    "id": "sun-yat-sen-university",
@@ -4702,7 +4818,8 @@
    "summary": "Sun Yat-sen University (Chinese: 中山大学; pinyin: Zhōngshān Dàxué; also SYSU) is a public university in Guangzhou, Guangdong, China. It is affiliated with the Ministry of Education and co-funded by the Ministry of Education, SASTIND, and Guangdong Provincial People's Government. As one of the top universities in China, it is part of Project 211, Project 985, and the Double First-Class Construction.",
    "shortdesc": "National public research university in China",
    "image": "中山大学孙中山铜像.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 21.0
   },
   {
    "id": "ise-grand-shrine",
@@ -4742,7 +4859,8 @@
    "summary": "The Ise Shrine (Japanese: 伊勢神宮, Hepburn: Ise Jingū), located in Ise, Mie Prefecture of Japan, is a Shinto shrine dedicated to the solar goddess Amaterasu Ōmikami and the grain goddess Toyouke-hime. Also known simply as Jingū (神宮), Ise Shrine is a shrine complex composed of many Shinto shrines centered on two main shrines, Naikū (内宮) and Gekū (外宮).",
    "shortdesc": "Shinto shrine in Japan",
    "image": "Naiku_04.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 47.0
   },
   {
    "id": "kansai-science-city",
@@ -4782,7 +4900,8 @@
    "summary": "Kansai Science City (関西文化学術研究都市, Kansai Bunka-gakujutsu-kenkyū-toshi) is an unincorporated city located in the Keihanna Hills (京阪奈丘陵, Keihanna kyūryō), a border region between Kyoto, Osaka, and Nara Prefectures in Kansai region, Japan. The name is commonly shortened to Keihanna Science City (けいはんな学研都市, Keihanna Gakken-toshi) or Gakken-toshi (学研都市). The name Keihanna is constructed by extracting a representative kanji from Kyoto, Osaka, and Nara.",
    "shortdesc": "Planned community in Kansai, Japan",
    "image": "Keihanna_Plaza.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 81.0
   },
   {
    "id": "cape-muroto",
@@ -4824,7 +4943,8 @@
    "summary": "Cape Muroto (室戸岬, Muroto-misaki) is a headland at the southeastern tip of the Japanese island of Shikoku, in the city of Muroto, Kōchi Prefecture. Extending into the Pacific Ocean and situated in Muroto UNESCO Global Geopark within Muroto-Anan Kaigan Quasi-National Park, the cape has been designated a Place of Scenic Beauty and the local vegetation a Natural Monument, while the Sound of the Waves at Cape Muroto and Mikurodo Cave is among the 100 Soundscapes of Japan.",
    "shortdesc": "Headland in Japan",
    "image": "Muroto_Cape.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 186.0
   },
   {
    "id": "yonaguni",
@@ -4865,7 +4985,8 @@
    "summary": "The Yonaguni Monument (Japanese: 与那国島海底地形, Hepburn: Yonaguni-jima Kaitei Chikei; lit. 'Yonaguni Island Seafloor Topography'), also known as the Yonaguni (Island) Submarine Ruins (与那国（島）海底遺跡, Yonaguni(-jima) Kaitei Iseki), is a submerged rock formation off the coast of Yonaguni, the southernmost of the Ryukyu Islands, in Japan. It lies approximately 100 kilometres (54 nmi; 62 mi) east of Taiwan.",
    "shortdesc": "Submerged rock formation off the coast of Japan",
    "image": "Yonaguni_Monument_Terraces_midpart_NWW.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 0.0
   },
   {
    "id": "angkor-wat",
@@ -4906,7 +5027,8 @@
    "summary": "Angkor Wat (Khmer: អង្គរវត្ត, 'City/Capital of Temples') is a Theravada Buddhist temple complex, originally built as a Vaishnava Hindu temple, in Siem Reap, Cambodia. It is the largest religious complex in the world. Located on a site measuring 162.6 hectares (1.6 km2; 401.8 acres) within the medieval capital of Angkor, it was constructed between 1113 and 1150 CE during the reign of the Khmer king Suryavarman II as a Hindu temple dedicated to Vishnu.",
    "shortdesc": "Buddhist temple complex in Cambodia",
    "image": "Angkor_Wat.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 27.0
   },
   {
    "id": "borobudur",
@@ -4947,7 +5069,8 @@
    "summary": "Borobudur, also transcribed Barabudur (Indonesian: Candi Borobudur, Javanese: ꦕꦤ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, romanized: Candhi Barabudhur), is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
    "shortdesc": "9th-century Buddhist temple in Java, Indonesia",
    "image": "Pradaksina.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 268.0
   },
   {
    "id": "candi-sukuh",
@@ -4987,7 +5110,8 @@
    "summary": "Sukuh (Indonesian: Candi Sukuh, Indonesian pronunciation: [ˌtʃandi ˈsukʊh]) is a 15th-century Javanese-Hindu temple (candi) that is located in Berjo, Ngargoyoso district, Karanganyar Regency, Central Java, Indonesia on the western slope of Mount Lawu (elevation 910 metres (2,990 ft)).",
    "shortdesc": "15th century Javanese Hindu temple",
    "image": "Candi_Sukuh_2007.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1140.0
   },
   {
    "id": "lake-toba",
@@ -5027,7 +5151,8 @@
    "summary": "Lake Toba (Indonesian: Danau Toba, Toba Batak: ᯖᯀᯬ ᯖᯬᯅ; romanized: Tao Toba) is a large natural lake in North Sumatra and Indonesia. The lake is the massive caldera of the Toba supervolcano. The lake is located in the middle of the northern part of the island of Sumatra, with a surface elevation of about 900 metres (2,953 ft), and stretches from 2.88°N 98.52°E﻿ / 2.88; 98.52 to 2.35°N 99.1°E﻿ / 2.35; 99.1.",
    "shortdesc": "Volcanic lake located in North Sumatra Province, Indonesia",
    "image": "Lake_Toba_and_the_surrounding_hills.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 901.0
   },
   {
    "id": "mount-tambora",
@@ -5066,7 +5191,8 @@
    "summary": "Mount Tambora, or Tomboro, is an active stratovolcano in West Nusa Tenggara, Indonesia. Located on Sumbawa in the Lesser Sunda Islands, volcanism is the result of subduction zones. The 1815 eruption was the largest in recorded history, erupting up to 150 cubic kilometers of volcanic material, making it a VEI-7 on the Volcanic Explosivity Index.",
    "shortdesc": "Active stratovolcano on Sumbawa, Indonesia",
    "image": "Mount_Tambora_Volcano,_Sumbawa_Island,_Indonesia.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1335.0
   },
   {
    "id": "nan-madol",
@@ -5108,7 +5234,8 @@
    "summary": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei, now part of the Madolenihmw district of Pohnpei state in the Federated States of Micronesia in the western Pacific Ocean. Nan Madol was the capital of the Saudeleur dynasty until about 1628. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals.",
    "shortdesc": "Ruined ancient city in the Federated States of Micronesia",
    "image": "Nan_madol.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3.0
   },
   {
    "id": "tuyen-quang",
@@ -5146,7 +5273,8 @@
    "summary": "Tuyên Quang (Vietnamese: [tʷiə̄n kʷāːŋ]) is a province in the northeastern part of Vietnam, at the centre of Lô River valley, a tributary of the Red River. Its capital is Minh Xuân Ward. The province had a population of 1,865,270 in 2025, with a density of 137 persons per km2 over a total land area of 13,795.50 square kilometres (5,326.47 mi2).",
    "shortdesc": "Province of Vietnam",
    "image": "Cột_Cờ.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 36.0
   },
   {
    "id": "kimberley",
@@ -5188,7 +5316,8 @@
    "summary": "The Wandjina, also written Wanjina and Wondjina and also known as Gulingi, are cloud and rain spirits in the beliefs of the Wanjina Wunggurr cultural bloc of Aboriginal Australians, depicted prominently in rock art in northwestern Australia. Some of the artwork in the Kimberley region of Western Australia dates back to approximately 4,000 years ago. Another closely related spirit entity is the creator being Wunngurr, a being analogous to the Rainbow Serpent in other Aboriginal peoples' belief systems, but with a different interpretation.",
    "shortdesc": "Spirit beings of north-western Australian Aboriginal mythology",
    "image": "Wandjina_rock_art.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 561.0
   },
   {
    "id": "melanesia-png",
@@ -5228,7 +5357,8 @@
    "summary": "Cargo cults are spiritual and political movements that arose among indigenous Melanesians following Western colonisation of the region in the early 20th century. The first documented cargo cults were religious movements that foretold followers would imminently receive an abundance of (often Western) food and goods (the \"cargo\") brought by their ancestors. Cargo cults have a wide diversity of beliefs and practices, but typically (though not universally) include: charismatic prophet figures foretelling a coming cataclysm or utopia for followers (a worldview known as millenarianism); predictions by these prophets of the return of dead ancestors or other powerful beings bringing the cargo; the belief that ancestral spirits were responsible for the creation of the cargo; and the instruction by these prophets to followers to fulfill the prophecy by either reviving ancestral traditions or adopting new rituals, such as ecstatic dancing or imitating the actions of colonists and military personnel, like flag-raising, marching and drilling.",
    "shortdesc": "New religious movement",
    "image": "JohnFrumCrossTanna1967.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1171.0
   },
   {
    "id": "hawaiian-islands",
@@ -5269,7 +5399,8 @@
    "summary": "The Hawaiian Islands (Hawaiian: Mokupuni Hawaiʻi) are an archipelago of eight major volcanic islands, several atolls, and numerous smaller islets in the North Pacific Ocean, extending some 1,500 miles (2,400 kilometers) from the island of Hawaiʻi in the south to northernmost Kure Atoll. Formerly called the Sandwich Islands, the present name for the archipelago is derived from the name of its largest island, Hawaiʻi.",
    "shortdesc": "Archipelago in the Pacific Ocean",
    "image": "Hawaje-NoRedLine.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 654.0
   },
   {
    "id": "haleakala",
@@ -5316,7 +5447,8 @@
    "summary": "The Haleakalā Observatory, also known as the Haleakalā High Altitude Observatory Site, is Hawaii's first astronomical research observatory. It is located on the island of Maui and is owned by the Institute for Astronomy of the University of Hawaiʻi, which operates some of the facilities on the site and leases portions to other organizations. Tenants include the Air Force Research Laboratory (AFRL) and the Las Cumbres Observatory Global Telescope Network (LCOGTN).",
    "shortdesc": "Astronomical observatory on Maui Island, Hawaii, USA",
    "image": "Haleakala_Observatory_Maui_(45015823284).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3035.0
   },
   {
    "id": "mauritius",
@@ -5356,7 +5488,8 @@
    "summary": "Mauritius, officially the Republic of Mauritius, is an island country in the Indian Ocean, located about 1,100 nautical miles (2,000 km; 1,300 mi) off the southeastern coast of Africa, east of Madagascar. It includes the main island (also called Mauritius), as well as Rodrigues, Agaléga, and St. Brandon (Cargados Carajos shoals).",
    "shortdesc": "Island country in the Indian Ocean",
    "image": "Flag_of_Mauritius.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 145.0
   },
   {
    "id": "serpent-mound",
@@ -5396,7 +5529,8 @@
    "summary": "The Great Serpent Mound is a 1,348-feet-long (411m), four-feet-high precontact effigy mound located in Peebles, Ohio, United States. It was built on what is known as the Serpent Mound crater plateau, running along the Ohio Brush Creek in Adams County, Ohio. The mound is the largest serpent effigy known in the world.",
    "shortdesc": "Precontact effigy mound in Ohio, United States",
    "image": "Serpent_Mound,_Peebles,_Ohio_04.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 233.0
   },
   {
    "id": "big-horn-medicine-wheel",
@@ -5436,7 +5570,8 @@
    "summary": "The Medicine Wheel/Medicine Mountain National Historic Landmark (Crow: Annáshisee, lit. 'Large campsite'; formerly known as the Bighorn Medicine Wheel) is a medicine wheel located in the Bighorn National Forest, in the U.S. state of Wyoming.",
    "shortdesc": "Native American ceremonial site in Wyoming, US",
    "image": "Bighorn_medicine_wheel.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2934.0
   },
   {
    "id": "chaco-canyon",
@@ -5478,7 +5613,8 @@
    "summary": "Chaco Culture National Historical Park is a United States National Historical Park in the American Southwest hosting a large concentration of pre-Columbian indigenous ruins of pueblos. The park is in northwestern New Mexico, between Albuquerque and Farmington, in a remote canyon cut by the Chaco Wash. Containing the most sweeping collection of ancient ruins north of Mexico, the park preserves one of the most important cultural and historical areas in the United States.",
    "shortdesc": "U.S. national park in New Mexico",
    "image": "Chaco_Culture_NHP_(8023723138).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1885.0
   },
   {
    "id": "zuni-pueblo",
@@ -5518,7 +5654,8 @@
    "summary": "Zuni Pueblo (Zuni: Halona Idiwan’a; lit. 'Middle Place') is a census-designated place (CDP) in McKinley County, New Mexico, United States. The population was 6,176 as of the 2020 Census.",
    "shortdesc": "Census-designated place in New Mexico, United States",
    "image": "New_Mexico_-_Zunia_Pueblo_-_NARA_-_68144905_(cropped).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1908.0
   },
   {
    "id": "black-mesa",
@@ -5559,7 +5696,8 @@
    "summary": "Black Mesa (also called Big Mountain) is an upland mountainous mesa of Arizona, north-trending in Navajo County, west and southeast-trending in Apache County. In Navajo it is called Dziłíjiin ('Black Mountain') and during Mexican rule of Arizona it was called Mesa de las Vacas (Spanish for 'mesa of the cows'). It derives its dark appearance from its pinyon-juniper and mixed conifer woodlands.",
    "shortdesc": "Landform in Arizona",
    "image": "NE_AZ-NW_NM_NASA.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2030.0
   },
   {
    "id": "grand-canyon",
@@ -5600,7 +5738,8 @@
    "summary": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).",
    "shortdesc": "Steep-sided canyon in Arizona, US",
    "image": "Canyon_River_Tree_(165872763).jpeg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2094.0
   },
   {
    "id": "flagstaff-san-francisco-peaks",
@@ -5642,7 +5781,8 @@
    "summary": "The San Francisco Peaks are a volcanic mountain range in north central Arizona, just north of Flagstaff. Part of the San Francisco volcanic field, the Peaks are the remnant of the former San Francisco Mountain, a prehistorically larger single stratovolcano. The highest summit in the range, Humphreys Peak, is the highest point in the state of Arizona at 12,633 feet (3,851 m) in elevation.",
    "shortdesc": "Mountain range in Arizona, United States",
    "image": "San_Francisco_Peaks.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3284.0
   },
   {
    "id": "mount-shasta",
@@ -5684,7 +5824,8 @@
    "summary": "Mount Shasta ( SHASS-tə; Shasta: Waka-nunee-Tuki-wuki; Karuk: Úytaahkoo) is a potentially active stratovolcano at the southern end of the Cascade Range in Siskiyou County, California. At an elevation of 14,179 ft (4,322 m), it is the second-highest peak in the Cascades and the fifth-highest in the state. Mount Shasta has an estimated volume of 85 cubic miles (350 cubic kilometers), which makes it the most voluminous stratovolcano in the Cascade Volcanic Arc.",
    "shortdesc": "Stratovolcano in California, United States",
    "image": "MtShasta_aerial.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 4300.0
   },
   {
    "id": "lake-michigan-stones",
@@ -5725,7 +5866,8 @@
    "summary": "Grand Traverse Bay ( TRAV-ərss) is an arm of Lake Michigan, located along the west coast of the Lower Peninsula of Michigan. The bay is separated from the rest of Lake Michigan by the Leelanau Peninsula. The bay is some 32 miles (51 km) long, ranges from 7 to 10 miles (11 to 16 km) wide, and up to 620 feet (190 m) deep in spots.",
    "shortdesc": "Arm of Lake Michigan in the Lower Peninsula of Michigan",
    "image": "Grand_Traverse_Bay_432_pan_crop_15_(32648536332).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 174.0
   },
   {
    "id": "miami-circle",
@@ -5766,7 +5908,8 @@
    "summary": "The Miami Circle, also known as The Miami River Circle, Brickell Point, or The Miami Circle at Brickell Point Site, is an archaeological site in Brickell, Miami, Florida. It consists of a perfect circle measuring 38 feet (11.5m) of 600 postmolds that contain 24 holes or basins cut into the limestone bedrock, on a coastal spit of land, surrounded by a large number of other 'minor' holes. It predates other known permanent settlements on the East Coast.",
    "shortdesc": "Archaeological site in Brickell, Miami",
    "image": "Miami_Circle_20110307.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1.0
   },
   {
    "id": "fort-george-island",
@@ -5807,7 +5950,8 @@
    "summary": "For the island in James Bay, Canada, see Chisasibi.",
    "shortdesc": "Island in Duval County, Florida, US",
    "image": "Fort_George_Island_Historical_Marker.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 0.0
   },
   {
    "id": "green-river-utah",
@@ -5847,7 +5991,8 @@
    "summary": "Green River is a city in Emery County, Utah United States. The population was 847 at the 2020 census.",
    "shortdesc": "City in Utah, United States",
    "image": "2010-Aerial_photograph_of_Green_River,_Utah.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1240.0
   },
   {
    "id": "utah-monolith",
@@ -5887,7 +6032,8 @@
    "summary": "The Utah monolith was a metal pillar that stood in a slot canyon in northern San Juan County, Utah, United States. The pillar was 9.5 ft (2.9 m) tall and made of metal sheets riveted into a triangular prism. It was unlawfully placed on public land between July and October 2016, where it stood unnoticed for over four years until its discovery and removal in late 2020.",
    "shortdesc": "Metal pillar in Utah, US",
    "image": "Utah_Desert_Monolith.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1329.0
   },
   {
    "id": "area-51",
@@ -5938,7 +6084,8 @@
    "summary": "Area 51 is a highly classified United States Air Force (USAF) facility within the Nevada Test and Training Range in southern Nevada, 83 miles (134 km) north-northwest of Las Vegas.",
    "shortdesc": "U.S. Air Force facility in Nevada",
    "image": "Sentinel-Homey.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1356.0
   },
   {
    "id": "archuleta-mesa",
@@ -5978,7 +6125,8 @@
    "summary": "Dulce Base is the subject of a conspiracy theory claiming that a jointly-operated human and alien underground facility exists under Archuleta Mesa near the town of Dulce, New Mexico, in the United States. Claims of alien activity there first arose from Albuquerque businessman Paul Bennewitz.",
    "shortdesc": "Conspiracy theory",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2148.0
   },
   {
    "id": "white-sands",
@@ -6018,7 +6166,8 @@
    "summary": "White Sands Missile Range (WSMR) is a United States Army military testing area and firing range located in the US state of New Mexico. The range was originally established in 1941 as the Alamogordo Bombing and Gunnery Range, where the Trinity test site lay at the northern end of the Range, in Socorro County near the towns of Carrizozo and San Antonio. It then became the White Sands Proving Ground on 9 July 1945.",
    "shortdesc": "Military testing area in New Mexico, US",
    "image": "Tularosa-Basin-NM-USGS-map_opaque.gif",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1207.0
   },
   {
    "id": "alamogordo",
@@ -6056,7 +6205,8 @@
    "summary": "Alamogordo is a city in and the county seat of Otero County, New Mexico, United States. A city in the Tularosa Basin of the Chihuahuan Desert, it is bordered on the east by the Sacramento Mountains and to the west by Holloman Air Force Base. The population was 31,384 as of the 2020 census.",
    "shortdesc": "City in New Mexico, United States",
    "image": "Jim_Griggs_Sports_Complex.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1292.0
   },
   {
    "id": "roswell",
@@ -6112,7 +6262,8 @@
    "summary": "Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United States military recovered a crashed extraterrestrial spacecraft. After metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces announced possession of a \"flying disc\". This announcement made international headlines, but was retracted within a day.",
    "shortdesc": "UFO legend caused by 1947 balloon crash",
    "image": "Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1094.0
   },
   {
    "id": "offutt-afb",
@@ -6158,7 +6309,8 @@
    "summary": "Offutt Air Force Base (IATA: OFF, ICAO: KOFF, FAA LID: OFF) is a U.S. Air Force base south of Omaha, adjacent to Bellevue in Sarpy County, Nebraska. It is the headquarters of the U.S.",
    "shortdesc": "US Air Force base near Omaha, Nebraska",
    "image": "Offutt_AFB_at_1000_ft.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 306.0
   },
   {
    "id": "andrews-afb",
@@ -6208,7 +6360,8 @@
    "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekends, July 18–19 and July 26–27. UFO historian Curtis Peebles called the incident \"the climax of the 1952 (UFO) flap\"—\"Never before or after did Project Blue Book and the Air Force undergo such a tidal wave of (UFO) reports.\" This became one of the most known UFO sightings ever.",
    "shortdesc": "U.S. Capital flying saucer incidents on consecutive weekends",
    "image": "Washington_National_(1944).jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 84.0
   },
   {
    "id": "nasa-ames",
@@ -6257,7 +6410,8 @@
    "summary": "The Ames Research Center (ARC), also known as NASA Ames, is a major NASA research center at Moffett Federal Airfield in California's Silicon Valley. It was founded in 1939 as the second National Advisory Committee for Aeronautics (NACA) laboratory. That agency was dissolved and its assets and personnel transferred to the newly created NASA on October 1, 1958.",
    "shortdesc": "NASA research facility in Northern California",
    "image": "NASA_logo_(2023_colors).svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 12.0
   },
   {
    "id": "huntsville",
@@ -6298,7 +6452,8 @@
    "summary": "The Marshall Space Flight Center (officially the George C. Marshall Space Flight Center; MSFC), located in Redstone Arsenal, Alabama (Huntsville postal address), is the U.S. government's civilian rocketry and spacecraft propulsion research center. As the largest NASA center, MSFC's first mission was developing the Saturn launch vehicles for the Apollo program.",
    "shortdesc": "NASA research facility in Alabama",
    "image": "NASA_logo_(2023_colors).svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 182.0
   },
   {
    "id": "princeton-ias",
@@ -6339,7 +6494,8 @@
    "summary": "The Institute for Advanced Study (IAS) is a center for theoretical research and intellectual inquiry, designed and funded by the U.S. government, the Rockefeller Foundation and the Carnegie Endowment, located in Princeton, New Jersey. It has served as the academic home of internationally preeminent scholars, including Albert Einstein, J. Robert Oppenheimer, Emmy Noether, Hermann Weyl, John von Neumann, Michael Walzer, Clifford Geertz, Freeman Dyson and Kurt Gödel, many of whom had emigrated from Europe to the United States.",
    "shortdesc": "Postgraduate center in New Jersey, US",
    "image": "",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 36.0
   },
   {
    "id": "penn-state",
@@ -6378,7 +6534,8 @@
    "summary": "The Pennsylvania State University (Penn State or PSU) is a public state-related land-grant research university with campuses and facilities throughout Pennsylvania, United States. Founded in 1855 as the Farmers' High School of Pennsylvania, Penn State was named the state's first land-grant university eight years later. Its primary campus, known as Penn State University Park, is located in State College and College Township in Centre County.",
    "shortdesc": "Public university in Pennsylvania, US",
    "image": "",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 357.0
   },
   {
    "id": "uc-irvine",
@@ -6417,7 +6574,8 @@
    "summary": "The University of California, Irvine (UCI or UC Irvine) is a public land-grant research university in Irvine, California, United States. One of the ten campuses of the University of California system, UCI offers 87 undergraduate degrees and 129 graduate and professional degrees, and roughly 30,000 undergraduates and 7,000 graduate students were enrolled at UCI as of Fall 2024. The university is classified among \"R1: Doctoral Universities – Very high research activity\" and had $609.6 million in research and development expenditures in 2023, ranking it 56th nationally.",
    "shortdesc": "Public university in Irvine, California, US",
    "image": "The_University_of_California_Irvine.svg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 27.0
   },
   {
    "id": "ohio-state",
@@ -6457,7 +6615,8 @@
    "summary": "The Wow! signal was a strong narrowband radio signal detected on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore expected hallmarks of extraterrestrial origin.",
    "shortdesc": "1977 radio signal detected as part of SETI",
    "image": "Wow_signal.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 229.0
   },
   {
    "id": "aurora-texas",
@@ -6497,7 +6656,8 @@
    "summary": "The Aurora, Texas, UFO incident reportedly occurred on April 17, 1897, when, according to locals, a UFO crashed on a farm near Aurora, Texas. The incident, similar to the more famous Roswell UFO incident 50 years later, is claimed to have resulted in the fatality of the pilot. The pilot was \"not of this world\" and was said to be an alien.",
    "shortdesc": "Alleged UFO crash in 1897",
    "image": "Haydon_article,_Aurora,_Texas,_UFO_incident,_1897.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 244.0
   },
   {
    "id": "stephenville-texas",
@@ -6537,7 +6697,8 @@
    "summary": "Stephenville is a city in and the county seat of Erath County, Texas, United States. It sits on the North Bosque River, which rises nearby. Founded in 1854, it is home to Tarleton State University.",
    "shortdesc": "City in Texas, US",
    "image": "Downtown_Stephenville_2024.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 414.0
   },
   {
    "id": "el-paso-texas",
@@ -6575,7 +6736,8 @@
    "summary": "El Paso (English: ; Spanish: [el ˈpaso] , lit. 'the route' or 'the pass') is a city in and the county seat of El Paso County, Texas, United States. It is the 23rd-most populous city in the U.S., sixth-most populous city in Texas, and the most populous city in West Texas with a population of 678,815 at the 2020 census.",
    "shortdesc": "City in Texas, United States",
    "image": "El_Paso_Cityscape_(cropped).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1137.0
   },
   {
    "id": "hill-abduction",
@@ -6617,7 +6779,8 @@
    "summary": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961. The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system. Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident.",
    "shortdesc": "Alleged alien abduction in 1961",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 447.0
   },
   {
    "id": "montauk-plum-island",
@@ -6667,7 +6830,8 @@
    "summary": "The Montauk Project is a conspiracy theory that alleges there were a series of United States government projects conducted at Camp Hero or Montauk Air Force Station in Montauk, New York, for the purpose of developing psychological warfare techniques and exotic research including time travel. The story of the Montauk Project originated in the Montauk Project series of books by Preston Nichols which intermixes those stories with stories about the Bulgarian Experiment.",
    "shortdesc": "UFO conspiracy theory",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "new-york-city",
@@ -6708,7 +6872,8 @@
    "summary": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county.",
    "shortdesc": "Most populous city in the United States",
    "image": "View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 32.0
   },
   {
    "id": "boston",
@@ -6748,7 +6913,8 @@
    "summary": "Boston ( BAW-stən, ) is the capital and most populous city of the U.S. state of Massachusetts. It serves as a cultural and financial center of New England, a region of the Northeastern United States. Boston has an area of 48.4 square miles (125 km2) and a population of 675,647 as of the 2020 census, making it the third-most populous city in the Northeastern United States after New York City and Philadelphia.",
    "shortdesc": "Capital and largest city in Massachusetts, United States",
    "image": "ISH_WC_Boston4.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 8.0
   },
   {
    "id": "roxbury-massachusetts",
@@ -6785,7 +6951,8 @@
    "summary": "Roxbury is a neighborhood in Boston, Massachusetts, United States.",
    "shortdesc": "Neighborhood of Boston, Massachusetts",
    "image": "FirstChurchRoxburyMass20040313.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 37.0
   },
   {
    "id": "bridgewater-triangle",
@@ -6827,7 +6994,8 @@
    "summary": "The Bridgewater Triangle is an area of about 200 square miles (520 km2) within southeastern Massachusetts in the United States, claimed to be a site of alleged paranormal phenomena, ranging from UFOs to poltergeists, and other spectral phenomena, various bigfoot-like sightings, giant snakes and thunderbirds. The term was coined by New England-based cryptozoologist Loren Coleman.",
    "shortdesc": "Area in Massachusetts claimed to be the site of paranormal phenomena",
    "image": "Bridgewater_Triangle.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 38.0
   },
   {
    "id": "canton-new-york",
@@ -6865,7 +7033,8 @@
    "summary": "Canton is an incorporated town in St. Lawrence County, New York, United States. The population was 11,638 at the time of the 2020 census.",
    "shortdesc": "Town in New York, United States",
    "image": "New_York_-_Buffalo_through_Dexter_-_NARA_-_68145065_(cropped).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 117.0
   },
   {
    "id": "danville-illinois",
@@ -6903,7 +7072,8 @@
    "summary": "Danville is a city in Vermilion County, Illinois, United States, and its county seat. The population was 29,204 as of the 2020 census. It is the principal city of the Danville micropolitan area.",
    "shortdesc": "City in Illinois, United States",
    "image": "Vermilion_County_Courthouse.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 187.0
   },
   {
    "id": "barron-wisconsin",
@@ -6941,7 +7111,8 @@
    "summary": "Barron is a city in and the county seat of Barron County, Wisconsin, United States. The population was 3,733 at the 2020 census. The city is surrounded by the Town of Barron.",
    "shortdesc": "City in Wisconsin, United States",
    "image": "Stebbins_House.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 338.0
   },
   {
    "id": "laingsburg-michigan",
@@ -6980,7 +7151,8 @@
    "summary": "Laingsburg (LANGS-burg) is a city in Shiawassee County in the U.S. state of Michigan. The population was 1,424 at the 2020 census.",
    "shortdesc": "City in Michigan, United States",
    "image": "Laingsburg,_MI_location.png",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 253.0
   },
   {
    "id": "west-virginia",
@@ -7021,7 +7193,8 @@
    "summary": "In American folklore, Mothman is the name given to a humanoid cryptid that was reportedly seen around Point Pleasant, West Virginia, from November 15, 1966, to December 15, 1967. Despite its name, the original sightings of the creature described avian, not lepidopteran, features. The first newspaper report was published in the Point Pleasant Register, dated November 16, 1966, titled \"Couples See Man-Sized Bird ...",
    "shortdesc": "Modern urban legend",
    "image": "Mothman_Artist's_Impression.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 176.0
   },
   {
    "id": "mount-washington",
@@ -7060,7 +7233,8 @@
    "summary": "Mount Washington (Abenaki: Agiocochook) is an ultra-prominent mountain in the state of New Hampshire. It is the highest peak in the Northeastern United States at 6,288.2 ft (1,916.6 m) and the most topographically prominent mountain east of the Mississippi River.",
    "shortdesc": "Highest mountain in the Northeastern US",
    "image": "White_Mountains_12_30_09_81.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1908.0
   },
   {
    "id": "mount-rainier",
@@ -7101,7 +7275,8 @@
    "summary": "On June 24, 1947, private pilot Kenneth Arnold saw what he described as a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that he estimated to be at least 1,200 miles per hour (1,900 km/h).",
    "shortdesc": "Alleged 1947 sighting in Washington, US",
    "image": "Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 4380.0
   },
   {
    "id": "denali",
@@ -7140,7 +7315,8 @@
    "summary": "Denali ( də-NAH-lee; Koyukon: Deenaalee), federally designated as Mount McKinley, is the highest mountain peak in North America, with a summit elevation of 20,310 feet (6,190 m) above sea level. Its vertical relief above the surrounding plateaus is one of the greatest on Earth, measuring about 18,000 feet (5,500 meters). With a topographic prominence of 20,156 feet (6,144 m) and a topographic isolation of 4,621.1 miles (7,436.9 km), Denali is the third most prominent and third-most isolated peak on Earth, after Mount Everest and Aconcagua.",
    "shortdesc": "Highest mountain in North America",
    "image": "Wonder_Lake_and_Denali.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 6164.0
   },
   {
    "id": "pacific-northwest",
@@ -7181,7 +7357,8 @@
    "summary": "The Pacific Northwest (PNW; French: Nord-Ouest Pacifique), also referred to as Cascadia, is a bi-national geographic and cultural region in Western North America defined by its coastal waters of the Pacific Ocean to the west and, loosely, by the Rocky Mountains to the east. Though no official boundary exists, the most common conception includes the U.S. states of Oregon, Washington, Idaho, and the Canadian province of British Columbia. Some broader conceptions reach north into the Alaska Panhandle and Yukon, south into Northern California, and east into Western Montana.",
    "shortdesc": "Region of northwestern North America",
    "image": "Space_Needle002.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 607.0
   },
   {
    "id": "mojave-desert",
@@ -7222,7 +7399,8 @@
    "summary": "The Mojave Desert (Mohave: Hayikwiir Mat'aar; Spanish: Desierto de Mojave) is a desert in the rain shadow of the southern Sierra Nevada mountains and Transverse Ranges in the Southwestern United States. Named after the indigenous Mohave people, it is located primarily in southeastern California and southwestern Nevada, with small portions extending into Arizona and Utah.",
    "shortdesc": "Desert in the southwestern United States",
    "image": "Death_Valley_-_Mesquite_Flat_Dunes_-_dune_showing_stoss,_brink_and_slip_surfaces.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 541.0
   },
   {
    "id": "las-vegas",
@@ -7262,7 +7440,8 @@
    "summary": "Las Vegas, colloquially shortened to Vegas, is the most populous city in the U.S. state of Nevada and the county seat of Clark County. It is the 24th-most populous city in the United States, with 641,903 residents at the 2020 census. The Las Vegas metropolitan area has an estimated 2.4 million residents and is the 29th-largest metropolitan area in the country.",
    "shortdesc": "Most populous city in Nevada, United States",
    "image": "Center_Strip_Before_Sunrise.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 626.0
   },
   {
    "id": "los-angeles",
@@ -7302,7 +7481,8 @@
    "summary": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California. Five civilians died during the barrage and four Japanese aircraft were erroneously reported shot down. The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February.",
    "shortdesc": "Anti-aircraft shelling during WWII against an imagined invader",
    "image": "Battle_of_Los_Angeles_LATimes.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 91.0
   },
   {
    "id": "pacific-palisades",
@@ -7340,7 +7520,8 @@
    "summary": "Pacific Palisades is a neighborhood in the Westside region of the city of Los Angeles, California, situated about 20 miles (32 km) west of downtown. It was founded in 1921 by a Methodist organization, and is known for its seclusion, Mediterranean climate, hilly topography, abundance of parkland and hiking trails, a 3-mile (4.8 km) strip of coastline, and for being home to several architecturally significant homes.",
    "shortdesc": "Neighborhood in California, US",
    "image": "Pacific_Palisades_Photo_Don_Ramey_Logan.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 107.0
   },
   {
    "id": "malibu-point-dume",
@@ -7380,7 +7561,8 @@
    "summary": "Point Dume is a promontory on the coast of Malibu, California, that juts out into the Pacific Ocean. The point, a long bluff, forms the northern end of Santa Monica Bay. Point Dume Natural Area affords a vista of the Palos Verdes Peninsula and Santa Catalina Island.",
    "shortdesc": "Coastal landform in California, United States",
    "image": "Point_Dume_Climbing.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 39.0
   },
   {
    "id": "palm-springs",
@@ -7418,7 +7600,8 @@
    "summary": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley. The city covers approximately 94 square miles (240 km2), making it the largest city in Riverside County by land area. With multiple plots in checkerboard pattern, more than 10% of the city is part of the Agua Caliente Band of Cahuilla Indians reservation land and is the administrative capital of the most populated reservation in California.",
    "shortdesc": "City in California, United States",
    "image": "Palm_Springs_from_the_Museum_Trail.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 149.0
   },
   {
    "id": "riverside-quarry",
@@ -7457,7 +7640,8 @@
    "summary": "Riverside County is a southern county in the U.S. state of California. As of the 2020 census, its population was 2,418,185, making it the fourth-most populous county in California and the 10th-most populous county in the United States. The county seat is the city of Riverside.",
    "shortdesc": "County in California, United States",
    "image": "Mission_Inn's_main_interior_courtyard.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 253.0
   },
   {
    "id": "scottsdale",
@@ -7496,7 +7680,8 @@
    "summary": "The Phoenix Lights (sometimes called the \"Lights Over Phoenix\") were a series of widely sighted unidentified flying objects observed in the skies over the southwestern U.S. states of Arizona and Nevada on March 13, 1997.",
    "shortdesc": "1997 light phenomenon over Arizona, US",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 387.0
   },
   {
    "id": "winnemucca-lake",
@@ -7536,7 +7721,8 @@
    "summary": "Winnemucca Lake is a dry lake bed in northwest Nevada that features the oldest known petroglyphs in North America. Located astride the border between Washoe and Pershing counties, it was a shallow lake until the 1930s, but was dried when a dam and a road were built that combined to restrict and block water flow. It was formerly designated as a National Wildlife Refuge, but its status as a refuge was removed due to the lack of water.",
    "shortdesc": "Dry lake bed in Nevada with petroglyphs",
    "image": "Winnemucca_Lake_(213008212).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1148.0
   },
   {
    "id": "badlands-guardian",
@@ -7578,7 +7764,8 @@
    "summary": "The Badlands Guardian is a geomorphological feature located near Medicine Hat in the southeast corner of Alberta, Canada. The feature was discovered in 2005 by Lynn Hickox through use of Google Earth.",
    "shortdesc": "Geomorphological feature in Canada",
    "image": "Area_around_Badlands_Guardian.png",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 784.0
   },
   {
    "id": "united-states",
@@ -7631,7 +7818,8 @@
    "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs).",
    "shortdesc": "Apparent unusual observation in the sky",
    "image": "Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 576.0
   },
   {
    "id": "teotihuacan",
@@ -7673,7 +7861,8 @@
    "summary": "Teotihuacan (Spanish: Teotihuacán, Spanish pronunciation: [teotiwaˈkan] ; Classical Nahuatl: Teōtīhuacān, Classical Nahuatl pronunciation: [te.oːtiːˈwakaːn] ) is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, which is located in the State of Mexico, 40 kilometers (25 mi) northeast of modern-day Mexico City.",
    "shortdesc": "Ancient Mesoamerican city",
    "image": "ZA77_Teotihuacán_edo_de_mex_Herberto_de_la_rosa.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2306.0
   },
   {
    "id": "chichen-itza",
@@ -7716,7 +7905,8 @@
    "summary": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán, Mexico, between the cities of Valladolid and Mérida.",
    "shortdesc": "Pre-Columbian Maya city in Mexico",
    "image": "Chichen_Itza_3.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 31.0
   },
   {
    "id": "palenque",
@@ -7759,7 +7949,8 @@
    "summary": "Palenque (Spanish pronunciation: [pa'leŋke]; Yucatec Maya: Bàakʼ [ɓaːkʼ]), also anciently known in the Itzaʼ language as Lakamha (\"big water\" or \"big waters\"), was a Maya city-state in southern Mexico that perished in the 8th century. The Palenque ruins date from ca. 226 BC to ca. 799 AD. After its decline, it was overgrown by the jungle of cedar, mahogany, and sapodilla trees, but has since been excavated and restored.",
    "shortdesc": "Ancient Maya city-state in Chiapas, Mexico",
    "image": "Palenque_Collage.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 147.0
   },
   {
    "id": "uxmal",
@@ -7801,7 +7992,8 @@
    "summary": "Uxmal (Yucatec Maya: Óoxmáal [óˑʃmáˑl]) is an ancient Maya city of the classical period located in present-day Mexico. It is considered one of the most important archaeological sites of Maya culture, along with Palenque, Chichen Itza and Calakmul in Mexico, Caracol and Xunantunich in Belize, and Tikal in Guatemala. It is located in the Puuc region of the western Yucatán Peninsula, and is considered one of the Maya cities most representative of the region's dominant architectural style.",
    "shortdesc": "Ancient Maya city",
    "image": "Uxmal_Pyramid_of_the_Magician.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 56.0
   },
   {
    "id": "la-venta",
@@ -7841,7 +8033,8 @@
    "summary": "La Venta is a pre-Columbian archaeological site of the Olmec civilization located in the present-day Mexican state of Tabasco. Some of the artifacts have been moved to the museum Parque-Meseo La Venta, which is in nearby Villahermosa, the capital of Tabasco.",
    "shortdesc": "Archaeological site of the Olmec civilization located in Tabasco, Mexico",
    "image": "La_Venta_Pirámide_cara_norte.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 39.0
   },
   {
    "id": "comalcalco",
@@ -7881,7 +8074,8 @@
    "summary": "Comalcalco is a city located in Comalcalco Municipality about 45 miles (60 km) northwest of Villahermosa in the Mexican state of Tabasco. The city is near the Pre-Columbian Maya archaeological site of Comalcalco. The literal English translation of \"Comalcalco\" is \"in the house of the comals\".",
    "shortdesc": "City in the Mexican state of Tabasco",
    "image": "Comalcalco.Iglesia_y_Palacio.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 12.0
   },
   {
    "id": "tortuguero",
@@ -7922,7 +8116,8 @@
    "summary": "Tortuguero (or El Tortuguero) is an archaeological site in southernmost Tabasco, Mexico which supported a Maya city during the Classic period. The site is noteworthy for its use of the B'aakal emblem glyph also found as the primary title at Palenque. The site has been heavily damaged by looting and modern development; in the 1960s, a cement factory was built directly on top of the site.",
    "shortdesc": "Ruined Maya city in Tabasco, Mexico",
    "image": "Estela_6_el_Tortuguero.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 18.0
   },
   {
    "id": "veracruz-voladores",
@@ -7964,7 +8159,8 @@
    "summary": "The Danza de los Voladores (Spanish pronunciation: [ˈdansa ðe los βolaˈðoɾes]; \"Dance of the Flyers\"), or Palo Volador (pronounced [ˈpalo βolaˈðoɾ]; \"flying pole\"), is an ancient Mesoamerican ceremony/ritual still performed today, albeit in modified form, in isolated pockets in Mexico. It is believed to have originated with the Nahua, Huastec and Otomi peoples in central Mexico, and then spread throughout most of Mesoamerica. The ritual consists of dance and the climbing of a 30-meter (98 ft 5 in) pole from which four of the five participants then launch themselves tied with ropes to descend to the ground.",
    "shortdesc": "Mesoamerican rite",
    "image": "Dancing_on_a_pole_Mexico.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 171.0
   },
   {
    "id": "merida-caves",
@@ -8006,7 +8202,8 @@
    "summary": "A cenote (English: or ; Latin American Spanish: [seˈnote]) is a natural pit, or sinkhole, resulting when a collapse of limestone bedrock exposes groundwater. The term originated on the Yucatán Peninsula of Mexico, where the ancient Maya commonly used cenotes for water supplies, and occasionally for sacrificial offerings. The name derives from a word used by the lowland Yucatec Maya—tsʼonoʼot—to refer to any location with accessible groundwater.",
    "shortdesc": "Natural pit or sinkhole that exposes groundwater underneath",
    "image": "Cenote_2.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 10.0
   },
   {
    "id": "yucatan-peninsula",
@@ -8045,7 +8242,8 @@
    "summary": "The Yucatán Peninsula ( YOO-kə-TA(H)N, UK also YUU-; Spanish: Península de Yucatán [peˈninsula ðe ʝukaˈtan]) is a large peninsula in southeast Mexico and adjacent portions of Belize and Guatemala. The peninsula extends towards the northeast, separating the Gulf of Mexico to the north and west of the peninsula from the Caribbean Sea to the east. The Yucatán Channel, between the northeastern corner of the peninsula and Cuba, connects the two bodies of water.",
    "shortdesc": "Peninsula in North America",
    "image": "Yucatan_peninsula_250m.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 119.0
   },
   {
    "id": "casas-grandes",
@@ -8086,7 +8284,8 @@
    "summary": "Casas Grandes (Spanish for Great Houses; also known as Paquimé) is a prehistoric archaeological site in the northern Mexican state of Chihuahua. Construction of the site is attributed to the Mogollon culture. Casas Grandes has been designated a UNESCO World Heritage Site under the purview of INAH and a \"Pueblo Mágico\" since 2015.",
    "shortdesc": "Prehistoric archaeological site in Mexico",
    "image": "Paquime1.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1481.0
   },
   {
    "id": "sierra-madre-occidental",
@@ -8127,7 +8326,8 @@
    "summary": "The Sierra Madre Occidental ('Western Mother/Grand Mountain Range') is a major mountain range system which runs northwest–southeast through northwestern and western Mexico, and along the Gulf of California. The Sierra Madre is part of the American Cordillera, an almost continuous chain of mountain ranges that forms the western \"backbone\" of the Americas.",
    "shortdesc": "Mountain range along the Pacific coast of Mexico",
    "image": "Sierra_Madre_Occidental.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2615.0
   },
   {
    "id": "zona-del-silencio",
@@ -8168,7 +8368,8 @@
    "summary": "The Mapimí Silent Zone (Spanish: La Zona del Silencio) is the popular name for a desert patch near the Bolsón de Mapimí in Durango, Mexico, overlapping the Mapimí Biosphere Reserve. It is the subject of an urban legend that claims it is an area where radio signals and any type of communications cannot be received.",
    "shortdesc": "Region in Northwest Mexico",
    "image": "Zona-del-Silencio.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1150.0
   },
   {
    "id": "copan",
@@ -8210,7 +8411,8 @@
    "summary": "Copán is an archaeological site of the Maya civilization in the Copán Department of western Honduras, not far from the border with Guatemala. It is one of the most important sites of the Maya civilization, which was not excavated until the 19th century. The ruined citadel and imposing public squares reveal the three main stages of development before the city was abandoned in the early 10th century.",
    "shortdesc": "Maya archaeological site in western Honduras",
    "image": "Copan_sculpture.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 612.0
   },
   {
    "id": "quirigua",
@@ -8251,7 +8453,8 @@
    "summary": "Quiriguá (Spanish pronunciation: [kiɾiˈɣwa]) is an ancient Maya archaeological site in the department of Izabal in south-eastern Guatemala. It is a medium-sized site covering approximately 3 square kilometres (1.2 sq mi) along the lower Motagua River, with the ceremonial center about 1 km (0.6 mi) from the north bank. During the Maya Classic Period (AD 200–900), Quiriguá was situated at the juncture of several important trade routes.",
    "shortdesc": "Maya archaeological site in Guatemala",
    "image": "GT_Quirigua_StelaE.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 83.0
   },
   {
    "id": "tikal",
@@ -8293,7 +8496,8 @@
    "summary": "Tikal (Tik'al in modern Mayan orthography) is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. One of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization, it is located in the archaeological region of the Petén Basin in what is now the Petén Department in northern Guatemala. The site is part of Guatemala's Tikal National Park, which was declared a UNESCO World Heritage Site in 1979.",
    "shortdesc": "Ruins of major ancient Maya city",
    "image": "Tikal_3.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 303.0
   },
   {
    "id": "lubaantun",
@@ -8334,7 +8538,8 @@
    "summary": "Lubaantun is a pre-Columbian ruined city of the Maya civilization in southern Belize, Central America. Lubaantun is in Belize's Toledo District, about 42 kilometres (26 mi) northwest of Punta Gorda, and approximately 3.2 kilometres (2 mi) from the village of San Pedro Columbia, at an elevation of 61 metres (200 ft) feet above mean sea level. One of the most distinguishing features of Lubaantun is the large collection of miniature ceramic objects found on site; these detailed constructs are thought to have been charmstones or ritual-accompanying accoutrements.",
    "shortdesc": "Pre-Columbian Mayan city in Belize",
    "image": "Lubaantun_04.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 74.0
   },
   {
    "id": "haiti",
@@ -8375,7 +8580,8 @@
    "summary": "Port-au-Prince ( PORT oh PRINSS; French: [pɔʁ o pʁɛ̃s] ; Haitian Creole: Pòtoprens, [pɔtopɣɛ̃s]) is the capital and most populous city of Haiti. The city's population was estimated at 1,200,000 in 2022 with the metropolitan area estimated at a population of 2,618,894. The metropolitan area is defined by the IHSI as including the communes of Port-au-Prince, Delmas, Cité Soleil, Tabarre, Carrefour, and Pétion-Ville.",
    "shortdesc": "Capital of Haiti",
    "image": "US_Navy_100221-N-5787K-002_An_aerial_view_of_the_logistical_area_near_the_port_in_Port-au-Prince_(cropped2).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 7.0
   },
   {
    "id": "cuba-underwater",
@@ -8416,7 +8622,8 @@
    "summary": "Cuba, officially the Republic of Cuba, is an island country in the Caribbean. It comprises the eponymous main island as well as 4,195 islands, islets, and cays. Situated at the convergence of the Caribbean Sea, Gulf of Mexico, and Atlantic Ocean, Cuba is located east of the Yucatán Peninsula, south of both Florida and the Bahamas, west of Hispaniola, and north of Jamaica and the Cayman Islands.",
    "shortdesc": "Country in the Caribbean",
    "image": "Flag_of_Cuba.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "bimini-road",
@@ -8457,7 +8664,8 @@
    "summary": "The Bimini Road, sometimes called the Bimini Wall, is an underwater rock formation near the island of North Bimini in the Bimini chain of islands. The Road consists of a 0.8 km (0.50 mi)-long northeast-southwest linear feature composed of roughly rectangular limestone blocks. Various claims have been made for this feature being either a wall, road, pier, breakwater, or other man-made structure.",
    "shortdesc": "Underwater rock formation near North Bimini island in the Bahamas",
    "image": "Bimini_island.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 0.0
   },
   {
    "id": "nazca",
@@ -8500,7 +8708,8 @@
    "summary": "The Nazca lines are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD.",
    "shortdesc": "Geoglyphs in the Nazca Desert, Peru",
    "image": "Líneas_de_Nazca,_Nazca,_Perú,_2015-07-29,_DD_49.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 430.0
   },
   {
    "id": "palpa",
@@ -8538,7 +8747,8 @@
    "summary": "Palpa is the smallest of five provinces of the Ica Region of Peru and the only landlocked province of the region. The capital of the province is the city of Palpa.",
    "shortdesc": "Province in Ica, Peru",
    "image": "Location_of_the_province_Palpa_in_Ica.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 347.0
   },
   {
    "id": "cahuachi",
@@ -8576,7 +8786,8 @@
    "summary": "Cahuachi, in Peru, was a major ceremonial center of the Nazca culture, based from about 1–500 CE in the coastal area of Peru's central Andes. It overlooked some of the Nazca lines. The Italian archaeologist Giuseppe Orefici excavated at the site for the past few decades.",
    "shortdesc": "Archaeological site in Peru",
    "image": "",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 381.0
   },
   {
    "id": "caral",
@@ -8616,7 +8827,8 @@
    "summary": "The Sacred City of Caral-Supe, or simply Caral, is an archaeological site in Peru where the remains of the main city of the Caral civilization are found. It is located in the Supe District of Peru, near the current town of Caral, 182 kilometres (113 mi) north of Lima, 23 kilometres (14 mi) from the coast and 350 meters above sea level. It is attributed an antiquity of 5,000 years and it is considered the oldest city in the Americas and one of the oldest in the world.",
    "shortdesc": "Archaeological site in Peru",
    "image": "Mayor_Pyramid_and_circular_enclosure._Caral,_Peru.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 356.0
   },
   {
    "id": "paracas",
@@ -8657,7 +8869,8 @@
    "summary": "The Paracas culture was an Andean society existing between approximately 800 BCE and 100 BCE, located in what today is the Ica Region of Peru. The Paracas people had extensive knowledge of irrigation and water management and made significant contributions in the textile arts. Most of the information about the lives of the Paracas people comes from excavations at the large seaside Paracas site on the Paracas Peninsula, first formally investigated in the 1920s by Peruvian archaeologist Julio Tello.",
    "shortdesc": "Archaeological culture of Peru",
    "image": "ParacasMap.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 5.0
   },
   {
    "id": "machu-picchu",
@@ -8700,7 +8913,8 @@
    "summary": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft). It is situated in the Machupicchu District of Urubamba Province about 80 kilometers (50 miles) northwest of Cusco, above the Sacred Valley and along the Urubamba River, which forms a deep canyon with a subtropical mountain climate.",
    "shortdesc": "15th-century Inca citadel in Peru",
    "image": "Machu_Picchu,_2023_(012).jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2434.0
   },
   {
    "id": "ollantaytambo",
@@ -8742,7 +8956,8 @@
    "summary": "Ollantaytambo (Quechua: Ullantaytampu) is a town and an Inca archaeological site in southern Peru some 72 km (45 mi) by road northwest of the city of Cusco. It is located at an altitude of 2,792 m (9,160 ft) above sea level in the district of Ollantaytambo, province of Urubamba, Cusco region. During the Inca Empire, Ollantaytambo in the Sacred Valley of the Incas was the royal estate of Emperor Pachacuti, after the mid-15th century.",
    "shortdesc": "Archaeological site in Peru",
    "image": "Ollantaytambo_-_Heiliges_Tal.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2853.0
   },
   {
    "id": "sacsayhuaman",
@@ -8785,7 +9000,8 @@
    "summary": "Sacsayhuamán ( SACK-sy-wuh-mən; Spanish pronunciation: [saksajwaˈman]) or Saksaywaman (from Quechua Saksay waman pukara, pronounced [ˈsaksaj ˈwaman], lit. 'fortress of the royal falcon or hawk') is a citadel on the northern outskirts of the city of Cusco, Peru, the historic capital of the Inca Empire. The site is an important example of Inca architecture and sits at an altitude of 3,701 metres (12,142 ft).",
    "shortdesc": "Archaeological site near Cusco, Peru",
    "image": "Sacsayhuamán,_Cusco,_Perú,_2015-07-31,_DD_27.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3585.0
   },
   {
    "id": "coricancha",
@@ -8836,7 +9052,8 @@
    "summary": "The Coricancha (Cusco Quechua: Quri Kancha, lit. 'golden temple', pronounced [ˈqɔɾi ˈkantʃa]) was the most important temple in the Inca Empire, and was described by early Spanish colonialists. It is located in Cusco, Peru, which was the capital of the empire.",
    "shortdesc": "Archaeological site in Peru",
    "image": "Coricancha,_Cusco,_Perú,_2015-07-31,_DD_68.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 3393.0
   },
   {
    "id": "x-zone-cusco",
@@ -8877,7 +9094,8 @@
    "summary": "Sacsayhuamán ( SACK-sy-wuh-mən; Spanish pronunciation: [saksajwaˈman]) or Saksaywaman (from Quechua Saksay waman pukara, pronounced [ˈsaksaj ˈwaman], lit. 'fortress of the royal falcon or hawk') is a citadel on the northern outskirts of the city of Cusco, Peru, the historic capital of the Inca Empire. The site is an important example of Inca architecture and sits at an altitude of 3,701 metres (12,142 ft).",
    "shortdesc": "Archaeological site near Cusco, Peru",
    "image": "Sacsayhuamán,_Cusco,_Perú,_2015-07-31,_DD_27.JPG",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 3577.0
   },
   {
    "id": "lake-titicaca",
@@ -8918,7 +9136,8 @@
    "summary": "Lake Titicaca (Spanish: Lago Titicaca [ˈlaɣo titiˈkaka]; Quechua: Titiqaqa and Aymara: Titiqaqa) is a large lake in the Andes mountains on the border of Bolivia and Peru. It is often called the highest navigable lake in the world. It is often listed as a freshwater lake, though its waters are slightly brackish.",
    "shortdesc": "Large lake on the border of Peru and Bolivia",
    "image": "Lake_Titicaca_ESA22522896.jpeg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 3809.0
   },
   {
    "id": "hayu-marca",
@@ -8958,7 +9177,8 @@
    "summary": "",
    "shortdesc": "",
    "image": "",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 3809.0
   },
   {
    "id": "puma-punku",
@@ -9008,7 +9228,8 @@
    "summary": "Pumapunku or Puma Punku (Aymara and Quechua 'Gate of the Puma') is a 6th-century T-shaped and strategically aligned man-made terraced platform mound with a sunken court and monumental structure on top, near Tiwanaku, La Paz, Bolivia. It is part of the Pumapunku complex, at the Tiwanaku Site, an ancient archeological complex in the Andes of western Bolivia that has been designated a UNESCO World Heritage Site.",
    "shortdesc": "Terraced platform mound in Bolivia",
    "image": "Puma_Punku14.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3853.0
   },
   {
    "id": "paititi",
@@ -9049,7 +9270,8 @@
    "summary": "Paititi is an Incan legendary lost city or utopian rich land. It allegedly lies east of the Andes, hidden somewhere within the remote rainforests of southeast Peru, northern Bolivia or northwest Brazil. The Paititi legend in Peru revolves around the story of Inkarri, an Incan culture-hero, who founded Q'ero and Cusco, and afterwards retreated toward the jungles of Pantiacolla to live out the rest of his days in his refuge city of Paititi.",
    "shortdesc": "Legendary Inca lost city",
    "image": "La_sabiduría,_junto_con_la_elocuencia,_sacan_a_Atahualpa_del_sepulcro.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 831.0
   },
   {
    "id": "peru-general",
@@ -9089,7 +9311,8 @@
    "summary": "Peru, officially the Republic of Peru, is a country in western South America. It is bordered to the north by Ecuador and Colombia, to the east by Brazil, to the southeast by Bolivia, to the south by Chile, and to the south and west by the Pacific Ocean. Peru is a megadiverse country, with habitats ranging from the arid plains of the Pacific coastal region in the west, to the peaks of the Andes mountains extending from the north to the southeast of the country, to the tropical Amazon basin rainforest in the east with the Amazon River.",
    "shortdesc": "Country in South America",
    "image": "Flag_of_Peru.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 225.0
   },
   {
    "id": "colombia",
@@ -9130,7 +9353,8 @@
    "summary": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Colombia's mainland is bordered by the Caribbean Sea to the north, Venezuela to the east, Brazil to the southeast, Peru and Ecuador to the south and southwest, the Pacific Ocean to the west, and Panama to the northwest. Colombia is divided into 32 departments.",
    "shortdesc": "Country in South America",
    "image": "Flag_of_Colombia.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 2497.0
   },
   {
    "id": "lake-guatavita",
@@ -9171,7 +9395,8 @@
    "summary": "Lake Guatavita (Spanish: Laguna Guatavita) is located in the Cordillera Oriental of the Colombian Andes in the municipality of Sesquilé in the Almeidas Province, Cundinamarca department of Colombia, 57 km (35 mi) northeast of Bogotá, the capital of Colombia. This lake is famous for being the inspiration for the legendary El Dorado.",
    "shortdesc": "Lake in Cundinamarca Department, Colombia",
    "image": "LagunaDeGuatavita.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 2983.0
   },
   {
    "id": "magdalena-river",
@@ -9209,7 +9434,8 @@
    "summary": "The Magdalena River (Spanish: Río Magdalena, Spanish pronunciation: [ˈri.o maɣðaˈlena]; less commonly Rio Grande de la Magdalena) is the main river of Colombia, flowing northward about 1,528 kilometres (949 mi) through the western half of the country. It takes its name from the biblical figure Mary Magdalene. It is navigable through much of its lower reaches, in spite of the shifting sand bars at the mouth of its delta, as far as Honda, at the downstream base of its rapids.",
    "shortdesc": "River in Colombia",
    "image": "Rio_Magdalena_Delta_landsat.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 642.0
   },
   {
    "id": "brazil-mica",
@@ -9250,7 +9476,8 @@
    "summary": "Minas Gerais (English: , MIN-əs zhə-RYS; Brazilian Portuguese: [ˈminɐz ʒeˈɾajs] ; lit. 'General Mines') is one of the 27 federative units of Brazil, being the fourth largest state by area and the second largest in number of inhabitants with a population of 20,539,989 according to the 2022 census. Located in the Southeast Region of the country, it is bordered by São Paulo in the south and southwest; Mato Grosso do Sul to the west; Goiás and the Federal District to the northwest; Bahia to the north and northeast; Espírito Santo to the east; and Rio de Janeiro to the southeast.",
    "shortdesc": "State in Brazil",
    "image": "Bandeira_de_Minas_Gerais.svg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1073.0
   },
   {
    "id": "atacama-giant",
@@ -9291,7 +9518,8 @@
    "summary": "The Atacama Giant (Spanish: Gigante de Atacama) is an anthropomorphic geoglyph on the Cerro Unita area of the Atacama Desert, Chile. At about 119 meters (390 feet), is the largest prehispanic anthropomorphic geoglyph. It has been suggested that it represents a shaman, spiritual figure or deity.",
    "shortdesc": "Geoglyph in the Atacama Desert, Chile",
    "image": "The_Giant_of_Atacama.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1247.0
   },
   {
    "id": "el-enladrillado",
@@ -9332,7 +9560,8 @@
    "summary": "Altos de Lircay National Reserve is a 121.63 km2 (46.96 mi2) nature reserve located in Talca Province, Maule Region, Chile. It lies in a pre-Andean area close to Radal Siete Tazas National Park, as well as the Descabezado Grande and Cerro Azul volcanoes.",
    "shortdesc": "National reserve in Chile",
    "image": "Bosque_Otoñal_Reserva_Nacional_Altos_de_Lircay_22.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1591.0
   },
   {
    "id": "antofagasta-concepcion",
@@ -9387,7 +9616,8 @@
    "summary": "Antofagasta (Spanish pronunciation: [antofaˈɣasta] ) is a port city in northern Chile, about 1,100 kilometres (700 mi) north of Santiago. It is the capital of Antofagasta Province and Antofagasta Region. As of the 2024 census, with a population of 401,096, it is the 5th-largest city in Chile.",
    "shortdesc": "City and commune in northern Chile",
    "image": "Montaje_de_Antofagasta.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "tierra-del-fuego",
@@ -9429,7 +9659,8 @@
    "summary": "The Selkʼnam, also known as the Onawo or Ona people, are an Indigenous people in the Patagonian region of southern Argentina and Chile, including the Tierra del Fuego islands. They were one of the last native groups in South America to be encountered by migrant Europeans in the late 19th century.",
    "shortdesc": "Ethnic group in Patagonia and Tierra del Fuego",
    "image": "Niños_Selknam.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 107.0
   },
   {
    "id": "galapagos-vents",
@@ -9470,7 +9701,8 @@
    "summary": "Hydrothermal vents are fissures on the seabed from which geothermally heated water discharges. They are commonly found near volcanically active places, areas where tectonic plates are moving apart at mid-ocean ridges, ocean basins, and hotspots. The dispersal of hydrothermal fluids throughout the global ocean at active vent sites creates hydrothermal plumes.",
    "shortdesc": "Fissure in a planet's surface from which heated water emits",
    "image": "Blacksmoker_in_Atlantic_Ocean.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "ramesseum",
@@ -9512,7 +9744,8 @@
    "summary": "The Ramesseum is the memorial temple (or mortuary temple) of Pharaoh Ramesses II (\"Ramesses the Great\"). It is located in the Theban Necropolis in Upper Egypt, on the west of the River Nile, across from the modern city of Luxor.",
    "shortdesc": "Memorial temple of Ramesses II in Egypt",
    "image": "SFEC_AEH_-ThebesNecropolis-2010-RamsesII-021.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 85.0
   },
   {
    "id": "cave-of-tayos",
@@ -9555,7 +9788,8 @@
    "summary": "Cueva de los Tayos (Spanish, \"Cave of the Oilbirds\") is a cave located on the eastern slopes of the Andes Mountains in the Morona-Santiago province of Ecuador. It owes its name to being the home of the native nocturnal birds called tayos (Steatornis caripensis), which live in numerous caves in the Andean jungles of South America.",
    "shortdesc": "Cave in Ecuador",
    "image": "Corredor_-_Cueva_de_los_Tayos.JPG",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 590.0
   },
   {
    "id": "antarctica-victoria-land",
@@ -9597,7 +9831,8 @@
    "summary": "Victoria Land is a region in eastern Antarctica which fronts the western side of the Ross Sea and the Ross Ice Shelf, extending southward from about 70°30'S to 78°00'S, and westward from the Ross Sea to the edge of the Antarctic Plateau. It was discovered by Captain James Clark Ross in January 1841 and named after Queen Victoria. The rocky promontory of Minna Bluff is often regarded as the southernmost point of Victoria Land, and separates the Scott Coast to the north from the Hillary Coast of the Ross Dependency to the south.",
    "shortdesc": "Region of Eastern Antarctica",
    "image": "AN_-Victoria_Land.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 1967.0
   },
   {
    "id": "mcmurdo-station",
@@ -9643,7 +9878,8 @@
    "summary": "McMurdo Station is an American Antarctic research station on the southern tip of Ross Island. It is operated by the United States through the United States Antarctic Program (USAP), a branch of the National Science Foundation (NSF). The station is the largest community in Antarctica, capable of supporting up to 1,200 residents, though the population fluctuates seasonally; during the Antarctic night, there are fewer than two hundred people.",
    "shortdesc": "American Antarctic base",
    "image": "McMurdo_Station_From_The_Top_Of_Observation_Hill.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 35.0
   },
   {
    "id": "davis-station",
@@ -9682,7 +9918,8 @@
    "summary": "Davis Station, commonly called Davis, is one of three permanent bases and research outposts in Antarctica maintained by the Australian Antarctic Division (AAD). Davis is situated on the coast of Cooperation Sea in Princess Elizabeth Land, Ingrid Christensen Coast in the Australian Antarctic Territory, a territory claimed by Australia. Davis lies in an Antarctic oasis, a mostly ice-free area known as the Vestfold Hills.",
    "shortdesc": "Capital of the Australian Antarctic Territory",
    "image": "Davis_Station_November_2005.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 17.0
   },
   {
    "id": "mount-erebus",
@@ -9722,7 +9959,8 @@
    "summary": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441 ft), it is the second most prominent mountain in Antarctica (after Mount Vinson) and the second-highest volcano in Antarctica (after the dormant Mount Sidley). It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova.",
    "shortdesc": "Volcano on Ross Island, Antarctica",
    "image": "Mt_erebus.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 3750.0
   },
   {
    "id": "south-georgia",
@@ -9762,7 +10000,8 @@
    "summary": "South Georgia is an island in the South Atlantic Ocean that is part of the British Overseas Territory of South Georgia and the South Sandwich Islands. It lies around 1,400 kilometres (870 mi; 756 nmi) east of the Falkland Islands. Stretching in the east–west direction, South Georgia is around 170 kilometres (106 mi) long and has a maximum width of 35 kilometres (22 mi).",
    "shortdesc": "Island in the South Atlantic Ocean",
    "image": "South_Georgia_Island_as_seen_by_Sentinel-2.jpg",
-   "coord_source": "wikipedia"
+   "coord_source": "wikipedia",
+   "ground_m": 1029.0
   },
   {
    "id": "bermuda-triangle",
@@ -9803,7 +10042,8 @@
    "summary": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the North Atlantic Ocean, roughly bounded by Florida, Bermuda, and Puerto Rico. Since the mid-20th century, it has been the focus of an urban legend suggesting that many aircraft, ships, and people have disappeared there under mysterious circumstances. However, extensive investigations by reputable sources, including the U.S. federal government and scientific organizations, have found no evidence of unusual activity, attributing reported incidents to natural phenomena, human error, and misinterpretation.",
    "shortdesc": "Urban legend based on a region in North Atlantic",
    "image": "Bermuda_Triangle.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "dragons-triangle",
@@ -9844,7 +10084,8 @@
    "summary": "The Devil's Sea (Japanese: 魔の海, Hepburn: Ma no Umi), also known as the Devil's triangle, the Dragon's Triangle, the Formosa Triangle and the Pacific Bermuda Triangle, is a region of the Pacific, south of Tokyo. The Devil's Sea is sometimes considered a paranormal location, though the veracity of these claims has been questioned.",
    "shortdesc": "Site of reported paranormal activity",
    "image": "Map_of_Izu_Islands.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "mediterranean-sea",
@@ -9884,7 +10125,8 @@
    "summary": "The Mediterranean Sea ( MED-ih-tə-RAY-nee-ən) is an intercontinental sea situated between Europe, Asia, and Africa. It is surrounded by the Mediterranean basin and almost completely enclosed by land: on the east by the Levant in West Asia, on the north by Anatolia in West Asia and Southern Europe, and on the south by North Africa. To its west it is connected to the Atlantic Ocean via the Strait of Gibraltar that separates the Iberian Peninsula in Europe from Morocco in Africa by only 14 km (9 mi); additionally, it is connected to the Black Sea through the Bosporus strait that intersects Turkey in the northeast and the Red Sea via the Suez Canal in the southeast.",
    "shortdesc": "Sea between Africa, Asia, and Europe",
    "image": "Mediterranean_Sea_16.61811E_38.99124N.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "english-channel",
@@ -9924,7 +10166,8 @@
    "summary": "The English Channel, also known as the Channel, is an arm of the Atlantic Ocean that separates Southern England from northern France. It links to the southern part of the North Sea by the Strait of Dover at its northeastern end. It is the busiest shipping area in the world.",
    "shortdesc": "Body of water between Great Britain and France",
    "image": "English_Channel_Satellite.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "bering-sea",
@@ -9964,7 +10207,8 @@
    "summary": "The Bering Sea ( BAIR-ing, BERR-ing, US also BEER-ing; Russian: Бе́рингово мо́ре, romanized: Béringovo móre, IPA: [ˈbʲerʲɪnɡəvə ˈmorʲe]) is a marginal sea of the Northern Pacific Ocean. It forms, along with the Bering Strait, the divide between the two largest landmasses on Earth: Eurasia and the Americas. It comprises a deep water basin, which then rises through a narrow slope into the shallower water above the continental shelves.",
    "shortdesc": "Sea of the northern Pacific Ocean off the coast of Alaska and Russia",
    "image": "LA2-Bering-Sea-UTM-zones.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "indian-ocean",
@@ -10004,7 +10248,8 @@
    "summary": "The Indian Ocean is the third-largest of the world's five oceanic divisions, covering 70,560,000 km2 (27,240,000 sq mi) or approximately 20% of the water area of Earth's surface. It is bounded by Asia to the north, Africa to the west and Australia to the east. To the south it is bounded by the Southern Ocean or Antarctica, depending on the definition in use.",
    "shortdesc": "Oceanic division",
    "image": "Indian_Ocean-CIA_WFB_Map.png",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": 0.0
   },
   {
    "id": "sea-of-tranquility",
@@ -10056,7 +10301,8 @@
    "summary": "Mare Tranquillitatis (Latin for Sea of Tranquillity or Sea of Tranquility) is a lunar mare that sits within the Tranquillitatis basin on the Moon. It contains Tranquility Base, the first location on another celestial body to be visited by humans.",
    "shortdesc": "Lunar mare",
    "image": "Mare_Tranquillitatis.jpg",
-   "coord_source": "authored"
+   "coord_source": "authored",
+   "ground_m": null
   }
  ]
 }

@@ -35,6 +35,8 @@
   "longitude": 13.393333,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 45.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 1500,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Humboldt University of Berlin",

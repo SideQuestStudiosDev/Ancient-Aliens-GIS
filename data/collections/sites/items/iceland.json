@@ -39,6 +39,8 @@
   "longitude": -19.0208,
   "celestial_body": "earth",
   "radius_km": 300,
+  "ground_elevation_m": 816.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 600000,
   "camera_pitch_deg": -70,
   "wikipedia_title": "Iceland",

@@ -52,9 +52,11 @@ actually does, not what would sound better.
 - **Filter** by 15 categories and 12 world regions; sort A–Z, by region, by
   category, or by distance from the current view.
 - **Read a dossier** for every site: the claim as presented on screen, an
-  encyclopaedic summary, a context note, full geographic data, and links out
-  to Wikipedia, Wikidata, OpenStreetMap, primary institutional sources, and
-  the site's own GeoJSON.
+  encyclopaedic summary, a context note, full geographic data (coordinates in
+  decimal and DMS, CRS, ground elevation, extent, positional precision), and
+  links out to Wikipedia, Wikidata, OpenStreetMap, a scoped search of the
+  broadcaster's own site, primary institutional sources, and the site's own
+  GeoJSON.
 - **Switch imagery**: 9 base layers and 3 overlays across OGC WMTS and XYZ,
   including Sentinel-2 cloudless, NASA VIIRS and Esri World Imagery.
 - **Inspect the service**: a live OGC tab showing endpoints, declared
@@ -238,7 +240,9 @@ Corrections to coordinates, dating or context are especially welcome. See
 - **Imagery**: Esri, NASA EOSDIS GIBS, EOX (Sentinel-2 cloudless is
   **CC BY-NC-SA 4.0 — non-commercial**), OpenStreetMap contributors,
   OpenTopoMap. Attribution is rendered in the app and must stay there.
-- **Elevation**: Esri Terrain3D.
+- **Elevation**: Esri Terrain3D for the 3D terrain mesh; per-site ground
+  elevation from the [Open-Meteo elevation API](https://open-meteo.com/)
+  (Copernicus DEM), CC BY 4.0.
 - **Globe**: [CesiumJS](https://cesium.com/platform/cesiumjs/), Apache 2.0.
 
 *Ancient Aliens* is a trademark of A&E Television Networks. This is an

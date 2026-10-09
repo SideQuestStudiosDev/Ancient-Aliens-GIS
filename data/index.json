@@ -39,5 +39,5 @@
   "The collection is small (hundreds of features, well under 1 MB gzipped), which is why returning it whole is practical.",
   "For a deployment that honours the Core parameter requirements, run the GeoServer configuration in geoserver/ — it serves the same data as OGC API - Features, WFS 2.0.0 and WMS 1.3.0 over the identical schema."
  ],
- "x-generated": "2026-10-09T07:57:18Z"
+ "x-generated": "2026-10-09T08:18:36Z"
 }

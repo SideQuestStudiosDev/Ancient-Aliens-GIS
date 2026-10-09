@@ -33,6 +33,8 @@
   "longitude": 34.5,
   "celestial_body": "earth",
   "radius_km": 250,
+  "ground_elevation_m": 2878.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 300000,
   "camera_pitch_deg": -65,
   "wikipedia_title": "Taurus Mountains",

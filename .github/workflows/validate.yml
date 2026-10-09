@@ -31,13 +31,16 @@ jobs:
 
       - name: Rebuild offline and diff
         # The committed data/ tree must be reproducible from data-source/.
-        # --offline uses the cached Wikipedia records, so this check does not
-        # depend on the network or on live article edits.
+        # --offline reads the committed cache, so this needs no network and
+        # does not drift when an upstream article is edited. SOURCE_DATE_EPOCH
+        # pins the generated timestamp; without it the clock alone would make
+        # every run differ.
         run: |
+          export SOURCE_DATE_EPOCH="$(git log -1 --format=%ct -- data/)"
           python3 scripts/build_data.py --offline
-          if ! git diff --quiet -- data/ data-source/sites.json; then
+          if ! git diff --quiet -- data/ data-source/sites.json sitemap.xml; then
             echo "::error::data/ is out of date. Run scripts/build_data.py and commit the result."
-            git --no-pager diff --stat -- data/ data-source/sites.json
+            git --no-pager diff --stat -- data/ data-source/sites.json sitemap.xml
             exit 1
           fi
           echo "data/ is reproducible from data-source/"

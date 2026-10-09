@@ -36,6 +36,8 @@
   "longitude": -91.848056,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 338.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 8000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Barron, Wisconsin",

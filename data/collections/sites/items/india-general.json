@@ -39,6 +39,8 @@
   "longitude": 78.5,
   "celestial_body": "earth",
   "radius_km": 1200,
+  "ground_elevation_m": 413.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 2500000,
   "camera_pitch_deg": -72,
   "wikipedia_title": "India",

@@ -40,6 +40,8 @@
   "longitude": -68.5,
   "celestial_body": "earth",
   "radius_km": 200,
+  "ground_elevation_m": 107.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 400000,
   "camera_pitch_deg": -65,
   "wikipedia_title": "Selkʼnam people",

@@ -39,6 +39,8 @@
   "longitude": -116.5,
   "celestial_body": "earth",
   "radius_km": 300,
+  "ground_elevation_m": 541.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 700000,
   "camera_pitch_deg": -68,
   "wikipedia_title": "Mojave Desert",

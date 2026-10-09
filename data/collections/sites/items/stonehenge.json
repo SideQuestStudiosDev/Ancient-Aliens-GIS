@@ -39,6 +39,8 @@
   "longitude": -1.826111,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 102.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 600,
   "camera_pitch_deg": -32,
   "wikipedia_title": "Stonehenge",

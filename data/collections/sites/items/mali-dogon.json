@@ -39,6 +39,8 @@
   "longitude": -3.6,
   "celestial_body": "earth",
   "radius_km": 60,
+  "ground_elevation_m": 388.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 20000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Bandiagara Escarpment",

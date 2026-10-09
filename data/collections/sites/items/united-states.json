@@ -40,6 +40,8 @@
   "longitude": -98.5795,
   "celestial_body": "earth",
   "radius_km": 2000,
+  "ground_elevation_m": 576.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 4500000,
   "camera_pitch_deg": -78,
   "wikipedia_title": "Unidentified flying object",

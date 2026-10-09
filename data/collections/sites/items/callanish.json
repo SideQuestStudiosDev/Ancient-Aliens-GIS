@@ -38,6 +38,8 @@
   "longitude": -6.745145,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 19.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 700,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Callanish Stones",

@@ -36,6 +36,8 @@
   "longitude": 35.206389,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 762.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 3000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Bethlehem",

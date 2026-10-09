@@ -2,9 +2,12 @@
 """
 Build the static OGC API - Features tree for Ancient Aliens GIS.
 
-  python3 scripts/build_data.py              # enrich from Wikipedia, then build
-  python3 scripts/build_data.py --offline    # build from authored data only
+  python3 scripts/build_data.py              # enrich from upstream, then build
+  python3 scripts/build_data.py --offline    # build from the committed cache
   python3 scripts/build_data.py --check      # validate, write nothing
+
+Set SOURCE_DATE_EPOCH to pin the timestamp written into the generated
+documents, which makes the build byte-for-byte reproducible.
 
 Outputs
 -------
@@ -19,8 +22,9 @@ data/collections/sites/items/<id>.json            individual Feature documents
 data/collections/sites/queryables.json            OGC API Features Part 3 queryables
 data/app-index.json                               slim client index (fast first paint)
 
-Wikipedia enrichment is cached in .cache/wikipedia.json so repeat builds are
-offline-safe and reproducible. Delete the cache to refresh.
+Upstream lookups are cached in data-source/cache/ and committed, so
+`--offline` reproduces the published tree exactly and CI needs no
+network. Delete a cache file to refresh it from upstream.
 """
 from __future__ import annotations
 
@@ -42,8 +46,12 @@ sys.path.insert(0, os.path.join(ROOT, "data-source"))
 import catalog  # noqa: E402  (path set above)
 
 OUT_DATA = os.path.join(ROOT, "data")
-CACHE_DIR = os.path.join(ROOT, ".cache")
+# Committed, not a scratch directory: these two files pin the upstream
+# data the build depends on, so `--offline` reproduces the published
+# tree byte for byte on a fresh checkout and CI needs no network.
+CACHE_DIR = os.path.join(ROOT, "data-source", "cache")
 CACHE_FILE = os.path.join(CACHE_DIR, "wikipedia.json")
+ELEV_CACHE = os.path.join(CACHE_DIR, "elevation.json")
 
 # Canonical public base. Overridable so forks and local previews emit correct
 # absolute link hrefs without editing the script.
@@ -59,6 +67,14 @@ WIKI_BATCH = 20          # titles per request (extracts cap the batch size)
 WIKI_PAUSE = 1.2         # courtesy delay between requests
 WIKI_RETRIES = 6         # attempts per batch before giving up
 WIKI_BACKOFF = 4.0       # seconds, doubled each retry
+
+# Ground elevation. Baked in at build time so the viewer can place the
+# camera above the terrain on the first frame rather than waiting on a
+# runtime elevation sample that may take seconds — or, on a slow link,
+# longer than anyone will wait, leaving the camera inside a mountain.
+ELEV_API = "https://api.open-meteo.com/v1/elevation"
+ELEV_BATCH = 25
+ELEV_PAUSE = 1.5
 
 # Accept a Wikipedia coordinate over the authored one only when the two agree
 # to within this distance. A larger gap means the article is about a different
@@ -298,6 +314,95 @@ def enrich(sites: list[dict], *, offline: bool) -> dict:
     return stats
 
 
+
+# --------------------------------------------------------------------------- #
+# ground elevation
+# --------------------------------------------------------------------------- #
+def elev_fetch(points: list[tuple[float, float]]) -> list[float] | None:
+    """One batch of (lat, lon) -> metres above sea level."""
+    params = {
+        "latitude": ",".join(f"{lat:.5f}" for lat, _ in points),
+        "longitude": ",".join(f"{lon:.5f}" for _, lon in points),
+    }
+    url = ELEV_API + "?" + urllib.parse.urlencode(params)
+    req = urllib.request.Request(url, headers={"User-Agent": UA,
+                                               "Accept": "application/json"})
+    with urllib.request.urlopen(req, timeout=45) as resp:
+        data = json.load(resp)
+    out = data.get("elevation")
+    return out if isinstance(out, list) and len(out) == len(points) else None
+
+
+def elev_fetch_retrying(points, *, label=""):
+    delay = WIKI_BACKOFF
+    for attempt in range(1, WIKI_RETRIES + 1):
+        try:
+            return elev_fetch(points)
+        except urllib.error.HTTPError as exc:
+            retryable = exc.code in (429, 500, 502, 503, 504)
+            reason = f"HTTP {exc.code}"
+        except (urllib.error.URLError, TimeoutError, ValueError,
+                ConnectionError) as exc:
+            retryable, reason = True, str(exc)[:70]
+        else:
+            break
+        if not retryable or attempt == WIKI_RETRIES:
+            print(f"  ! {label} gave up ({reason})")
+            return None
+        print(f"  . {label} {reason}; retry in {delay:.0f}s")
+        time.sleep(delay)
+        delay = min(delay * 2, 90.0)
+    return None
+
+
+def add_elevation(sites: list[dict], *, offline: bool) -> int:
+    """Attach `ground_m` to every terrestrial site, cached between builds."""
+    cache = {}
+    if os.path.exists(ELEV_CACHE):
+        try:
+            with open(ELEV_CACHE, encoding="utf-8") as fh:
+                cache = json.load(fh)
+        except (OSError, ValueError):
+            cache = {}
+
+    def key(site):
+        return f"{site['lat']:.5f},{site['lon']:.5f}"
+
+    targets = [s for s in sites if not s["offworld"]]
+    todo = [s for s in targets if key(s) not in cache]
+
+    if todo and not offline:
+        print(f"  fetching ground elevation for {len(todo)} sites "
+              f"({len(targets) - len(todo)} cached)…")
+        batches = [todo[i:i + ELEV_BATCH]
+                   for i in range(0, len(todo), ELEV_BATCH)]
+        for n, batch in enumerate(batches, 1):
+            got = elev_fetch_retrying(
+                [(s["lat"], s["lon"]) for s in batch],
+                label=f"elevation batch {n}/{len(batches)}")
+            if got:
+                for site, metres in zip(batch, got):
+                    cache[key(site)] = round(float(metres), 1)
+                with open(ELEV_CACHE, "w", encoding="utf-8") as fh:
+                    json.dump(cache, fh, indent=1, sort_keys=True)
+            print(f"    {min(n * ELEV_BATCH, len(todo))}/{len(todo)}"
+                  + ("" if got else "  (skipped)"))
+            time.sleep(ELEV_PAUSE)
+    elif todo:
+        print(f"  offline: {len(todo)} elevations unresolved, assuming 0 m")
+
+    resolved = 0
+    for site in sites:
+        if site["offworld"]:
+            site["ground_m"] = None
+            continue
+        value = cache.get(key(site))
+        site["ground_m"] = value
+        if value is not None:
+            resolved += 1
+    return resolved
+
+
 # --------------------------------------------------------------------------- #
 # GeoJSON / OGC emission
 # --------------------------------------------------------------------------- #
@@ -382,6 +487,10 @@ def feature_for(site: dict) -> dict:
             "longitude": None if site["offworld"] else round(site["lon"], 6),
             "celestial_body": "moon" if site["offworld"] else "earth",
             "radius_km": site["radius_km"] or None,
+            "ground_elevation_m": site.get("ground_m"),
+            "ground_elevation_source": (
+                "Open-Meteo elevation API (Copernicus DEM)"
+                if site.get("ground_m") is not None else ""),
             "camera_height_m": site["height"],
             "camera_pitch_deg": site["pitch"],
             "wikipedia_title": site["wikipedia_title"],
@@ -421,8 +530,24 @@ STATIC_LIMITATIONS = [
 ]
 
 
+def build_timestamp() -> str:
+    """The build time stamped into the generated documents.
+
+    Honours SOURCE_DATE_EPOCH (the reproducible-builds convention). Without
+    it the clock makes every rebuild differ, which would turn CI's
+    "regenerate and diff" check — the thing that keeps data/ honest about
+    data-source/ — into a guaranteed failure.
+    """
+    epoch = os.environ.get("SOURCE_DATE_EPOCH")
+    if epoch and epoch.isdigit():
+        when = datetime.fromtimestamp(int(epoch), tz=timezone.utc)
+    else:
+        when = datetime.now(timezone.utc)
+    return when.strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
 def build(sites: list[dict], stats: dict) -> None:
-    now = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    now = build_timestamp()
     features = [feature_for(s) for s in sites]
 
     earthly = [f for f in features if f["geometry"] is not None]
@@ -591,6 +716,7 @@ def build(sites: list[dict], stats: dict) -> None:
             "lat": f["properties"]["latitude"],
             "lon": f["properties"]["longitude"],
             "h": f["properties"]["camera_height_m"],
+            "g": f["properties"]["ground_elevation_m"],
             "pi": f["properties"]["camera_pitch_deg"],
             "rk": f["properties"]["radius_km"],
             "off": f["properties"]["celestial_body"] != "earth",
@@ -613,6 +739,7 @@ def build(sites: list[dict], stats: dict) -> None:
     print(f"  bbox            {extent}")
     print(f"\n  wikipedia: {stats['geocoded']} geocoded, "
           f"{stats['summarised']} summarised")
+    print(f"  ground elevation: {stats.get('elevations', 0)} sites")
     if stats["missing"]:
         print(f"  ! {len(stats['missing'])} unresolved Wikipedia titles:")
         for sid, title in stats["missing"][:20]:
@@ -772,6 +899,7 @@ def main() -> int:
         return 0
 
     stats = enrich(sites, offline=args.offline)
+    stats["elevations"] = add_elevation(sites, offline=args.offline)
     write_json(os.path.join(ROOT, "data-source", "sites.json"),
                {"count": len(sites), "sites": sites})
     build(sites, stats)

@@ -88,7 +88,9 @@ Every feature carries:
 | `latitude`, `longitude` | number | decimal degrees |
 | `celestial_body` | enum | `earth` · `moon` |
 | `radius_km` | number \| null | set for `area` features |
-| `camera_height_m`, `camera_pitch_deg` | number | presentation hint |
+| `ground_elevation_m` | number \| null | metres above sea level, Copernicus DEM |
+| `ground_elevation_source` | string | attribution for the above |
+| `camera_height_m`, `camera_pitch_deg` | number | presentation hint, height is **above ground** |
 | `wikipedia_title`, `wikipedia_url`, `wikipedia_verified` | | verified at build time |
 | `wikidata_id` | string | QID |
 
@@ -155,7 +157,21 @@ it is the reason that check exists.
 
 ## 4. Elevation
 
-3D terrain uses Esri's Terrain3D image service via Cesium's
+Two different elevation sources, for two different jobs.
+
+**Ground elevation per site** is baked into the catalogue at build time from
+the Open-Meteo elevation API (Copernicus DEM), and published as
+`ground_elevation_m`. It exists because `camera_height_m` is a height
+*above ground*, and resolving that at runtime is unreliable: Cesium's
+`sampleTerrainMostDetailed` fetches tiles and can take seconds, while
+`globe.getHeight` returns whatever coarse tile is resident and was wrong by
+1,528 m at the Bighorn Medicine Wheel. With the DEM value in the catalogue
+the camera is correctly placed on the first frame; the runtime sample still
+runs afterwards and nudges the camera if it disagrees by more than 150 m.
+Spot-checked against Cesium's own terrain, the two agree to within a few
+metres (Machu Picchu 2436 against 2442; Göbekli Tepe 779 against 783).
+
+**3D terrain** uses Esri's Terrain3D image service via Cesium's
 `ArcGISTiledElevationTerrainProvider`, which serves LERC-compressed
 elevation tiles. Verified to work without a token. Chosen because the
 alternative with comparable coverage — Cesium World Terrain — requires a

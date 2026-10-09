@@ -72,6 +72,7 @@ function indexFromFeatureCollection(fc) {
       t: [...(p.tags || []), ...(p.aliases || [])],
       lat: p.latitude, lon: p.longitude,
       h: p.camera_height_m ?? 5000,
+      g: p.ground_elevation_m ?? null,
       pi: p.camera_pitch_deg ?? -40,
       rk: p.radius_km ?? null,
       off: p.celestial_body && p.celestial_body !== 'earth',

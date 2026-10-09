@@ -39,6 +39,8 @@
   "longitude": -112.1401,
   "celestial_body": "earth",
   "radius_km": 70,
+  "ground_elevation_m": 2094.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 25000,
   "camera_pitch_deg": -30,
   "wikipedia_title": "Grand Canyon",

@@ -33,6 +33,8 @@
   "longitude": null,
   "celestial_body": "moon",
   "radius_km": null,
+  "ground_elevation_m": null,
+  "ground_elevation_source": "",
   "camera_height_m": 0,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Mare Tranquillitatis",

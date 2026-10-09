@@ -39,6 +39,8 @@
   "longitude": -2.216861,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 118.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 3000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "RAF Rudloe Manor",

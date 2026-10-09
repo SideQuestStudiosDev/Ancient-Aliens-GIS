@@ -36,6 +36,8 @@
   "longitude": 105.2142,
   "celestial_body": "earth",
   "radius_km": 40,
+  "ground_elevation_m": 36.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 60000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Tuyên Quang province",

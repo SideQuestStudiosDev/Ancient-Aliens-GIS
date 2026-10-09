@@ -655,9 +655,21 @@ export function highlight(siteId) {
  * and only if the correction is big enough to be worth a second move and
  * the user has not picked something else meanwhile.
  */
-function coarseGround(lon, lat) {
+/**
+ * Best ground elevation available without waiting.
+ *
+ * Preference order:
+ *   1. the value baked into the catalogue at build time (Copernicus DEM via
+ *      the Open-Meteo elevation API) — always present, always instant, and
+ *      within a few metres of what Cesium's terrain reports;
+ *   2. whatever Cesium has resident, which is wrong by hundreds of metres
+ *      in steep country when only a coarse tile has loaded;
+ *   3. sea level.
+ */
+function coarseGround(site, lon, lat) {
   const Cesium = C();
   if (globe.terrainMode === 'ellipsoid') return 0;
+  if (Number.isFinite(site?.g)) return site.g;
   const h = globe.scene.globe.getHeight(
     Cesium.Cartographic.fromDegrees(lon, lat));
   return Number.isFinite(h) ? h : 0;
@@ -719,7 +731,7 @@ export function flyToSite(site, { duration } = {}) {
     return target;
   };
 
-  const estimate = coarseGround(site.lon, site.lat);
+  const estimate = coarseGround(site, site.lon, site.lat);
   const flown = goTo(estimate, d);
 
   // Correct once the real elevation is known.
@@ -727,7 +739,7 @@ export function flyToSite(site, { duration } = {}) {
     if (ground == null) return;
     if (globe.pendingFlight !== site.id) return;      // superseded
     const target = Math.max(ground + above, ground + MIN_CLEARANCE);
-    if (Math.abs(target - flown) < 100) return;        // close enough
+    if (Math.abs(target - flown) < 150) return;        // close enough
     goTo(ground, prefersReducedMotion() ? 0 : 0.9);
   });
 }

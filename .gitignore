@@ -1,5 +1,5 @@
-# Build caches
-.cache/
+# (data-source/cache/ is deliberately committed: it pins the upstream
+#  Wikipedia and elevation lookups so builds are reproducible offline.)
 
 # Python
 __pycache__/

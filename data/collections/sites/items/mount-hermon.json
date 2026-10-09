@@ -37,6 +37,8 @@
   "longitude": 35.8575,
   "celestial_body": "earth",
   "radius_km": null,
+  "ground_elevation_m": 2805.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 12000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Mount Hermon",

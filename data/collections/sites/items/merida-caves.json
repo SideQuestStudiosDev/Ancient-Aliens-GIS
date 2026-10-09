@@ -40,6 +40,8 @@
   "longitude": -89.5926,
   "celestial_body": "earth",
   "radius_km": 70,
+  "ground_elevation_m": 10.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 60000,
   "camera_pitch_deg": -40.0,
   "wikipedia_title": "Cenote",

@@ -38,6 +38,8 @@
   "longitude": -178.0,
   "celestial_body": "earth",
   "radius_km": 800,
+  "ground_elevation_m": 0.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 1800000,
   "camera_pitch_deg": -72,
   "wikipedia_title": "Bering Sea",

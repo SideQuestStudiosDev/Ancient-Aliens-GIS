@@ -38,6 +38,8 @@
   "longitude": 18.0,
   "celestial_body": "earth",
   "radius_km": 1200,
+  "ground_elevation_m": 0.0,
+  "ground_elevation_source": "Open-Meteo elevation API (Copernicus DEM)",
   "camera_height_m": 2500000,
   "camera_pitch_deg": -74,
   "wikipedia_title": "Mediterranean Sea",
