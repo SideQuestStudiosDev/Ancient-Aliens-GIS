@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "bimini-road",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -79.278826,
+   25.766967
+  ]
+ },
+ "properties": {
+  "name": "Bimini Road",
+  "subtitle": "North Bimini, Bahamas",
+  "country": "Bahamas",
+  "region": "Central America & Caribbean",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "beachrock",
+   "cayce",
+   "submerged",
+   "atlantis-claim"
+  ],
+  "aliases": [
+   "Bahamas",
+   "North Bimini",
+   "Edgar Cayce",
+   "Bimini Wall"
+  ],
+  "claim": "A half-mile line of rectilinear blocks in 5 m of water off North Bimini, found in 1968 — the year Edgar Cayce had predicted Atlantis would begin to re-emerge near Bimini — is presented as a paved road or harbour wall.",
+  "context": "Petrographic and radiocarbon work identifies the blocks as beachrock: carbonate sand cemented in the intertidal zone, which fractures into rectangular joints as it is undercut. The constituent grains and shell fragments run in continuous stratigraphic order across adjacent blocks, which excludes quarrying and placement, and the cement dates to roughly 2,000–4,000 years ago. Comparable formations occur throughout the Bahamas and the Mediterranean.",
+  "summary": "The Bimini Road, sometimes called the Bimini Wall, is an underwater rock formation near the island of North Bimini in the Bimini chain of islands. The Road consists of a 0.8 km (0.50 mi)-long northeast-southwest linear feature composed of roughly rectangular limestone blocks. Various claims have been made for this feature being either a wall, road, pier, breakwater, or other man-made structure.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Underwater rock formation near North Bimini island in the Bahamas",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.766967,
+  "longitude": -79.278826,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Bimini Road",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bimini_Road",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2734050",
+  "image_file": "Bimini_island.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bimini-road.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bimini Road — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bimini-road",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bimini Road in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bimini_Road",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bimini Road"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2734050",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2734050"
+  }
+ ],
+ "bbox": [
+  -79.278826,
+  25.766967,
+  -79.278826,
+  25.766967
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "archuleta-mesa",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -106.99,
+   36.95
+  ]
+ },
+ "properties": {
+  "name": "Archuleta Mesa & Dulce",
+  "subtitle": "Jicarilla Apache Nation, New Mexico, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "dulce-base",
+   "cattle-mutilation",
+   "jicarilla"
+  ],
+  "aliases": [
+   "Dulce",
+   "Dulce Base",
+   "Jicarilla Apache",
+   "New Mexico"
+  ],
+  "claim": "A seven-level joint human–alien laboratory is said to lie inside the mesa above Dulce, with genetic experimentation on its lower floors, tied to the regional cattle-mutilation reports of the 1970s.",
+  "context": "The account originates with Paul Bennewitz in the early 1980s. Declassified Air Force Office of Special Investigations records and the testimony of Richard Doty describe a deliberate disinformation effort directed at Bennewitz, who was independently monitoring Kirtland AFB transmissions. The 1979–80 Rommel report, a federally funded investigation by a former FBI agent, attributed New Mexico's mutilations to ordinary scavenging — soft tissue removed by birds and small predators. No excavation, geophysical survey or construction record supports a facility.",
+  "summary": "Dulce Base is the subject of a conspiracy theory claiming that a jointly-operated human and alien underground facility exists under Archuleta Mesa near the town of Dulce, New Mexico, in the United States. Claims of alien activity there first arose from Albuquerque businessman Paul Bennewitz.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Conspiracy theory",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.95,
+  "longitude": -106.99,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Dulce Base",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dulce_Base",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q3447736",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/archuleta-mesa.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Archuleta Mesa & Dulce — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=archuleta-mesa",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Archuleta Mesa & Dulce in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Dulce_Base",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Dulce Base"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q3447736",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q3447736"
+  }
+ ],
+ "bbox": [
+  -106.99,
+  36.95,
+  -106.99,
+  36.95
+ ]
+}

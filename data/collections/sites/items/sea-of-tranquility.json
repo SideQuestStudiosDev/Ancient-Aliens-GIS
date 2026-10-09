@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "sea-of-tranquility",
+ "geometry": null,
+ "properties": {
+  "name": "Sea of Tranquility",
+  "subtitle": "Mare Tranquillitatis, the Moon",
+  "country": "",
+  "region": "Beyond Earth",
+  "category": "offworld",
+  "category_label": "Beyond Earth",
+  "tags": [
+   "moon",
+   "apollo-11",
+   "mare",
+   "selenography"
+  ],
+  "aliases": [
+   "Mare Tranquillitatis",
+   "Moon",
+   "Apollo 11",
+   "Tranquility Base"
+  ],
+  "claim": "Apollo 11's landing site is presented as a destination chosen on prior knowledge, with the mission's transmission gaps, the Armstrong 'we were warned off' legend, and anomalous features in Lunar Orbiter frames read as evidence of structures already there.",
+  "context": "This site is not on Earth, so it has no position on the globe below; the coordinates given are selenographic. The 'warned off' quotation has no source in the mission transcripts, which are published in full with the audio, and Armstrong denied it. The Lunar Reconnaissance Orbiter has since imaged every Apollo site at sub-metre resolution, showing the descent stages, experiment packages and astronaut tracks — and no structures. Mare Tranquillitatis is a basalt flood plain, chosen in 1969 because it was flat, well-lit at the landing window and photographed in advance by Ranger 8 and Surveyor 5.",
+  "summary": "Mare Tranquillitatis (Latin for Sea of Tranquillity or Sea of Tranquility) is a lunar mare that sits within the Tranquillitatis basin on the Moon. It contains Tranquility Base, the first location on another celestial body to be visited by humans.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Lunar mare",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": null,
+  "longitude": null,
+  "celestial_body": "moon",
+  "radius_km": null,
+  "camera_height_m": 0,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mare Tranquillitatis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mare_Tranquillitatis",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q320936",
+  "image_file": "Mare_Tranquillitatis.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/sea-of-tranquility.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Sea of Tranquility — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=sea-of-tranquility",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Sea of Tranquility in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mare_Tranquillitatis",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mare Tranquillitatis"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q320936",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q320936"
+  },
+  {
+   "href": "https://www.nasa.gov/history/alsj/a11/a11transcript_tec.html",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "NASA — Apollo 11 mission transcripts"
+  },
+  {
+   "href": "https://www.lroc.asu.edu/",
+   "rel": "related",
+   "type": "text/html",
+   "title": "LROC — Apollo landing site imagery"
+  }
+ ]
+}

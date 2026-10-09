@@ -1,0 +1,84 @@
+{
+ "type": "Feature",
+ "id": "kot-diji",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   68.706667,
+   27.345556
+  ]
+ },
+ "properties": {
+  "name": "Kot Diji",
+  "subtitle": "Khairpur District, Sindh, Pakistan",
+  "country": "Pakistan",
+  "region": "South Asia",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "indus-valley",
+   "early-harappan",
+   "fortification"
+  ],
+  "aliases": [
+   "Kot Dijian"
+  ],
+  "claim": "A fortified pre-Harappan settlement with a stone-and-mud defensive wall is cited as evidence of a threat requiring defence before cities and warfare are supposed to have existed in the region.",
+  "context": "Kot Diji defines the Early Harappan Kot Dijian phase (c. 3300–2600 BC) and is important precisely because it shows indigenous development toward urbanism — fortification, specialised ceramics and a citadel-and-town layout prefiguring Mohenjo-daro. Defensive walls in this period also served against floods and for storage control.",
+  "summary": "Kot Diji (Sindhi: ڪوٽ ڏیجي; Urdu: کوٹ ڈیجی, IPA: [koːʈ ɖiːdʒiː]) is an ancient site which was part of the Indus Valley Civilisation, estimated to have been occupied around 3300 BCE. Located about 45 km (28 mi) south of Khairpur in the modern-day province of Sindh, Pakistan, it is on the east bank of the Indus River opposite Mohenjo-daro. The remains consist of two parts: the citadel area on the high ground (about 12 m [39 ft]), and the area around it.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archeological site that predates the Indus Civilization",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 27.345556,
+  "longitude": 68.706667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Kot Diji",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kot_Diji",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1017084",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/kot-diji.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Kot Diji — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=kot-diji",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Kot Diji in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Kot_Diji",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Kot Diji"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1017084",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1017084"
+  }
+ ],
+ "bbox": [
+  68.706667,
+  27.345556,
+  68.706667,
+  27.345556
+ ]
+}

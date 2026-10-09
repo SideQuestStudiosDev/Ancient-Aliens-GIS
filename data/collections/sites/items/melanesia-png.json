@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "melanesia-png",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   147.0,
+   -6.0
+  ]
+ },
+ "properties": {
+  "name": "Melanesia & Papua New Guinea",
+  "subtitle": "South-west Pacific (regional)",
+  "country": "Papua New Guinea / Melanesia",
+  "region": "Southeast Asia & Oceania",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "cargo-cult",
+   "john-frum",
+   "ethnography"
+  ],
+  "aliases": [
+   "cargo cult",
+   "John Frum",
+   "Vanuatu",
+   "Tanna"
+  ],
+  "claim": "The series inverts the cargo cults as its central analogy: if islanders built runways and effigy aircraft to summon back the Americans who once descended with goods, then ancient temples and ziggurats are the same impulse aimed at earlier visitors.",
+  "context": "The analogy is the series' strongest rhetorical move and its clearest logical gap. Cargo cults are documented twentieth-century responses to a contact that demonstrably occurred, with living witnesses, dated wartime airstrips and surviving materiel. Anthropologists also now read them less as misunderstanding than as political movements asserting a claim on wealth. The analogy predicts that ancient contact would leave comparable residue — which is precisely what has not been found.",
+  "summary": "Cargo cults are spiritual and political movements that arose among indigenous Melanesians following Western colonisation of the region in the early 20th century. The first documented cargo cults were religious movements that foretold followers would imminently receive an abundance of (often Western) food and goods (the \"cargo\") brought by their ancestors. Cargo cults have a wide diversity of beliefs and practices, but typically (though not universally) include: charismatic prophet figures foretelling a coming cataclysm or utopia for followers (a worldview known as millenarianism); predictions by these prophets of the return of dead ancestors or other powerful beings bringing the cargo; the belief that ancestral spirits were responsible for the creation of the cargo; and the instruction by these prophets to followers to fulfill the prophecy by either reviving ancestral traditions or adopting new rituals, such as ecstatic dancing or imitating the actions of colonists and military personnel, like flag-raising, marching and drilling.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "New religious movement",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -6.0,
+  "longitude": 147.0,
+  "celestial_body": "earth",
+  "radius_km": 900,
+  "camera_height_m": 1800000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Cargo cult",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cargo_cult",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q22314",
+  "image_file": "JohnFrumCrossTanna1967.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/melanesia-png.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Melanesia & Papua New Guinea — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=melanesia-png",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Melanesia & Papua New Guinea in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cargo_cult",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cargo cult"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q22314",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q22314"
+  }
+ ],
+ "bbox": [
+  138.87067,
+  -14.0848,
+  155.12933,
+  2.0848
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "utah-monolith",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -109.666194,
+   38.343083
+  ]
+ },
+ "properties": {
+  "name": "Utah Monolith Site",
+  "subtitle": "Red Rock Country, San Juan County, Utah, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "2020",
+   "art-installation",
+   "hoax",
+   "canyon"
+  ],
+  "aliases": [
+   "Utah monolith",
+   "metal monolith",
+   "Lockhart Basin"
+  ],
+  "claim": "A three-metre steel prism found in a remote slot canyon by a wildlife helicopter crew in November 2020, with no road access and no explanation, was widely presented as an artefact of non-human placement — then vanished nine days later.",
+  "context": "Satellite imagery dates the installation to between July and October 2016, and it is generally attributed to the artist John McCracken or to someone working in his idiom; McCracken's gallery initially suggested his authorship. A group of men filmed removing it came forward, citing damage from visitor traffic to the canyon. Copycat monoliths subsequently appeared worldwide.",
+  "summary": "The Utah monolith was a metal pillar that stood in a slot canyon in northern San Juan County, Utah, United States. The pillar was 9.5 ft (2.9 m) tall and made of metal sheets riveted into a triangular prism. It was unlawfully placed on public land between July and October 2016, where it stood unnoticed for over four years until its discovery and removal in late 2020.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Metal pillar in Utah, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.343083,
+  "longitude": -109.666194,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Utah monolith",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Utah_monolith",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q102285438",
+  "image_file": "Utah_Desert_Monolith.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/utah-monolith.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Utah Monolith Site — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=utah-monolith",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Utah Monolith Site in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Utah_monolith",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Utah monolith"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q102285438",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q102285438"
+  }
+ ],
+ "bbox": [
+  -109.666194,
+  38.343083,
+  -109.666194,
+  38.343083
+ ]
+}

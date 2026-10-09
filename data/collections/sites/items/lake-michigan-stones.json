@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "lake-michigan-stones",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -85.55,
+   44.95
+  ]
+ },
+ "properties": {
+  "name": "Grand Traverse Bay Stone Alignment",
+  "subtitle": "Traverse City, Michigan, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "submerged",
+   "boulders",
+   "glacial",
+   "great-lakes"
+  ],
+  "aliases": [
+   "Traverse City",
+   "Lake Michigan",
+   "Michigan Stonehenge",
+   "Grand Traverse Bay"
+  ],
+  "claim": "A line of boulders found in 2007 at about 12 m depth in Grand Traverse Bay, one reportedly carved with a mastodon, is presented as a drowned megalithic alignment from before the lake filled.",
+  "context": "Mark Holley, who located the boulders, has consistently described them as probably natural glacial deposits and has cautioned against the 'Stonehenge' framing applied by media. Boulder trains and moraine lines are exactly what retreating ice leaves on the Great Lakes floor. The claimed mastodon carving has not been authenticated; mastodons did inhabit the region and the bay floor was dry land during the low-water Chippewa phase.",
+  "summary": "Grand Traverse Bay ( TRAV-ərss) is an arm of Lake Michigan, located along the west coast of the Lower Peninsula of Michigan. The bay is separated from the rest of Lake Michigan by the Leelanau Peninsula. The bay is some 32 miles (51 km) long, ranges from 7 to 10 miles (11 to 16 km) wide, and up to 620 feet (190 m) deep in spots.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Arm of Lake Michigan in the Lower Peninsula of Michigan",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 44.95,
+  "longitude": -85.55,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Grand Traverse Bay",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Traverse_Bay",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5595169",
+  "image_file": "Grand_Traverse_Bay_432_pan_crop_15_(32648536332).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/lake-michigan-stones.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Grand Traverse Bay Stone Alignment — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=lake-michigan-stones",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Grand Traverse Bay Stone Alignment in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Grand_Traverse_Bay",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Grand Traverse Bay"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5595169",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5595169"
+  }
+ ],
+ "bbox": [
+  -85.55,
+  44.95,
+  -85.55,
+  44.95
+ ]
+}

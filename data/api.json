@@ -1,0 +1,173 @@
+{
+ "openapi": "3.0.3",
+ "info": {
+  "title": "Ancient Aliens GIS — OGC API Features",
+  "version": "1.0.0",
+  "description": "Static OGC API - Features service publishing 246 locations referenced in the television series Ancient Aliens. Query parameters are accepted but ignored; see x-static-deployment on the landing page.",
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "contact": {
+   "name": "Ancient Aliens GIS",
+   "url": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/"
+  }
+ },
+ "servers": [
+  {
+   "url": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data",
+   "description": "GitHub Pages static deployment"
+  }
+ ],
+ "tags": [
+  {
+   "name": "Capabilities"
+  },
+  {
+   "name": "Data"
+  }
+ ],
+ "paths": {
+  "/index.json": {
+   "get": {
+    "tags": [
+     "Capabilities"
+    ],
+    "operationId": "getLandingPage",
+    "summary": "Landing page",
+    "responses": {
+     "200": {
+      "description": "A JSON document.",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/conformance.json": {
+   "get": {
+    "tags": [
+     "Capabilities"
+    ],
+    "operationId": "getConformance",
+    "summary": "Conformance classes",
+    "responses": {
+     "200": {
+      "description": "A JSON document.",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/collections/index.json": {
+   "get": {
+    "tags": [
+     "Capabilities"
+    ],
+    "operationId": "getCollections",
+    "summary": "Feature collections",
+    "responses": {
+     "200": {
+      "description": "A JSON document.",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/collections/sites/index.json": {
+   "get": {
+    "tags": [
+     "Capabilities"
+    ],
+    "operationId": "describeSites",
+    "summary": "Describe the sites collection",
+    "responses": {
+     "200": {
+      "description": "A JSON document.",
+      "content": {
+       "application/json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/collections/sites/items.json": {
+   "get": {
+    "tags": [
+     "Data"
+    ],
+    "operationId": "getSites",
+    "summary": "All site features",
+    "description": "Returns the complete FeatureCollection. Static hosting cannot filter, so bbox/limit/offset are ignored.",
+    "responses": {
+     "200": {
+      "description": "A GeoJSON document.",
+      "content": {
+       "application/geo+json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     }
+    }
+   }
+  },
+  "/collections/sites/items/{featureId}.json": {
+   "get": {
+    "tags": [
+     "Data"
+    ],
+    "operationId": "getSite",
+    "summary": "A single site feature",
+    "parameters": [
+     {
+      "name": "featureId",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      },
+      "example": "gobekli-tepe"
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "A GeoJSON document.",
+      "content": {
+       "application/geo+json": {
+        "schema": {
+         "type": "object"
+        }
+       }
+      }
+     },
+     "404": {
+      "description": "No such feature."
+     }
+    }
+   }
+  }
+ }
+}

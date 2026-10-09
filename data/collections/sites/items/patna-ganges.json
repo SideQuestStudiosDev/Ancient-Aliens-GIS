@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "patna-ganges",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   85.1375,
+   25.593889
+  ]
+ },
+ "properties": {
+  "name": "Patna & the Ganges",
+  "subtitle": "Bihar, India",
+  "country": "India",
+  "region": "South Asia",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "pataliputra",
+   "mauryan",
+   "ashoka",
+   "ganges"
+  ],
+  "aliases": [
+   "Pataliputra",
+   "Bihar",
+   "Ganges",
+   "Ashoka",
+   "Nine Unknown Men"
+  ],
+  "claim": "Mauryan Pataliputra is tied to the legend of Ashoka's 'Nine Unknown Men' — a secret society entrusted with nine books of dangerous knowledge, including anti-gravity and psychological warfare — presented as a custodial order for off-world technology.",
+  "context": "Pataliputra was one of the largest cities of its age, and Megasthenes' account of its timber palisade was confirmed by excavation. The Nine Unknown Men first appears in Talbot Mundy's 1923 novel 'The Nine Unknown' and has no attestation in Mauryan sources, in Ashoka's own edicts, or in Buddhist or Jain tradition.",
+  "summary": "Patna (Hindi: Paṭanā, pronounced [ˈpəʈnaː] ), historically known as Pāṭaliputra, is the capital and largest city of the Indian state of Bihar. According to the United Nations, as of 2026, Patna had a population of 3.33 million, making it the 19th largest city in India. Covering 250 square kilometres (97 sq mi) and over 2.5 million people, its urban agglomeration is the 18th largest in India.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Metropolis and state capital of Bihar, India",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.593889,
+  "longitude": 85.1375,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Patna",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Patna",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q80484",
+  "image_file": "Patna_high_court1.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/patna-ganges.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Patna & the Ganges — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=patna-ganges",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Patna & the Ganges in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Patna",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Patna"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q80484",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q80484"
+  }
+ ],
+ "bbox": [
+  85.1375,
+  25.593889,
+  85.1375,
+  25.593889
+ ]
+}

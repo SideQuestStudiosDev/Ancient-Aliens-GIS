@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "sierra-madre-occidental",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -106.5,
+   25.0
+  ]
+ },
+ "properties": {
+  "name": "Sierra Madre Occidental",
+  "subtitle": "North-western Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "copper-canyon",
+   "rarámuri",
+   "volcanic",
+   "regional"
+  ],
+  "aliases": [
+   "Copper Canyon",
+   "Tarahumara",
+   "Rarámuri",
+   "Barranca del Cobre"
+  ],
+  "claim": "The range's cave-dwelling traditions, the Rarámuri's extraordinary long-distance running, and isolated cliff granaries are presented as the legacy of a sheltered population.",
+  "context": "The Sierra Madre Occidental is the world's largest ignimbrite province, and its canyons exceed the Grand Canyon in depth. Rarámuri running is a well-studied cultural and physiological adaptation — persistence hunting and rarájipari ball races — not an anomaly. The cliff structures are Paquimé-related granaries and dwellings, surveyed and dated.",
+  "summary": "The Sierra Madre Occidental ('Western Mother/Grand Mountain Range') is a major mountain range system which runs northwest–southeast through northwestern and western Mexico, and along the Gulf of California. The Sierra Madre is part of the American Cordillera, an almost continuous chain of mountain ranges that forms the western \"backbone\" of the Americas.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain range along the Pacific coast of Mexico",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.0,
+  "longitude": -106.5,
+  "celestial_body": "earth",
+  "radius_km": 450,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -68,
+  "wikipedia_title": "Sierra Madre Occidental",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sierra_Madre_Occidental",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1124584",
+  "image_file": "Sierra_Madre_Occidental.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/sierra-madre-occidental.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Sierra Madre Occidental — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=sierra-madre-occidental",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Sierra Madre Occidental in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Sierra_Madre_Occidental",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Sierra Madre Occidental"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1124584",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1124584"
+  }
+ ],
+ "bbox": [
+  -110.9603,
+  20.9576,
+  -102.0397,
+  29.0424
+ ]
+}

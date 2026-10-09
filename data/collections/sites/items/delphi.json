@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "delphi",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   22.5013,
+   38.4823
+  ]
+ },
+ "properties": {
+  "name": "Delphi — Temple of Apollo",
+  "subtitle": "Phocis, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "oracle",
+   "pythia",
+   "ethylene"
+  ],
+  "aliases": [
+   "Temple of Apollo",
+   "Oracle of Delphi",
+   "Pythia",
+   "Omphalos"
+  ],
+  "claim": "The Pythia's trance prophecies, delivered over a chasm, are presented as a channel to a non-human intelligence, with the omphalos stone marking a surveyed world centre.",
+  "context": "Geologists de Boer and Hale mapped intersecting faults beneath the adyton and measured ethylene and methane in the spring waters — ethylene produces euphoric trance at low concentration, matching ancient descriptions of sweet-smelling pneuma. The finding has been debated on concentration grounds, but it gives a testable natural mechanism. The oracle's political function in Greek decision-making is extensively documented.",
+  "summary": "Delphi (Greek: Δελφοί [ðelˈfi]), in legend previously called Pytho (Πυθώ), was an ancient sacred precinct in central Greece. It was the seat of Pythia, the major oracle who was consulted about important decisions throughout the ancient classical world. The ancient Greeks considered the centre of the world to be in Delphi, marked by the stone monument known as the Omphalos of Delphi.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Sacred site and oracle of Ancient Greece",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.4823,
+  "longitude": 22.5013,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Delphi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Delphi",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q75459",
+  "image_file": "Delphi,_Greece_-_panoramio.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/delphi.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Delphi — Temple of Apollo — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=delphi",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Delphi — Temple of Apollo in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Delphi",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Delphi"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q75459",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q75459"
+  }
+ ],
+ "bbox": [
+  22.5013,
+  38.4823,
+  22.5013,
+  38.4823
+ ]
+}

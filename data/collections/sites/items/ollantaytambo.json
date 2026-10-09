@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "ollantaytambo",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -72.263333,
+   -13.258056
+  ]
+ },
+ "properties": {
+  "name": "Ollantaytambo",
+  "subtitle": "Sacred Valley, Cusco Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "inca",
+   "sacred-valley",
+   "monoliths",
+   "quarry",
+   "terraces"
+  ],
+  "aliases": [
+   "Sacred Valley",
+   "Temple of the Sun",
+   "Wall of Six Monoliths",
+   "Cachicata"
+  ],
+  "claim": "The Wall of Six Monoliths — porphyry blocks of up to 70 tonnes quarried across the valley and 900 m above, then raised onto a terrace — with thin stone shims between them, is presented as machined work.",
+  "context": "The Cachicata quarries are visible across the Urubamba and the whole logistics chain is preserved in place: dozens of abandoned blocks lie along the hauling ramps, with slide tracks, retaining works and the river crossing still traceable. Protzen's field experiments reproduced Inca dressing and fitting with hammerstones, and the shims are a documented Inca levelling technique. The site was unfinished when the Spanish arrived, which is why the method is so legible.",
+  "summary": "Ollantaytambo (Quechua: Ullantaytampu) is a town and an Inca archaeological site in southern Peru some 72 km (45 mi) by road northwest of the city of Cusco. It is located at an altitude of 2,792 m (9,160 ft) above sea level in the district of Ollantaytambo, province of Urubamba, Cusco region. During the Inca Empire, Ollantaytambo in the Sacred Valley of the Incas was the royal estate of Emperor Pachacuti, after the mid-15th century.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in Peru",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -13.258056,
+  "longitude": -72.263333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Ollantaytambo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ollantaytambo",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q916382",
+  "image_file": "Ollantaytambo_-_Heiliges_Tal.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/ollantaytambo.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Ollantaytambo — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=ollantaytambo",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Ollantaytambo in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Ollantaytambo",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Ollantaytambo"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q916382",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q916382"
+  }
+ ],
+ "bbox": [
+  -72.263333,
+  -13.258056,
+  -72.263333,
+  -13.258056
+ ]
+}

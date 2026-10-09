@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "temple-mount",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.235833,
+   31.778056
+  ]
+ },
+ "properties": {
+  "name": "Temple Mount & Dome of the Rock",
+  "subtitle": "Old City, Jerusalem",
+  "country": "Israel / Palestine",
+  "region": "Middle East",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "herodian",
+   "foundation-stone",
+   "ark"
+  ],
+  "aliases": [
+   "Haram al-Sharif",
+   "Al-Aqsa",
+   "Jerusalem",
+   "Ark of the Covenant",
+   "Western Wall"
+  ],
+  "claim": "The Herodian platform's largest ashlars — the Western Stone is estimated at several hundred tonnes — plus the Ark of the Covenant described as lethal to touch, are presented as off-world engineering and a powered device.",
+  "context": "The retaining walls are Herodian (late 1st century BC) with quarries identified within Jerusalem; drafted-margin ashlar is a diagnostic Herodian style found across his projects at Hebron and Caesarea. The Ark's described effects are theological narrative; the object has not been recovered and no engineering inference is available from the texts.",
+  "summary": "The Temple Mount or al-Haram al-Sharif (Biblical Hebrew: הַר הַבַּיִת, romanized: Har hab-Bayiṯ, Arabic: الحَرَم الشَّرِيف, romanized: al-Ḥaram aš-Šarīf or الأَقْصَى, al-Aqṣā) is an elevated plateau in the Old City of Jerusalem that comprises the Islamic religious compound known as al-Aqsa, which includes the al-Aqsa Mosque and the Dome of the Rock. Historically the location of two successive Jewish temples, the area has been venerated as a holy site for thousands of years including in Judaism, Christianity, and Islam.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Religious site in Jerusalem",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.778056,
+  "longitude": 35.235833,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 700,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Temple Mount",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Temple_Mount",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q193163",
+  "image_file": "Jerusalem-2013(2)-Aerial-Temple_Mount-(south_exposure).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/temple-mount.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Temple Mount & Dome of the Rock — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=temple-mount",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Temple Mount & Dome of the Rock in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Temple_Mount",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Temple Mount"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q193163",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q193163"
+  }
+ ],
+ "bbox": [
+  35.235833,
+  31.778056,
+  35.235833,
+  31.778056
+ ]
+}

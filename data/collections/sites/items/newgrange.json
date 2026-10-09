@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "newgrange",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -6.475566,
+   53.694725
+  ]
+ },
+ "properties": {
+  "name": "Newgrange (Brú na Bóinne)",
+  "subtitle": "County Meath, Ireland",
+  "country": "Ireland",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "neolithic",
+   "passage-tomb",
+   "solstice",
+   "archaeoastronomy"
+  ],
+  "aliases": [
+   "Bru na Boinne",
+   "Boyne Valley",
+   "Knowth",
+   "Dowth"
+  ],
+  "claim": "A 5,200-year-old passage tomb whose roof-box admits the winter solstice sunrise to the exact end of a 19 m passage is presented as an engineered instrument requiring surveying the builders could not have had.",
+  "context": "Newgrange predates Giza and Stonehenge, and the roof-box alignment is real, deliberate and among the finest in prehistory. It is also achievable by staking a sightline over successive solstices before building — a multi-generation observation programme, which the Boyne complex's three great mounds and dozens of satellites show was well within this society's organisational reach. Quartz from Wicklow and granite from the Mournes were brought by sea and river.",
+  "summary": "Newgrange (Irish: Sí an Bhrú) is a prehistoric monument in County Meath in Ireland, placed on a rise overlooking the River Boyne, eight kilometres (five miles) west of the town of Drogheda. It is an exceptionally grand passage tomb built during the Neolithic Period, around 3100 BC, making it older than Stonehenge and the Egyptian pyramids. Newgrange is the main monument in the Brú na Bóinne complex, a World Heritage Site that also includes the passage tombs of Knowth and Dowth, as well as other henges, burial mounds and standing stones.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Neolithic monument in County Meath, Ireland",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 53.694725,
+  "longitude": -6.475566,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 700,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Newgrange",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Newgrange",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q339503",
+  "image_file": "Irelands_history.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/newgrange.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Newgrange (Brú na Bóinne) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=newgrange",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Newgrange (Brú na Bóinne) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Newgrange",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Newgrange"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q339503",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q339503"
+  }
+ ],
+ "bbox": [
+  -6.475566,
+  53.694725,
+  -6.475566,
+  53.694725
+ ]
+}

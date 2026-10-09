@@ -1,0 +1,16 @@
+<layer>
+  <id>l_sites</id>
+  <name>sites</name>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>style_ancient-aliens-sites</id>
+    <name>ancient-aliens-sites</name>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>ft_sites</id>
+  </resource>
+  <enabled>true</enabled>
+  <advertised>true</advertised>
+  <queryable>true</queryable>
+  <opaque>false</opaque>
+</layer>

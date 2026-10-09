@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "edinburgh-castle",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.1999,
+   55.9486
+  ]
+ },
+ "properties": {
+  "name": "Edinburgh Castle & the Stone of Destiny",
+  "subtitle": "Edinburgh, Scotland",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "stone-of-scone",
+   "coronation",
+   "jacob's-pillow"
+  ],
+  "aliases": [
+   "Stone of Scone",
+   "Stone of Destiny",
+   "Jacob's Pillow"
+  ],
+  "claim": "The coronation stone is identified with Jacob's pillow from Genesis 28 — the rock he slept on when he saw a ladder with beings ascending and descending — making it a relic of a contact event.",
+  "context": "Geologists have matched the Stone of Scone to Old Red Sandstone from the Scone area in Perthshire, which rules out a Levantine origin. The Jacob's-pillow identification is a medieval origin legend serving dynastic legitimacy, of a kind common across European regalia.",
+  "summary": "The Stone of Scone (Scottish Gaelic: An Lia Fàil, meaning Stone of Destiny, also called clach-na-cinneamhuinn; Scots: Stane o Scone) is an oblong block of red sandstone that was used in the coronation of Scottish monarchs until the 13th century when it was seized by Edward I during the First War of Scottish Independence and taken to England. Thereafter, it was used in the coronation of English and later British monarchs.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient Scottish coronation artefact",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 55.9486,
+  "longitude": -3.1999,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Stone of Scone",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stone_of_Scone",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q756442",
+  "image_file": "Coronation_Chair_and_Stone_of_Scone.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/edinburgh-castle.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Edinburgh Castle & the Stone of Destiny — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=edinburgh-castle",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Edinburgh Castle & the Stone of Destiny in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Stone_of_Scone",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Stone of Scone"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q756442",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q756442"
+  }
+ ],
+ "bbox": [
+  -3.1999,
+  55.9486,
+  -3.1999,
+  55.9486
+ ]
+}

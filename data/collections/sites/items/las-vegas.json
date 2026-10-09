@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "las-vegas",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -115.140556,
+   36.169167
+  ]
+ },
+ "properties": {
+  "name": "Las Vegas",
+  "subtitle": "Clark County, Nevada, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "janet-flights",
+   "mcarran",
+   "tourism"
+  ],
+  "aliases": [
+   "Nevada",
+   "Janet",
+   "Harry Reid Airport",
+   "Extraterrestrial Highway"
+  ],
+  "claim": "Presented as the public-facing edge of the Nevada complex: the unmarked 'Janet' fleet that commutes contractors to Groom Lake flies from a dedicated terminal here, and the city is where Bob Lazar went public in 1989.",
+  "context": "The Janet fleet is real, operates from a gated terminal on the west side of Harry Reid International, and is openly trackable; its existence confirms a classified workforce at a classified airfield, which the government acknowledged in 2013. Nevada renamed State Route 375 the Extraterrestrial Highway in 1996 as a tourism measure.",
+  "summary": "Las Vegas, colloquially shortened to Vegas, is the most populous city in the U.S. state of Nevada and the county seat of Clark County. It is the 24th-most populous city in the United States, with 641,903 residents at the 2020 census. The Las Vegas metropolitan area has an estimated 2.4 million residents and is the 29th-largest metropolitan area in the country.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Most populous city in Nevada, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.169167,
+  "longitude": -115.140556,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Las Vegas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Las_Vegas",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q23768",
+  "image_file": "Center_Strip_Before_Sunrise.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/las-vegas.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Las Vegas — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=las-vegas",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Las Vegas in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Las_Vegas",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Las Vegas"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q23768",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q23768"
+  }
+ ],
+ "bbox": [
+  -115.140556,
+  36.169167,
+  -115.140556,
+  36.169167
+ ]
+}

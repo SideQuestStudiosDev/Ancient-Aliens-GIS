@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "spain-explorers",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.7038,
+   40.4168
+  ]
+ },
+ "properties": {
+  "name": "Spain",
+  "subtitle": "Iberian Peninsula (regional)",
+  "country": "Spain",
+  "region": "Europe",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "conquest",
+   "chronicles"
+  ],
+  "aliases": [
+   "Iberia",
+   "conquistadors"
+  ],
+  "claim": "Spain enters the series through the chroniclers — Sahagún, Las Casas, Cieza de León — whose records of Aztec and Inca testimony about sky-born teachers are treated as transcribed eyewitness accounts.",
+  "context": "The chronicles are indispensable primary sources and also deeply mediated: written by missionaries and soldiers, through interpreters, to justify conquest and conversion, and routinely assimilating indigenous deities to European demonological categories. Modern Mesoamerican and Andean scholarship reads them against archaeology and indigenous-language sources precisely because of that filtering.",
+  "summary": "Spain, officially the Kingdom of Spain, is a country in Southern and Western Europe with territories in North Africa. Featuring the southernmost point of continental Europe, it is the largest country in Southern Europe and the fourth-most populous European Union (EU) member state. Spanning the majority of the Iberian Peninsula, its territory also includes the Canary Islands, in the Eastern Atlantic Ocean; the Balearic Islands, in the Western Mediterranean Sea; and the autonomous cities of Ceuta and Melilla, in mainland Africa.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Country in Southern and Western Europe",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.4168,
+  "longitude": -3.7038,
+  "celestial_body": "earth",
+  "radius_km": 400,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Spain",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Spain",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q29",
+  "image_file": "Flag_of_the_Kingdom_of_Spain.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/spain-explorers.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Spain — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=spain-explorers",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Spain in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Spain",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Spain"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q29",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q29"
+  }
+ ],
+ "bbox": [
+  -8.42338,
+  36.82356,
+  1.01578,
+  44.01004
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "merida-caves",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -89.5926,
+   20.9674
+  ]
+ },
+ "properties": {
+  "name": "Mérida — Yucatán Cave System",
+  "subtitle": "Yucatán, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "cenote",
+   "xibalba",
+   "chicxulub",
+   "karst"
+  ],
+  "aliases": [
+   "Xibalba",
+   "Yucatan caves",
+   "cenotes",
+   "Balankanche",
+   "Sac Actun"
+  ],
+  "claim": "A flooded cave network the Maya called Xibalba, the underworld — with cenotes arranged in a ring across the northern Yucatán — is presented as an engineered subterranean complex and an entrance to an inner world.",
+  "context": "The Ring of Cenotes is the surface expression of the buried Chicxulub impact crater, a 66-million-year-old structure identified by gravity and magnetic anomalies and confirmed by drilling — the asteroid impact associated with the end-Cretaceous extinction. The caves themselves are karst dissolution in limestone, mapped by cave divers to over 370 km in the Sac Actun system. Maya ritual use of cenotes, including the Balankanche offerings, is extensively excavated.",
+  "summary": "A cenote (English: or ; Latin American Spanish: [seˈnote]) is a natural pit, or sinkhole, resulting when a collapse of limestone bedrock exposes groundwater. The term originated on the Yucatán Peninsula of Mexico, where the ancient Maya commonly used cenotes for water supplies, and occasionally for sacrificial offerings. The name derives from a word used by the lowland Yucatec Maya—tsʼonoʼot—to refer to any location with accessible groundwater.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Natural pit or sinkhole that exposes groundwater underneath",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 20.9674,
+  "longitude": -89.5926,
+  "celestial_body": "earth",
+  "radius_km": 70,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cenote",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cenote",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q334743",
+  "image_file": "Cenote_2.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/merida-caves.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mérida — Yucatán Cave System — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=merida-caves",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mérida — Yucatán Cave System in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cenote",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cenote"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q334743",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q334743"
+  }
+ ],
+ "bbox": [
+  -90.26601,
+  20.33858,
+  -88.91919,
+  21.59622
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "orleans",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   1.909,
+   47.9025
+  ]
+ },
+ "properties": {
+  "name": "Orléans",
+  "subtitle": "Centre-Val de Loire, France",
+  "country": "France",
+  "region": "Europe",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "joan-of-arc",
+   "siege",
+   "visions"
+  ],
+  "aliases": [
+   "Joan of Arc",
+   "Jeanne d'Arc",
+   "Siege of Orleans"
+  ],
+  "claim": "Joan of Arc's voices and visions, her unexplained military competence and her knowledge of a hidden sword are presented as guidance from a non-human source.",
+  "context": "Joan's trial and rehabilitation transcripts are exceptionally full primary records, and they document her own description of the voices as saints. The military record shows a figure of immense morale value operating alongside experienced commanders such as Dunois and La Hire. Medieval visionary experience is a well-studied religious and historical phenomenon.",
+  "summary": "Orléans (US: ; French: [ɔʁleɑ̃] ) is a city in north-central France, about 120 kilometres (74 miles) southwest of Paris. It is the prefecture of the department of Loiret, within the region of Centre-Val de Loire.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Prefecture and commune in France",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 47.9025,
+  "longitude": 1.909,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 5000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Orléans",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Orl%C3%A9ans",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q6548",
+  "image_file": "Rue_Jeanne_dArc_Tramway_Orleans.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/orleans.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Orléans — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=orleans",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Orléans in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Orl%C3%A9ans",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Orléans"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q6548",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q6548"
+  }
+ ],
+ "bbox": [
+  1.909,
+  47.9025,
+  1.909,
+  47.9025
+ ]
+}

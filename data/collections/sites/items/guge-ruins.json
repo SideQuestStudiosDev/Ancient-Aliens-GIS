@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "guge-ruins",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   79.8,
+   31.4833
+  ]
+ },
+ "properties": {
+  "name": "Guge Kingdom — Tsaparang",
+  "subtitle": "Ngari Prefecture, Tibet, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "tibet",
+   "cliff-city",
+   "abandoned",
+   "buddhist-murals"
+  ],
+  "aliases": [
+   "Tsaparang",
+   "Zanda",
+   "Ngari",
+   "Guge"
+  ],
+  "claim": "A honeycombed cliff city of hundreds of chambers and tunnels, abandoned and depopulated so completely that its fate was forgotten, is presented as a site of mass abduction or a vanished non-human enclave.",
+  "context": "Guge was a Buddhist kingdom from the 10th century, central to the second transmission of Buddhism into Tibet. Its fall is attributable to the 1630 Ladakhi invasion, recorded in Tibetan and Jesuit sources — António de Andrade's mission was there from 1624. The chambers are cut into soft Zanda-formation clay, and the surviving murals are a major art-historical corpus.",
+  "summary": "Guge (Tibetan: གུ་གེ་, Wylie: gu ge) was an ancient dynastic kingdom in Western Tibet. The kingdom was centered in present-day Zanda County, Ngari Prefecture, Tibet Autonomous Region. At various points in history after the 10th century AD, the kingdom held sway over a vast area including south-eastern Zanskar, Kinnaur district, and Spiti Valley, either by conquest or as tributaries.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Historical kingdom in Western Tibet",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.4833,
+  "longitude": 79.8,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 8000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Guge",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Guge",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1193554",
+  "image_file": "古格阴霾.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/guge-ruins.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Guge Kingdom — Tsaparang — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=guge-ruins",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Guge Kingdom — Tsaparang in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Guge",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Guge"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1193554",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1193554"
+  }
+ ],
+ "bbox": [
+  79.8,
+  31.4833,
+  79.8,
+  31.4833
+ ]
+}

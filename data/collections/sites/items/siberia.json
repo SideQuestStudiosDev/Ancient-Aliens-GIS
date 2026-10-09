@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "siberia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   110.0,
+   66.0
+  ]
+ },
+ "properties": {
+  "name": "Siberia — Permafrost Megafauna Sites",
+  "subtitle": "Russian Federation (regional)",
+  "country": "Russia",
+  "region": "Europe",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "mammoth",
+   "permafrost",
+   "tunguska",
+   "quaternary"
+  ],
+  "aliases": [
+   "woolly mammoth",
+   "Yakutia",
+   "Tunguska",
+   "Yamal"
+  ],
+  "claim": "Mammoths frozen with undigested vegetation, found in jumbled bone beds, are presented as evidence of an instantaneous global catastrophe — a weapon, an orbital shift, or a planetary intervention.",
+  "context": "The deposits are taphonomically well studied: most carcasses are partial, weathered and scavenged, concentrated in river-bank and thermokarst traps that accumulate remains across millennia. Radiocarbon dates span tens of thousands of years, not one event, and Wrangel Island populations survived to about 4,000 years ago. Preserved stomach contents indicate a short time to freezing for an individual animal, not a synchronous global event.",
+  "summary": "The woolly mammoth (Mammuthus primigenius) is an extinct species of mammoth that lived from the Middle Pleistocene until its extinction in the Holocene epoch. It was one of the last in a line of mammoth species, beginning with the African Mammuthus subplanifrons in the early Pliocene. The woolly mammoth began to diverge from the steppe mammoth about 800,000 years ago in Siberia.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Extinct species of mammoth",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 66.0,
+  "longitude": 110.0,
+  "celestial_body": "earth",
+  "radius_km": 1500,
+  "camera_height_m": 3000000,
+  "camera_pitch_deg": -75,
+  "wikipedia_title": "Woolly mammoth",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Woolly_mammoth",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q3699044",
+  "image_file": "Siegsdorfer_Mammut.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/siberia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Siberia — Permafrost Megafauna Sites — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=siberia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Siberia — Permafrost Megafauna Sites in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Woolly_mammoth",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Woolly mammoth"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q3699044",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q3699044"
+  }
+ ],
+ "bbox": [
+  76.87127,
+  52.52533,
+  143.12873,
+  79.47467
+ ]
+}

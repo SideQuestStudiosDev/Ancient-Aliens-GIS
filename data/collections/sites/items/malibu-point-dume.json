@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "malibu-point-dume",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -118.806839,
+   34.000872
+  ]
+ },
+ "properties": {
+  "name": "Malibu & Point Dume",
+  "subtitle": "Los Angeles County, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "sonar-anomaly",
+   "malibu-plateau",
+   "seafloor"
+  ],
+  "aliases": [
+   "Point Dume",
+   "Malibu",
+   "California",
+   "underwater base"
+  ],
+  "claim": "A Google Earth bathymetric feature off Point Dume, circulated from 2012 as a vast flat-topped structure with columns 3 km down, was presented as an underwater base.",
+  "context": "The feature is a well-understood artefact of bathymetric data processing: ship-track sonar swaths of differing resolution stitched together produce rectilinear terraces and ridges aligned to the survey lines. NOAA has explained the same artefact for comparable 'discoveries' worldwide, including the 'Atlantis grid' off West Africa in 2009. Higher-resolution surveys show ordinary continental slope.",
+  "summary": "Point Dume is a promontory on the coast of Malibu, California, that juts out into the Pacific Ocean. The point, a long bluff, forms the northern end of Santa Monica Bay. Point Dume Natural Area affords a vista of the Palos Verdes Peninsula and Santa Catalina Island.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Coastal landform in California, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 34.000872,
+  "longitude": -118.806839,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Point Dume",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Point_Dume",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q49062846",
+  "image_file": "Point_Dume_Climbing.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/malibu-point-dume.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Malibu & Point Dume — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=malibu-point-dume",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Malibu & Point Dume in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Point_Dume",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Point Dume"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q49062846",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q49062846"
+  }
+ ],
+ "bbox": [
+  -118.806839,
+  34.000872,
+  -118.806839,
+  34.000872
+ ]
+}

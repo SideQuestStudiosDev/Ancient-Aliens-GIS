@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "iceland",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -19.0208,
+   64.9631
+  ]
+ },
+ "properties": {
+  "name": "Iceland",
+  "subtitle": "North Atlantic",
+  "country": "Iceland",
+  "region": "Europe",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "volcanic",
+   "mid-atlantic-ridge",
+   "sagas",
+   "huldufolk"
+  ],
+  "aliases": [
+   "Reykjavik",
+   "huldufólk",
+   "hidden people",
+   "Thingvellir"
+  ],
+  "claim": "Iceland's position astride the Mid-Atlantic Ridge is tied to Atlantis, and the enduring huldufólk ('hidden people') traditions — which still occasionally reroute road projects — to a resident non-human population.",
+  "context": "Iceland is the exposed crest of the Mid-Atlantic Ridge above the Iceland hotspot, formed about 16–18 million years ago by seafloor spreading — continuously growing, not a sunken remnant. Huldufólk belief is a well-documented living folklore tradition studied by Icelandic ethnologists, and the road diversions are heritage and public-consultation outcomes.",
+  "summary": "Iceland is a Nordic island country between the Arctic Ocean and the North Atlantic Ocean, located on the Mid-Atlantic Ridge between Europe and North America. It is Europe's westernmost and most sparsely populated country. Its capital and largest city is Reykjavík, which is home to about 35% of the country's roughly 395,000 residents (excluding nearby towns/suburbs, which are separate municipalities and contribute a further substantial percentage).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Island country in the Atlantic Ocean",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 64.9631,
+  "longitude": -19.0208,
+  "celestial_body": "earth",
+  "radius_km": 300,
+  "camera_height_m": 600000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Iceland",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iceland",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q189",
+  "image_file": "Flag_of_Iceland.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/iceland.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Iceland — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=iceland",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Iceland in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Iceland",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Iceland"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q189",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q189"
+  }
+ ],
+ "bbox": [
+  -25.38876,
+  62.26817,
+  -12.65284,
+  67.65803
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "zhongtiao-shan",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   111.5,
+   35.1667
+  ]
+ },
+ "properties": {
+  "name": "Zhongtiao Mountains",
+  "subtitle": "Shanxi Province, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "copper",
+   "ancient-mining",
+   "shanxi"
+  ],
+  "aliases": [
+   "Shanxi",
+   "Zhongtiao Shan",
+   "Zhongtiaoshan"
+  ],
+  "claim": "Vast ancient copper workings in the range are tied to the Sitchin mining narrative and to legends of the Yellow Emperor's ascent on a dragon from this region.",
+  "context": "The Zhongtiao copper belt is a genuine and important early mining district — its ores fed Erlitou and Shang bronze production, traced by lead-isotope analysis of excavated vessels. That makes it central to the archaeology of Chinese metallurgy. The Yellow Emperor is a legendary culture-hero of the mythic Three Sovereigns and Five Emperors sequence, not a documented ruler.",
+  "summary": "The Zhongtiao Mountains (simplified Chinese: 中条山; traditional Chinese: 中條山; pinyin: Zhōngtiáo Shān) are a major mountain range located in the south of China’s Shanxi Province.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain range in Shanxi, China",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 35.1667,
+  "longitude": 111.5,
+  "celestial_body": "earth",
+  "radius_km": 60,
+  "camera_height_m": 90000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Zhongtiao Mountains",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Zhongtiao_Mountains",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q197910",
+  "image_file": "G55_through_the_Zhongtiao_Mountains_2.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/zhongtiao-shan.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Zhongtiao Mountains — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=zhongtiao-shan",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Zhongtiao Mountains in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Zhongtiao_Mountains",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Zhongtiao Mountains"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q197910",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q197910"
+  }
+ ],
+ "bbox": [
+  110.84067,
+  34.62771,
+  112.15933,
+  35.70569
+ ]
+}

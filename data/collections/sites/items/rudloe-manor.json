@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "rudloe-manor",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -2.216861,
+   51.420633
+  ]
+ },
+ "properties": {
+  "name": "Rudloe Manor & Corsham Tunnels",
+  "subtitle": "Wiltshire, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "raf",
+   "ufo-desk",
+   "bunker",
+   "corsham"
+  ],
+  "aliases": [
+   "Corsham",
+   "Corsham Computer Centre",
+   "Burlington",
+   "RAF Rudloe Manor"
+  ],
+  "claim": "Dubbed 'Britain's Area 51': the RAF site is said to have run a covert UFO desk, with recovered material held in the Bath-stone quarry complex beneath Corsham.",
+  "context": "The MoD acknowledged that the Provost and Security Services at Rudloe Manor handled UFO report correspondence into the 1990s — a clerical function, later moved to Whitehall and then wound up in 2009 when the MoD closed its UFO desk. The underground site is the declassified Burlington Central Government War Headquarters, now public record.",
+  "summary": "RAF Rudloe Manor, formerly RAF Box, was a Royal Air Force station north-east of Bath, England, between the settlements of Box and Corsham, in Wiltshire. It was one of several military installations in the area and covered three dispersed sites. Parts of the site are now used by Defence Digital within the MoD Corsham complex; other areas are vacant and some have been sold, including the 17th-century manor house, Rudloe Manor.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Former Royal Air Force station in Wiltshire, England",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 51.420633,
+  "longitude": -2.216861,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "RAF Rudloe Manor",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/RAF_Rudloe_Manor",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q7275547",
+  "image_file": "RudloeManorHawkins.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/rudloe-manor.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Rudloe Manor & Corsham Tunnels — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=rudloe-manor",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Rudloe Manor & Corsham Tunnels in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/RAF_Rudloe_Manor",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: RAF Rudloe Manor"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q7275547",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q7275547"
+  }
+ ],
+ "bbox": [
+  -2.216861,
+  51.420633,
+  -2.216861,
+  51.420633
+ ]
+}

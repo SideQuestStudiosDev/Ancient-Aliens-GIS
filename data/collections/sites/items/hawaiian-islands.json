@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "hawaiian-islands",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -156.3319,
+   20.7984
+  ]
+ },
+ "properties": {
+  "name": "Hawaiian Islands",
+  "subtitle": "Hawaii, United States",
+  "country": "United States",
+  "region": "Southeast Asia & Oceania",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "hotspot",
+   "heiau",
+   "navigation",
+   "menehune"
+  ],
+  "aliases": [
+   "Hawaii",
+   "Menehune",
+   "Mauna Kea",
+   "heiau"
+  ],
+  "claim": "Polynesian open-ocean navigation across thousands of kilometres without instruments, plus the Menehune traditions of small beings who built stone works overnight, are presented as transmitted knowledge and as a resident non-human population.",
+  "context": "Polynesian wayfinding is a reconstructed and demonstrated human skill: Hōkūle'a's voyages since 1976, navigated by Mau Piailug and successors using star paths, swell patterns and bird behaviour, have crossed the Pacific repeatedly without instruments. The Menehune Ditch and Alekoko fishpond are Hawaiian-built structures; the Menehune tradition is now generally read as referring to an earlier social class or settlement wave.",
+  "summary": "The Hawaiian Islands (Hawaiian: Mokupuni Hawaiʻi) are an archipelago of eight major volcanic islands, several atolls, and numerous smaller islets in the North Pacific Ocean, extending some 1,500 miles (2,400 kilometers) from the island of Hawaiʻi in the south to northernmost Kure Atoll. Formerly called the Sandwich Islands, the present name for the archipelago is derived from the name of its largest island, Hawaiʻi.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archipelago in the Pacific Ocean",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 20.7984,
+  "longitude": -156.3319,
+  "celestial_body": "earth",
+  "radius_km": 350,
+  "camera_height_m": 800000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Hawaiian Islands",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hawaiian_Islands",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q192626",
+  "image_file": "Hawaje-NoRedLine.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/hawaiian-islands.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Hawaiian Islands — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=hawaiian-islands",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Hawaiian Islands in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Hawaiian_Islands",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Hawaiian Islands"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q192626",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q192626"
+  }
+ ],
+ "bbox": [
+  -159.69515,
+  17.65431,
+  -152.96865,
+  23.94249
+ ]
+}

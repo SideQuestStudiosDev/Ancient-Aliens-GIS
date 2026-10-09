@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "palm-springs",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -116.545278,
+   33.830278
+  ]
+ },
+ "properties": {
+  "name": "Palm Springs",
+  "subtitle": "Riverside County, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "coachella",
+   "desert",
+   "sighting"
+  ],
+  "aliases": [
+   "California",
+   "Coachella Valley"
+  ],
+  "claim": "Cited among Coachella Valley sighting reports and in connection with the desert's mid-century contactee circuit, a short drive from Giant Rock.",
+  "context": "The Coachella Valley sits between the Chocolate Mountain Aerial Gunnery Range, Twentynine Palms and the Banning Pass air corridor, and the clear desert sky and low humidity make distant aircraft lights, flares and balloons unusually visible — the standard explanatory set for desert sighting clusters.",
+  "summary": "Palm Springs (Cahuilla: Séc-he) is a desert resort city in Riverside County, California, United States, within the Colorado Desert's Coachella Valley. The city covers approximately 94 square miles (240 km2), making it the largest city in Riverside County by land area. With multiple plots in checkerboard pattern, more than 10% of the city is part of the Agua Caliente Band of Cahuilla Indians reservation land and is the administrative capital of the most populated reservation in California.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in California, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.830278,
+  "longitude": -116.545278,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Palm Springs, California",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palm_Springs,_California",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q488004",
+  "image_file": "Palm_Springs_from_the_Museum_Trail.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/palm-springs.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Palm Springs — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=palm-springs",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Palm Springs in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Palm_Springs,_California",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Palm Springs, California"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q488004",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q488004"
+  }
+ ],
+ "bbox": [
+  -116.545278,
+  33.830278,
+  -116.545278,
+  33.830278
+ ]
+}

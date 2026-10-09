@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "miami-circle",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -80.188961,
+   25.76947
+  ]
+ },
+ "properties": {
+  "name": "Miami Circle",
+  "subtitle": "Miami, Florida, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "tequesta",
+   "national-landmark",
+   "post-holes",
+   "florida"
+  ],
+  "aliases": [
+   "Miami",
+   "Tequesta",
+   "Brickell Point",
+   "Florida"
+  ],
+  "claim": "A 12 m ring of basins cut into bedrock at the mouth of the Miami River, discovered in 1998, is presented as an astronomical instrument or a landing marker of unknown authorship.",
+  "context": "The circle is a National Historic Landmark attributed to the Tequesta and dated to roughly 2,000 years ago. The 24 basins are read as footings for a substantial circular structure, matching post-hole patterns from other Tequesta sites; associated artefacts include shell tools, pottery and faunal remains. A second partial circle was later found across the river.",
+  "summary": "The Miami Circle, also known as The Miami River Circle, Brickell Point, or The Miami Circle at Brickell Point Site, is an archaeological site in Brickell, Miami, Florida. It consists of a perfect circle measuring 38 feet (11.5m) of 600 postmolds that contain 24 holes or basins cut into the limestone bedrock, on a coastal spit of land, surrounded by a large number of other 'minor' holes. It predates other known permanent settlements on the East Coast.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in Brickell, Miami",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.76947,
+  "longitude": -80.188961,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 800,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Miami Circle",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Miami_Circle",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q6827290",
+  "image_file": "Miami_Circle_20110307.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/miami-circle.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Miami Circle — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=miami-circle",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Miami Circle in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Miami_Circle",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Miami Circle"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q6827290",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q6827290"
+  }
+ ],
+ "bbox": [
+  -80.188961,
+  25.76947,
+  -80.188961,
+  25.76947
+ ]
+}

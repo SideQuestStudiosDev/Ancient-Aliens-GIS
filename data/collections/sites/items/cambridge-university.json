@@ -1,0 +1,82 @@
+{
+ "type": "Feature",
+ "id": "cambridge-university",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   0.117222,
+   52.205278
+  ]
+ },
+ "properties": {
+  "name": "University of Cambridge",
+  "subtitle": "Cambridge, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "academia",
+   "seti",
+   "physics"
+  ],
+  "aliases": [],
+  "claim": "Appears as an interview location: Cambridge researchers are cited on exoplanet statistics, panspermia and the Drake equation, with their remarks used to support the plausibility of contact.",
+  "context": "The institutional work referenced is real — Cambridge contributes substantially to exoplanet detection and astrobiology. The inferential leap is in the editing: statements about the likelihood of life elsewhere are not statements about visits to Earth, and researchers have repeatedly objected to that splice.",
+  "summary": "The University of Cambridge is a collegiate public research university in Cambridge, England. Founded in 1209, the University of Cambridge is the second-oldest university in the English-speaking world and the world's third-oldest university in continuous operation. The university's founding followed the arrival of scholars who left the University of Oxford for Cambridge after a dispute with local townspeople.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Public collegiate university in England",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 52.205278,
+  "longitude": 0.117222,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "University of Cambridge",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_Cambridge",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q35794",
+  "image_file": "Coat_of_Arms_of_the_University_of_Cambridge.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cambridge-university.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "University of Cambridge — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cambridge-university",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "University of Cambridge in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/University_of_Cambridge",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: University of Cambridge"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q35794",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q35794"
+  }
+ ],
+ "bbox": [
+  0.117222,
+  52.205278,
+  0.117222,
+  52.205278
+ ]
+}

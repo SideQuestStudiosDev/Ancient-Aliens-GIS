@@ -1,0 +1,90 @@
+{
+ "type": "Feature",
+ "id": "cave-of-tayos",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -78.205361,
+   -3.052083
+  ]
+ },
+ "properties": {
+  "name": "Cueva de los Tayos",
+  "subtitle": "Morona-Santiago, Ecuador",
+  "country": "Ecuador",
+  "region": "South America",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "karst",
+   "shuar",
+   "metal-library",
+   "1976-expedition"
+  ],
+  "aliases": [
+   "Cave of Tayos",
+   "Tayos",
+   "Metal Library",
+   "Juan Moricz",
+   "Andes",
+   "Ecuador"
+  ],
+  "claim": "Juan Moricz claimed in 1969 to have found a 'metal library' of engraved plates deep inside this Shuar-held cave system, with worked passages and gold artefacts; the 1976 British–Ecuadorian expedition that followed — with Neil Armstrong as honorary president — is cited as proof that the claim was taken seriously at the highest level.",
+  "context": "The 1976 expedition was real, large and well publicised, and it found no library, no metal plates and no worked chambers — its genuine results were zoological and speleological, plus a burial of ordinary archaeological interest. Moricz never produced the plates or showed anyone the chamber, and the passages are limestone karst shaped by water. The cave is sacred to the Shuar, who harvest oilbird (tayos) chicks there, and access is at their discretion.",
+  "summary": "Cueva de los Tayos (Spanish, \"Cave of the Oilbirds\") is a cave located on the eastern slopes of the Andes Mountains in the Morona-Santiago province of Ecuador. It owes its name to being the home of the native nocturnal birds called tayos (Steatornis caripensis), which live in numerous caves in the Andean jungles of South America.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Cave in Ecuador",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -3.052083,
+  "longitude": -78.205361,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cueva de los Tayos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cueva_de_los_Tayos",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5192642",
+  "image_file": "Corredor_-_Cueva_de_los_Tayos.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cave-of-tayos.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Cueva de los Tayos — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cave-of-tayos",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Cueva de los Tayos in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cueva_de_los_Tayos",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cueva de los Tayos"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5192642",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5192642"
+  }
+ ],
+ "bbox": [
+  -78.205361,
+  -3.052083,
+  -78.205361,
+  -3.052083
+ ]
+}

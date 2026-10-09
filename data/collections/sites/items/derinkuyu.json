@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "derinkuyu",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   34.7351,
+   38.3735
+  ]
+ },
+ "properties": {
+  "name": "Derinkuyu Underground City",
+  "subtitle": "Nevşehir Province, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "unesco",
+   "cappadocia",
+   "tuff",
+   "byzantine"
+  ],
+  "aliases": [
+   "Elengubu",
+   "Nevsehir"
+  ],
+  "claim": "An eighteen-storey city cut 85 m into rock, with ventilation shafts, wells, stables and multi-tonne rolling stone doors operable only from inside, is presented as a shelter against an aerial threat — or as excavated with beam technology.",
+  "context": "Cappadocian tuff is soft volcanic ash-rock that cuts with hand tools and hardens on exposure; the region holds more than 200 such complexes. Derinkuyu's phases run from Phrygian beginnings through heavy Byzantine expansion, when the doors — barring from inside, exactly as a refuge should — sheltered populations from Arab and later Mongol raids. Chapels, wine presses and Greek inscriptions date the occupation directly.",
+  "summary": "Derinkuyu (Turkish pronunciation: [deˈɾinkuju]), also known as Malakopi, is an ancient multi-level underground city near the modern town of Derinkuyu in Nevşehir Province, Turkey, extending to a depth of approximately 85 metres (280 ft). It is large enough to have sheltered as many as 20,000 people together with their livestock and food stores. It is the largest excavated underground city in Turkey and is one of several underground complexes found throughout Cappadocia.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient underground city in Turkey",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.3735,
+  "longitude": 34.7351,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Derinkuyu underground city",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1328958",
+  "image_file": "Derinkuyu_Underground_City_9910_Nevit.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/derinkuyu.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Derinkuyu Underground City — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=derinkuyu",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Derinkuyu Underground City in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Derinkuyu_underground_city",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Derinkuyu underground city"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1328958",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1328958"
+  }
+ ],
+ "bbox": [
+  34.7351,
+  38.3735,
+  34.7351,
+  38.3735
+ ]
+}

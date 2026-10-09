@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "southwestern-poland",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   16.33,
+   50.68
+  ]
+ },
+ "properties": {
+  "name": "Lower Silesia — Project Riese",
+  "subtitle": "Owl Mountains, Lower Silesia, Poland",
+  "country": "Poland",
+  "region": "Europe",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "project-riese",
+   "wwii",
+   "tunnels",
+   "owl-mountains"
+  ],
+  "aliases": [
+   "Riese",
+   "Owl Mountains",
+   "Góry Sowie",
+   "Walim",
+   "Książ"
+  ],
+  "claim": "Seven vast unfinished tunnel complexes under the Owl Mountains, built at enormous cost by forced labour and never explained in surviving records, are presented as housing for the Nazi anti-gravity programme — the 'Wunderwaffe' and Die Glocke.",
+  "context": "Project Riese is real, incomplete, and consumed more concrete in 1944 than Germany's entire civil air-raid shelter programme. Surviving documentation is thin because the project was compartmented and records were destroyed, but Albert Speer's testimony and Todt Organisation records point to a dispersed armaments plant and a Führer headquarters. Nothing anomalous has been recovered in eighty years of exploration; thousands of Gross-Rosen prisoners died building it.",
+  "summary": "Riese ([ˈʁiːzə]; German for \"giant\") was the codename given to a construction project undertaken by Nazi Germany between 1943 and 1945. Consisting of seven underground structures at Książ Castle and in the Owl Mountains in Lower Silesia, which was then Nazi Germany and is now Poland.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Nazi construction project (1943–45)",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 50.68,
+  "longitude": 16.33,
+  "celestial_body": "earth",
+  "radius_km": 25,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Project Riese",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Project_Riese",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q320076",
+  "image_file": "Riese_1944.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/southwestern-poland.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lower Silesia — Project Riese — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=southwestern-poland",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lower Silesia — Project Riese in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Project_Riese",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Project Riese"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q320076",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q320076"
+  }
+ ],
+ "bbox": [
+  15.97558,
+  50.45542,
+  16.68442,
+  50.90458
+ ]
+}

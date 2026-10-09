@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "mauritius",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   57.5,
+   -20.2
+  ]
+ },
+ "properties": {
+  "name": "Mauritius",
+  "subtitle": "Indian Ocean",
+  "country": "Mauritius",
+  "region": "Africa",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "mauritia",
+   "zircon",
+   "lost-continent",
+   "dodo"
+  ],
+  "aliases": [
+   "Mauritia",
+   "lost continent",
+   "Indian Ocean"
+  ],
+  "claim": "Three-billion-year-old zircon crystals recovered on a nine-million-year-old volcanic island, reported in 2013 and 2017 as evidence of a drowned continent called Mauritia, are presented as the physical remains of Lemuria.",
+  "context": "The zircons are real and the finding is mainstream geology: they indicate a fragment of Archean continental crust stranded beneath Mauritius when Madagascar and India separated, and 'Mauritia' is the geological name for it. It is sunken continental crust tens of kilometres down, not a habitable landmass, and it foundered roughly 84 million years before any hominin existed.",
+  "summary": "Mauritius, officially the Republic of Mauritius, is an island country in the Indian Ocean, located about 1,100 nautical miles (2,000 km; 1,300 mi) off the southeastern coast of Africa, east of Madagascar. It includes the main island (also called Mauritius), as well as Rodrigues, Agaléga, and St. Brandon (Cargados Carajos shoals).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Island country in the Indian Ocean",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -20.2,
+  "longitude": 57.5,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mauritius",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mauritius",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1027",
+  "image_file": "Flag_of_Mauritius.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mauritius.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mauritius — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mauritius",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mauritius in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mauritius",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mauritius"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1027",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1027"
+  }
+ ],
+ "bbox": [
+  57.5,
+  -20.2,
+  57.5,
+  -20.2
+ ]
+}

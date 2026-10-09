@@ -1,0 +1,93 @@
+{
+ "type": "Feature",
+ "id": "florence-vinci",
+ "geometry": {
+  "type": "MultiPoint",
+  "coordinates": [
+   [
+    11.265,
+    43.7629
+   ],
+   [
+    10.9256,
+    43.7838
+   ]
+  ]
+ },
+ "properties": {
+  "name": "Florence & Vinci",
+  "subtitle": "Tuscany, Italy",
+  "country": "Italy",
+  "region": "Europe",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "leonardo",
+   "renaissance",
+   "flight",
+   "codex"
+  ],
+  "aliases": [
+   "Leonardo da Vinci",
+   "Piazzale Michelangelo",
+   "Tuscany"
+  ],
+  "claim": "Leonardo's ornithopter, parachute, aerial screw and armoured vehicle designs are presented as too far ahead of 1500 to be original, implying access to recovered or transmitted knowledge.",
+  "context": "Leonardo's notebooks document his process — anatomical bird studies, failed trials, iterative correction and clear intellectual debts to Vitruvius, Archimedes and contemporaries such as Taccola and Francesco di Giorgio. Several designs do not work as drawn: the ornithopter cannot generate the required power and the aerial screw lacks torque compensation. That is the signature of invention, not transcription.",
+  "summary": "Leonardo di ser Piero da Vinci (15 April 1452 – 2 May 1519) was an Italian polymath of the High Renaissance who was active as a painter, draughtsman, engineer, scientist, theorist, sculptor, and architect. While his fame initially rested on his achievements as a painter, he has also become known for his notebooks, in which he made drawings and notes on a variety of subjects, including anatomy, astronomy, botany, cartography, painting, and palaeontology. Leonardo is widely regarded as a genius who epitomised the Renaissance humanist ideal, and his collective works contributed to the development of European art to an extent rivalled only by that of his younger contemporary Michelangelo.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Italian polymath (1452–1519)",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 43.7696,
+  "longitude": 11.2558,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 30000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Leonardo da Vinci",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q762",
+  "image_file": "Francesco_Melzi_-_Portrait_of_Leonardo_(colour_correction).png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/florence-vinci.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Florence & Vinci — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=florence-vinci",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Florence & Vinci in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Leonardo_da_Vinci",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Leonardo da Vinci"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q762",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q762"
+  }
+ ],
+ "bbox": [
+  10.9256,
+  43.7629,
+  11.265,
+  43.7838
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "hill-abduction",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.68,
+   44.1
+  ]
+ },
+ "properties": {
+  "name": "Betty & Barney Hill Encounter Site",
+  "subtitle": "Franconia Notch, New Hampshire, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1961",
+   "abduction",
+   "hypnosis",
+   "star-map"
+  ],
+  "aliases": [
+   "Betty Hill",
+   "Barney Hill",
+   "New Hampshire",
+   "Zeta Reticuli",
+   "Indian Head"
+  ],
+  "claim": "The template for the abduction narrative: on 19 September 1961 the Hills reported a craft near Lincoln, two hours of missing time, and — under later hypnosis — an onboard examination, with Betty's recalled star map matched by Marjorie Fish to Zeta Reticuli.",
+  "context": "The case's cultural importance is beyond dispute; it established most elements of the modern abduction script. The hypnotist, Benjamin Simon, concluded the recovered material was a shared fantasy rather than recall, and hypnosis is now known to generate confident false memories. The Fish map correlation was undermined by later Hipparcos parallax data, which revised several of the stars' distances and broke the pattern. Barney's initial description also closely tracked a widely broadcast television episode aired twelve days earlier.",
+  "summary": "Barney and Betty Hill were an American couple and civil rights activists who claimed they were abducted by extraterrestrials in a rural portion of the state of New Hampshire from September 19 to 20, 1961. The incident came to be called the \"Hill Abduction\" and the \"Zeta Reticuli Incident\" because two ufologists connected the star map allegedly shown to Betty Hill with the Zeta Reticuli system. Their story was adapted into the best-selling 1966 book The Interrupted Journey and NBC's 1975 television film The UFO Incident.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Alleged alien abduction in 1961",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 44.1,
+  "longitude": -71.68,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 15000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Barney and Betty Hill incident",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q850529",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/hill-abduction.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Betty & Barney Hill Encounter Site — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=hill-abduction",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Betty & Barney Hill Encounter Site in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Barney_and_Betty_Hill_incident",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Barney and Betty Hill incident"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q850529",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q850529"
+  }
+ ],
+ "bbox": [
+  -71.68,
+  44.1,
+  -71.68,
+  44.1
+ ]
+}

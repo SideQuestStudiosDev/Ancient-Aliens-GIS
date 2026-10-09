@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "winnemucca-lake",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -119.341,
+   40.111
+  ]
+ },
+ "properties": {
+  "name": "Winnemucca Lake",
+  "subtitle": "Pershing County, Nevada, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "petroglyphs",
+   "oldest-rock-art",
+   "pyramid-lake",
+   "paiute"
+  ],
+  "aliases": [
+   "Nevada",
+   "Northern Paiute",
+   "oldest petroglyphs"
+  ],
+  "claim": "Petroglyphs on a dry lake bed, dated by carbonate crust to between 14,800 and 10,500 years ago — the oldest securely dated rock art in North America — are presented as a record left at first contact, their abstract forms read as star maps or craft.",
+  "context": "The dating, published in 2013 by Larry Benson and colleagues using the tufa coating's radiocarbon and lake-level history, is genuine and important: it establishes symbolic expression in the Great Basin at or before the earliest accepted human presence. The motifs are deeply incised geometric and dendritic forms, a recognised Great Basin Carved Abstract style. The site is on Pyramid Lake Paiute land and access is restricted.",
+  "summary": "Winnemucca Lake is a dry lake bed in northwest Nevada that features the oldest known petroglyphs in North America. Located astride the border between Washoe and Pershing counties, it was a shallow lake until the 1930s, but was dried when a dam and a road were built that combined to restrict and block water flow. It was formerly designated as a National Wildlife Refuge, but its status as a refuge was removed due to the lack of water.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Dry lake bed in Nevada with petroglyphs",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.111,
+  "longitude": -119.341,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Winnemucca Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Winnemucca_Lake",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q8025576",
+  "image_file": "Winnemucca_Lake_(213008212).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/winnemucca-lake.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Winnemucca Lake — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=winnemucca-lake",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Winnemucca Lake in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Winnemucca_Lake",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Winnemucca Lake"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q8025576",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q8025576"
+  }
+ ],
+ "bbox": [
+  -119.341,
+  40.111,
+  -119.341,
+  40.111
+ ]
+}

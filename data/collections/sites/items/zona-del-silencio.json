@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "zona-del-silencio",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -103.75,
+   26.7
+  ]
+ },
+ "properties": {
+  "name": "Zona del Silencio",
+  "subtitle": "Mapimí, Durango / Chihuahua / Coahuila, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "anomaly",
+  "category_label": "Anomaly Zone",
+  "tags": [
+   "mapimi",
+   "meteorites",
+   "athena-missile",
+   "biosphere-reserve"
+  ],
+  "aliases": [
+   "Zone of Silence",
+   "Mapimi",
+   "Ceballos",
+   "Bolsón de Mapimí"
+  ],
+  "claim": "A desert tract said to swallow radio signals, deflect compasses and attract meteorites, where a US Athena missile went badly off course in 1970 — presented as a magnetic anomaly or a deliberate landing corridor.",
+  "context": "The 1970 Athena RTV that overflew from Green River, Utah into Chihuahua is real and documented, and the recovery operation drew wide attention — which is where the legend begins. Radio propagation tests have found no attenuation anomaly, and no magnetic anomaly appears in Mexican geological surveys. The region's genuine distinction is the Mapimí Biosphere Reserve and its endemic desert tortoise. The 1969 Allende meteorite fell nearby, a well-studied carbonaceous chondrite.",
+  "summary": "The Mapimí Silent Zone (Spanish: La Zona del Silencio) is the popular name for a desert patch near the Bolsón de Mapimí in Durango, Mexico, overlapping the Mapimí Biosphere Reserve. It is the subject of an urban legend that claims it is an area where radio signals and any type of communications cannot be received.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Region in Northwest Mexico",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 26.7,
+  "longitude": -103.75,
+  "celestial_body": "earth",
+  "radius_km": 60,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mapimí Silent Zone",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mapim%C3%AD_Silent_Zone",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q633166",
+  "image_file": "Zona-del-Silencio.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/zona-del-silencio.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Zona del Silencio — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=zona-del-silencio",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Zona del Silencio in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mapim%C3%AD_Silent_Zone",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mapimí Silent Zone"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q633166",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q633166"
+  }
+ ],
+ "bbox": [
+  -104.35332,
+  26.16101,
+  -103.14668,
+  27.23899
+ ]
+}

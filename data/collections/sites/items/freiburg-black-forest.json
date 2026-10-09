@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "freiburg-black-forest",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   7.8421,
+   47.999
+  ]
+ },
+ "properties": {
+  "name": "Freiburg & the Black Forest",
+  "subtitle": "Baden-Württemberg, Germany",
+  "country": "Germany",
+  "region": "Europe",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "black-forest",
+   "folklore",
+   "mining"
+  ],
+  "aliases": [
+   "Schwarzwald",
+   "Black Forest"
+  ],
+  "claim": "The forest's dwarf and kobold folklore, its deep medieval silver mines and local sighting reports are woven into a claim of a long-standing subterranean presence.",
+  "context": "Black Forest mining folklore maps closely onto its real occupational history: silver and lead workings around Schauinsland and the Münstertal from the 11th century, with kobold traditions functioning as hazard lore for firedamp and rockfall. The word 'cobalt' descends from that usage — ore that poisoned smelters was blamed on the spirit.",
+  "summary": "The Black Forest (German: Schwarzwald [ˈʃvaʁtsvalt] ) is a large forested mountain range in the state of Baden-Württemberg in southwest Germany, bounded by the Rhine Valley to the west and south and close to the borders with France and Switzerland. It is the source of the Danube and Neckar rivers.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain range in Germany",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 47.999,
+  "longitude": 7.8421,
+  "celestial_body": "earth",
+  "radius_km": 60,
+  "camera_height_m": 90000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Black Forest",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Forest",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q4204",
+  "image_file": "Blick_vom_Hohfelsen.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/freiburg-black-forest.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Freiburg & the Black Forest — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=freiburg-black-forest",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Freiburg & the Black Forest in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Black_Forest",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Black Forest"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q4204",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q4204"
+  }
+ ],
+ "bbox": [
+  7.03661,
+  47.46001,
+  8.64759,
+  48.53799
+ ]
+}

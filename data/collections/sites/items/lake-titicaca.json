@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "lake-titicaca",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -69.4,
+   -15.75
+  ]
+ },
+ "properties": {
+  "name": "Lake Titicaca",
+  "subtitle": "Peru / Bolivia border",
+  "country": "Peru / Bolivia",
+  "region": "South America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "viracocha",
+   "high-altitude",
+   "submerged-ruins",
+   "uros"
+  ],
+  "aliases": [
+   "Titicaca",
+   "Viracocha",
+   "Isla del Sol",
+   "Khoa Reef"
+  ],
+  "claim": "Andean tradition places Viracocha's emergence here, and submerged structures on the lake floor plus marine fossils at 3,812 m are presented as evidence of a drowned civilisation and a catastrophic uplift.",
+  "context": "Submerged remains are real and excavated: the Khoa Reef offerings near Isla del Sol were documented by underwater archaeologists in 2013–19, and Tiwanaku-period structures lie in shallow water — products of lake-level fluctuation, which palaeoclimate cores track in detail. The marine fossils are Cretaceous, uplifted over tens of millions of years by Andean orogeny at a few millimetres a year — a rate measured directly by GPS geodesy.",
+  "summary": "Lake Titicaca (Spanish: Lago Titicaca [ˈlaɣo titiˈkaka]; Quechua: Titiqaqa and Aymara: Titiqaqa) is a large lake in the Andes mountains on the border of Bolivia and Peru. It is often called the highest navigable lake in the world. It is often listed as a freshwater lake, though its waters are slightly brackish.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Large lake on the border of Peru and Bolivia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -15.75,
+  "longitude": -69.4,
+  "celestial_body": "earth",
+  "radius_km": 90,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Lake Titicaca",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q35342",
+  "image_file": "Lake_Titicaca_ESA22522896.jpeg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/lake-titicaca.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lake Titicaca — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=lake-titicaca",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lake Titicaca in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Lake_Titicaca",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Lake Titicaca"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q35342",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q35342"
+  }
+ ],
+ "bbox": [
+  -70.24002,
+  -16.55848,
+  -68.55998,
+  -14.94152
+ ]
+}

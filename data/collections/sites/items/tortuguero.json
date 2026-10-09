@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "tortuguero",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -92.9333,
+   17.8167
+  ]
+ },
+ "properties": {
+  "name": "Tortuguero",
+  "subtitle": "Tabasco, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "maya",
+   "monument-6",
+   "long-count",
+   "2012"
+  ],
+  "aliases": [
+   "Monument 6",
+   "2012 prophecy",
+   "Tabasco",
+   "Bolon Yokte"
+  ],
+  "claim": "Monument 6 from this small Maya site carries the only known ancient inscription referring to the 13-baktun date of 21 December 2012 — presented as a dated warning of the end of a cycle and the return of its authors.",
+  "context": "The monument is genuine and the reference is real, which is why epigraphers studied it closely. The passage is eroded and reads, in the standard translation, that the god Bolon Yokte' K'uh will 'descend' or be 'displayed' at the period ending — a routine dedicatory formula tying a local ruler's works to a future calendar station. Maya Long Count dates run far beyond 2012 at Palenque and Coba, so the calendar does not end. The site was largely destroyed by a cement works.",
+  "summary": "Tortuguero (or El Tortuguero) is an archaeological site in southernmost Tabasco, Mexico which supported a Maya city during the Classic period. The site is noteworthy for its use of the B'aakal emblem glyph also found as the primary title at Palenque. The site has been heavily damaged by looting and modern development; in the 1960s, a cement factory was built directly on top of the site.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ruined Maya city in Tabasco, Mexico",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 17.8167,
+  "longitude": -92.9333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Tortuguero (Maya site)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tortuguero_(Maya_site)",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1383296",
+  "image_file": "Estela_6_el_Tortuguero.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tortuguero.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tortuguero — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tortuguero",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tortuguero in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tortuguero_(Maya_site)",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tortuguero (Maya site)"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1383296",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1383296"
+  }
+ ],
+ "bbox": [
+  -92.9333,
+  17.8167,
+  -92.9333,
+  17.8167
+ ]
+}

@@ -1,0 +1,12 @@
+<style>
+  <id>style_ancient-aliens-sites</id>
+  <name>ancient-aliens-sites</name>
+  <workspace>
+    <id>ws_aagis</id>
+  </workspace>
+  <format>sld</format>
+  <languageVersion>
+    <version>1.0.0</version>
+  </languageVersion>
+  <filename>ancient-aliens-sites.sld</filename>
+</style>

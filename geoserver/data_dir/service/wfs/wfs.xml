@@ -1,0 +1,28 @@
+<wfs>
+  <id>wfs</id>
+  <enabled>true</enabled>
+  <name>WFS</name>
+  <title>Ancient Aliens GIS — Web Feature Service</title>
+  <abstract>OGC WFS 2.0.0 access to the Ancient Aliens site catalogue.</abstract>
+  <keywords>
+    <string>WFS</string><string>ancient aliens</string><string>archaeology</string>
+  </keywords>
+  <versions>
+    <org.geotools.util.Version><version>1.0.0</version></org.geotools.util.Version>
+    <org.geotools.util.Version><version>1.1.0</version></org.geotools.util.Version>
+    <org.geotools.util.Version><version>2.0.0</version></org.geotools.util.Version>
+  </versions>
+  <citeCompliant>false</citeCompliant>
+  <schemaBaseURL>http://schemas.opengis.net</schemaBaseURL>
+  <gml>
+    <entry>
+      <version>V_20</version>
+      <gml><srsNameStyle>URN2</srsNameStyle><overrideGMLAttributes>false</overrideGMLAttributes></gml>
+    </entry>
+  </gml>
+  <serviceLevel>COMPLETE</serviceLevel>
+  <maxFeatures>1000</maxFeatures>
+  <featureBounding>true</featureBounding>
+  <encodeFeatureMember>false</encodeFeatureMember>
+  <hitsIgnoreMaxFeatures>true</hitsIgnoreMaxFeatures>
+</wfs>

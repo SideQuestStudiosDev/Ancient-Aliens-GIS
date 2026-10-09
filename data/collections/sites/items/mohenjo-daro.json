@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "mohenjo-daro",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   68.138889,
+   27.329167
+  ]
+ },
+ "properties": {
+  "name": "Mohenjo-daro",
+  "subtitle": "Sindh, Pakistan",
+  "country": "Pakistan",
+  "region": "South Asia",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "indus-valley",
+   "bronze-age",
+   "urban-grid"
+  ],
+  "aliases": [
+   "Indus Valley",
+   "Harappan",
+   "Sindh"
+  ],
+  "claim": "A city with a gridded street plan, covered drains and standardised fired bricks, reportedly abandoned abruptly — combined with claimed radioactive skeletons and vitrified rubble — is presented as the site of an ancient nuclear strike described in the Mahabharata.",
+  "context": "Mohenjo-daro's planning is real and is the basis for its World Heritage listing. The 'radioactive skeletons' claim traces to popular books of the 1960s–80s with no supporting measurements; the excavated human remains are ordinary burials and casual interments, published by Marshall, Mackay and Wheeler, and no vitrified layer exists in the stratigraphy. Decline is now attributed to Indus and Ghaggar-Hakra hydrological shifts and monsoon weakening around 1900 BC, with population moving eastward.",
+  "summary": "Mohenjo-daro (Sindhi: موهن جو دڙو, lit. 'Mound of the Dead Men'; Urdu: موئن جو دڑو [muˑənⁱ dʑoˑ d̪əɽoˑ]) is an archaeological site in the Larkana District of Sindh, Pakistan. Built c. 2500 BCE, it was one of the largest settlements of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilisations of ancient Egypt, Mesopotamia, Minoa, and Norte Chico.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in Sindh, Pakistan",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 27.329167,
+  "longitude": 68.138889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mohenjo-daro",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5725",
+  "image_file": "Mohenjodaro_-_view_of_the_stupa_mound.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mohenjo-daro.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mohenjo-daro — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mohenjo-daro",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mohenjo-daro in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mohenjo-daro"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5725",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5725"
+  }
+ ],
+ "bbox": [
+  68.138889,
+  27.329167,
+  68.138889,
+  27.329167
+ ]
+}

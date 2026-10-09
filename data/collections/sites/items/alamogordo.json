@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "alamogordo",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -105.974444,
+   32.856111
+  ]
+ },
+ "properties": {
+  "name": "Alamogordo",
+  "subtitle": "Otero County, New Mexico, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "holloman",
+   "1964-film",
+   "atomic-age"
+  ],
+  "aliases": [
+   "Holloman Air Force Base",
+   "New Mexico"
+  ],
+  "claim": "A 1964 landing at nearby Holloman AFB, said to be captured on film and to show a craft met by Air Force officers, is presented as documented official contact.",
+  "context": "The Holloman landing footage traces to the 1974 pseudo-documentary 'UFOs: Past, Present and Future' and to Robert Emenegger, who has stated the sequence was a planned reconstruction he was offered and which never materialised as real footage. Holloman's actual aerospace record — high-altitude balloon programmes, rocket sleds and early biomedical flights — generated many genuine reports.",
+  "summary": "Alamogordo is a city in and the county seat of Otero County, New Mexico, United States. A city in the Tularosa Basin of the Chihuahuan Desert, it is bordered on the east by the Sacramento Mountains and to the west by Holloman Air Force Base. The population was 31,384 as of the 2020 census.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in New Mexico, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 32.856111,
+  "longitude": -105.974444,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Alamogordo, New Mexico",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Alamogordo,_New_Mexico",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q467617",
+  "image_file": "Jim_Griggs_Sports_Complex.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/alamogordo.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Alamogordo — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=alamogordo",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Alamogordo in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Alamogordo,_New_Mexico",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Alamogordo, New Mexico"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q467617",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q467617"
+  }
+ ],
+ "bbox": [
+  -105.974444,
+  32.856111,
+  -105.974444,
+  32.856111
+ ]
+}

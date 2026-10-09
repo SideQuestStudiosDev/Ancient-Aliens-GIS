@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "troy",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   26.238889,
+   39.9575
+  ]
+ },
+ "properties": {
+  "name": "Troy (Truva)",
+  "subtitle": "Çanakkale Province, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "bronze-age",
+   "homer",
+   "hisarlik"
+  ],
+  "aliases": [
+   "Hisarlik",
+   "Ilios",
+   "Trojan War",
+   "Truva"
+  ],
+  "claim": "The Iliad's gods intervening in battle, and the Trojan Horse itself, are read as a garbled memory of aerial craft and of a machine mistaken for an animal.",
+  "context": "Hisarlık holds nine superimposed settlement phases from c. 3000 BC, and Troy VI/VIIa show destruction consistent with the traditional war horizon. Divine intervention is a structural convention of Greek epic, not reportage; the horse appears in the Odyssey and later sources rather than in the Iliad's narrative, and is generally read as a siege engine or as literary invention.",
+  "summary": "Troy or Ilion was an ancient city located in present-day Çanakkale, Turkey. It is best known as the setting for the Greek myth of the Trojan War. The modern-day archaeological site, also known as Hisarlık, is open to the public as a tourist destination, and was added to the UNESCO World Heritage list in 1998.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient city in northwest Asia Minor",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 39.9575,
+  "longitude": 26.238889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Troy",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Troy",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q22647",
+  "image_file": "Walls_of_Troy_(2).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/troy.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Troy (Truva) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=troy",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Troy (Truva) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Troy",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Troy"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q22647",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q22647"
+  }
+ ],
+ "bbox": [
+  26.238889,
+  39.9575,
+  26.238889,
+  39.9575
+ ]
+}

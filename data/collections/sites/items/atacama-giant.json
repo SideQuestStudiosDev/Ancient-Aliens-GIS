@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "atacama-giant",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -69.633056,
+   -19.948889
+  ]
+ },
+ "properties": {
+  "name": "Atacama Giant, Cerro Unitas",
+  "subtitle": "Tarapacá Region, Chile",
+  "country": "Chile",
+  "region": "South America",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "geoglyph",
+   "atacama",
+   "archaeoastronomy",
+   "largest-anthropomorph"
+  ],
+  "aliases": [
+   "Gigante de Atacama",
+   "Cerro Unitas",
+   "Atacama Desert",
+   "Tarapacá"
+  ],
+  "claim": "A 119 m anthropomorphic figure on a desert hillside — the largest prehistoric human figure on Earth, with a rayed headdress and rectangular body — is presented as a portrait of a visitor in a suit and helmet.",
+  "context": "The figure is attributed to Andean cultures of roughly AD 1000–1400 and sits among more than 5,000 geoglyphs along the Atacama's caravan routes, many depicting llamas, llama trains and human figures. It is read as a deity or lunar calendar marker: the headdress rays align with the moon's position at different seasons, giving caravan travellers a reference. The desert's hyperaridity is why the whole corpus survives.",
+  "summary": "The Atacama Giant (Spanish: Gigante de Atacama) is an anthropomorphic geoglyph on the Cerro Unita area of the Atacama Desert, Chile. At about 119 meters (390 feet), is the largest prehispanic anthropomorphic geoglyph. It has been suggested that it represents a shaman, spiritual figure or deity.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Geoglyph in the Atacama Desert, Chile",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -19.948889,
+  "longitude": -69.633056,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Atacama Giant",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Atacama_Giant",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1156421",
+  "image_file": "The_Giant_of_Atacama.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/atacama-giant.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Atacama Giant, Cerro Unitas — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=atacama-giant",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Atacama Giant, Cerro Unitas in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Atacama_Giant",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Atacama Giant"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1156421",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1156421"
+  }
+ ],
+ "bbox": [
+  -69.633056,
+  -19.948889,
+  -69.633056,
+  -19.948889
+ ]
+}

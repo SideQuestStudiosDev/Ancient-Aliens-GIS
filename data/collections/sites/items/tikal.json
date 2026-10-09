@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "tikal",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -89.623611,
+   17.221944
+  ]
+ },
+ "properties": {
+  "name": "Tikal",
+  "subtitle": "Petén, Guatemala",
+  "country": "Guatemala",
+  "region": "Central America & Caribbean",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "maya",
+   "temple-i",
+   "lidar",
+   "reservoirs"
+  ],
+  "aliases": [
+   "Guatemala",
+   "Peten",
+   "Yax Mutal",
+   "Temple of the Great Jaguar"
+  ],
+  "claim": "Temples rising 70 m above the rainforest canopy, a city of perhaps 60,000 supported by engineered reservoirs, abandoned and swallowed by jungle, are presented as evidence of a managed colony and its sudden recall.",
+  "context": "Tikal is one of the most completely excavated Maya cities, with a dynastic record spanning AD 90–869 and a documented interruption following defeat by Caracol in 562. Airborne LiDAR since 2016 has mapped tens of thousands of surrounding structures, causeways and defensive works across the Petén, revolutionising population estimates — a mainstream result that makes the landscape more intensively human, not less. Its reservoirs, including filtration using quartz sand and zeolite, are a genuine water-engineering achievement.",
+  "summary": "Tikal (Tik'al in modern Mayan orthography) is the ruin of an ancient city, which was likely to have been called Yax Mutal, found in a rainforest in Guatemala. One of the largest archaeological sites and urban centers of the pre-Columbian Maya civilization, it is located in the archaeological region of the Petén Basin in what is now the Petén Department in northern Guatemala. The site is part of Guatemala's Tikal National Park, which was declared a UNESCO World Heritage Site in 1979.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ruins of major ancient Maya city",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 17.221944,
+  "longitude": -89.623611,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1800,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Tikal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tikal",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q181172",
+  "image_file": "Tikal_3.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tikal.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tikal — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tikal",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tikal in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tikal",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tikal"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q181172",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q181172"
+  }
+ ],
+ "bbox": [
+  -89.623611,
+  17.221944,
+  -89.623611,
+  17.221944
+ ]
+}

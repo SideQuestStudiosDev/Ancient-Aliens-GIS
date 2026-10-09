@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "nuremberg",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   11.0767,
+   49.4521
+  ]
+ },
+ "properties": {
+  "name": "Nuremberg",
+  "subtitle": "Bavaria, Germany",
+  "country": "Germany",
+  "region": "Europe",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1561",
+   "broadsheet",
+   "celestial-phenomenon"
+  ],
+  "aliases": [
+   "Nürnberg",
+   "1561 celestial phenomenon",
+   "Hans Glaser"
+  ],
+  "claim": "Hans Glaser's 1561 broadsheet, showing cylinders, spheres, crosses and a great black spear-shaped object fighting above the city at dawn, is presented as a printed eyewitness record of an aerial battle.",
+  "context": "The broadsheet is a genuine 1561 artefact in the Zurich Wickiana collection. Its own text reads the display as a divine warning calling the city to repentance — the standard function of the 16th-century prodigy broadsheet, a commercial news-and-portent genre. The described forms match a complex sun-dog display: parhelia, sun pillars and arcs, which produce exactly these spheres, rods and crosses in cold dawn air.",
+  "summary": "In April 1561, a broadsheet by Hans Glaser described a mass sighting of celestial phenomena or unidentified flying objects (UFO) above Nuremberg (then a Free Imperial City of the Holy Roman Empire). Ufologists have speculated that contemporary observers may have witnessed extraterrestrial spacecraft. Skeptics assert that the incident was likely to have been an atmospheric event, such as a sun dog.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Supposed celestial phenomenon in the Holy Roman Empire",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 49.4521,
+  "longitude": 11.0767,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "1561 celestial phenomenon over Nuremberg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q628929",
+  "image_file": "Himmelserscheinung_über_Nürnberg_vom_14._April_1561.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nuremberg.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nuremberg — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nuremberg",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nuremberg in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/1561_celestial_phenomenon_over_Nuremberg",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: 1561 celestial phenomenon over Nuremberg"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q628929",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q628929"
+  }
+ ],
+ "bbox": [
+  11.0767,
+  49.4521,
+  11.0767,
+  49.4521
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "montauk-plum-island",
+ "geometry": {
+  "type": "MultiPoint",
+  "coordinates": [
+   [
+    -71.9545,
+    41.0359
+   ],
+   [
+    -72.1833,
+    41.1833
+   ]
+  ]
+ },
+ "properties": {
+  "name": "Montauk & Plum Island",
+  "subtitle": "Suffolk County, New York, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "camp-hero",
+   "montauk-project",
+   "animal-disease-center",
+   "sage-radar"
+  ],
+  "aliases": [
+   "Camp Hero",
+   "Montauk Project",
+   "Plum Island",
+   "Philadelphia Experiment"
+  ],
+  "claim": "The Montauk Project: time travel, mind control and contact experiments said to have continued at Camp Hero beneath a decommissioned radar station, with the Plum Island animal-disease laboratory nearby cast as its biological arm.",
+  "context": "Camp Hero is a real former Air Force station whose SAGE AN/FPS-35 radar tower still stands and is now a state park. The Montauk narrative originates with Preston Nichols's 1992 book, built on recovered-memory claims and continuous with the Philadelphia Experiment legend, itself traceable to Carl Allen's letters to Morris Jessup. Plum Island is a USDA foreign-animal-disease facility whose mission, inspections and biosafety record are public and regularly audited.",
+  "summary": "The Montauk Project is a conspiracy theory that alleges there were a series of United States government projects conducted at Camp Hero or Montauk Air Force Station in Montauk, New York, for the purpose of developing psychological warfare techniques and exotic research including time travel. The story of the Montauk Project originated in the Montauk Project series of books by Preston Nichols which intermixes those stories with stories about the Bulgarian Experiment.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "UFO conspiracy theory",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 41.08,
+  "longitude": -72.05,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Montauk Project",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Montauk_Project",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1945647",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/montauk-plum-island.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Montauk & Plum Island — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=montauk-plum-island",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Montauk & Plum Island in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Montauk_Project",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Montauk Project"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1945647",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1945647"
+  }
+ ],
+ "bbox": [
+  -72.1833,
+  41.0359,
+  -71.9545,
+  41.1833
+ ]
+}

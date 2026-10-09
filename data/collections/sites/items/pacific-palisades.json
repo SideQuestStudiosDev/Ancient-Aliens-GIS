@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "pacific-palisades",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -118.5269,
+   34.0481
+  ]
+ },
+ "properties": {
+  "name": "Pacific Palisades",
+  "subtitle": "Los Angeles, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "self-realization",
+   "esoteric",
+   "contactee"
+  ],
+  "aliases": [
+   "California",
+   "Lake Shrine"
+  ],
+  "claim": "Referenced for Southern California's dense concentration of esoteric organisations and contactee groups in the mid-20th century, presented as a network seeded by genuine contact.",
+  "context": "The concentration is a real and well-studied feature of California religious history — Theosophy, Vedanta, the I AM movement and dozens of successors took root here from the 1890s. Historians attribute it to migration patterns, inexpensive land and the absence of established religious authority, not to an external cause.",
+  "summary": "Pacific Palisades is a neighborhood in the Westside region of the city of Los Angeles, California, situated about 20 miles (32 km) west of downtown. It was founded in 1921 by a Methodist organization, and is known for its seclusion, Mediterranean climate, hilly topography, abundance of parkland and hiking trails, a 3-mile (4.8 km) strip of coastline, and for being home to several architecturally significant homes.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Neighborhood in California, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 34.0481,
+  "longitude": -118.5269,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Pacific Palisades, Los Angeles",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_Palisades,_Los_Angeles",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1370207",
+  "image_file": "Pacific_Palisades_Photo_Don_Ramey_Logan.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/pacific-palisades.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Pacific Palisades — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=pacific-palisades",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Pacific Palisades in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Pacific_Palisades,_Los_Angeles",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Pacific Palisades, Los Angeles"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1370207",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1370207"
+  }
+ ],
+ "bbox": [
+  -118.5269,
+  34.0481,
+  -118.5269,
+  34.0481
+ ]
+}

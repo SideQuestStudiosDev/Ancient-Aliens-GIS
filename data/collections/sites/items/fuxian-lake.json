@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "fuxian-lake",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   102.888889,
+   24.50225
+  ]
+ },
+ "properties": {
+  "name": "Fuxian Lake",
+  "subtitle": "Yuxi, Yunnan Province, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "submerged-ruins",
+   "yunnan",
+   "diving"
+  ],
+  "aliases": [
+   "Fuxian Hu",
+   "Yunnan",
+   "underwater city"
+  ],
+  "claim": "Stone structures surveyed at depth in China's second-deepest lake since 2001 — reported as walls, roads and a stepped platform — are presented as a drowned city predating Chinese civilisation.",
+  "context": "Chinese archaeologists have confirmed submerged stone structures and sonar anomalies, and the leading interpretation is the Han-era town of Yuyuan, lost to subsidence or earthquake — plausible on an active fault margin. Some surveyed features are assessed as natural karst. This is an open, publishing investigation of a historical-period site.",
+  "summary": "Fuxian Lake (Chinese: 抚仙湖; pinyin: Fǔxiān Hú) is a body of water in Yunnan Province, China. It stretches through Chengjiang, Jiangchuan and Huaning Counties, spanning an area of 212 square kilometers. It is the third-largest lake in Yunnan, after Dian Lake and Erhai Lake, and the deepest, at 155 meters.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Lake in Yunnan, China",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 24.50225,
+  "longitude": 102.888889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Fuxian Lake",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Fuxian_Lake",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q127016",
+  "image_file": "1_fuxian_lake_luchongcun_aerial_panorama_2018.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/fuxian-lake.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Fuxian Lake — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=fuxian-lake",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Fuxian Lake in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Fuxian_Lake",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Fuxian Lake"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q127016",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q127016"
+  }
+ ],
+ "bbox": [
+  102.888889,
+  24.50225,
+  102.888889,
+  24.50225
+ ]
+}

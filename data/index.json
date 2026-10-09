@@ -1,0 +1,43 @@
+{
+ "title": "Ancient Aliens GIS — OGC API Features",
+ "description": "Every location referenced in the television series Ancient Aliens, published as OGC API - Features. Each feature carries the claim made on screen, a summary of the archaeological record, and context noting where the two diverge.",
+ "attribution": "Ancient Aliens GIS. Descriptive summaries from Wikipedia, CC BY-SA 4.0. Claim and context text © the project, CC BY 4.0.",
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/index.json",
+   "rel": "self",
+   "type": "application/json",
+   "title": "this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/api.json",
+   "rel": "service-desc",
+   "type": "application/vnd.oai.openapi+json;version=3.0",
+   "title": "OpenAPI 3.0 description of this service"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/conformance.json",
+   "rel": "conformance",
+   "type": "application/json",
+   "title": "declared conformance classes"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/index.json",
+   "rel": "data",
+   "type": "application/json",
+   "title": "feature collections"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Ancient Aliens GIS 3D geoportal"
+  }
+ ],
+ "x-static-deployment": [
+  "This deployment is a set of static documents on a CDN, so query parameters (bbox, limit, datetime, offset, filter) are accepted but ignored: /items always returns the complete FeatureCollection. Filtering and paging are performed by the client.",
+  "The collection is small (hundreds of features, well under 1 MB gzipped), which is why returning it whole is practical.",
+  "For a deployment that honours the Core parameter requirements, run the GeoServer configuration in geoserver/ — it serves the same data as OGC API - Features, WFS 2.0.0 and WMS 1.3.0 over the identical schema."
+ ],
+ "x-generated": "2026-10-09T07:57:18Z"
+}

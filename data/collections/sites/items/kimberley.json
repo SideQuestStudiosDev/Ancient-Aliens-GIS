@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "kimberley",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   126.0,
+   -16.5
+  ]
+ },
+ "properties": {
+  "name": "Kimberley — Wandjina Rock Art",
+  "subtitle": "Western Australia",
+  "country": "Australia",
+  "region": "Southeast Asia & Oceania",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "rock-art",
+   "wandjina",
+   "gwion",
+   "first-nations"
+  ],
+  "aliases": [
+   "Wandjina",
+   "Wondjina",
+   "Gwion Gwion",
+   "Bradshaw figures",
+   "Western Australia"
+  ],
+  "claim": "Wandjina figures — large pale faces with huge dark eyes, no mouths and radiating halo-like headdresses — are among the series' most frequently shown images, presented as portraits of visitors.",
+  "context": "Wandjina are ancestral rain and creation beings of the Worrorra, Ngarinyin and Wunambal peoples, who hold continuing custodial authority over the images and repaint them as a maintenance obligation. The iconography is explained within that living tradition: the halo is storm cloud and lightning, the absent mouth signifies the power of rain held in check. Traditional owners have objected publicly and repeatedly to the extraterrestrial reading.",
+  "summary": "The Wandjina, also written Wanjina and Wondjina and also known as Gulingi, are cloud and rain spirits in the beliefs of the Wanjina Wunggurr cultural bloc of Aboriginal Australians, depicted prominently in rock art in northwestern Australia. Some of the artwork in the Kimberley region of Western Australia dates back to approximately 4,000 years ago. Another closely related spirit entity is the creator being Wunngurr, a being analogous to the Rainbow Serpent in other Aboriginal peoples' belief systems, but with a different interpretation.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Spirit beings of north-western Australian Aboriginal mythology",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -16.5,
+  "longitude": 126.0,
+  "celestial_body": "earth",
+  "radius_km": 250,
+  "camera_height_m": 250000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Wandjina",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wandjina",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q535154",
+  "image_file": "Wandjina_rock_art.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/kimberley.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Kimberley — Wandjina Rock Art — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=kimberley",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Kimberley — Wandjina Rock Art in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Wandjina",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Wandjina"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q535154",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q535154"
+  }
+ ],
+ "bbox": [
+  123.65777,
+  -18.74578,
+  128.34223,
+  -14.25422
+ ]
+}

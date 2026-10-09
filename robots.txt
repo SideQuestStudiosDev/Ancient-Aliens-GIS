@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/sitemap.xml

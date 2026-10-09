@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "bonnybridge",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.89,
+   56.0
+  ]
+ },
+ "properties": {
+  "name": "Bonnybridge — Falkirk Triangle",
+  "subtitle": "Falkirk, Scotland",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "anomaly",
+  "category_label": "Anomaly Zone",
+  "tags": [
+   "ufo-hotspot",
+   "falkirk",
+   "sighting-cluster"
+  ],
+  "aliases": [
+   "Falkirk Triangle",
+   "Falkirk"
+  ],
+  "claim": "Several hundred sighting reports a year since 1992 make this small Scottish town, with the surrounding 'Falkirk Triangle', one of the densest reported UFO clusters on Earth.",
+  "context": "The report volume is real and traceable to local campaigning that began in 1992 and actively solicited accounts — a reporting artefact well documented in the sighting literature. The area sits beneath Edinburgh and Glasgow approach corridors and near Grangemouth's flare stacks. No physical trace evidence has been produced.",
+  "summary": "Bonnybridge (Scottish Gaelic: Drochaid Bhunaich; Scots: Bonniebrig) is a village in the Falkirk council area of Scotland. It is 4.0 miles (6.4 km) west of Falkirk, 5.3 miles (8.5 km) north-east of Cumbernauld and 8.3 miles (13.4 km) south-southwest of Stirling. The village is situated near the Bonny Water which runs through the town and lies north of the Forth and Clyde Canal.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Human settlement in Scotland",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 56.0,
+  "longitude": -3.89,
+  "celestial_body": "earth",
+  "radius_km": 12,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Bonnybridge",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bonnybridge",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1014515",
+  "image_file": "Bonnybridge_Terraces_-_geograph.org.uk_-_138508.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bonnybridge.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bonnybridge — Falkirk Triangle — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bonnybridge",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bonnybridge — Falkirk Triangle in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bonnybridge",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bonnybridge"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1014515",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1014515"
+  }
+ ],
+ "bbox": [
+  -4.08277,
+  55.8922,
+  -3.69723,
+  56.1078
+ ]
+}

@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "tuyen-quang",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   105.2142,
+   21.8233
+  ]
+ },
+ "properties": {
+  "name": "Tuyên Quang Province",
+  "subtitle": "Northern Vietnam",
+  "country": "Vietnam",
+  "region": "Southeast Asia & Oceania",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "karst",
+   "vietnam"
+  ],
+  "aliases": [
+   "Vietnam",
+   "Tuyen Quang"
+  ],
+  "claim": "Cited for reported sightings and claimed physical traces in northern Vietnam's limestone country, offered as part of a dense South-East Asian activity corridor.",
+  "context": "Tuyên Quang is a mountainous karst province in the Northeast region. No instrumented or institutionally investigated case from the province appears in the published record; Vietnam has no state UAP investigation comparable to France's GEIPAN or the US AARO.",
+  "summary": "Tuyên Quang (Vietnamese: [tʷiə̄n kʷāːŋ]) is a province in the northeastern part of Vietnam, at the centre of Lô River valley, a tributary of the Red River. Its capital is Minh Xuân Ward. The province had a population of 1,865,270 in 2025, with a density of 137 persons per km2 over a total land area of 13,795.50 square kilometres (5,326.47 mi2).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Province of Vietnam",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 21.8233,
+  "longitude": 105.2142,
+  "celestial_body": "earth",
+  "radius_km": 40,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Tuyên Quang province",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tuy%C3%AAn_Quang_province",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2332060",
+  "image_file": "Cột_Cờ.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tuyen-quang.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tuyên Quang Province — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tuyen-quang",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tuyên Quang Province in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tuy%C3%AAn_Quang_province",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tuyên Quang province"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2332060",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2332060"
+  }
+ ],
+ "bbox": [
+  104.82714,
+  21.46398,
+  105.60126,
+  22.18262
+ ]
+}

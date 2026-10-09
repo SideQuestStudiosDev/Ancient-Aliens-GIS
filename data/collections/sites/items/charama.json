@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "charama",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   81.3,
+   20.1167
+  ]
+ },
+ "properties": {
+  "name": "Charama",
+  "subtitle": "Kanker District, Chhattisgarh, India",
+  "country": "India",
+  "region": "South Asia",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "rock-art",
+   "chhattisgarh",
+   "mesolithic"
+  ],
+  "aliases": [
+   "Chhattisgarh",
+   "Kanker",
+   "Rohansar"
+  ],
+  "claim": "Rock paintings reported from caves near Charama in 2014 — showing figures without clear faces, wearing what look like helmets and suits, beside a disc-shaped object — were described by a state archaeology officer as possibly depicting extraterrestrials, and the story was carried worldwide.",
+  "context": "The paintings are real and belong to central India's extensive Mesolithic-to-historic rock-art tradition, best known from the World Heritage shelters at Bhimbetka. The 'extraterrestrial' reading was one official's speculation to reporters, not a published finding; the stylised, featureless human figure is a standard convention across the region's panels. Local Gond communities have their own interpretive traditions for the figures.",
+  "summary": "Uttar Bastar Kanker district is located in the southern region of the state of Chhattisgarh, India between latitudes 20.6-20.24 and longitudes 80.48-81.48. The district covers an area of 6432 square kilometers and has a population of 748,941.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "District of Chhattisgarh in India",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 20.1167,
+  "longitude": 81.3,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 30000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Kanker district",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kanker_district",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2310530",
+  "image_file": "Stream_that_joins_Dood_river_Kanker_district.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/charama.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Charama — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=charama",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Charama in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Kanker_district",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Kanker district"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2310530",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2310530"
+  }
+ ],
+ "bbox": [
+  81.3,
+  20.1167,
+  81.3,
+  20.1167
+ ]
+}

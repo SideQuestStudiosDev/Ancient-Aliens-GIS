@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "cairo-giza",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   31.132778,
+   29.976111
+  ]
+ },
+ "properties": {
+  "name": "Giza Plateau & Cairo",
+  "subtitle": "Giza Governorate, Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "old-kingdom",
+   "great-pyramid",
+   "sphinx"
+  ],
+  "aliases": [
+   "Great Pyramid",
+   "Khufu",
+   "Sphinx",
+   "Cheops"
+  ],
+  "claim": "The flagship claim of the series: the Great Pyramid's precision, its near-perfect cardinal alignment, the estimated 2.3 million blocks, and the granite relieving chambers are said to exceed Bronze Age capability, implying machine tooling, levitation, or a function as a power plant or navigational beacon.",
+  "context": "Fourth-Dynasty construction is among the best-documented building programmes in antiquity. The Wadi al-Jarf papyri (c. 2560 BC) record Inspector Merer's crews ferrying Tura limestone to Giza; quarry faces, abandoned blocks, copper tools, dolerite pounders, ramp remnants at Hatnub and the workers' town excavated at Heit el-Ghurab all survive. Cardinal alignment is reproducible by stellar or solar methods available at the time.",
+  "summary": "The Giza pyramid complex (also called the Giza necropolis) in Egypt is home to the Great Pyramid, the pyramid of Khafre, and the pyramid of Menkaure, along with their associated pyramid complexes and the Great Sphinx. All were built during the Fourth Dynasty of the Old Kingdom of ancient Egypt, between c. 2600 – c. 2500 BC. The site also includes several temples, cemeteries, and the remains of a workers' village.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site near Cairo, Egypt",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 29.976111,
+  "longitude": 31.132778,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1600,
+  "camera_pitch_deg": -28,
+  "wikipedia_title": "Giza pyramid complex",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q12508",
+  "image_file": "Pyramids_of_the_Giza_Necropolis.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cairo-giza.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Giza Plateau & Cairo — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cairo-giza",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Giza Plateau & Cairo in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Giza_pyramid_complex",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Giza pyramid complex"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q12508",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q12508"
+  },
+  {
+   "href": "https://www.aeraweb.org/",
+   "rel": "related",
+   "type": "text/html",
+   "title": "Ancient Egypt Research Associates — Giza field reports"
+  }
+ ],
+ "bbox": [
+  31.132778,
+  29.976111,
+  31.132778,
+  29.976111
+ ]
+}

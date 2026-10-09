@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "riverside-quarry",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -117.3962,
+   33.9533
+  ]
+ },
+ "properties": {
+  "name": "Riverside — Stone Valley Quarry",
+  "subtitle": "Riverside County, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "quarry",
+   "aggregate",
+   "unresolved-reference"
+  ],
+  "aliases": [
+   "Stone Valley Materials",
+   "Riverside",
+   "California"
+  ],
+  "claim": "A Southern California aggregate quarry is referenced in connection with anomalous stone or artefacts reportedly recovered during extraction.",
+  "context": "The specific operation named does not resolve to a published site, so this entry is positioned on Riverside County as a label. Quarry 'anomalies' generally resolve into geodes, concretions, fulgurites or modern debris; the one category of genuine palaeontological importance in the region is the Pleistocene vertebrate material recovered from Inland Empire aggregate pits under standard mitigation monitoring.",
+  "summary": "Riverside County is a southern county in the U.S. state of California. As of the 2020 census, its population was 2,418,185, making it the fourth-most populous county in California and the 10th-most populous county in the United States. The county seat is the city of Riverside.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "County in California, United States",
+  "location_precision": "uncertain",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.9533,
+  "longitude": -117.3962,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 30000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Riverside County, California",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Riverside_County,_California",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q108111",
+  "image_file": "Mission_Inn's_main_interior_courtyard.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/riverside-quarry.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Riverside — Stone Valley Quarry — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=riverside-quarry",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Riverside — Stone Valley Quarry in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Riverside_County,_California",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Riverside County, California"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q108111",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q108111"
+  }
+ ],
+ "bbox": [
+  -117.3962,
+  33.9533,
+  -117.3962,
+  33.9533
+ ]
+}

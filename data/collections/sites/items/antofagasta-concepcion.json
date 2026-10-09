@@ -1,0 +1,99 @@
+{
+ "type": "Feature",
+ "id": "antofagasta-concepcion",
+ "geometry": {
+  "type": "MultiPoint",
+  "coordinates": [
+   [
+    -70.3975,
+    -23.6509
+   ],
+   [
+    -73.0498,
+    -36.827
+   ]
+  ]
+ },
+ "properties": {
+  "name": "Antofagasta & Concepción",
+  "subtitle": "Chile",
+  "country": "Chile",
+  "region": "South America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "cefaa",
+   "chile"
+  ],
+  "aliases": [
+   "Chile",
+   "Antofagasta",
+   "Concepcion",
+   "CEFAA"
+  ],
+  "claim": "Chilean cases from these two cities feature in the series as state-investigated encounters, including naval and air-force reports handled by CEFAA, Chile's official aerial-phenomena committee.",
+  "context": "CEFAA is genuine — a civil aviation authority body, one of very few worldwide — and it publishes conclusions. Its most publicised case, the 2014 Chilean Navy helicopter infrared footage released in 2017, was independently analysed and identified as an airliner's contrail lit by low sun, with the flight matched by schedule and transponder data. CEFAA has since acknowledged that explanation.",
+  "summary": "Antofagasta (Spanish pronunciation: [antofaˈɣasta] ) is a port city in northern Chile, about 1,100 kilometres (700 mi) north of Santiago. It is the capital of Antofagasta Province and Antofagasta Region. As of the 2024 census, with a population of 401,096, it is the 5th-largest city in Chile.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City and commune in northern Chile",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -30.239,
+  "longitude": -71.7236,
+  "celestial_body": "earth",
+  "radius_km": 700,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Antofagasta",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antofagasta",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q3612",
+  "image_file": "Montaje_de_Antofagasta.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/antofagasta-concepcion.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Antofagasta & Concepción — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=antofagasta-concepcion",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Antofagasta & Concepción in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Antofagasta",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Antofagasta"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q3612",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q3612"
+  },
+  {
+   "href": "https://www.dgac.gob.cl/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "DGAC Chile — CEFAA"
+  }
+ ],
+ "bbox": [
+  -80.32835,
+  -43.11518,
+  -63.11895,
+  -17.36272
+ ]
+}

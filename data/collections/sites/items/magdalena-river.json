@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "magdalena-river",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -74.7,
+   7.0
+  ]
+ },
+ "properties": {
+  "name": "Magdalena River",
+  "subtitle": "Colombia",
+  "country": "Colombia",
+  "region": "South America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "river",
+   "fossils",
+   "navigation"
+  ],
+  "aliases": [
+   "Rio Magdalena",
+   "Colombia"
+  ],
+  "claim": "Referenced as the artery into Colombia's interior used by treasure-seeking expeditions, and for fossil finds along its course cited as out-of-place remains.",
+  "context": "The Magdalena is Colombia's principal river and the main colonial route inland. Its basin is genuinely important palaeontologically — the La Venta fauna of the Honda Group is a world-class Miocene vertebrate assemblage, and Villa de Leyva's Cretaceous marine reptiles are a major Colombian heritage site. These are dated, catalogued and published, with nothing out of sequence.",
+  "summary": "The Magdalena River (Spanish: Río Magdalena, Spanish pronunciation: [ˈri.o maɣðaˈlena]; less commonly Rio Grande de la Magdalena) is the main river of Colombia, flowing northward about 1,528 kilometres (949 mi) through the western half of the country. It takes its name from the biblical figure Mary Magdalene. It is navigable through much of its lower reaches, in spite of the shifting sand bars at the mouth of its delta, as far as Honda, at the downstream base of its rapids.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "River in Colombia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 7.0,
+  "longitude": -74.7,
+  "celestial_body": "earth",
+  "radius_km": 300,
+  "camera_height_m": 600000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Magdalena River",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Magdalena_River",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q191829",
+  "image_file": "Rio_Magdalena_Delta_landsat.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/magdalena-river.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Magdalena River — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=magdalena-river",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Magdalena River in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Magdalena_River",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Magdalena River"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q191829",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q191829"
+  }
+ ],
+ "bbox": [
+  -77.41517,
+  4.30507,
+  -71.98483,
+  9.69493
+ ]
+}

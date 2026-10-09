@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "baalbek",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   36.207322,
+   34.006336
+  ]
+ },
+ "properties": {
+  "name": "Baalbek — Temple of Jupiter",
+  "subtitle": "Beqaa Valley, Lebanon",
+  "country": "Lebanon",
+  "region": "Middle East",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "roman",
+   "trilithon",
+   "megalithic"
+  ],
+  "aliases": [
+   "Heliopolis",
+   "Trilithon",
+   "Stone of the Pregnant Woman"
+  ],
+  "claim": "The three Trilithon blocks in the podium, each around 800 tonnes, and the ~1,650-tonne Stone of the Pregnant Woman still in the quarry, are the series' strongest 'impossible masonry' exhibit — attributed to pre-flood giants or anti-gravity.",
+  "context": "The blocks are Roman, cut from a quarry 800 m away and slightly uphill, and the unfinished stones remain there with their extraction trenches, wedge slots and tool marks visible. Roman engineering handled comparable masses: the Vatican obelisk (~330 t) was re-erected in 1586 with 900 men, 75 horses and 40 capstans, a method documented in contemporary engravings. German excavations since 1898 have traced the podium's construction sequence directly.",
+  "summary": "Baalbek ( BAHL-bek, BAY-əl-bek; Arabic: بَعْلَبَكّ, romanized: Baʿlabakk, Lebanese: Bʿalbak; Syriac: ܒܥܠܒܟ; Phoenician: 𐤁𐤏𐤋𐤁𐤊, romanized: bʿlbk) is a city located east of the Litani River in Lebanon's Beqaa Valley, about 67 km (42 mi) northeast of Beirut. It is the capital of Baalbek-Hermel Governorate. In 1998, the city had a population of 82,608.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in Baalbek-Hermel, Lebanon",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 34.006336,
+  "longitude": 36.207322,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Baalbek",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Baalbek",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q178835",
+  "image_file": "Temple_of_Bacchus,_Baalbek,_Lebanon_(49890013476).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/baalbek.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Baalbek — Temple of Jupiter — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=baalbek",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Baalbek — Temple of Jupiter in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Baalbek",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Baalbek"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q178835",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q178835"
+  }
+ ],
+ "bbox": [
+  36.207322,
+  34.006336,
+  36.207322,
+  34.006336
+ ]
+}

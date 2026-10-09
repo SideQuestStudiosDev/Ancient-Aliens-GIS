@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "palpa",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -75.1861,
+   -14.5397
+  ]
+ },
+ "properties": {
+  "name": "Palpa Geoglyphs",
+  "subtitle": "Ica Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "geoglyph",
+   "paracas",
+   "hillside-figures"
+  ],
+  "aliases": [
+   "Ica",
+   "Palpa lines"
+  ],
+  "claim": "The Palpa figures — older than Nazca's, cut into hillsides and including humanoid forms with large heads — are presented as the earlier, more explicit phase of the same signalling programme.",
+  "context": "Palpa's geoglyphs are attributed to the Paracas culture, roughly 400–200 BC, predating the Nazca lines by centuries. Their hillside placement makes them visible from the ground, which is the central interpretive point: they were meant to be seen by people on nearby paths. German–Peruvian survey since the 1990s has mapped and dated them systematically.",
+  "summary": "Palpa is the smallest of five provinces of the Ica Region of Peru and the only landlocked province of the region. The capital of the province is the city of Palpa.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Province in Ica, Peru",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -14.5397,
+  "longitude": -75.1861,
+  "celestial_body": "earth",
+  "radius_km": 14,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Palpa province",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Palpa_province",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q783136",
+  "image_file": "Location_of_the_province_Palpa_in_Ica.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/palpa.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Palpa Geoglyphs — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=palpa",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Palpa Geoglyphs in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Palpa_province",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Palpa province"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q783136",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q783136"
+  }
+ ],
+ "bbox": [
+  -75.31602,
+  -14.66546,
+  -75.05618,
+  -14.41394
+ ]
+}

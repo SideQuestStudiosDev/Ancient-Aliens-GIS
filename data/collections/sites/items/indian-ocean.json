@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "indian-ocean",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   80.0,
+   -20.0
+  ]
+ },
+ "properties": {
+  "name": "Indian Ocean",
+  "subtitle": "Between Africa, Asia & Australia",
+  "country": "",
+  "region": "Oceans & Marine",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "kumari-kandam",
+   "mauritia",
+   "monsoon",
+   "marine"
+  ],
+  "aliases": [
+   "Lemuria",
+   "Kumari Kandam",
+   "Ninety East Ridge"
+  ],
+  "claim": "The ocean is presented as the grave of Lemuria and Kumari Kandam, with the Mauritia crustal fragment and submerged banks offered as its remains.",
+  "context": "The basin's structure is mapped in detail: the Ninety East Ridge is a hotspot trace, the Mascarene Plateau is volcanic and continental-fragment crust, and Mauritia is deeply submerged Archean basement. All are products of Gondwanan breakup from about 180 million years ago. Genuine submerged human-period archaeology does exist on the shallow Indian shelf — the Gulf of Khambhat and Poompuhar — and is dated to the Holocene.",
+  "summary": "The Indian Ocean is the third-largest of the world's five oceanic divisions, covering 70,560,000 km2 (27,240,000 sq mi) or approximately 20% of the water area of Earth's surface. It is bounded by Asia to the north, Africa to the west and Australia to the east. To the south it is bounded by the Southern Ocean or Antarctica, depending on the definition in use.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Oceanic division",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -20.0,
+  "longitude": 80.0,
+  "celestial_body": "earth",
+  "radius_km": 1800,
+  "camera_height_m": 3500000,
+  "camera_pitch_deg": -76,
+  "wikipedia_title": "Indian Ocean",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indian_Ocean",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1239",
+  "image_file": "Indian_Ocean-CIA_WFB_Map.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/indian-ocean.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Indian Ocean — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=indian-ocean",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Indian Ocean in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Indian_Ocean",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Indian Ocean"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1239",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1239"
+  }
+ ],
+ "bbox": [
+  62.79267,
+  -36.1696,
+  97.20733,
+  -3.8304
+ ]
+}

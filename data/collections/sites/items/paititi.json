@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "paititi",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.5,
+   -12.9
+  ]
+ },
+ "properties": {
+  "name": "Paititi Region",
+  "subtitle": "South-eastern Andes–Amazon, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "legend",
+   "lost-city",
+   "cloud-forest",
+   "lidar"
+  ],
+  "aliases": [
+   "Paititi",
+   "lost city",
+   "El Dorado",
+   "Pantiacolla"
+  ],
+  "claim": "A lost Inca city of gold in the cloud forest east of Cusco, sought for four centuries and never found, is presented as a site deliberately concealed — or as still occupied.",
+  "context": "Paititi is a composite legend rooted in genuine Inca retreat into the Antisuyu after 1532 and in colonial-era gold fever. The region does hold real undocumented archaeology: Espíritu Pampa (Vilcabamba) was identified as the last Inca capital, and airborne LiDAR has since revealed extensive pre-Columbian settlement under Amazonian canopy at Llanos de Mojos and Upano. The terrain's difficulty, not concealment, explains the gaps.",
+  "summary": "Paititi is an Incan legendary lost city or utopian rich land. It allegedly lies east of the Andes, hidden somewhere within the remote rainforests of southeast Peru, northern Bolivia or northwest Brazil. The Paititi legend in Peru revolves around the story of Inkarri, an Incan culture-hero, who founded Q'ero and Cusco, and afterwards retreated toward the jungles of Pantiacolla to live out the rest of his days in his refuge city of Paititi.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Legendary Inca lost city",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -12.9,
+  "longitude": -71.5,
+  "celestial_body": "earth",
+  "radius_km": 150,
+  "camera_height_m": 250000,
+  "camera_pitch_deg": -60,
+  "wikipedia_title": "Paititi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paititi",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1664177",
+  "image_file": "La_sabiduría,_junto_con_la_elocuencia,_sacan_a_Atahualpa_del_sepulcro.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/paititi.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Paititi Region — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=paititi",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Paititi Region in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Paititi",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Paititi"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1664177",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1664177"
+  }
+ ],
+ "bbox": [
+  -72.88236,
+  -14.24747,
+  -70.11764,
+  -11.55253
+ ]
+}

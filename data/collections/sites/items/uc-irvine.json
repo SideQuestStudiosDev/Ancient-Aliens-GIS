@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "uc-irvine",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -117.8425,
+   33.645556
+  ]
+ },
+ "properties": {
+  "name": "University of California, Irvine",
+  "subtitle": "Irvine, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "academia",
+   "neutrinos",
+   "chemistry"
+  ],
+  "aliases": [
+   "UCI",
+   "Irvine",
+   "California"
+  ],
+  "claim": "Cited as an interview venue for physical-science commentary used to frame propulsion and materials questions in the series.",
+  "context": "UC Irvine's relevant distinction is Frederick Reines's Nobel-winning neutrino detection and Sherwood Rowland's ozone work — both examples of a difficult claim being established through instrumented, replicated measurement, the standard the series' central propositions have not met.",
+  "summary": "The University of California, Irvine (UCI or UC Irvine) is a public land-grant research university in Irvine, California, United States. One of the ten campuses of the University of California system, UCI offers 87 undergraduate degrees and 129 graduate and professional degrees, and roughly 30,000 undergraduates and 7,000 graduate students were enrolled at UCI as of Fall 2024. The university is classified among \"R1: Doctoral Universities – Very high research activity\" and had $609.6 million in research and development expenditures in 2023, ranking it 56th nationally.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Public university in Irvine, California, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.645556,
+  "longitude": -117.8425,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "University of California, Irvine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/University_of_California,_Irvine",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q868421",
+  "image_file": "The_University_of_California_Irvine.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/uc-irvine.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "University of California, Irvine — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=uc-irvine",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "University of California, Irvine in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/University_of_California,_Irvine",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: University of California, Irvine"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q868421",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q868421"
+  }
+ ],
+ "bbox": [
+  -117.8425,
+  33.645556,
+  -117.8425,
+  33.645556
+ ]
+}

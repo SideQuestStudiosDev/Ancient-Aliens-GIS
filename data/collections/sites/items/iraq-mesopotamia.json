@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "iraq-mesopotamia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   44.5,
+   32.5
+  ]
+ },
+ "properties": {
+  "name": "Mesopotamia (Sumer & Akkad)",
+  "subtitle": "Tigris–Euphrates alluvium, Iraq",
+  "country": "Iraq",
+  "region": "Middle East",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "sumer",
+   "cuneiform",
+   "anunnaki",
+   "regional"
+  ],
+  "aliases": [
+   "Sumer",
+   "Anunnaki",
+   "Babylonia"
+  ],
+  "claim": "The core of Zecharia Sitchin's thesis: that Sumerian texts describe the Anunnaki arriving from a planet 'Nibiru' to mine gold and to engineer humanity, and that cuneiform records this as fact.",
+  "context": "Sitchin's translations are rejected across Assyriology. 'Anunnaki' means roughly 'offspring of Anu' and denotes a class of deities; 'Nibiru' in astronomical texts refers to a crossing-point and is usually identified with Jupiter or Mercury, not an extra planet. Sumerian lexical lists, grammars and bilingual tablets allow the language to be checked independently, and they do not support the readings.",
+  "summary": "Mesopotamia is a historical region of West Asia situated within the Tigris–Euphrates river system, in the northern part of the Fertile Crescent. It corresponds roughly to the territory of modern Iraq. Just beyond it lies southwestern Iran, where the region transitions into the Iranian plateau, marking the shift from the Arab world to Iran.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Historical region of West Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 32.5,
+  "longitude": 44.5,
+  "celestial_body": "earth",
+  "radius_km": 450,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Mesopotamia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mesopotamia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q11767",
+  "image_file": "N-Mesopotamia_and_Syria_english.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/iraq-mesopotamia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mesopotamia (Sumer & Akkad) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=iraq-mesopotamia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mesopotamia (Sumer & Akkad) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mesopotamia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mesopotamia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q11767",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q11767"
+  }
+ ],
+ "bbox": [
+  39.70697,
+  28.4576,
+  49.29303,
+  36.5424
+ ]
+}

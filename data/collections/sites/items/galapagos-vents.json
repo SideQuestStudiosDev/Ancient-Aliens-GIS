@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "galapagos-vents",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -86.1333,
+   0.7833
+  ]
+ },
+ "properties": {
+  "name": "Galápagos Rift — Hydrothermal Vents",
+  "subtitle": "Eastern Pacific, Ecuador",
+  "country": "Ecuador",
+  "region": "South America",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "hydrothermal",
+   "chemosynthesis",
+   "abiogenesis",
+   "alvin"
+  ],
+  "aliases": [
+   "Galapagos",
+   "Rose Garden",
+   "black smokers",
+   "Alvin"
+  ],
+  "claim": "The 1977 discovery of chemosynthetic ecosystems at the Galápagos Rift — life thriving in darkness at 400 °C without sunlight — is used to argue that life's origin requires explanation beyond Earth, and so arrived from elsewhere.",
+  "context": "The discovery by Alvin's crew is one of the most significant in 20th-century biology, and it cuts the other way: vents supply exactly the chemical disequilibrium, mineral catalysts and temperature gradients that leading abiogenesis models require, and alkaline hydrothermal systems are now a mainstream candidate for life's origin on this planet. They are also the primary analogue for Europa and Enceladus.",
+  "summary": "Hydrothermal vents are fissures on the seabed from which geothermally heated water discharges. They are commonly found near volcanically active places, areas where tectonic plates are moving apart at mid-ocean ridges, ocean basins, and hotspots. The dispersal of hydrothermal fluids throughout the global ocean at active vent sites creates hydrothermal plumes.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Fissure in a planet's surface from which heated water emits",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 0.7833,
+  "longitude": -86.1333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 150000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Hydrothermal vent",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q867648",
+  "image_file": "Blacksmoker_in_Atlantic_Ocean.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/galapagos-vents.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Galápagos Rift — Hydrothermal Vents — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=galapagos-vents",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Galápagos Rift — Hydrothermal Vents in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Hydrothermal_vent",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Hydrothermal vent"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q867648",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q867648"
+  }
+ ],
+ "bbox": [
+  -86.1333,
+  0.7833,
+  -86.1333,
+  0.7833
+ ]
+}

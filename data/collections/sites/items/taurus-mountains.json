@@ -1,0 +1,82 @@
+{
+ "type": "Feature",
+ "id": "taurus-mountains",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   34.5,
+   37.3
+  ]
+ },
+ "properties": {
+  "name": "Taurus Mountains",
+  "subtitle": "Southern Anatolia, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "karst",
+   "obsidian",
+   "regional"
+  ],
+  "aliases": [],
+  "claim": "Cited as the barrier range crossed by the first farmers, and as the source of ores and obsidian whose early, wide distribution is presented as directed trade.",
+  "context": "The Taurus is the northern arc of the Fertile Crescent and the heartland of early plant and animal domestication. Obsidian sourcing by trace-element analysis has mapped Anatolian exchange networks in detail — showing exactly the gradual, distance-decayed pattern expected of ordinary trade.",
+  "summary": "The Taurus Mountains (Turkish: Toros Dağları or Toroslar; are a mountain complex in southern Turkey, separating the Mediterranean coastal region on the Levantine Sea from the central Anatolian Plateau. The system extends along a curve from Lake Eğirdir in the west to the upper reaches of the Euphrates and Tigris rivers in the east. It is a part of the Alpide belt in Eurasia.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain range in southern Turkey",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.3,
+  "longitude": 34.5,
+  "celestial_body": "earth",
+  "radius_km": 250,
+  "camera_height_m": 300000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Taurus Mountains",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Taurus_Mountains",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q172556",
+  "image_file": "Demirkazik_Crest_of_Aladag_Mountains_in_Nigde_Turkey.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/taurus-mountains.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Taurus Mountains — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=taurus-mountains",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Taurus Mountains in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Taurus_Mountains",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Taurus Mountains"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q172556",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q172556"
+  }
+ ],
+ "bbox": [
+  31.6768,
+  35.05422,
+  37.3232,
+  39.54578
+ ]
+}

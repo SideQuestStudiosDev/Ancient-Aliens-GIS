@@ -1,0 +1,90 @@
+{
+ "type": "Feature",
+ "id": "nazca",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -75.13,
+   -14.739
+  ]
+ },
+ "properties": {
+  "name": "Nazca Lines",
+  "subtitle": "Nazca Desert, Ica Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "geoglyph",
+  "category_label": "Geoglyph",
+  "tags": [
+   "unesco",
+   "geoglyph",
+   "nazca-culture",
+   "aqueducts",
+   "von-daniken"
+  ],
+  "aliases": [
+   "Nazca Desert",
+   "Nasca",
+   "Ica",
+   "hummingbird",
+   "runways"
+  ],
+  "claim": "Erich von Däniken's founding example: hundreds of kilometres of dead-straight lines and vast figures visible only from altitude, read as runways and as signals to craft overhead.",
+  "context": "The lines were made by clearing dark oxidised stones to expose pale ground beneath, a technique replicated in a day with stakes, cord and a few people; Joe Nickell's team reproduced a large figure to Nazca accuracy in 1982. Many figures are legible from surrounding foothills, and the same motifs appear on dated Nazca pottery and textiles. The accepted readings concern water and fertility ritual — supported by the Cantalloc aqueducts and by lines converging on water sources. Hundreds more geoglyphs have been found since 2019 using AI-assisted survey.",
+  "summary": "The Nazca lines are a group of geoglyphs made in the soil of the Nazca Desert in southern Peru. They were created between 500 BC and 500 AD by people making depressions or shallow incisions in the desert floor, removing pebbles and leaving different-colored dirt exposed. There are two major phases of the Nazca lines, Paracas phase, from 400 to 200 BC, and Nazca phase, from 200 BC to 500 AD.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Geoglyphs in the Nazca Desert, Peru",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -14.739,
+  "longitude": -75.13,
+  "celestial_body": "earth",
+  "radius_km": 28,
+  "camera_height_m": 9000,
+  "camera_pitch_deg": -55,
+  "wikipedia_title": "Nazca lines",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nazca_lines",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2620036",
+  "image_file": "Líneas_de_Nazca,_Nazca,_Perú,_2015-07-29,_DD_49.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nazca.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nazca Lines — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nazca",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nazca Lines in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Nazca_lines",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Nazca lines"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2620036",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2620036"
+  }
+ ],
+ "bbox": [
+  -75.39009,
+  -14.99053,
+  -74.86991,
+  -14.48747
+ ]
+}

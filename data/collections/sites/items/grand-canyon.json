@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "grand-canyon",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -112.1401,
+   36.0544
+  ]
+ },
+ "properties": {
+  "name": "Grand Canyon",
+  "subtitle": "Coconino County, Arizona, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "unesco",
+   "colorado-river",
+   "1909-hoax",
+   "geology"
+  ],
+  "aliases": [
+   "Colorado River",
+   "Arizona",
+   "Kincaid cave",
+   "Egyptian cave"
+  ],
+  "claim": "A 1909 Arizona Gazette story described a Smithsonian expedition finding a vast cavern of Egyptian and Oriental artefacts, mummies and hieroglyphs in the canyon wall — presented as a discovery subsequently buried by the institution.",
+  "context": "The Gazette piece names 'S. A. Jordan' and 'G. E. Kinkaid', neither of whom appears in Smithsonian personnel records, and the Smithsonian states it has no record of the expedition. The story ran once, with no follow-up, in a period when the paper carried frequent sensational filler. The canyon's Egyptian-sounding place names — Isis Temple, Tower of Ra — were assigned by surveyor Clarence Dutton in 1882 as a deliberate naming scheme.",
+  "summary": "The Grand Canyon is a steep-sided canyon carved by the Colorado River in Arizona, United States. The Grand Canyon is 277 miles (446 km) long, up to 18 miles (29 km) wide and attains a depth of over a mile (6,093 feet or 1,857 meters).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Steep-sided canyon in Arizona, US",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.0544,
+  "longitude": -112.1401,
+  "celestial_body": "earth",
+  "radius_km": 70,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -30,
+  "wikipedia_title": "Grand Canyon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Grand_Canyon",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q118841",
+  "image_file": "Canyon_River_Tree_(165872763).jpeg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/grand-canyon.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Grand Canyon — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=grand-canyon",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Grand Canyon in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Grand_Canyon",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Grand Canyon"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q118841",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q118841"
+  }
+ ],
+ "bbox": [
+  -112.9179,
+  35.42558,
+  -111.3623,
+  36.68322
+ ]
+}

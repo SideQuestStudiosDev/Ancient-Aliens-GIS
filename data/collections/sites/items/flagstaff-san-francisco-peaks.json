@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "flagstaff-san-francisco-peaks",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -111.666667,
+   35.333333
+  ]
+ },
+ "properties": {
+  "name": "San Francisco Peaks & Flagstaff",
+  "subtitle": "Coconino County, Arizona, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "lowell-observatory",
+   "sacred-mountain",
+   "volcanic",
+   "pluto"
+  ],
+  "aliases": [
+   "Flagstaff",
+   "Lowell Observatory",
+   "Humphreys Peak",
+   "Nuva'tukya'ovi",
+   "Dook'o'oosłííd"
+  ],
+  "claim": "A sacred mountain to thirteen tribes, which Hopi tradition names as the home of the kachinas, sitting beside the observatory where Pluto was found and where Percival Lowell mapped Martian 'canals', is presented as a monitored contact point.",
+  "context": "The Peaks are an eroded stratovolcano, and their sacred status to Hopi, Navajo, Havasupai, Zuni and others is legally recognised and the subject of sustained litigation over development. Lowell Observatory is a working institution: Clyde Tombaugh found Pluto there in 1930, and Lowell's canals were resolved as an optical artefact of small-aperture visual observing, confirmed by Mariner imaging in 1965.",
+  "summary": "The San Francisco Peaks are a volcanic mountain range in north central Arizona, just north of Flagstaff. Part of the San Francisco volcanic field, the Peaks are the remnant of the former San Francisco Mountain, a prehistorically larger single stratovolcano. The highest summit in the range, Humphreys Peak, is the highest point in the state of Arizona at 12,633 feet (3,851 m) in elevation.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain range in Arizona, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 35.333333,
+  "longitude": -111.666667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "San Francisco Peaks",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/San_Francisco_Peaks",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1974825",
+  "image_file": "San_Francisco_Peaks.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/flagstaff-san-francisco-peaks.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "San Francisco Peaks & Flagstaff — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=flagstaff-san-francisco-peaks",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "San Francisco Peaks & Flagstaff in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/San_Francisco_Peaks",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: San Francisco Peaks"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1974825",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1974825"
+  }
+ ],
+ "bbox": [
+  -111.666667,
+  35.333333,
+  -111.666667,
+  35.333333
+ ]
+}

@@ -1,0 +1,100 @@
+{
+ "type": "Feature",
+ "id": "roswell",
+ "geometry": {
+  "type": "MultiPoint",
+  "coordinates": [
+   [
+    -104.523,
+    33.3943
+   ],
+   [
+    -105.4583,
+    33.9472
+   ]
+  ]
+ },
+ "properties": {
+  "name": "Roswell",
+  "subtitle": "Chaves County, New Mexico, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1947",
+   "mogul",
+   "crash-retrieval",
+   "foster-ranch"
+  ],
+  "aliases": [
+   "New Mexico",
+   "Project Mogul",
+   "Foster Ranch",
+   "RAAF"
+  ],
+  "claim": "The founding case: debris recovered from a ranch north-west of Roswell in July 1947, announced by the Roswell Army Air Field as a 'flying disc', then retracted as a weather balloon the next day — with later witnesses describing memory metal, beams with glyphs and bodies.",
+  "context": "The Air Force's 1994 and 1997 reports identify the debris as Project Mogul Flight 4, a classified constant-altitude balloon array of neoprene, foil-laminate radar targets and balsa battens — materials that match the first-hand descriptions of foil that would not stay creased and lightweight beams with pinkish-purple floral tape. The secrecy was real and was about nuclear-test acoustic detection. The body accounts entered the record from the late 1970s onward, over thirty years after the event. Two points are mapped here: the town, where the press release was issued, and the Foster Ranch debris field near Corona some 95 km north-west, where the material was found.",
+  "summary": "Debris found by a rancher in 1947 near Roswell, New Mexico, has become the basis for UFO conspiracy theories alleging that the United States military recovered a crashed extraterrestrial spacecraft. After metallic and rubber debris was recovered by Roswell Army Air Field personnel, the United States Army Air Forces announced possession of a \"flying disc\". This announcement made international headlines, but was retracted within a day.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "UFO legend caused by 1947 balloon crash",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.3943,
+  "longitude": -104.523,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Roswell incident",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roswell_incident",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q219355",
+  "image_file": "Roswell_Daily_Record._July_8,_1947._RAAF_Captures_Flying_Saucer_On_Ranch_in_Roswell_Region._Top_of_front_page.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/roswell.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Roswell — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=roswell",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Roswell in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Roswell_incident",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Roswell incident"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q219355",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q219355"
+  },
+  {
+   "href": "https://www.gao.gov/products/nsiad-95-187",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "GAO — Roswell records audit (1995)"
+  }
+ ],
+ "bbox": [
+  -105.4583,
+  33.3943,
+  -104.523,
+  33.9472
+ ]
+}

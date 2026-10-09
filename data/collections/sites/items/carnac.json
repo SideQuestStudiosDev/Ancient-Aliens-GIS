@@ -1,0 +1,90 @@
+{
+ "type": "Feature",
+ "id": "carnac",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.063889,
+   47.597222
+  ]
+ },
+ "properties": {
+  "name": "Carnac Stones",
+  "subtitle": "Brittany, France",
+  "country": "France",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "neolithic",
+   "alignments",
+   "menhir",
+   "brittany"
+  ],
+  "aliases": [
+   "Brittany",
+   "Menec",
+   "Ménec",
+   "Le Grand Menhir Brisé",
+   "Kermario",
+   "Locmariaquer"
+  ],
+  "claim": "More than 3,000 menhirs in multi-kilometre rows, plus Le Grand Menhir Brisé at an estimated 280 tonnes and 20 m, are presented as a surveyed grid — a runway, a lunar observatory, or an energy array exploiting the local granite's piezoelectric quartz.",
+  "context": "The alignments were raised over roughly 2,000 years from c. 4500 BC and are a stratified, excavated landscape with contemporary settlements, tombs and quarry sources nearby. Le Grand Menhir lies in four pieces at Locmariaquer and was probably broken during erection or by earthquake; Alexander Thom's proposal that it served as a universal lunar foresight was tested and is no longer accepted. Granite's piezoelectric response is negligible at ambient stresses.",
+  "summary": "The Carnac stones (Breton: Steudadoù Karnag) are an exceptionally dense collection of megalithic sites near the south coast of Brittany in northwestern France, consisting of stone alignments (rows), dolmens (stone tombs), tumuli (burial mounds), and single menhirs. More than 3,000 prehistoric standing stones were hewn from local granite and erected by the pre-Celtic people of Brittany and form the largest such collection in the world. Most of the stones are within the Breton municipality of Carnac, but some to the east are within neighboring La Trinité-sur-Mer.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Set of megalithic sites in Brittany, France",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 47.597222,
+  "longitude": -3.063889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Carnac stones",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Carnac_stones",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q833850",
+  "image_file": "4748.1099_Menhire,_bis_zu_4_Meter_hoch,_von_OstnachWest_in_1167_Meter_Langen_Alignements_(Granit-Steinreihen)_in_einem_Halbkreis_endend_Le_Ménec,_Carnac,_Departement_Morbihan,_Bretagne_Steffen_Heilfort.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/carnac.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Carnac Stones — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=carnac",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Carnac Stones in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Carnac_stones",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Carnac stones"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q833850",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q833850"
+  }
+ ],
+ "bbox": [
+  -3.063889,
+  47.597222,
+  -3.063889,
+  47.597222
+ ]
+}

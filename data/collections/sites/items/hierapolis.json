@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "hierapolis",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   29.125833,
+   37.925
+  ]
+ },
+ "properties": {
+  "name": "Hierapolis — Pluto's Gate",
+  "subtitle": "Pamukkale, Denizli Province, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "ploutonion",
+   "travertine",
+   "greco-roman"
+  ],
+  "aliases": [
+   "Pamukkale",
+   "Ploutonion",
+   "Plutonium",
+   "Gate to Hell"
+  ],
+  "claim": "A sanctuary where birds and sacrificial animals died at the threshold while robed priests walked in unharmed is presented as a literal portal, and the white travertine terraces as artificial.",
+  "context": "The Ploutonion sits on the Babadag fault and vents concentrated CO₂. Measurements at the site record lethal concentrations pooling at ground level at night and dispersing by day, which accounts precisely for dead birds at the entrance and for tall priests breathing above the layer. Strabo described the effect in the 1st century BC. The terraces are calcite precipitating from hot springs.",
+  "summary": "Hierapolis (Ancient Greek: Ἱεράπολις, lit. \"Holy City\") was a Hellenistic Greek city in Phrygia, in southwestern Anatolia, Turkey. It was founded in the 3rd century BC, on the site of a Phrygian cult center of the Anatolian mother goddess Cybele, It was famous for its hot springs, its high quality wool fabrics and dyes, and as the birthplace of the Stoic philosopher Epictetus.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient Greek city",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.925,
+  "longitude": 29.125833,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Hierapolis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Hierapolis",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q7428276",
+  "image_file": "Hierapolis_01.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/hierapolis.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Hierapolis — Pluto's Gate — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=hierapolis",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Hierapolis — Pluto's Gate in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Hierapolis",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Hierapolis"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q7428276",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q7428276"
+  }
+ ],
+ "bbox": [
+  29.125833,
+  37.925,
+  29.125833,
+  37.925
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "haleakala",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -156.2571,
+   20.7083
+  ]
+ },
+ "properties": {
+  "name": "Haleakalā Observatory",
+  "subtitle": "Maui, Hawaii, United States",
+  "country": "United States",
+  "region": "Southeast Asia & Oceania",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "observatory",
+   "pan-starrs",
+   "space-surveillance",
+   "maui"
+  ],
+  "aliases": [
+   "Maui",
+   "Science City",
+   "Pan-STARRS",
+   "AMOS"
+  ],
+  "claim": "A military and civilian optical complex at 3,055 m — tracking satellites, hosting Pan-STARRS and sitting atop a volcano Hawaiian tradition calls the house of the sun — is presented as a monitoring post for inbound traffic, with its findings withheld.",
+  "context": "Haleakalā hosts the Air Force Maui Optical and Supercomputing site and Pan-STARRS, whose near-Earth-object survey is published continuously through the Minor Planet Center and which discovered 1I/ʻOumuamua in 2017. Space-surveillance tracking data on catalogued objects is public via space-track.org. Native Hawaiian concerns about summit development are real, well-articulated and unrelated to the claim.",
+  "summary": "The Haleakalā Observatory, also known as the Haleakalā High Altitude Observatory Site, is Hawaii's first astronomical research observatory. It is located on the island of Maui and is owned by the Institute for Astronomy of the University of Hawaiʻi, which operates some of the facilities on the site and leases portions to other organizations. Tenants include the Air Force Research Laboratory (AFRL) and the Las Cumbres Observatory Global Telescope Network (LCOGTN).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Astronomical observatory on Maui Island, Hawaii, USA",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 20.7083,
+  "longitude": -156.2571,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 8000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Haleakalā Observatory",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Haleakal%C4%81_Observatory",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5641443",
+  "image_file": "Haleakala_Observatory_Maui_(45015823284).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/haleakala.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Haleakalā Observatory — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=haleakala",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Haleakalā Observatory in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Haleakal%C4%81_Observatory",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Haleakalā Observatory"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5641443",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5641443"
+  },
+  {
+   "href": "https://panstarrs.stsci.edu/",
+   "rel": "related",
+   "type": "text/html",
+   "title": "Pan-STARRS survey"
+  }
+ ],
+ "bbox": [
+  -156.2571,
+  20.7083,
+  -156.2571,
+  20.7083
+ ]
+}

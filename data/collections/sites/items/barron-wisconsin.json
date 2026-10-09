@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "barron-wisconsin",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -91.848056,
+   45.400556
+  ]
+ },
+ "properties": {
+  "name": "Barron",
+  "subtitle": "Barron County, Wisconsin, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "upper-midwest",
+   "wisconsin"
+  ],
+  "aliases": [
+   "Wisconsin",
+   "Barron County"
+  ],
+  "claim": "Referenced among upper-midwestern encounter reports in the farm country of north-western Wisconsin.",
+  "context": "No investigated case from this locality appears in the published catalogues, so this entry marks the place. Wisconsin's best-documented episode is the 1961 Eagle River 'pancake' contactee account of Joe Simonton, which Project Blue Book examined and attributed to a hoax or a sincere misperception.",
+  "summary": "Barron is a city in and the county seat of Barron County, Wisconsin, United States. The population was 3,733 at the 2020 census. The city is surrounded by the Town of Barron.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in Wisconsin, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 45.400556,
+  "longitude": -91.848056,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 8000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Barron, Wisconsin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Barron,_Wisconsin",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q808975",
+  "image_file": "Stebbins_House.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/barron-wisconsin.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Barron — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=barron-wisconsin",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Barron in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Barron,_Wisconsin",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Barron, Wisconsin"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q808975",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q808975"
+  }
+ ],
+ "bbox": [
+  -91.848056,
+  45.400556,
+  -91.848056,
+  45.400556
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "stenness",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.20805,
+   58.99402
+  ]
+ },
+ "properties": {
+  "name": "Stones of Stenness & Brodgar",
+  "subtitle": "Orkney Islands, Scotland",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "neolithic",
+   "ness-of-brodgar",
+   "orkney"
+  ],
+  "aliases": [
+   "Ring of Brodgar",
+   "Ness of Brodgar",
+   "Orkney",
+   "Maeshowe"
+  ],
+  "claim": "The Orkney complex — henges, the Maeshowe chambered cairn and the Ness of Brodgar's painted walls — is cast as a northern command centre whose influence spread south to Stonehenge.",
+  "context": "The Heart of Neolithic Orkney is a World Heritage site, and Orkney genuinely does appear to be a Neolithic innovation centre: grooved-ware pottery and henge architecture plausibly originate here and spread south. That is a mainstream and well-evidenced conclusion drawn from excavated sequences at Barnhouse, Skara Brae and the Ness of Brodgar.",
+  "summary": "The Standing Stones of Stenness are a Neolithic monument five miles northeast of Stromness on the mainland of Orkney, Scotland. This may be the oldest henge site in the British Isles. Various traditions associated with the stones survived into the modern era and they form part of the Heart of Neolithic Orkney World Heritage Site.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Henge in Orkney Islands, Scotland",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 58.99402,
+  "longitude": -3.20805,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Standing Stones of Stenness",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Standing_Stones_of_Stenness",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1478558",
+  "image_file": "Standing_Stones_of_Stenness_062015.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/stenness.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Stones of Stenness & Brodgar — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=stenness",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Stones of Stenness & Brodgar in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Standing_Stones_of_Stenness",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Standing Stones of Stenness"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1478558",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1478558"
+  }
+ ],
+ "bbox": [
+  -3.20805,
+  58.99402,
+  -3.20805,
+  58.99402
+ ]
+}

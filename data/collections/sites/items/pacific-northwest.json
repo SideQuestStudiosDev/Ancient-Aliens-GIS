@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "pacific-northwest",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -122.0,
+   47.5
+  ]
+ },
+ "properties": {
+  "name": "Pacific Northwest",
+  "subtitle": "US–Canada border region",
+  "country": "United States / Canada",
+  "region": "North America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "cascades",
+   "sasquatch",
+   "maury-island",
+   "regional"
+  ],
+  "aliases": [
+   "Cascadia",
+   "Sasquatch",
+   "Bigfoot",
+   "Maury Island"
+  ],
+  "claim": "Treated as a persistent hotspot: the Arnold sighting, the Maury Island affair, the 1967 Patterson–Gimlin film and the region's Sasquatch traditions are presented as a single long-running phenomenon.",
+  "context": "The region's First Nations do have long-standing wild-man traditions, which anthropologists study as cultural history. The Maury Island case was investigated in 1947 and concluded to be a hoax by Harold Dahl and Fred Crisman, with the slag identified as smelter waste; two Air Force investigators died in a crash returning from it, which fuelled the story. The Patterson–Gimlin film remains disputed, with a suit-maker's confession on one side and gait analyses on the other, and no specimen or skeletal material has ever been produced.",
+  "summary": "The Pacific Northwest (PNW; French: Nord-Ouest Pacifique), also referred to as Cascadia, is a bi-national geographic and cultural region in Western North America defined by its coastal waters of the Pacific Ocean to the west and, loosely, by the Rocky Mountains to the east. Though no official boundary exists, the most common conception includes the U.S. states of Oregon, Washington, Idaho, and the Canadian province of British Columbia. Some broader conceptions reach north into the Alaska Panhandle and Yukon, south into Northern California, and east into Western Montana.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Region of northwestern North America",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 47.5,
+  "longitude": -122.0,
+  "celestial_body": "earth",
+  "radius_km": 450,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -68,
+  "wikipedia_title": "Pacific Northwest",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q12603",
+  "image_file": "Space_Needle002.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/pacific-northwest.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Pacific Northwest — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=pacific-northwest",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Pacific Northwest in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Pacific_Northwest",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Pacific Northwest"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q12603",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q12603"
+  }
+ ],
+ "bbox": [
+  -127.98351,
+  43.4576,
+  -116.01649,
+  51.5424
+ ]
+}

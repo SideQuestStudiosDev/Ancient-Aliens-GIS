@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "gibraltar",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -5.344444,
+   36.129444
+  ]
+ },
+ "properties": {
+  "name": "Strait of Gibraltar — Pillars of Hercules",
+  "subtitle": "Gibraltar / Spain / Morocco",
+  "country": "Gibraltar / Spain / Morocco",
+  "region": "Europe",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "atlantis",
+   "strait",
+   "gorhams-cave",
+   "neanderthal"
+  ],
+  "aliases": [
+   "Pillars of Hercules",
+   "Gorham's Cave",
+   "Jebel Musa"
+  ],
+  "claim": "Plato places Atlantis beyond the Pillars; the series treats the strait as the gateway to a drowned civilisation, with Gorham's Cave rock engravings cited as surviving evidence of advanced pre-human culture.",
+  "context": "The Gorham's Cave complex is a World Heritage site and genuinely important: it preserves Neanderthal occupation to c. 32,000 BP and an abstract engraved 'hashtag' panel — real evidence of Neanderthal symbolic behaviour, which is a significant scientific finding about hominins, not visitors. The Atlantis passages are Plato's own framed allegory, introduced as a story told at several removes.",
+  "summary": "The Pillars of Hercules are the promontories that flank the entrance to the Strait of Gibraltar. The northern Pillar, Calpe Mons, is the Rock of Gibraltar. The identity of the corresponding southern Pillar, Abila Mons, has been disputed throughout history, with the two most likely candidates being Jebel Musa and Monte Hacho.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Phrase used in antiquity to label the promontories of the Strait of Gibraltar",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.129444,
+  "longitude": -5.344444,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Pillars of Hercules",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pillars_of_Hercules",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q152854",
+  "image_file": "De_Zuilen_van_Hercules_Gibraltar_en_Ceuta.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/gibraltar.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Strait of Gibraltar — Pillars of Hercules — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=gibraltar",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Strait of Gibraltar — Pillars of Hercules in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Pillars_of_Hercules",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Pillars of Hercules"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q152854",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q152854"
+  }
+ ],
+ "bbox": [
+  -5.344444,
+  36.129444,
+  -5.344444,
+  36.129444
+ ]
+}

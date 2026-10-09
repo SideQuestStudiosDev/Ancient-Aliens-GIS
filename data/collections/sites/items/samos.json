@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "samos",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   26.93,
+   37.694
+  ]
+ },
+ "properties": {
+  "name": "Samos — Heraion & the Eupalinian Aqueduct",
+  "subtitle": "North Aegean, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "pythagoras",
+   "tunnel",
+   "engineering"
+  ],
+  "aliases": [
+   "Pythagoras",
+   "Pythagoreion",
+   "Eupalinos",
+   "Heraion"
+  ],
+  "claim": "A 6th-century-BC tunnel driven 1,036 m from both ends and meeting with only metres of error, on an island that also produced Pythagoras, is presented as surveying from a transmitted source.",
+  "context": "The Tunnel of Eupalinos is a landmark in the history of engineering and the method is reconstructible: Hero of Alexandria later described the geometric technique, and the tunnel's own surviving correction kinks and measurement marks show the crews detecting and fixing drift as they went. Herodotus names Eupalinos of Megara as the engineer.",
+  "summary": "The Tunnel of Eupalinos or Eupalinian aqueduct (Greek: Ευπαλίνειο όρυγμα, romanized: Efpalinio orygma) is a tunnel of 1,036 m (3,399 ft) length running through Mount Kastro in Samos, Greece, built in the 6th century BC to serve as an aqueduct. The tunnel is the second known tunnel in history which was excavated from both ends (Ancient Greek: ἀμφίστομον, romanized: amphistomon, \"having two openings\"), and the first with a geometry-based approach in doing so. Today it is a popular tourist attraction.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "UNESCO World Heritage Site in Greece",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.694,
+  "longitude": 26.93,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Tunnel of Eupalinos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q955894",
+  "image_file": "Eupalinian_aqueduct.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/samos.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Samos — Heraion & the Eupalinian Aqueduct — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=samos",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Samos — Heraion & the Eupalinian Aqueduct in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tunnel_of_Eupalinos",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tunnel of Eupalinos"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q955894",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q955894"
+  }
+ ],
+ "bbox": [
+  26.93,
+  37.694,
+  26.93,
+  37.694
+ ]
+}

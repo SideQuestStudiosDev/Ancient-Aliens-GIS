@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "amarnath-cave",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   75.5008,
+   34.2149
+  ]
+ },
+ "properties": {
+  "name": "Amarnath Cave",
+  "subtitle": "Jammu & Kashmir, India",
+  "country": "India",
+  "region": "South Asia",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "himalaya",
+   "shiva",
+   "ice-lingam",
+   "pilgrimage"
+  ],
+  "aliases": [
+   "Himalayas",
+   "Shiva",
+   "Kashmir",
+   "ice lingam"
+  ],
+  "claim": "A naturally forming ice column at 3,888 m, waxing and waning with the moon and venerated for millennia, is cited alongside Himalayan accounts of vimanas and sky-beings as a marker of a contact site.",
+  "context": "The lingam is a stalagmite of ice formed by water seeping through the cave roof and freezing; its height varies with precipitation and temperature, and in warm years it has melted early — documented repeatedly in recent decades. The pilgrimage is a major, well-recorded Shaiva tradition.",
+  "summary": "Amarnath Temple is a Hindu shrine located in the Pahalgam tehsil of Anantnag district of Jammu and Kashmir, India. It is a cave situated at an altitude of 3,888 m (12,756 ft), about 72 km from Anantnag, the district headquarters, 141 km (88 mi) from Srinagar, the summer capital of Jammu and Kashmir, accessible via either Sonamarg or Pahalgam",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Hindu shrine in Kashmir, India",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 34.2149,
+  "longitude": 75.5008,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Amarnath Temple",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amarnath_Temple",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q455167",
+  "image_file": "Cave_Temple_of_Lord_Amarnath.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/amarnath-cave.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Amarnath Cave — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=amarnath-cave",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Amarnath Cave in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Amarnath_Temple",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Amarnath Temple"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q455167",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q455167"
+  }
+ ],
+ "bbox": [
+  75.5008,
+  34.2149,
+  75.5008,
+  34.2149
+ ]
+}

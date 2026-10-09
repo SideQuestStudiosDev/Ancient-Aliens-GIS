@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "south-africa",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   30.2889,
+   -25.5947
+  ]
+ },
+ "properties": {
+  "name": "Southern Africa — Blaauboschkraal Ruins",
+  "subtitle": "Mpumalanga, South Africa",
+  "country": "South Africa",
+  "region": "Africa",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "stone-ruins",
+   "adams-calendar",
+   "bokoni"
+  ],
+  "aliases": [
+   "Adam's Calendar",
+   "Blaauboschkraal",
+   "Mpumalanga stone ruins"
+  ],
+  "claim": "Promoted as 'Adam's Calendar', a 75,000-year-old solstice-aligned monument, tied to Zecharia Sitchin's Anunnaki gold-mining narrative and the region's ancient workings.",
+  "context": "Archaeologists identify the site as part of the Bokoni stone-walled agricultural complexes of roughly AD 1500–1820 — terraces, cattle byres and homestead walls documented across Mpumalanga. No peer-reviewed dating supports a Pleistocene age; the 75,000-year figure originates in self-published work. Southern Africa does hold genuinely ancient mining, including Lion Cavern ochre workings in Eswatini at c. 41,000 BP.",
+  "summary": "The Blaauboschkraal stone ruins are a provincial heritage site in the Mpumalanga province of South Africa. Its neighbouring town, Emgwenya, is 10 kilometres away. The site was declared a national monument on 18 April 1975 and is a heritage site recognised by the South African Heritage Resources Agency.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in South Africa",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -25.5947,
+  "longitude": 30.2889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Blaauboschkraal stone ruins",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Blaauboschkraal_stone_ruins",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q4920004",
+  "image_file": "Bokoni_Stone_Ruins.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/south-africa.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Southern Africa — Blaauboschkraal Ruins — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=south-africa",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Southern Africa — Blaauboschkraal Ruins in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Blaauboschkraal_stone_ruins",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Blaauboschkraal stone ruins"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q4920004",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q4920004"
+  }
+ ],
+ "bbox": [
+  30.2889,
+  -25.5947,
+  30.2889,
+  -25.5947
+ ]
+}

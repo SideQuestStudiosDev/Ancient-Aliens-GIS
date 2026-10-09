@@ -1,0 +1,95 @@
+{
+ "type": "Feature",
+ "id": "rendlesham",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   1.449167,
+   52.088889
+  ]
+ },
+ "properties": {
+  "name": "Rendlesham Forest — RAF Bentwaters & Woodbridge",
+  "subtitle": "Suffolk, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1980",
+   "usaf",
+   "halt-memo",
+   "cold-war"
+  ],
+  "aliases": [
+   "RAF Bentwaters",
+   "RAF Woodbridge",
+   "Suffolk",
+   "Halt memo",
+   "Britain's Roswell"
+  ],
+  "claim": "Over several nights in December 1980, USAF personnel from the twin bases reported lights descending into the forest, a landed craft with glyph-like markings and radiation traces — Britain's best-documented military encounter.",
+  "context": "Deputy base commander Charles Halt's memo is genuine and declassified, which is why the case matters. Proposed explanations include the Orfordness lighthouse 8 km east (matching the pulsing light's bearing and interval), a bright fireball recorded that night, and the Shipwash light vessel; the radiation readings were within regional background. Witnesses continue to dispute these accounts, and the case remains unresolved rather than explained.",
+  "summary": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings. The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF). USAF personnel, including deputy base commander Lieutenant Colonel Charles I.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "1980 UFO report in Suffolk, England",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 52.088889,
+  "longitude": 1.449167,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Rendlesham Forest incident",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2271637",
+  "image_file": "RAF_Woodbridge_East_Gate.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/rendlesham.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Rendlesham Forest — RAF Bentwaters & Woodbridge — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=rendlesham",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Rendlesham Forest — RAF Bentwaters & Woodbridge in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Rendlesham Forest incident"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2271637",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2271637"
+  },
+  {
+   "href": "https://www.nationalarchives.gov.uk/ufos/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "UK National Archives — released UFO files"
+  }
+ ],
+ "bbox": [
+  1.449167,
+  52.088889,
+  1.449167,
+  52.088889
+ ]
+}

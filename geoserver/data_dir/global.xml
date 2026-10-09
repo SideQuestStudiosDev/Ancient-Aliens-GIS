@@ -1,0 +1,16 @@
+<global>
+  <settings>
+    <charset>UTF-8</charset>
+    <numDecimals>8</numDecimals>
+    <verbose>false</verbose>
+    <verboseExceptions>false</verboseExceptions>
+    <localWorkspaceIncludesPrefix>false</localWorkspaceIncludesPrefix>
+  </settings>
+  <jai>
+    <allowInterpolation>false</allowInterpolation>
+    <memoryCapacity>0.5</memoryCapacity>
+  </jai>
+  <featureTypeCacheSize>100</featureTypeCacheSize>
+  <globalServices>true</globalServices>
+  <xmlPostRequestLogBufferSize>1024</xmlPostRequestLogBufferSize>
+</global>

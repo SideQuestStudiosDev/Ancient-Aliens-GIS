@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "peru-general",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -75.0152,
+   -9.19
+  ]
+ },
+ "properties": {
+  "name": "Peru",
+  "subtitle": "Republic of Peru (regional)",
+  "country": "Peru",
+  "region": "South America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "inca",
+   "andes",
+   "chronology"
+  ],
+  "aliases": [
+   "Inca Empire",
+   "Tawantinsuyu",
+   "Andes"
+  ],
+  "claim": "Peru is the series' densest cluster after Egypt: Nazca, Sacsayhuamán, Ollantaytambo, Paracas and Machu Picchu are presented together as one engineering programme spanning millennia.",
+  "context": "Andean archaeology provides a continuous 5,000-year sequence — Caral, Chavín, Paracas, Nazca, Moche, Wari, Tiwanaku, Chimú, Inca — in which masonry, metallurgy, textiles and hydraulics develop traceably, each culture building on the last. The Inca state itself lasted under a century at full extent, which is why so many of its sites were unfinished and their methods are legible.",
+  "summary": "Peru, officially the Republic of Peru, is a country in western South America. It is bordered to the north by Ecuador and Colombia, to the east by Brazil, to the southeast by Bolivia, to the south by Chile, and to the south and west by the Pacific Ocean. Peru is a megadiverse country, with habitats ranging from the arid plains of the Pacific coastal region in the west, to the peaks of the Andes mountains extending from the north to the southeast of the country, to the tropical Amazon basin rainforest in the east with the Amazon River.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Country in South America",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -9.19,
+  "longitude": -75.0152,
+  "celestial_body": "earth",
+  "radius_km": 800,
+  "camera_height_m": 2000000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Peru",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peru",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q419",
+  "image_file": "Flag_of_Peru.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/peru-general.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Peru — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=peru-general",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Peru in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Peru",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Peru"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q419",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q419"
+  }
+ ],
+ "bbox": [
+  -82.29513,
+  -16.37649,
+  -67.73527,
+  -2.00351
+ ]
+}

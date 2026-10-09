@@ -1,0 +1,84 @@
+{
+ "type": "Feature",
+ "id": "roxbury-massachusetts",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.095278,
+   42.325
+  ]
+ },
+ "properties": {
+  "name": "Roxbury",
+  "subtitle": "Boston, Massachusetts, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "urban"
+  ],
+  "aliases": [
+   "Massachusetts",
+   "Boston"
+  ],
+  "claim": "Cited among urban sighting reports in the Boston area, used to argue that activity is not confined to remote sites.",
+  "context": "The specific case the series references is not identifiable in the published sighting catalogues, so this entry marks the locality rather than a documented event. Dense urban reporting is expected: more observers, more aircraft on approach to Logan, and far more camera phones than in rural areas.",
+  "summary": "Roxbury is a neighborhood in Boston, Massachusetts, United States.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Neighborhood of Boston, Massachusetts",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 42.325,
+  "longitude": -71.095278,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Roxbury, Boston",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Roxbury,_Boston",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q20138",
+  "image_file": "FirstChurchRoxburyMass20040313.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/roxbury-massachusetts.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Roxbury — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=roxbury-massachusetts",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Roxbury in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Roxbury,_Boston",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Roxbury, Boston"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q20138",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q20138"
+  }
+ ],
+ "bbox": [
+  -71.095278,
+  42.325,
+  -71.095278,
+  42.325
+ ]
+}

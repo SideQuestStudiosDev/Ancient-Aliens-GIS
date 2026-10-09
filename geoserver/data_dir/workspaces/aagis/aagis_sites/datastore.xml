@@ -1,0 +1,16 @@
+<dataStore>
+  <id>ds_aagis_sites</id>
+  <name>aagis_sites</name>
+  <description>Ancient Aliens GIS site catalogue (GeoJSON, EPSG:4326)</description>
+  <type>GeoJSON</type>
+  <enabled>true</enabled>
+  <workspace>
+    <id>ws_aagis</id>
+  </workspace>
+  <connectionParameters>
+    <entry key="namespace">https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS</entry>
+    <entry key="file">file:/opt/aagis_layers/sites.geojson</entry>
+  </connectionParameters>
+  <__default>true</__default>
+  <dateCreated>2026-10-09T07:57:18.959198+00:00</dateCreated>
+</dataStore>

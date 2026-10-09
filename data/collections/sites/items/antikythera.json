@@ -1,0 +1,93 @@
+{
+ "type": "Feature",
+ "id": "antikythera",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   23.3053,
+   35.8614
+  ]
+ },
+ "properties": {
+  "name": "Antikythera & the Antikythera Wreck",
+  "subtitle": "Aegean Sea, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "antikythera-mechanism",
+   "shipwreck",
+   "gearing",
+   "astronomy"
+  ],
+  "aliases": [
+   "Antikythera Mechanism",
+   "Kythira",
+   "orrery"
+  ],
+  "claim": "A bronze geared computer recovered from a 1st-century-BC wreck — with at least 30 gears modelling lunar anomaly, eclipse cycles and planetary motion — is presented as technology out of time, with no comparable device for 1,400 years.",
+  "context": "The Antikythera Mechanism is entirely real and is one of the most important artefacts ever recovered — which is why it is also well explained. CT imaging and the 2006–2021 Antikythera Mechanism Research Project read its inscriptions and reconstructed the gearing; it implements Babylonian arithmetic astronomy and Greek geometric models described in surviving texts. Cicero describes comparable spheres by Archimedes and Posidonius, so it is a surviving example of a known Hellenistic tradition, not an isolate.",
+  "summary": "The Antikythera mechanism ( AN-tik-ih-THEER-ə, US also AN-ty-kih-) is an ancient Greek hand-powered orrery (model of the Solar System) built in the 2nd century BC and discovered in 1901. It is the oldest known example of an analogue computer. It could be used to predict astronomical positions and eclipses decades in advance.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient Greek analogue astronomical computer",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 35.8614,
+  "longitude": 23.3053,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Antikythera mechanism",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q182324",
+  "image_file": "Antikythera_Fragment_A_(Front).webp"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/antikythera.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Antikythera & the Antikythera Wreck — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=antikythera",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Antikythera & the Antikythera Wreck in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Antikythera_mechanism",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Antikythera mechanism"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q182324",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q182324"
+  },
+  {
+   "href": "https://www.antikythera-mechanism.gr/",
+   "rel": "related",
+   "type": "text/html",
+   "title": "Antikythera Mechanism Research Project"
+  }
+ ],
+ "bbox": [
+  23.3053,
+  35.8614,
+  23.3053,
+  35.8614
+ ]
+}

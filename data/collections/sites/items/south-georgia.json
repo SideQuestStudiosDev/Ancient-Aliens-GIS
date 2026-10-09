@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "south-georgia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -36.7,
+   -54.4
+  ]
+ },
+ "properties": {
+  "name": "South Georgia Island",
+  "subtitle": "South Atlantic (sub-Antarctic)",
+  "country": "South Georgia & the South Sandwich Islands",
+  "region": "Antarctica & Southern Ocean",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "sub-antarctic",
+   "shackleton",
+   "whaling",
+   "endurance"
+  ],
+  "aliases": [
+   "Grytviken",
+   "Shackleton",
+   "South Atlantic"
+  ],
+  "claim": "Referenced in the series' Antarctic material as an outpost on the approach to the continent, tied to Shackleton's survival crossing and his reported sense of an unseen fourth presence.",
+  "context": "South Georgia is sub-Antarctic rather than Antarctic — about 1,400 km from the Antarctic Peninsula — and the distinction matters for its biology, which is dominated by seabird and seal colonies rather than polar desert. Shackleton's 1916 crossing is documented in his own account, and the 'third man factor' he described is a well-studied phenomenon of extreme exertion, isolation and hypoxia, reported by mountaineers and solo sailors.",
+  "summary": "South Georgia is an island in the South Atlantic Ocean that is part of the British Overseas Territory of South Georgia and the South Sandwich Islands. It lies around 1,400 kilometres (870 mi; 756 nmi) east of the Falkland Islands. Stretching in the east–west direction, South Georgia is around 170 kilometres (106 mi) long and has a maximum width of 35 kilometres (22 mi).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Island in the South Atlantic Ocean",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -54.4,
+  "longitude": -36.7,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "South Georgia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/South_Georgia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1137202",
+  "image_file": "South_Georgia_Island_as_seen_by_Sentinel-2.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/south-georgia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "South Georgia Island — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=south-georgia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "South Georgia Island in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/South_Georgia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: South Georgia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1137202",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1137202"
+  }
+ ],
+ "bbox": [
+  -36.7,
+  -54.4,
+  -36.7,
+  -54.4
+ ]
+}

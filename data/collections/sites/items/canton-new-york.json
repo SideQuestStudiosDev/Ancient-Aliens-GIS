@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "canton-new-york",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -75.171111,
+   44.5975
+  ]
+ },
+ "properties": {
+  "name": "Canton",
+  "subtitle": "St. Lawrence County, New York, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "north-country",
+   "rural"
+  ],
+  "aliases": [
+   "New York",
+   "St. Lawrence County"
+  ],
+  "claim": "Referenced among North Country encounter reports along the St. Lawrence corridor near the Canadian border.",
+  "context": "As with several small-town references in the series, no institutionally investigated case from this locality appears in the public record, so the entry marks the place rather than an event. The corridor carries heavy cross-border air traffic and sits under the aurora's southern reach, both routine sources of misidentification.",
+  "summary": "Canton is an incorporated town in St. Lawrence County, New York, United States. The population was 11,638 at the time of the 2020 census.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Town in New York, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 44.5975,
+  "longitude": -75.171111,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 8000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Canton, New York",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Canton,_New_York",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5033871",
+  "image_file": "New_York_-_Buffalo_through_Dexter_-_NARA_-_68145065_(cropped).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/canton-new-york.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Canton — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=canton-new-york",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Canton in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Canton,_New_York",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Canton, New York"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5033871",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5033871"
+  }
+ ],
+ "bbox": [
+  -75.171111,
+  44.5975,
+  -75.171111,
+  44.5975
+ ]
+}

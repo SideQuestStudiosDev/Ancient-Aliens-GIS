@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "la-venta",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -94.040192,
+   18.103299
+  ]
+ },
+ "properties": {
+  "name": "La Venta",
+  "subtitle": "Tabasco, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "olmec",
+   "colossal-heads",
+   "basalt",
+   "formative"
+  ],
+  "aliases": [
+   "Olmec",
+   "Tabasco",
+   "colossal heads"
+  ],
+  "claim": "The Olmec colossal heads — up to 40 tonnes of basalt carried about 100 km from the Tuxtla mountains, with features the series describes as African or non-human and wearing what look like helmets — are presented as portraits of visitors.",
+  "context": "Basalt sourcing to Cerro Cintepec in the Tuxtlas is established petrologically, and river-raft transport across the Coatzacoalcos drainage is the accepted mechanism. The 'helmets' are generally read as ballgame headgear or rulers' regalia, matching Olmec ballcourt iconography. The facial features fall within indigenous Mesoamerican variation; the African-origin reading advanced by Ivan van Sertima has been rejected on skeletal, dental and genetic grounds. La Venta also produced the earliest known Mesoamerican jade workshops and a magnetite mirror tradition.",
+  "summary": "La Venta is a pre-Columbian archaeological site of the Olmec civilization located in the present-day Mexican state of Tabasco. Some of the artifacts have been moved to the museum Parque-Meseo La Venta, which is in nearby Villahermosa, the capital of Tabasco.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site of the Olmec civilization located in Tabasco, Mexico",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 18.103299,
+  "longitude": -94.040192,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "La Venta",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/La_Venta",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q913166",
+  "image_file": "La_Venta_Pirámide_cara_norte.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/la-venta.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "La Venta — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=la-venta",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "La Venta in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/La_Venta",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: La Venta"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q913166",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q913166"
+  }
+ ],
+ "bbox": [
+  -94.040192,
+  18.103299,
+  -94.040192,
+  18.103299
+ ]
+}

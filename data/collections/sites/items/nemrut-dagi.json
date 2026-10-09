@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "nemrut-dagi",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   38.740833,
+   37.980556
+  ]
+ },
+ "properties": {
+  "name": "Nemrut Dağı — Kingdom of Commagene",
+  "subtitle": "Adıyaman Province, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "hellenistic",
+   "tumulus",
+   "archaeoastronomy"
+  ],
+  "aliases": [
+   "Mount Nemrut",
+   "Antiochus I",
+   "Commagene"
+  ],
+  "claim": "Colossal severed heads on a 2,134 m summit, beside a lion relief read as the oldest horoscope, are presented as a landing marker and as a king's claim to non-human descent.",
+  "context": "The hierothesion of Antiochus I of Commagene (r. 70–38 BC) is dated by its own Greek dedicatory inscriptions, which set out the cult calendar and name the syncretic Greco-Persian deities portrayed. The Lion Horoscope is a genuine and much-studied astronomical relief — it encodes a specific planetary conjunction, which is how the monument is dated. The heads fell from their bodies through earthquake and frost damage.",
+  "summary": "Mount Nemrut or Nemrud (Turkish: Nemrut Dağı; Kurdish: Çiyayê Nemrûdê; Armenian: Նեմրութ լեռ; Greek: Όρος Νεμρούτ) is a 2,150-metre-high (7,054 ft) mountain in southeastern Turkey, notable for the summit where a number of large statues are erected around what is assumed to be a royal tomb from the 1st century BC. It is one of the highest peaks in the east of the Taurus Mountains.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Mountain in Adıyaman, Turkey",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.980556,
+  "longitude": 38.740833,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1800,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mount Nemrut",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Nemrut",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q207917",
+  "image_file": "Mount_Nemrut_-_East_Terrace_(4961323529).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nemrut-dagi.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nemrut Dağı — Kingdom of Commagene — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nemrut-dagi",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nemrut Dağı — Kingdom of Commagene in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mount_Nemrut",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mount Nemrut"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q207917",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q207917"
+  }
+ ],
+ "bbox": [
+  38.740833,
+  37.980556,
+  38.740833,
+  37.980556
+ ]
+}

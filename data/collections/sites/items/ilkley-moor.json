@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "ilkley-moor",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -1.8217,
+   53.9033
+  ]
+ },
+ "properties": {
+  "name": "Ilkley Moor — Twelve Apostles",
+  "subtitle": "West Yorkshire, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "rock-art",
+   "cup-and-ring",
+   "swastika-stone",
+   "ufo"
+  ],
+  "aliases": [
+   "Twelve Apostles",
+   "Yorkshire",
+   "Swastika Stone",
+   "Cow and Calf"
+  ],
+  "claim": "Bronze Age cup-and-ring carvings here are read as star charts, and the moor's reputation — including PC Alan Godfrey-era Yorkshire sighting reports and the 1987 'Ilkley Moor alien' photograph — as continuing activity.",
+  "context": "Cup-and-ring marking is an Atlantic-wide rock-art tradition from Iberia to Scotland, with hundreds of panels on Rombalds Moor alone; its meaning is unresolved but its distribution is thoroughly mapped. The 1987 photograph has never been independently authenticated and the figure's proportions are consistent with a small model.",
+  "summary": "The Twelve Apostles (grid reference SE12614506) is a stone circle near Ilkley and Burley in Wharfedale in West Yorkshire, England.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Stone circle in West Yorkshire, England",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 53.9033,
+  "longitude": -1.8217,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Twelve Apostles, West Yorkshire",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Twelve_Apostles,_West_Yorkshire",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1436702",
+  "image_file": "The_Twelve_Apostles_of_Ilkley_Moor_Stone_Circle_-_geograph.org.uk_-_12971.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/ilkley-moor.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Ilkley Moor — Twelve Apostles — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=ilkley-moor",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Ilkley Moor — Twelve Apostles in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Twelve_Apostles,_West_Yorkshire",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Twelve Apostles, West Yorkshire"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1436702",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1436702"
+  }
+ ],
+ "bbox": [
+  -1.8217,
+  53.9033,
+  -1.8217,
+  53.9033
+ ]
+}

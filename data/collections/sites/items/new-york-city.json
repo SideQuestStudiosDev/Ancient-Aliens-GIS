@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "new-york-city",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -74.0061,
+   40.7128
+  ]
+ },
+ "properties": {
+  "name": "New York City",
+  "subtitle": "New York, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "rockefeller-center",
+   "christies",
+   "auction",
+   "collections"
+  ],
+  "aliases": [
+   "Rockefeller Center",
+   "Christie's",
+   "Manhattan",
+   "NYC"
+  ],
+  "claim": "Appears for the antiquities trade: Rockefeller Center and the Christie's salerooms as the point where artefacts the series considers anomalous — Egyptian, Mesopotamian and Mesoamerican — pass into private hands and out of study.",
+  "context": "The concern about objects leaving the scholarly record is legitimate and widely shared by archaeologists, though for ordinary reasons: unprovenanced sales destroy context, launder looted material and have funded armed groups. Both major houses now publish provenance research, and repatriations from US collections to Egypt, Iraq and Italy are frequent and documented. Nothing in the trade record involves anomalous material.",
+  "summary": "New York, often called New York City (NYC), is the most populous city in the United States. It is located at the southern tip of New York State on New York Harbor, one of the world's largest natural harbors. The city comprises five boroughs—Manhattan, Brooklyn, Queens, the Bronx, and Staten Island—each being coextensive with its respective county.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Most populous city in the United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.7128,
+  "longitude": -74.0061,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "New York City",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/New_York_City",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q60",
+  "image_file": "View_of_Empire_State_Building_from_Rockefeller_Center_New_York_City_dllu_(cropped).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/new-york-city.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "New York City — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=new-york-city",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "New York City in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/New_York_City",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: New York City"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q60",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q60"
+  }
+ ],
+ "bbox": [
+  -74.0061,
+  40.7128,
+  -74.0061,
+  40.7128
+ ]
+}

@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "candi-sukuh",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   111.131111,
+   -7.627222
+  ]
+ },
+ "properties": {
+  "name": "Candi Sukuh",
+  "subtitle": "Karanganyar, Central Java, Indonesia",
+  "country": "Indonesia",
+  "region": "Southeast Asia & Oceania",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "majapahit",
+   "step-pyramid",
+   "lingam",
+   "java"
+  ],
+  "aliases": [
+   "Sukuh",
+   "Java",
+   "Javanese pyramid"
+  ],
+  "claim": "A truncated step-pyramid on Mount Lawu, unlike any other Javanese temple and stylistically compared to Mesoamerican platforms, is offered as evidence of transoceanic contact or a shared off-world template.",
+  "context": "Candi Sukuh is a 15th-century late-Majapahit temple with a dated chronogram, built as Javanese Hindu-Buddhism absorbed indigenous mountain and ancestor cult — which is exactly why it looks unlike court temples. Its reliefs are legible Javanese iconography, including a Sudamala narrative and metalworking scenes. Terraced sanctuaries are a recognised Javanese class, as at nearby Candi Cetho.",
+  "summary": "Sukuh (Indonesian: Candi Sukuh, Indonesian pronunciation: [ˌtʃandi ˈsukʊh]) is a 15th-century Javanese-Hindu temple (candi) that is located in Berjo, Ngargoyoso district, Karanganyar Regency, Central Java, Indonesia on the western slope of Mount Lawu (elevation 910 metres (2,990 ft)).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "15th century Javanese Hindu temple",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -7.627222,
+  "longitude": 111.131111,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Sukuh",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sukuh",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q3101506",
+  "image_file": "Candi_Sukuh_2007.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/candi-sukuh.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Candi Sukuh — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=candi-sukuh",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Candi Sukuh in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Sukuh",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Sukuh"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q3101506",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q3101506"
+  }
+ ],
+ "bbox": [
+  111.131111,
+  -7.627222,
+  111.131111,
+  -7.627222
+ ]
+}

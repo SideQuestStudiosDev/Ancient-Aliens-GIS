@@ -1,0 +1,83 @@
+{
+ "type": "Feature",
+ "id": "edfu",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   32.873333,
+   24.977778
+  ]
+ },
+ "properties": {
+  "name": "Temple of Edfu",
+  "subtitle": "Aswan Governorate, Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "temple",
+   "ptolemaic",
+   "horus",
+   "edfu-texts"
+  ],
+  "aliases": [],
+  "claim": "The Edfu building texts describe the temple rising on a primeval mound according to a plan handed down by the gods; the series treats this as a surviving record of extraterrestrial architects and of a 'first time' when non-humans ruled Egypt.",
+  "context": "The Edfu texts are Ptolemaic theological literature (c. 237–57 BC) describing a mythic charter for the temple, a genre found across Egyptian sacred architecture. They are cosmology, not construction records, and the temple itself is a well-dated Ptolemaic build with named architects and dedication inscriptions.",
+  "summary": "The Temple of Edfu is an Egyptian temple located on the west bank of the Nile in Edfu, Upper Egypt. The city was known in the Hellenistic period in Koine Greek as Ἀπόλλωνος πόλις and in Latin as Apollonopolis Magna, after the chief god Horus, who was identified as Apollo under the interpretatio graeca. It is one of the best preserved shrines in Egypt.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient Egyptian temple, located on the west bank of the Nile in Edfu, Upper Egypt",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 24.977778,
+  "longitude": 32.873333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 600,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Temple of Edfu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q613037",
+  "image_file": "Temple_Edfou_Egypte.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/edfu.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Temple of Edfu — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=edfu",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Temple of Edfu in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Temple_of_Edfu",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Temple of Edfu"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q613037",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q613037"
+  }
+ ],
+ "bbox": [
+  32.873333,
+  24.977778,
+  32.873333,
+  24.977778
+ ]
+}

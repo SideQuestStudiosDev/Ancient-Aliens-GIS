@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "india-general",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   78.5,
+   21.0
+  ]
+ },
+ "properties": {
+  "name": "India",
+  "subtitle": "Republic of India (regional)",
+  "country": "India",
+  "region": "South Asia",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "vimana",
+   "sanskrit",
+   "mahabharata"
+  ],
+  "aliases": [
+   "Vimana",
+   "Mahabharata",
+   "Ramayana",
+   "Vaimanika Shastra"
+  ],
+  "claim": "The Sanskrit epics are the series' richest text source: vimanas described as flying palaces, the Brahmastra's described effects likened to a nuclear detonation, and the Vaimanika Shastra read as a surviving flight manual.",
+  "context": "The Mahabharata and Ramayana are vast poetic compilations reaching their received form over roughly a thousand years; vimana means 'measured-out' and denotes palaces, temple towers and divine chariots depending on context. The Vaimanika Shastra was produced by Subbaraya Shastry via psychic channelling between 1900 and 1922 — it is not ancient. A 1974 Indian Institute of Science study found its described craft aerodynamically incapable of flight.",
+  "summary": "India, officially the Republic of India, is a country in South Asia. It is the world's seventh-largest country by area and its most populous. Bounded by the Indian Ocean on the south, the Arabian Sea on the southwest, and the Bay of Bengal on the southeast, it shares land borders with Pakistan to the west, China, Nepal, and Bhutan to the north, and Bangladesh and Myanmar to the east.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Country in South Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 21.0,
+  "longitude": 78.5,
+  "celestial_body": "earth",
+  "radius_km": 1200,
+  "camera_height_m": 2500000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "India",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/India",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q668",
+  "image_file": "Flag_of_India.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/india-general.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "India — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=india-general",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "India in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/India",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: India"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q668",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q668"
+  }
+ ],
+ "bbox": [
+  66.95334,
+  10.22027,
+  90.04666,
+  31.77973
+ ]
+}

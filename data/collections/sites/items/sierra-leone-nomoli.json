@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "sierra-leone-nomoli",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -11.183,
+   7.867
+  ]
+ },
+ "properties": {
+  "name": "Nomoli Figurine Country",
+  "subtitle": "Kono / Kenema districts, Sierra Leone",
+  "country": "Sierra Leone",
+  "region": "Africa",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "figurines",
+   "soapstone",
+   "sapi",
+   "diamond-fields"
+  ],
+  "aliases": [
+   "Nomoli",
+   "Pomdo",
+   "Sapi"
+  ],
+  "claim": "Soapstone figures turned up by diamond diggers, sometimes said to be found in gravels dated far older than any local culture, are presented as portraits of non-human visitors.",
+  "context": "Nomoli are attributed to the Sapi culture of roughly the 15th–17th centuries and are related to the Sherbro pomdo tradition; comparable Sapi ivories were exported to Portugal and are securely dated. The 'found in ancient gravel' reports come from uncontrolled artisanal mining with no stratigraphic record, so they cannot date the objects.",
+  "summary": "A Nomoli is a carved stone figurine native to Sierra Leone and Liberia. They are usually made of soapstone, limestone or granite.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Carved stone figurine S/L",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 7.867,
+  "longitude": -11.183,
+  "celestial_body": "earth",
+  "radius_km": 70,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Nomoli figurine",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nomoli_figurine",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q3343234",
+  "image_file": "Nomoli-Mende-Sierra_Leone.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/sierra-leone-nomoli.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nomoli Figurine Country — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=sierra-leone-nomoli",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nomoli Figurine Country in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Nomoli_figurine",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Nomoli figurine"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q3343234",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q3343234"
+  }
+ ],
+ "bbox": [
+  -11.81779,
+  7.23818,
+  -10.54821,
+  8.49582
+ ]
+}

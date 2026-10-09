@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "khorsabad",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   43.229444,
+   36.509444
+  ]
+ },
+ "properties": {
+  "name": "Khorsabad (Dur-Sharrukin)",
+  "subtitle": "Nineveh Governorate, Iraq",
+  "country": "Iraq",
+  "region": "Middle East",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "assyrian",
+   "lamassu",
+   "sargon-ii"
+  ],
+  "aliases": [
+   "Dur-Sharrukin",
+   "Sargon II",
+   "Lamassu"
+  ],
+  "claim": "The winged, human-headed lamassu bulls guarding Sargon II's gates are presented as portraits of non-human guardians, and the city — raised complete and abandoned at the king's death — as built to order.",
+  "context": "Dur-Sharrukin is a documented royal foundation of Sargon II (r. 721–705 BC) whose building inscriptions record the commission, the labour levies and the timber imports. Lamassu are apotropaic composite guardians, a standard Mesopotamian iconographic class with a traceable stylistic development. The site was looted and partly bulldozed in 2015, making its surviving documentation especially valuable.",
+  "summary": "Dur-Sharrukin (Neo-Assyrian Akkadian: 𒂦𒈗𒁺, romanized: Dūr Šarru-kīn, \"Fortress of Sargon\"; Arabic: دور شروكين, Syriac: ܕܘܪ ܫܪܘ ܘܟܢ), present day Khorsabad, was the Assyrian capital in the time of Sargon II of Assyria. Khorsabad is a village in northern Iraq, 15 km northeast of Mosul. The great city was entirely built in the decade preceding 706 BC.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Assyrian capital in the time of Sargon II; located in modern-day Iraq",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.509444,
+  "longitude": 43.229444,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Dur-Sharrukin",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q253208",
+  "image_file": "Lammasu.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/khorsabad.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Khorsabad (Dur-Sharrukin) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=khorsabad",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Khorsabad (Dur-Sharrukin) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Dur-Sharrukin",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Dur-Sharrukin"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q253208",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q253208"
+  }
+ ],
+ "bbox": [
+  43.229444,
+  36.509444,
+  43.229444,
+  36.509444
+ ]
+}

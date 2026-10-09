@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "white-sands",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -106.325,
+   32.7805
+  ]
+ },
+ "properties": {
+  "name": "White Sands Proving Ground",
+  "subtitle": "Doña Ana County, New Mexico, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "trinity",
+   "v2",
+   "missile-range",
+   "1947"
+  ],
+  "aliases": [
+   "White Sands Missile Range",
+   "Trinity site",
+   "New Mexico"
+  ],
+  "claim": "The range that hosted the Trinity test and the first American V-2 launches is cast as the trigger: the detonation that drew attention, and the site where captured and recovered craft were first flown.",
+  "context": "White Sands is extensively documented, including the July 1945 Trinity test and the 1946–52 Hermes V-2 programme, whose telemetry, films and failure reports are archived. Clyde Tombaugh — the discoverer of Pluto — ran the range's optical tracking and did report an anomalous 1949 sighting; he also maintained it was probably an atmospheric phenomenon.",
+  "summary": "White Sands Missile Range (WSMR) is a United States Army military testing area and firing range located in the US state of New Mexico. The range was originally established in 1941 as the Alamogordo Bombing and Gunnery Range, where the Trinity test site lay at the northern end of the Range, in Socorro County near the towns of Carrizozo and San Antonio. It then became the White Sands Proving Ground on 9 July 1945.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Military testing area in New Mexico, US",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 32.7805,
+  "longitude": -106.325,
+  "celestial_body": "earth",
+  "radius_km": 80,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "White Sands Missile Range",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1694811",
+  "image_file": "Tularosa-Basin-NM-USGS-map_opaque.gif"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/white-sands.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "White Sands Proving Ground — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=white-sands",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "White Sands Proving Ground in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/White_Sands_Missile_Range",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: White Sands Missile Range"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1694811",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1694811"
+  }
+ ],
+ "bbox": [
+  -107.17977,
+  32.06185,
+  -105.47023,
+  33.49915
+ ]
+}

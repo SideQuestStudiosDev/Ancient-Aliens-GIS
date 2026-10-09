@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "lemnos",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   25.25,
+   39.9
+  ]
+ },
+ "properties": {
+  "name": "Lemnos — Hephaistia",
+  "subtitle": "North Aegean, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "hephaestus",
+   "metallurgy",
+   "volcanic",
+   "automata"
+  ],
+  "aliases": [
+   "Hephaistia",
+   "Hephaestus",
+   "Limnos",
+   "Talos"
+  ],
+  "claim": "The island of Hephaestus — the smith god cast down from Olympus, who forged self-moving tripods, golden handmaidens and the bronze automaton Talos — is presented as a workshop staffed by a crashed and crippled engineer.",
+  "context": "Lemnos's Hephaestus cult is tied to its volcanic geology and early metallurgy, and the sanctuary at Hephaistia has been excavated. The automata appear in Iliad 18 and later in Apollonius; classicists read them as a mythology of craft, and historians of technology note that Hellenistic engineers — Ctesibius, Philo, Hero — later built real pneumatic and hydraulic automata, plausibly inspired by those stories.",
+  "summary": "Lemnos (Ancient Greek: Λῆμνος [ˈlɛ̂ːmnos]) or Limnos (Modern Greek: Λήμνος [ˈlimnos]) is a Greek island in the northern Aegean Sea. Administratively the island forms a separate municipality within the Lemnos regional unit, which is part of the North Aegean region. The principal town of the island and seat of the municipality is Myrina.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Greek island in the northern Aegean Sea",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 39.9,
+  "longitude": 25.25,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Lemnos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lemnos",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q192483",
+  "image_file": "MirinaLimnosGreece.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/lemnos.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lemnos — Hephaistia — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=lemnos",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lemnos — Hephaistia in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Lemnos",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Lemnos"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q192483",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q192483"
+  }
+ ],
+ "bbox": [
+  25.25,
+  39.9,
+  25.25,
+  39.9
+ ]
+}

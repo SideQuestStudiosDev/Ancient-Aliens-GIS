@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "jericho",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.46,
+   31.856111
+  ]
+ },
+ "properties": {
+  "name": "Jericho (Tell es-Sultan)",
+  "subtitle": "West Bank",
+  "country": "Israel / Palestine",
+  "region": "Middle East",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "neolithic",
+   "oldest-city",
+   "walls"
+  ],
+  "aliases": [
+   "Tell es-Sultan",
+   "Walls of Jericho"
+  ],
+  "claim": "Walls felled by trumpets and a shout are presented as an acoustic or directed-energy weapon supplied from above, and the Neolithic tower as the oldest defensive architecture built against an aerial threat.",
+  "context": "Tell es-Sultan holds an 11,000-year sequence including the Pre-Pottery Neolithic tower and wall — among the earliest known monumental architecture, probably flood-defence and communal ritual rather than military. Kathleen Kenyon's excavations found the Late Bronze walls already ruined and the site largely unoccupied around the traditional date of Joshua's conquest, which is the core archaeological problem with the biblical account.",
+  "summary": "Jericho ( JERR-ik-oh; Arabic: أريحا, romanized: Arīḥā, IPA: [ʔaˈriːħaː] ; Hebrew: יְרֵחוֹ, romanized: Yərīḥō) is a city in the West Bank, Palestine, and the capital of the Jericho Governorate. The city is located in the Jordan Valley, with the Jordan River to the east and Jerusalem to the west.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Palestinian city in the West Bank",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.856111,
+  "longitude": 35.46,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Jericho",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jericho",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5687",
+  "image_file": "Tell_es-sultan.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/jericho.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Jericho (Tell es-Sultan) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=jericho",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Jericho (Tell es-Sultan) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Jericho",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Jericho"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5687",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5687"
+  }
+ ],
+ "bbox": [
+  35.46,
+  31.856111,
+  35.46,
+  31.856111
+ ]
+}

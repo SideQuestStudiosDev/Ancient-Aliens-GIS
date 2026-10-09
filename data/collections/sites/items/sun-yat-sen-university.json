@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "sun-yat-sen-university",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   113.2988,
+   23.0966
+  ]
+ },
+ "properties": {
+  "name": "Sun Yat-sen University",
+  "subtitle": "Guangzhou, Guangdong, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "academia",
+   "anthropology",
+   "archaeology"
+  ],
+  "aliases": [
+   "Guangzhou",
+   "Zhongshan University"
+  ],
+  "claim": "Appears as an interview location for Chinese archaeological and ethnographic material, including the Dropa stone discs and southern Chinese cave-burial traditions.",
+  "context": "The Dropa stones story — perforated discs and small-statured beings in a Bayan Har cave — has no provenance: the cited institutions and the Professor 'Tsum Um Nui' credited with translating them cannot be documented, and the tale is traceable to 1960s Soviet and Western fringe magazines. Chinese academic archaeology in the region is extensively published.",
+  "summary": "Sun Yat-sen University (Chinese: 中山大学; pinyin: Zhōngshān Dàxué; also SYSU) is a public university in Guangzhou, Guangdong, China. It is affiliated with the Ministry of Education and co-funded by the Ministry of Education, SASTIND, and Guangdong Provincial People's Government. As one of the top universities in China, it is part of Project 211, Project 985, and the Double First-Class Construction.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "National public research university in China",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 23.0966,
+  "longitude": 113.2988,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Sun Yat-sen University",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sun_Yat-sen_University",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q178972",
+  "image_file": "中山大学孙中山铜像.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/sun-yat-sen-university.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Sun Yat-sen University — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=sun-yat-sen-university",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Sun Yat-sen University in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Sun_Yat-sen_University",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Sun Yat-sen University"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q178972",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q178972"
+  }
+ ],
+ "bbox": [
+  113.2988,
+  23.0966,
+  113.2988,
+  23.0966
+ ]
+}

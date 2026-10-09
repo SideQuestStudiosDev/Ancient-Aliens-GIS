@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "mount-washington",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.30325,
+   44.2705
+  ]
+ },
+ "properties": {
+  "name": "Mount Washington",
+  "subtitle": "Coös County, New Hampshire, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "extreme-weather",
+   "observatory",
+   "presidential-range"
+  ],
+  "aliases": [
+   "New Hampshire",
+   "Presidential Range",
+   "Agiocochook"
+  ],
+  "claim": "The Northeast's highest summit — holder for decades of the fastest surface wind ever directly measured, and visible from the Hill encounter route — is tied to the region's sighting cluster and to claims of a monitoring presence.",
+  "context": "The 231 mph gust of 12 April 1934 is a real instrumented record, and the mountain's notorious weather comes from the collision of three storm tracks over an isolated high summit. The observatory has operated continuously since 1932 and publishes its data. The Presidential Range is sacred to Abenaki tradition.",
+  "summary": "Mount Washington (Abenaki: Agiocochook) is an ultra-prominent mountain in the state of New Hampshire. It is the highest peak in the Northeastern United States at 6,288.2 ft (1,916.6 m) and the most topographically prominent mountain east of the Mississippi River.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Highest mountain in the Northeastern US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 44.2705,
+  "longitude": -71.30325,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 14000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mount Washington",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Washington",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q572801",
+  "image_file": "White_Mountains_12_30_09_81.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mount-washington.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Washington — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mount-washington",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Washington in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mount_Washington",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mount Washington"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q572801",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q572801"
+  }
+ ],
+ "bbox": [
+  -71.30325,
+  44.2705,
+  -71.30325,
+  44.2705
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "x-zone-cusco",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.976,
+   -13.506
+  ]
+ },
+ "properties": {
+  "name": "X-Zone, Sacsayhuamán",
+  "subtitle": "Cusco Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "inca",
+   "carved-bedrock",
+   "huaca",
+   "unresolved-reference"
+  ],
+  "aliases": [
+   "Zona X",
+   "Qenqo",
+   "Chinkana",
+   "Cusco"
+  ],
+  "claim": "An area of carved bedrock near Sacsayhuamán — stepped platforms, channels, seats and tunnels cut directly into living rock, with no clear function — is presented as melted or machined stone.",
+  "context": "The carved outcrops around Cusco are huacas: sacred stones modified as ritual architecture, documented across the Inca heartland at Qenqo, Chinkana, Lacco and Kusilluchayoq, and integrated into the ceque system. The forms are chiselled and ground from andesite and limestone; tool marks are visible at close range, and unfinished examples show the stages. The 'X-Zone' is a tour name rather than an archaeological designation.",
+  "summary": "Sacsayhuamán ( SACK-sy-wuh-mən; Spanish pronunciation: [saksajwaˈman]) or Saksaywaman (from Quechua Saksay waman pukara, pronounced [ˈsaksaj ˈwaman], lit. 'fortress of the royal falcon or hawk') is a citadel on the northern outskirts of the city of Cusco, Peru, the historic capital of the Inca Empire. The site is an important example of Inca architecture and sits at an altitude of 3,701 metres (12,142 ft).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site near Cusco, Peru",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -13.506,
+  "longitude": -71.976,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Sacsayhuamán",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q828336",
+  "image_file": "Sacsayhuamán,_Cusco,_Perú,_2015-07-31,_DD_27.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/x-zone-cusco.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "X-Zone, Sacsayhuamán — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=x-zone-cusco",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "X-Zone, Sacsayhuamán in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Sacsayhuam%C3%A1n",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Sacsayhuamán"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q828336",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q828336"
+  }
+ ],
+ "bbox": [
+  -71.976,
+  -13.506,
+  -71.976,
+  -13.506
+ ]
+}

@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "yucatan-peninsula",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -89.0,
+   19.5
+  ]
+ },
+ "properties": {
+  "name": "Yucatán Peninsula",
+  "subtitle": "Mexico, Belize & Guatemala (regional)",
+  "country": "Mexico / Belize / Guatemala",
+  "region": "Central America & Caribbean",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "maya",
+   "regional",
+   "chicxulub",
+   "lowlands"
+  ],
+  "aliases": [
+   "Yucatan",
+   "Maya lowlands"
+  ],
+  "claim": "The peninsula is treated as a single dense cluster: the Maya calendar, the Long Count, the cities abandoned at their height, and the Chicxulub crater beneath them, read as one continuous story of intervention.",
+  "context": "Maya collapse research has converged on a multi-causal model — severe multi-decadal drought documented in Yok Balum and Chaac speleothem records, soil exhaustion, escalating warfare and political fragmentation — with abandonment staggered across roughly AD 800–1000 and northern cities such as Chichén Itzá flourishing afterwards. Maya communities number several million today; the civilisation did not vanish.",
+  "summary": "The Yucatán Peninsula ( YOO-kə-TA(H)N, UK also YUU-; Spanish: Península de Yucatán [peˈninsula ðe ʝukaˈtan]) is a large peninsula in southeast Mexico and adjacent portions of Belize and Guatemala. The peninsula extends towards the northeast, separating the Gulf of Mexico to the north and west of the peninsula from the Caribbean Sea to the east. The Yucatán Channel, between the northeastern corner of the peninsula and Cuba, connects the two bodies of water.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Peninsula in North America",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 19.5,
+  "longitude": -89.0,
+  "celestial_body": "earth",
+  "radius_km": 400,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Yucatán Peninsula",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yucat%C3%A1n_Peninsula",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q130978",
+  "image_file": "Yucatan_peninsula_250m.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/yucatan-peninsula.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Yucatán Peninsula — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=yucatan-peninsula",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Yucatán Peninsula in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Yucat%C3%A1n_Peninsula",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Yucatán Peninsula"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q130978",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q130978"
+  }
+ ],
+ "bbox": [
+  -92.81189,
+  15.90676,
+  -85.18811,
+  23.09324
+ ]
+}

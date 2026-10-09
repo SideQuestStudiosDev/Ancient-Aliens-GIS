@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "cahuachi",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -75.116667,
+   -14.818611
+  ]
+ },
+ "properties": {
+  "name": "Cahuachi",
+  "subtitle": "Nazca, Ica Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "nazca-culture",
+   "ceremonial-centre",
+   "adobe"
+  ],
+  "aliases": [
+   "Nazca",
+   "Great Pyramid of Cahuachi"
+  ],
+  "claim": "A 24 km² ceremonial centre beside the Nazca lines, with mounds of adobe and little residential evidence, is presented as a staging ground for the geoglyph programme rather than a city.",
+  "context": "Giuseppe Orefici's long-running excavations identify Cahuachi exactly as a pilgrimage centre with low permanent population — that is the mainstream finding, and it fits the Nazca lines as ritual landscape. The mounds are modified natural hills faced with adobe. Textiles, musical instruments and trophy heads recovered there tie it directly to Nazca material culture.",
+  "summary": "Cahuachi, in Peru, was a major ceremonial center of the Nazca culture, based from about 1–500 CE in the coastal area of Peru's central Andes. It overlooked some of the Nazca lines. The Italian archaeologist Giuseppe Orefici excavated at the site for the past few decades.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in Peru",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -14.818611,
+  "longitude": -75.116667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cahuachi",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cahuachi",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1025802",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cahuachi.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Cahuachi — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cahuachi",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Cahuachi in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cahuachi",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cahuachi"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1025802",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1025802"
+  }
+ ],
+ "bbox": [
+  -75.116667,
+  -14.818611,
+  -75.116667,
+  -14.818611
+ ]
+}

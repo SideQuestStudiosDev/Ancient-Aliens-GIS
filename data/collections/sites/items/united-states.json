@@ -1,0 +1,101 @@
+{
+ "type": "Feature",
+ "id": "united-states",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -98.5795,
+   39.8283
+  ]
+ },
+ "properties": {
+  "name": "United States",
+  "subtitle": "Continental United States (regional)",
+  "country": "United States",
+  "region": "North America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "blue-book",
+   "aaro",
+   "disclosure"
+  ],
+  "aliases": [
+   "USA",
+   "Project Blue Book",
+   "Condon Report",
+   "AARO",
+   "AATIP"
+  ],
+  "claim": "The United States is the series' institutional frame: successive official programmes — Sign, Grudge, Blue Book, AATIP, UAPTF, AARO — are presented as a seventy-year managed concealment, with Congressional hearings as its slow unravelling.",
+  "context": "The programme history is real and documentable. Blue Book closed in 1969 after the Condon Report found no national-security or scientific value, and its 12,618 case files are public at the National Archives. AATIP's existence was reported in 2017, and AARO was created by statute in 2022; its 2024 historical review found no evidence of recovered extraterrestrial technology, while documenting how classified aerospace programmes and inaccurate internal briefings generated and sustained the belief that there was. Both findings are on the record.",
+  "summary": "An unidentified flying object (UFO) is an object or phenomenon seen in the sky but not yet identified or explained. The term was coined when United States Air Force (USAF) investigations into flying saucers found too broad a range of shapes reported to consider them all saucers or discs. UFOs are also known as unidentified aerial phenomena or unidentified anomalous phenomena (UAPs).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Apparent unusual observation in the sky",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 39.8283,
+  "longitude": -98.5795,
+  "celestial_body": "earth",
+  "radius_km": 2000,
+  "camera_height_m": 4500000,
+  "camera_pitch_deg": -78,
+  "wikipedia_title": "Unidentified flying object",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q421",
+  "image_file": "Gimbal_The_First_Official_UAP_Footage_from_the_USG_for_Public_Release.webm"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/united-states.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "United States — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=united-states",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "United States in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Unidentified_flying_object",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Unidentified flying object"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q421",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q421"
+  },
+  {
+   "href": "https://www.archives.gov/research/military/air-force/ufos",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "National Archives — Project Blue Book files"
+  },
+  {
+   "href": "https://www.aaro.mil/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "AARO — reports to Congress"
+  }
+ ],
+ "bbox": [
+  -121.97402,
+  21.86208,
+  -75.18498,
+  57.79452
+ ]
+}

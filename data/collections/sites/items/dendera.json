@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "dendera",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   32.656111,
+   26.168056
+  ]
+ },
+ "properties": {
+  "name": "Dendera — Temple of Hathor",
+  "subtitle": "Qena Governorate, Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "temple",
+   "ptolemaic",
+   "zodiac",
+   "crypt"
+  ],
+  "aliases": [
+   "Dendera light",
+   "Hathor",
+   "Dendera zodiac"
+  ],
+  "claim": "Reliefs in the southern crypt — the 'Dendera light' — are read as Crookes tubes or arc lamps wired to a Djed-pillar insulator, explaining how artists worked in unventilated chambers without soot.",
+  "context": "The reliefs are a standard cosmogony: a lotus flower opening to release the serpent Harsomtus, enclosed in a protective bubble, supported by a Djed pillar — a scene paralleled in text on the same walls. Soot deposits do occur elsewhere in Egyptian tombs, and polished copper mirrors relaying daylight are attested. No conductors, sockets or power source have been recovered.",
+  "summary": "Dendera (Arabic: دَنْدَرة Dandarah; Ancient Greek: Τέντυρις or Τέντυρα; Bohairic Coptic: ⲛⲓⲧⲉⲛⲧⲱⲣⲓ, romanized: Nitentōri; Sahidic Coptic: ⲛⲓⲧⲛⲧⲱⲣⲉ, romanized: Nitntōre), also spelled Denderah, ancient Iunet 𓉺𓈖𓏏𓊖 “jwn.t”, Tentyris,(Arabic: Ewan-t إيوان-ة ), Tentyra, or Dandara, is a small town and former bishopric in Egypt situated on the west bank of the Nile, about 5 kilometres (3 mi) south of Qena, on the opposite side of the river. It is located approximately 60 kilometres (37 mi) north of Luxor and remains a Latin Catholic titular see.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in Qena, Egypt",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 26.168056,
+  "longitude": 32.656111,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 700,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Dendera",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dendera",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q29019",
+  "image_file": "Denderah_Outside.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/dendera.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Dendera — Temple of Hathor — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=dendera",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Dendera — Temple of Hathor in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Dendera",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Dendera"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q29019",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q29019"
+  }
+ ],
+ "bbox": [
+  32.656111,
+  26.168056,
+  32.656111,
+  26.168056
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "type": "Feature",
+ "id": "turkey-anatolia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.0,
+   39.0
+  ]
+ },
+ "properties": {
+  "name": "Anatolia",
+  "subtitle": "Türkiye (regional)",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "neolithic",
+   "crossroads"
+  ],
+  "aliases": [],
+  "claim": "Anatolia as a whole is treated as the hinge of the series' timeline — where Göbekli Tepe, Çatalhöyük, Derinkuyu and the Hittites supposedly record successive waves of contact.",
+  "context": "Anatolia is one of the best-studied archaeological regions on Earth, with a continuous sequence from Palaeolithic through Neolithic Çatalhöyük and Aşıklı Höyük to Hittite, Phrygian, Greek, Roman, Byzantine, Seljuk and Ottoman phases. The density of firsts here reflects early sedentism in a resource-rich corridor.",
+  "summary": "Anatolia (Greek: Ανατολή, Turkish: Anadolu), also known as Asia Minor, is a peninsula in West Asia that makes up the majority of the land area of Turkey. It is the westernmost protrusion of Asia and is geographically bounded by three seas: the Mediterranean Sea to the south, the Aegean Sea to the west, the Propontis or Sea of Marmara to the northwest with its two choke points, Hellespont toward the Mediterranean and Bosporus toward the Black Sea, and the latter itself to the north. The eastern and southeastern limits have been expanded either to the entirety of Asiatic Turkey or to an imprecise line from the Black Sea to the Gulf of Alexandretta.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Peninsula of Turkey in Western Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 39.0,
+  "longitude": 35.0,
+  "celestial_body": "earth",
+  "radius_km": 600,
+  "camera_height_m": 1400000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Anatolia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anatolia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q51614",
+  "image_file": "Map_of_the_geographic_region_of_Anatolia.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/turkey-anatolia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Anatolia — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=turkey-anatolia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Anatolia in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Anatolia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Anatolia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q51614",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q51614"
+  }
+ ],
+ "bbox": [
+  28.06454,
+  33.61013,
+  41.93546,
+  44.38987
+ ]
+}

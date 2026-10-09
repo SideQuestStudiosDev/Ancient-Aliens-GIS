@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "bethlehem",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.206389,
+   31.704444
+  ]
+ },
+ "properties": {
+  "name": "Bethlehem",
+  "subtitle": "West Bank",
+  "country": "Israel / Palestine",
+  "region": "Middle East",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "nativity",
+   "star-of-bethlehem",
+   "unesco"
+  ],
+  "aliases": [
+   "Star of Bethlehem",
+   "Nativity"
+  ],
+  "claim": "The Star of Bethlehem — moving ahead of the magi, then stopping over one building — is read as a craft under intelligent control, since no astronomical body behaves that way.",
+  "context": "Astronomical candidates include the 7 BC triple conjunction of Jupiter and Saturn in Pisces and a 5 BC Chinese-recorded nova. The 'stopping' is also readable as retrograde motion, or as Matthew's literary device: the account is shaped to fulfil Numbers 24:17 and appears in only one gospel.",
+  "summary": "Bethlehem is a city in the West Bank, Palestine, located about ten kilometres (six miles) south of Jerusalem, and the capital of the Bethlehem Governorate. It had a population of 28,591 people, as of 2017. The city's economy is strongly linked to tourism, especially during the Christmas period, when Christians embark on a pilgrimage to the Church of the Nativity, which is revered as the location of the birth of Jesus.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in the West Bank, Palestine",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.704444,
+  "longitude": 35.206389,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Bethlehem",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bethlehem",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5776",
+  "image_file": "Church_of_the_Nativity_(7703592746).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bethlehem.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bethlehem — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bethlehem",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bethlehem in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bethlehem",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bethlehem"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5776",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5776"
+  }
+ ],
+ "bbox": [
+  35.206389,
+  31.704444,
+  35.206389,
+  31.704444
+ ]
+}

@@ -1,0 +1,66 @@
+# Publish Ancient Aliens GIS to GitHub Pages.
+#
+# There is no build step by design: the app is hand-authored ES modules and
+# CSS, and CesiumJS loads from a pinned CDN. That means a deploy cannot fail
+# on a toolchain, and the committed data/ tree is exactly what gets served.
+#
+# One-time setup in the repository: Settings → Pages → Build and deployment →
+# Source: "GitHub Actions".
+
+name: Deploy to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Let a newer push cancel an in-flight deploy, but never interrupt a deploy
+# that is already writing to Pages.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  verify:
+    name: Validate catalogue and data tree
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate the authored catalogue
+        run: python3 scripts/build_data.py --check
+
+      - name: Validate the published data tree
+        run: python3 scripts/validate_data.py
+
+  deploy:
+    name: Deploy
+    needs: verify
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # The repository root *is* the site. Everything that should not ship
+          # is excluded in .gitignore, so there is nothing to strip here.
+          path: '.'
+
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4

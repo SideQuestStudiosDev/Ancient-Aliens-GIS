@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "bridgewater-triangle",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.05,
+   41.98
+  ]
+ },
+ "properties": {
+  "name": "Bridgewater Triangle & Hockomock Swamp",
+  "subtitle": "South-eastern Massachusetts, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "anomaly",
+  "category_label": "Anomaly Zone",
+  "tags": [
+   "hockomock",
+   "folklore",
+   "wampanoag",
+   "cryptid"
+  ],
+  "aliases": [
+   "Hockomock Swamp",
+   "Bridgewater",
+   "Massachusetts",
+   "Place of Fear",
+   "Pukwudgie"
+  ],
+  "claim": "A roughly 500 km² area of south-eastern Massachusetts said to concentrate UFO sightings, thunderbirds, Bigfoot reports, poltergeists and ritual sites — a terrestrial Bermuda Triangle named by cryptozoologist Loren Coleman in 1970.",
+  "context": "The 'triangle' is a modern framing drawn around a pre-existing folkloric landscape; Hockomock itself is a Wampanoag name often rendered 'place where spirits dwell'. The core is a large, genuinely difficult wetland that was a refuge during King Philip's War, which seeded centuries of local legend. No category of report here exceeds the regional baseline once population and reporting activity are accounted for.",
+  "summary": "The Bridgewater Triangle is an area of about 200 square miles (520 km2) within southeastern Massachusetts in the United States, claimed to be a site of alleged paranormal phenomena, ranging from UFOs to poltergeists, and other spectral phenomena, various bigfoot-like sightings, giant snakes and thunderbirds. The term was coined by New England-based cryptozoologist Loren Coleman.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Area in Massachusetts claimed to be the site of paranormal phenomena",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 41.98,
+  "longitude": -71.05,
+  "celestial_body": "earth",
+  "radius_km": 30,
+  "camera_height_m": 40000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Bridgewater Triangle",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bridgewater_Triangle",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q630172",
+  "image_file": "Bridgewater_Triangle.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bridgewater-triangle.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bridgewater Triangle & Hockomock Swamp — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bridgewater-triangle",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bridgewater Triangle & Hockomock Swamp in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bridgewater_Triangle",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bridgewater Triangle"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q630172",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q630172"
+  }
+ ],
+ "bbox": [
+  -71.41253,
+  41.71051,
+  -70.68747,
+  42.24949
+ ]
+}

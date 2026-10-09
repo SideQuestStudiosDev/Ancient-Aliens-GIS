@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "chaco-canyon",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -107.9559,
+   36.0603
+  ]
+ },
+ "properties": {
+  "name": "Chaco Canyon",
+  "subtitle": "San Juan County, New Mexico, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "ancestral-puebloan",
+   "archaeoastronomy",
+   "great-houses",
+   "lunar-standstill"
+  ],
+  "aliases": [
+   "Chaco Culture",
+   "Pueblo Bonito",
+   "New Mexico",
+   "Sun Dagger"
+  ],
+  "claim": "Great houses of up to 650 rooms, 400 km of engineered roads running dead straight over mesas, buildings aligned to the 18.6-year lunar standstill, and the Fajada Butte 'Sun Dagger' are presented as a surveyed complex built to an off-world plan in a desert that could not feed its builders.",
+  "context": "Chaco is one of the most thoroughly investigated archaeological landscapes in North America, with tree-ring dating to the individual year of construction for many rooms — the Chaco sequence runs c. AD 850–1150. Timber was carried from the Chuska and Zuni mountains, traced by strontium isotopes; cacao and macaws document trade with Mesoamerica. The alignments are real and are mainstream archaeoastronomy. Descendant Pueblo, Hopi and Navajo nations maintain continuous cultural connection to the site.",
+  "summary": "Chaco Culture National Historical Park is a United States National Historical Park in the American Southwest hosting a large concentration of pre-Columbian indigenous ruins of pueblos. The park is in northwestern New Mexico, between Albuquerque and Farmington, in a remote canyon cut by the Chaco Wash. Containing the most sweeping collection of ancient ruins north of Mexico, the park preserves one of the most important cultural and historical areas in the United States.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "U.S. national park in New Mexico",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.0603,
+  "longitude": -107.9559,
+  "celestial_body": "earth",
+  "radius_km": 14,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Chaco Culture National Historical Park",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q732463",
+  "image_file": "Chaco_Culture_NHP_(8023723138).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/chaco-canyon.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Chaco Canyon — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=chaco-canyon",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Chaco Canyon in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Chaco_Culture_National_Historical_Park",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Chaco Culture National Historical Park"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q732463",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q732463"
+  }
+ ],
+ "bbox": [
+  -108.11147,
+  35.93454,
+  -107.80033,
+  36.18606
+ ]
+}

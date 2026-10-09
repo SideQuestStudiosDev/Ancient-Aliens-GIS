@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "mount-sodom",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.396944,
+   31.071944
+  ]
+ },
+ "properties": {
+  "name": "Mount Sodom & the Dead Sea",
+  "subtitle": "Southern Dead Sea, Israel",
+  "country": "Israel",
+  "region": "Middle East",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "salt-diapir",
+   "sodom",
+   "dead-sea"
+  ],
+  "aliases": [
+   "Sodom and Gomorrah",
+   "Lot's Wife",
+   "Har Sedom"
+  ],
+  "claim": "Sodom and Gomorrah's destruction — fire from the sky, a survivor warned not to look back, a woman turned to salt — is read as a nuclear or directed strike, with Mount Sodom's salt pillars as the residue.",
+  "context": "Mount Sodom is a halite diapir: a salt body extruded upward by pressure, continuously eroded into pillars. No radiological anomaly has been found in the basin. Candidate destruction layers at Bab edh-Dhra and Numeira show Early Bronze conflagration, and a contested airburst hypothesis for Tall el-Hammam was published in 2021 and challenged on its methods in 2022 — a live scientific dispute about a natural event.",
+  "summary": "Mount Sodom (Hebrew: הר סדום, Har Sedom) is a hill along the southwestern part of the Dead Sea in Israel; it is part of the Judaean Desert Nature Reserve. It takes its name from the biblical city of Sodom, whose destruction is the subject of a narrative in the Bible.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Hill in Israel",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.071944,
+  "longitude": 35.396944,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 8000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mount Sodom",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Sodom",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2670801",
+  "image_file": "MountSodom061607.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mount-sodom.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Sodom & the Dead Sea — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mount-sodom",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Sodom & the Dead Sea in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mount_Sodom",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mount Sodom"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2670801",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2670801"
+  }
+ ],
+ "bbox": [
+  35.396944,
+  31.071944,
+  35.396944,
+  31.071944
+ ]
+}

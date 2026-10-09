@@ -1,0 +1,148 @@
+/* ==========================================================================
+   Ancient Aliens GIS — Design tokens
+   "Dark cyberpunk": deep navy + teal + graphite, with restrained neon accents.
+   All colour pairs below were chosen to clear WCAG AA (4.5:1) for body text
+   and AA-large (3:1) for 18px+/bold text against their intended surfaces.
+   ========================================================================== */
+
+:root {
+  color-scheme: dark;
+
+  /* ---- Surfaces (darkest -> lightest) ---------------------------------- */
+  --srf-void:      #04070d;  /* page backdrop behind the globe             */
+  --srf-abyss:     #070b14;  /* panel base                                 */
+  --srf-deep:      #0b111d;  /* raised panel                               */
+  --srf-shelf:     #101826;  /* cards, list rows                           */
+  --srf-ridge:     #16202f;  /* hovered rows, inputs                       */
+  --srf-crest:     #1d2a3c;  /* pressed / active                           */
+
+  /* ---- Lines ----------------------------------------------------------- */
+  --line-faint:    rgba(125, 211, 232, 0.08);
+  --line-soft:     rgba(125, 211, 232, 0.16);
+  --line-firm:     rgba(125, 211, 232, 0.30);
+  --line-hot:      rgba(0, 229, 255, 0.55);
+
+  /* ---- Text ------------------------------------------------------------ */
+  --ink-bright:    #e8f4f8;  /* 15.1:1 on --srf-abyss                      */
+  --ink-primary:   #cfe3ec;  /* 11.6:1                                     */
+  --ink-muted:     #91a9b8;  /*  6.2:1                                     */
+  --ink-dim:       #6b8291;  /*  3.9:1 — labels/meta at >=13px bold only   */
+  --ink-inverse:   #04070d;
+
+  /* ---- Accents --------------------------------------------------------- */
+  --neon-cyan:     #22e0f2;
+  --neon-cyan-ink: #6ff0ff;  /*  9.4:1 on --srf-abyss — safe for text      */
+  --neon-teal:     #0fb6a8;
+  --neon-teal-ink: #4fe0d4;
+  --neon-magenta:  #ff4fd8;
+  --neon-magenta-ink: #ff8ae6;
+  --neon-amber:    #ffb347;
+  --neon-violet:   #9d7bff;
+  --neon-lime:     #8ef26b;
+
+  /* ---- Category hues (map pins + list chips) --------------------------- */
+  --cat-megalithic:    #7dd3e8;
+  --cat-pyramid:       #ffb347;
+  --cat-geoglyph:      #8ef26b;
+  --cat-underground:   #b98cff;
+  --cat-underwater:    #39c6ff;
+  --cat-ufo:           #ff4fd8;
+  --cat-military:      #ff6b5b;
+  --cat-research:      #4fe0d4;
+  --cat-sacred:        #ffd84f;
+  --cat-anomaly:       #ff8ae6;
+  --cat-landform:      #a4b8c4;
+  --cat-city:          #ff9b5b;
+  --cat-artifact:      #d9c48a;
+  --cat-region:        #5f7b8c;
+  --cat-offworld:      #c7a6ff;
+
+  /* ---- Status ---------------------------------------------------------- */
+  --ok:            #4fe08a;
+  --warn:          #ffb347;
+  --err:           #ff6b5b;
+
+  /* ---- Type ------------------------------------------------------------ */
+  --font-ui: "Rajdhani", "Chakra Petch", ui-sans-serif, system-ui,
+             -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo,
+               Consolas, monospace;
+  --font-body: "Inter", ui-sans-serif, system-ui, -apple-system,
+               "Segoe UI", Roboto, sans-serif;
+
+  --fs-micro: 0.6875rem; /* 11px */
+  --fs-xs:    0.75rem;   /* 12px */
+  --fs-sm:    0.8125rem; /* 13px */
+  --fs-base:  0.9375rem; /* 15px */
+  --fs-md:    1.0625rem; /* 17px */
+  --fs-lg:    1.3125rem; /* 21px */
+  --fs-xl:    1.75rem;   /* 28px */
+
+  --lh-tight: 1.15;
+  --lh-snug:  1.35;
+  --lh-body:  1.6;
+
+  --track-wide: 0.08em;
+  --track-mega: 0.18em;
+
+  /* ---- Space (4px base) ------------------------------------------------ */
+  --s-1: 0.25rem; --s-2: 0.5rem;  --s-3: 0.75rem; --s-4: 1rem;
+  --s-5: 1.25rem; --s-6: 1.5rem;  --s-8: 2rem;    --s-10: 2.5rem;
+
+  /* ---- Radius ---------------------------------------------------------- */
+  --r-sm: 3px; --r-md: 6px; --r-lg: 10px; --r-pill: 999px;
+
+  /* ---- Elevation / glow ------------------------------------------------ */
+  --shadow-panel: 0 24px 64px -12px rgba(0, 0, 0, 0.85);
+  --shadow-card:  0 2px 10px -2px rgba(0, 0, 0, 0.6);
+  --glow-cyan:    0 0 0 1px rgba(34, 224, 242, 0.45),
+                  0 0 18px -4px rgba(34, 224, 242, 0.55);
+  --glow-magenta: 0 0 0 1px rgba(255, 79, 216, 0.45),
+                  0 0 18px -4px rgba(255, 79, 216, 0.5);
+
+  /* ---- Motion ---------------------------------------------------------- */
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+  --dur-fast: 120ms;
+  --dur-base: 220ms;
+  --dur-slow: 420ms;
+
+  /* ---- Layout ---------------------------------------------------------- */
+  --panel-w: 400px;
+  --rail-w: 56px;
+  --topbar-h: 52px;
+  --safe-t: env(safe-area-inset-top, 0px);
+  --safe-b: env(safe-area-inset-bottom, 0px);
+  --safe-l: env(safe-area-inset-left, 0px);
+  --safe-r: env(safe-area-inset-right, 0px);
+  --z-globe: 0; --z-hud: 20; --z-panel: 30; --z-rail: 40;
+  /* The top bar outranks the panel so the search dropdown, which hangs
+     down into the panel's space, is never clipped behind it. */
+  --z-topbar: 45; --z-sheet: 50; --z-modal: 60; --z-toast: 70;
+}
+
+/* --------------------------------------------------------------------------
+   Parameter properties
+   --------------------------------------------------------------------------
+   These are deliberately NOT defined here. They are set per element from
+   JavaScript and read by a component rule with a fallback, so a missing
+   value degrades rather than breaks:
+
+     --tog-color   the category colour of one filter chip (.toggle)
+     --sheet-h     the live height of the mobile sheet while it is dragged
+     --hud-floor   where the bottom-right HUD sits, set by the sheet's snap
+     --accent      the hue of one dossier callout
+   -------------------------------------------------------------------------- */
+
+/* High-contrast / reduced-transparency users get opaque panels. */
+@media (prefers-contrast: more) {
+  :root {
+    --ink-dim: #9fb6c4;
+    --line-soft: rgba(125, 211, 232, 0.34);
+    --line-faint: rgba(125, 211, 232, 0.2);
+  }
+}
+
+/* A light theme is deliberately NOT offered: the product is a dark-mode
+   globe and a light variant would wash out the imagery. We instead honour
+   prefers-reduced-transparency and prefers-reduced-motion below. */

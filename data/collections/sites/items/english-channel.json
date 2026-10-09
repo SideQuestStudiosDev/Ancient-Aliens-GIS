@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "english-channel",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -0.5,
+   50.2
+  ]
+ },
+ "properties": {
+  "name": "English Channel",
+  "subtitle": "Between England & France",
+  "country": "",
+  "region": "Oceans & Marine",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "doggerland",
+   "foo-fighters",
+   "wwii",
+   "marine"
+  ],
+  "aliases": [
+   "La Manche",
+   "Doggerland",
+   "Channel"
+  ],
+  "claim": "Wartime 'foo fighter' reports by Allied aircrew over the Channel and north-west Europe, and the submerged prehistoric landscape beneath it, are presented as evidence of ongoing observation of human conflict and of a drowned culture.",
+  "context": "Foo-fighter reports are genuine and numerous in squadron records, and most are attributed to St Elmo's fire, ball lightning, tracer and flak afterimages, or German experimental ordnance. The submerged landscape is real and important: Doggerland in the southern North Sea has yielded Mesolithic tools, bone harpoons and faunal remains trawled from the seabed, drowned by post-glacial sea-level rise and the Storegga tsunami around 8,200 years ago — mainstream prehistory on a grand scale.",
+  "summary": "The English Channel, also known as the Channel, is an arm of the Atlantic Ocean that separates Southern England from northern France. It links to the southern part of the North Sea by the Strait of Dover at its northeastern end. It is the busiest shipping area in the world.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Body of water between Great Britain and France",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 50.2,
+  "longitude": -0.5,
+  "celestial_body": "earth",
+  "radius_km": 200,
+  "camera_height_m": 600000,
+  "camera_pitch_deg": -68,
+  "wikipedia_title": "English Channel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/English_Channel",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q34640",
+  "image_file": "English_Channel_Satellite.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/english-channel.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "English Channel — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=english-channel",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "English Channel in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/English_Channel",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: English Channel"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q34640",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q34640"
+  }
+ ],
+ "bbox": [
+  -3.30674,
+  48.40338,
+  2.30674,
+  51.99662
+ ]
+}

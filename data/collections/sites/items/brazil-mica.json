@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "brazil-mica",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -44.0,
+   -18.5
+  ]
+ },
+ "properties": {
+  "name": "Minas Gerais — Mica Districts",
+  "subtitle": "Brazil",
+  "country": "Brazil",
+  "region": "South America",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "mica",
+   "pegmatite",
+   "trade",
+   "teotihuacan-link"
+  ],
+  "aliases": [
+   "Brazil",
+   "mica",
+   "Minas Gerais",
+   "pegmatite"
+  ],
+  "claim": "Mica sheets found at Teotihuacan are said to have been sourced 3,000 miles away in Brazil, implying intercontinental transport beyond any known ancient capability.",
+  "context": "The Brazil attribution traces to a 1950s-era trace-element claim that has not been replicated, and Mexico has its own substantial mica-bearing pegmatites in Oaxaca, Hidalgo and Jalisco. Mesoamerican long-distance exchange is real but regional, and well mapped by obsidian and jade sourcing. Minas Gerais is genuinely one of the world's great pegmatite provinces — which is why it was the modern industrial source and so the one that came to mind.",
+  "summary": "Minas Gerais (English: , MIN-əs zhə-RYS; Brazilian Portuguese: [ˈminɐz ʒeˈɾajs] ; lit. 'General Mines') is one of the 27 federative units of Brazil, being the fourth largest state by area and the second largest in number of inhabitants with a population of 20,539,989 according to the 2022 census. Located in the Southeast Region of the country, it is bordered by São Paulo in the south and southwest; Mato Grosso do Sul to the west; Goiás and the Federal District to the northwest; Bahia to the north and northeast; Espírito Santo to the east; and Rio de Janeiro to the southeast.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "State in Brazil",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -18.5,
+  "longitude": -44.0,
+  "celestial_body": "earth",
+  "radius_km": 400,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -68,
+  "wikipedia_title": "Minas Gerais",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Minas_Gerais",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q39109",
+  "image_file": "Bandeira_de_Minas_Gerais.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/brazil-mica.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Minas Gerais — Mica Districts — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=brazil-mica",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Minas Gerais — Mica Districts in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Minas_Gerais",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Minas Gerais"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q39109",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q39109"
+  }
+ ],
+ "bbox": [
+  -47.78905,
+  -22.09324,
+  -40.21095,
+  -14.90676
+ ]
+}

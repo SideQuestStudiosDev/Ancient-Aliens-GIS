@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "cuba-underwater",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -84.95,
+   21.9
+  ]
+ },
+ "properties": {
+  "name": "Western Cuba — Offshore Structures",
+  "subtitle": "Guanahacabibes shelf, Pinar del Río, Cuba",
+  "country": "Cuba",
+  "region": "Central America & Caribbean",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "sonar",
+   "submerged",
+   "atlantis-claim",
+   "deep-water"
+  ],
+  "aliases": [
+   "Cuba",
+   "Cabo San Antonio",
+   "Guanahacabibes",
+   "underwater city"
+  ],
+  "claim": "Side-scan sonar images collected by Advanced Digital Communications in 2001 off western Cuba, showing what were described as pyramids and streets at 600–750 m, were widely reported as a drowned city — and are presented as Atlantis.",
+  "context": "No follow-up survey, submersible dive or sample has ever confirmed the structures, and the original imagery has not been published in a peer-reviewed venue. The depth is the central problem: no credible sea-level model places that shelf above water within the span of human occupation of the Americas, so the features would need to be tens of millions of years old. Geologists who have commented identify probable natural blocks from slope failure.",
+  "summary": "Cuba, officially the Republic of Cuba, is an island country in the Caribbean. It comprises the eponymous main island as well as 4,195 islands, islets, and cays. Situated at the convergence of the Caribbean Sea, Gulf of Mexico, and Atlantic Ocean, Cuba is located east of the Yucatán Peninsula, south of both Florida and the Bahamas, west of Hispaniola, and north of Jamaica and the Cayman Islands.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Country in the Caribbean",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 21.9,
+  "longitude": -84.95,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cuba",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cuba",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q241",
+  "image_file": "Flag_of_Cuba.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cuba-underwater.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Western Cuba — Offshore Structures — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cuba-underwater",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Western Cuba — Offshore Structures in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cuba",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cuba"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q241",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q241"
+  }
+ ],
+ "bbox": [
+  -84.95,
+  21.9,
+  -84.95,
+  21.9
+ ]
+}

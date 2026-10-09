@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "three-pagodas",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   100.147236,
+   25.708725
+  ]
+ },
+ "properties": {
+  "name": "Three Pagodas of Chongsheng Temple",
+  "subtitle": "Dali, Yunnan Province, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "tang",
+   "dali-kingdom",
+   "earthquake-resistant"
+  ],
+  "aliases": [
+   "Dali",
+   "Chongsheng Temple",
+   "Yunnan"
+  ],
+  "claim": "Three pagodas that survived repeated major earthquakes — one account says they split apart and realigned themselves — are presented as built with knowledge of seismic engineering acquired from outside.",
+  "context": "The central pagoda dates to the 9th-century Tang period and the flanking pair to the Dali Kingdom. Their survival is explicable: tapered masonry, a low centre of mass and a wide base are recognised seismic virtues, and the structures have been repaired repeatedly, most substantially in 1978–81. The 'self-realigning' story derives from a local chronicle account of a 1515 earthquake.",
+  "summary": "The Three Pagodas of the Chongsheng Temple (Chinese: 崇圣寺三塔; pinyin: Chóngshèng Sì Sāntǎ) are an ensemble of three independent pagodas arranged on the corners of an equilateral triangle, near the old town of Dali, Yunnan province, China, dating from the time of the Kingdom of Nanzhao and Kingdom of Dali in the 9th and 10th centuries.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ensemble of three pagodas in Yunnan, China",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.708725,
+  "longitude": 100.147236,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Three Pagodas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Three_Pagodas",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1257126",
+  "image_file": "Three_Pagodas_of_the_Chongsheng_Temple.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/three-pagodas.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Three Pagodas of Chongsheng Temple — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=three-pagodas",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Three Pagodas of Chongsheng Temple in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Three_Pagodas",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Three Pagodas"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1257126",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1257126"
+  }
+ ],
+ "bbox": [
+  100.147236,
+  25.708725,
+  100.147236,
+  25.708725
+ ]
+}

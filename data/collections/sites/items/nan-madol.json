@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "nan-madol",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   158.332222,
+   6.841944
+  ]
+ },
+ "properties": {
+  "name": "Nan Madol",
+  "subtitle": "Temwen Island, Pohnpei, Federated States of Micronesia",
+  "country": "Federated States of Micronesia",
+  "region": "Southeast Asia & Oceania",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "basalt",
+   "artificial-islets",
+   "saudeleur"
+  ],
+  "aliases": [
+   "Pohnpei",
+   "Temwen Island",
+   "Madol",
+   "Saudeleur",
+   "Venice of the Pacific"
+  ],
+  "claim": "Ninety-nine artificial islets built from an estimated 750,000 tonnes of columnar basalt — some pieces over 50 tonnes — on a remote Pacific reef, with local tradition saying the stones were flown into place by sorcery, is presented as the clearest case of levitation technology.",
+  "context": "The columnar basalt comes from identified quarries on Pohnpei; bamboo rafts and log rollers at high tide are the method indicated by ethnographic accounts and by the reef-flat setting. Construction ran from roughly AD 1180 to 1600 under the Saudeleur dynasty, with radiocarbon dates from islet fill. The oral traditions describing sorcery are recorded Pohnpeian history, and they also name the dynasty, its rulers and its fall.",
+  "summary": "Nan Madol is an archaeological site adjacent to the eastern shore of the island of Pohnpei, now part of the Madolenihmw district of Pohnpei state in the Federated States of Micronesia in the western Pacific Ocean. Nan Madol was the capital of the Saudeleur dynasty until about 1628. The city, constructed in a lagoon, consists of a series of small artificial islands linked by a network of canals.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ruined ancient city in the Federated States of Micronesia",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 6.841944,
+  "longitude": 158.332222,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Nan Madol",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nan_Madol",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q846967",
+  "image_file": "Nan_madol.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nan-madol.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nan Madol — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nan-madol",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nan Madol in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Nan_Madol",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Nan Madol"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q846967",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q846967"
+  }
+ ],
+ "bbox": [
+  158.332222,
+  6.841944,
+  158.332222,
+  6.841944
+ ]
+}

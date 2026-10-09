@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "tierra-del-fuego",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -68.5,
+   -54.0
+  ]
+ },
+ "properties": {
+  "name": "Tierra del Fuego — Selk'nam Territory",
+  "subtitle": "Chile & Argentina",
+  "country": "Chile / Argentina",
+  "region": "South America",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "selknam",
+   "hain",
+   "body-paint",
+   "ethnography"
+  ],
+  "aliases": [
+   "Selk'nam",
+   "Ona",
+   "Hain",
+   "Patagonia",
+   "Fuegians"
+  ],
+  "claim": "Martin Gusinde's 1920s photographs of the Selk'nam Hain initiation — figures in conical masks and striped full-body paint — are among the series' most striking images, presented as depictions of visitors.",
+  "context": "The photographs are real and are an irreplaceable ethnographic record, taken with the participation of Selk'nam elders who explained the ceremony to Gusinde. The figures are named spirits of the Hain, each with a role in a documented initiation drama; the designs are recorded in the ethnography by name and meaning. The Selk'nam were subjected to genocide during the Patagonian sheep expansion, and the photographs date from the final years of the practice. Selk'nam descendants have recently won formal recognition in Chile.",
+  "summary": "The Selkʼnam, also known as the Onawo or Ona people, are an Indigenous people in the Patagonian region of southern Argentina and Chile, including the Tierra del Fuego islands. They were one of the last native groups in South America to be encountered by migrant Europeans in the late 19th century.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ethnic group in Patagonia and Tierra del Fuego",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -54.0,
+  "longitude": -68.5,
+  "celestial_body": "earth",
+  "radius_km": 200,
+  "camera_height_m": 400000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Selkʼnam people",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Selk%CA%BCnam_people",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1349118",
+  "image_file": "Niños_Selknam.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tierra-del-fuego.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tierra del Fuego — Selk'nam Territory — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tierra-del-fuego",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tierra del Fuego — Selk'nam Territory in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Selk%CA%BCnam_people",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Selkʼnam people"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1349118",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1349118"
+  }
+ ],
+ "bbox": [
+  -71.5566,
+  -55.79662,
+  -65.4434,
+  -52.20338
+ ]
+}

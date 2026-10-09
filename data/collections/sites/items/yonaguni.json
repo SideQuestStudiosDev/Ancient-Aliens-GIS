@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "yonaguni",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   123.011389,
+   24.435833
+  ]
+ },
+ "properties": {
+  "name": "Yonaguni Monument",
+  "subtitle": "Yonaguni Island, Okinawa, Japan",
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "submerged",
+   "sandstone",
+   "ryukyu",
+   "diving"
+  ],
+  "aliases": [
+   "Yonaguni-jima",
+   "Okinawa",
+   "Iseki Point",
+   "Ryukyu"
+  ],
+  "claim": "A submerged formation off Yonaguni with flat terraces, right angles, straight channels and what are described as steps and a road is presented as a city drowned by post-glacial sea-level rise — making it older than any accepted civilisation.",
+  "context": "Masaaki Kimura argues for human modification; Robert Schoch and most marine geologists who have dived it identify natural features. The rock is Miocene Yaeyama sandstone with closely spaced horizontal bedding and two near-perpendicular joint sets, which fracture into exactly these steps and channels — and the same forms continue in the adjacent cliffs above water. No artefacts, tool marks or cultural deposits have been recovered. The debate is live but asymmetric.",
+  "summary": "The Yonaguni Monument (Japanese: 与那国島海底地形, Hepburn: Yonaguni-jima Kaitei Chikei; lit. 'Yonaguni Island Seafloor Topography'), also known as the Yonaguni (Island) Submarine Ruins (与那国（島）海底遺跡, Yonaguni(-jima) Kaitei Iseki), is a submerged rock formation off the coast of Yonaguni, the southernmost of the Ryukyu Islands, in Japan. It lies approximately 100 kilometres (54 nmi; 62 mi) east of Taiwan.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Submerged rock formation off the coast of Japan",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 24.435833,
+  "longitude": 123.011389,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Yonaguni Monument",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Yonaguni_Monument",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q995511",
+  "image_file": "Yonaguni_Monument_Terraces_midpart_NWW.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/yonaguni.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Yonaguni Monument — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=yonaguni",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Yonaguni Monument in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Yonaguni_Monument",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Yonaguni Monument"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q995511",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q995511"
+  }
+ ],
+ "bbox": [
+  123.011389,
+  24.435833,
+  123.011389,
+  24.435833
+ ]
+}

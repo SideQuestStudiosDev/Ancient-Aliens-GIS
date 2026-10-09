@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "cappadocia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   34.8286,
+   38.6431
+  ]
+ },
+ "properties": {
+  "name": "Cappadocia",
+  "subtitle": "Central Anatolia, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "unesco",
+   "fairy-chimneys",
+   "rock-cut",
+   "volcanic"
+  ],
+  "aliases": [
+   "Göreme",
+   "fairy chimneys",
+   "Kaymaklı"
+  ],
+  "claim": "The whole landscape — hundreds of underground cities, rock-cut churches and 'fairy chimney' towers — is framed as the surface of an engineered refuge system rather than a geological formation.",
+  "context": "The fairy chimneys are differential erosion: soft ignimbrite from Erciyes, Hasandağ and Göllüdağ capped by harder basalt. The rock-cut settlement is real, extensive and dated, running from the Hittite period through a Byzantine monastic florescence that left frescoes with donor inscriptions.",
+  "summary": "Cappadocia (Turkish: Kapadokya) is a historical region in Central Anatolia region, Turkey. It is largely in the provinces of Nevşehir, Kayseri, Aksaray, Kırşehir, Sivas and Niğde. Today, the touristic Cappadocia Region is located in Nevşehir province.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Historical region in Central Anatolia, Turkey",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.6431,
+  "longitude": 34.8286,
+  "celestial_body": "earth",
+  "radius_km": 50,
+  "camera_height_m": 40000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cappadocia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cappadocia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q217265",
+  "image_file": "Cappadocia_balloon_trip,_Ortahisar_Castle_(11893715185).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cappadocia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Cappadocia — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cappadocia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Cappadocia in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cappadocia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cappadocia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q217265",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q217265"
+  }
+ ],
+ "bbox": [
+  34.25353,
+  38.19394,
+  35.40367,
+  39.09226
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "type": "Feature",
+ "id": "hayu-marca",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -69.65,
+   -15.95
+  ]
+ },
+ "properties": {
+  "name": "Puerta de Hayu Marca",
+  "subtitle": "Near Puno, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "gate-of-the-gods",
+   "rock-face",
+   "aramu-muru"
+  ],
+  "aliases": [
+   "Gate of the Gods",
+   "Aramu Muru",
+   "Hayumarca",
+   "Puno"
+  ],
+  "claim": "A 7 m T-shaped recess cut into a rock face near Lake Titicaca, with a smaller niche at its base, is presented as a sealed doorway — a portal through which a priest named Aramu Muru is said to have departed with a golden disc.",
+  "context": "The feature is a partly worked natural rock face in a region of heavily jointed sandstone; the recess is shallow, with no chamber, threshold or fittings behind it, and comparable false-door niches are a recognised Andean form found at Tiwanaku and in Inca huacas. The Aramu Muru story appears in New Age literature from the 1990s and not in colonial or earlier Andean sources.",
+  "summary": "",
+  "summary_source": "",
+  "short_description": "",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -15.95,
+  "longitude": -69.65,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "",
+  "wikipedia_url": "",
+  "wikipedia_verified": false,
+  "wikidata_id": "",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/hayu-marca.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Puerta de Hayu Marca — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=hayu-marca",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Puerta de Hayu Marca in the 3D geoportal"
+  }
+ ],
+ "bbox": [
+  -69.65,
+  -15.95,
+  -69.65,
+  -15.95
+ ]
+}

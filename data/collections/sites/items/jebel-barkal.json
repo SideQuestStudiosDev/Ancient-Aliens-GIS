@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "jebel-barkal",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   31.828333,
+   18.536667
+  ]
+ },
+ "properties": {
+  "name": "Jebel Barkal",
+  "subtitle": "Northern State, Sudan",
+  "country": "Sudan",
+  "region": "Africa",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "kush",
+   "napata",
+   "nubian-pyramids"
+  ],
+  "aliases": [
+   "Napata",
+   "Nubia",
+   "Kush"
+  ],
+  "claim": "The sandstone pinnacle — read by the Egyptians as a rearing cobra and the dwelling of Amun — plus the dense field of steep Nubian pyramids, is presented as a second, older centre of the same off-world architectural programme.",
+  "context": "Jebel Barkal is the religious capital of Napata and later of the Kingdom of Kush, a UNESCO World Heritage site with a continuous excavated sequence from the New Kingdom Egyptian occupation through the Napatan and Meroitic periods. Nubian pyramid geometry is a local development, steeper and smaller than Egyptian models and built centuries later.",
+  "summary": "Jebel Barkal or Gebel Barkal (Arabic: جبل بركل, romanized: Jabal Barkal) is a mesa located 400 km north of Khartoum, next to Karima in Northern State in Sudan, and near the Nile River in Nubia. The Jebel is 104 meters tall, has a flat top, and came to have religious significance for both ancient Kush and ancient Egyptian occupiers. In 2003, the mountain, together with the extensive archaeological site at its base, were named as a World Heritage Site by UNESCO.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological Site in Sudan",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 18.536667,
+  "longitude": 31.828333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Jebel Barkal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Jebel_Barkal",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q499019",
+  "image_file": "Gebel_Barkal.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/jebel-barkal.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Jebel Barkal — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=jebel-barkal",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Jebel Barkal in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Jebel_Barkal",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Jebel Barkal"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q499019",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q499019"
+  }
+ ],
+ "bbox": [
+  31.828333,
+  18.536667,
+  31.828333,
+  18.536667
+ ]
+}

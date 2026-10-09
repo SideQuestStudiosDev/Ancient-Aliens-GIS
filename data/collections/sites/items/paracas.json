@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "paracas",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -76.25,
+   -13.84
+  ]
+ },
+ "properties": {
+  "name": "Paracas",
+  "subtitle": "Ica Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "paracas-skulls",
+   "candelabra",
+   "textiles",
+   "cranial-modification"
+  ],
+  "aliases": [
+   "Paracas skulls",
+   "Paracas Candelabra",
+   "Ica",
+   "elongated skulls"
+  ],
+  "claim": "The elongated Paracas skulls — with reported cranial volumes up to 25% greater than normal, fewer sutures and claimed anomalous DNA results — are the series' leading physical-evidence claim, alongside the 180 m Candelabra geoglyph on the bay's cliff.",
+  "context": "Artificial cranial modification by binding infants' heads is documented worldwide — in Peru, Mesoamerica, the Caucasus, France and Melanesia — and reshapes without increasing volume. Published measurements on the Paracas series fall within human range. The 'anomalous DNA' claims come from unpublished commercial sequencing with no peer review, no chain of custody and contamination patterns typical of degraded ancient samples; the 2014 announcement's lab has never released data. Paracas textiles are, separately, among the finest in the ancient world.",
+  "summary": "The Paracas culture was an Andean society existing between approximately 800 BCE and 100 BCE, located in what today is the Ica Region of Peru. The Paracas people had extensive knowledge of irrigation and water management and made significant contributions in the textile arts. Most of the information about the lives of the Paracas people comes from excavations at the large seaside Paracas site on the Paracas Peninsula, first formally investigated in the 1920s by Peruvian archaeologist Julio Tello.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological culture of Peru",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -13.84,
+  "longitude": -76.25,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Paracas culture",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Paracas_culture",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1127723",
+  "image_file": "ParacasMap.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/paracas.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Paracas — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=paracas",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Paracas in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Paracas_culture",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Paracas culture"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1127723",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1127723"
+  }
+ ],
+ "bbox": [
+  -76.25,
+  -13.84,
+  -76.25,
+  -13.84
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "type": "Feature",
+ "id": "israel-west-bank",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.1,
+   31.6
+  ]
+ },
+ "properties": {
+  "name": "Israel & the West Bank",
+  "subtitle": "Southern Levant (regional)",
+  "country": "Israel / Palestine",
+  "region": "Middle East",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "levant",
+   "biblical-archaeology"
+  ],
+  "aliases": [],
+  "claim": "Used as a regional frame for the series' biblical material: Ezekiel's wheel, Elijah's chariot, the Nephilim, and Joshua's sun standing still are presented as a dense local cluster of contact reports.",
+  "context": "The southern Levant is among the most intensively excavated regions on Earth. The visions concerned belong to identifiable literary genres — merkabah vision, prophetic call narrative, holy-war poetry — whose conventions are reconstructable from comparative Near Eastern texts.",
+  "summary": "The Southern Levant is a geographical region in West Asia along the eastern coast of the Mediterranean Sea, a territory corresponding approximately to present-day Israel, Palestine, and Jordan; some definitions also include southern Lebanon, southern Syria, and the Sinai Peninsula. As a strictly geographical description, it is sometimes used by archaeologists and historians to avoid the religious and political connotations of other names for this area.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Geographical region",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.6,
+  "longitude": 35.1,
+  "celestial_body": "earth",
+  "radius_km": 120,
+  "camera_height_m": 400000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Southern Levant",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Southern_Levant",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q7570085",
+  "image_file": "MiddleEast_A2003031_0820_250m_without_lines.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/israel-west-bank.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Israel & the West Bank — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=israel-west-bank",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Israel & the West Bank in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Southern_Levant",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Southern Levant"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q7570085",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q7570085"
+  }
+ ],
+ "bbox": [
+  33.83437,
+  30.52203,
+  36.36563,
+  32.67797
+ ]
+}

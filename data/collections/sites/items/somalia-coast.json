@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "somalia-coast",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   48.5,
+   9.8
+  ]
+ },
+ "properties": {
+  "name": "Somali Coast",
+  "subtitle": "Horn of Africa littoral",
+  "country": "Somalia",
+  "region": "Africa",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "punt",
+   "maritime",
+   "rock-art",
+   "laas-geel"
+  ],
+  "aliases": [
+   "Land of Punt",
+   "Laas Geel"
+  ],
+  "claim": "Referenced as a candidate for the Egyptian Land of Punt and for the Laas Geel rock art, whose haloed cattle and robed figures are read as depictions of visitors.",
+  "context": "Punt's location is genuinely unresolved and debated between the Somali coast, Eritrea and Sudan — an open question in Egyptology settled by neither side. Laas Geel's polychrome panels (c. 3000–2500 BC) show cattle in ceremonial collars beside herders, consistent with a pastoral cult and with comparable Saharan and Nubian imagery.",
+  "summary": "Laas Geel (Somali: Laas Geel), also spelled Laas Gaal, are cave formations on the rural outskirts of Hargeisa, Somaliland, situated in the Maroodi Jeex region of the country. They contain some of the earliest known cave paintings of domesticated African aurochs (Bos primigenius africanus) in the Horn of Africa. Laas Geel's rock art is estimated to be approximately 5,500 to 4,500 years old.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Cave painting in Hargeisa, Somaliland",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 9.8,
+  "longitude": 48.5,
+  "celestial_body": "earth",
+  "radius_km": 500,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Laas Geel",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Laas_Geel",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1799347",
+  "image_file": "Laas_Geel.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/somalia-coast.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Somali Coast — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=somalia-coast",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Somali Coast in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Laas_Geel",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Laas Geel"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1799347",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1799347"
+  }
+ ],
+ "bbox": [
+  43.94193,
+  5.30844,
+  53.05807,
+  14.29156
+ ]
+}

@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "cape-muroto",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   134.177494,
+   33.253301
+  ]
+ },
+ "properties": {
+  "name": "Cape Muroto & Mikurodo Cave",
+  "subtitle": "Kōchi Prefecture, Shikoku, Japan",
+  "country": "Japan",
+  "region": "East Asia",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "kukai",
+   "shingon",
+   "unesco-geopark",
+   "shikoku"
+  ],
+  "aliases": [
+   "Mikurodo",
+   "Kukai",
+   "Kobo Daishi",
+   "Shikoku",
+   "Muroto"
+  ],
+  "claim": "The cave where the monk Kūkai is said to have attained enlightenment — a morning star entering his mouth, after which he could recite texts he had never read — is presented as a transfer of knowledge from a descending object.",
+  "context": "Kūkai's own 'Sangō shiiki' records the experience in the standard vocabulary of Shingon ascetic practice, in which the morning star represents the bodhisattva Ākāśagarbha; the Gumonji-hō rite he performed explicitly aims at perfect retention. Cape Muroto is a UNESCO Global Geopark for its rapidly uplifting marine terraces.",
+  "summary": "Cape Muroto (室戸岬, Muroto-misaki) is a headland at the southeastern tip of the Japanese island of Shikoku, in the city of Muroto, Kōchi Prefecture. Extending into the Pacific Ocean and situated in Muroto UNESCO Global Geopark within Muroto-Anan Kaigan Quasi-National Park, the cape has been designated a Place of Scenic Beauty and the local vegetation a Natural Monument, while the Sound of the Waves at Cape Muroto and Mikurodo Cave is among the 100 Soundscapes of Japan.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Headland in Japan",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.253301,
+  "longitude": 134.177494,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Cape Muroto",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Cape_Muroto",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q11453014",
+  "image_file": "Muroto_Cape.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/cape-muroto.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Cape Muroto & Mikurodo Cave — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=cape-muroto",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Cape Muroto & Mikurodo Cave in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Cape_Muroto",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Cape Muroto"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q11453014",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q11453014"
+  }
+ ],
+ "bbox": [
+  134.177494,
+  33.253301,
+  134.177494,
+  33.253301
+ ]
+}

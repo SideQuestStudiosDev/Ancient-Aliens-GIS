@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "indus-valley",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   68.5,
+   27.5
+  ]
+ },
+ "properties": {
+  "name": "Indus Valley",
+  "subtitle": "Indus basin, Pakistan & north-west India",
+  "country": "Pakistan / India",
+  "region": "South Asia",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "bronze-age",
+   "undeciphered-script"
+  ],
+  "aliases": [
+   "Harappan civilisation",
+   "Sarasvati"
+  ],
+  "claim": "The civilisation's sudden appearance, uniform urban template and unread script, followed by an unexplained collapse, are presented as the full life cycle of an off-world colonial project.",
+  "context": "More than 1,500 sites are known, giving a continuous sequence from Mehrgarh (c. 7000 BC) through Early, Mature and Late Harappan phases into the Painted Grey Ware cultures. Palaeoclimate records from Indian Ocean cores and Himalayan speleothems document monsoon weakening after c. 2200 BC, matching the settlement shift eastward toward the Ganges.",
+  "summary": "The Indus Valley Civilisation (IVC), also known as the Indus Civilisation, was a Bronze Age civilisation in the northwestern regions of South Asia, lasting from 3300 BCE to 1300 BCE, and in its mature form from 2600 BCE to 1900 BCE. Together with ancient Egypt, Mesopotamia, and China, it was one of the four centres of the ancient world; it was geographically larger than ancient Egypt and Mesopotamia combined. It spanned much of Pakistan, northwestern India, and northeast Afghanistan.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Bronze Age civilisation in South Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 27.5,
+  "longitude": 68.5,
+  "celestial_body": "earth",
+  "radius_km": 600,
+  "camera_height_m": 1200000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Indus Valley Civilisation",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q42534",
+  "image_file": "Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/indus-valley.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Indus Valley — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=indus-valley",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Indus Valley in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Indus_Valley_Civilisation",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Indus Valley Civilisation"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q42534",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q42534"
+  }
+ ],
+ "bbox": [
+  62.42356,
+  22.11013,
+  74.57644,
+  32.88987
+ ]
+}

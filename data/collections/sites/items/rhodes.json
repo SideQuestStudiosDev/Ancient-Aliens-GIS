@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "rhodes",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   28.2225,
+   36.4512
+  ]
+ },
+ "properties": {
+  "name": "Rhodes — Colossus & Lindos",
+  "subtitle": "Dodecanese, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "colossus",
+   "hellenistic",
+   "wonder"
+  ],
+  "aliases": [
+   "Colossus of Rhodes",
+   "Lindos",
+   "Dodecanese"
+  ],
+  "claim": "A 33 m bronze figure raised in the 3rd century BC, then lost, is cited as evidence of large-scale metallurgy and casting capabilities beyond the period.",
+  "context": "Philo of Byzantium describes the method: an iron armature, stone ballast, and bronze plates cast in sections and assembled in situ with earth ramps raised around the figure — the same sectional technique used for smaller Hellenistic bronzes that survive, such as the Artemision Bronze. An earthquake felled it c. 226 BC and Strabo saw the pieces.",
+  "summary": "The Colossus of Rhodes was a statue of the Greek sun god Helios, erected in the city of Rhodes, on the Greek island of the same name, by Chares of Lindos in 280 BC. One of the Seven Wonders of the Ancient World, it was constructed to celebrate the successful defence of Rhodes against an attack by Demetrius I of Macedon, who had besieged it for a year with a large army and navy.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Statue of the Greek god Helios",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.4512,
+  "longitude": 28.2225,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Colossus of Rhodes",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q41553",
+  "image_file": "Colosse_de_Rhodes_(Barclay).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/rhodes.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Rhodes — Colossus & Lindos — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=rhodes",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Rhodes — Colossus & Lindos in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Colossus of Rhodes"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q41553",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q41553"
+  }
+ ],
+ "bbox": [
+  28.2225,
+  36.4512,
+  28.2225,
+  36.4512
+ ]
+}

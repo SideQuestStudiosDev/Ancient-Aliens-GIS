@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "qumran",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.458611,
+   31.740833
+  ]
+ },
+ "properties": {
+  "name": "Qumran",
+  "subtitle": "West Bank, Dead Sea shore",
+  "country": "Israel / Palestine",
+  "region": "Middle East",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "dead-sea-scrolls",
+   "essenes",
+   "book-of-enoch"
+  ],
+  "aliases": [
+   "Dead Sea Scrolls",
+   "Essenes",
+   "Book of Enoch"
+  ],
+  "claim": "The scrolls' Enochic literature — Watchers descending, teaching metallurgy and astronomy, and fathering the Nephilim — is treated as a suppressed eyewitness account of contact.",
+  "context": "1 Enoch is a real and important Second Temple text, preserved at Qumran in Aramaic and canonical in the Ethiopian Orthodox tradition. It belongs to the apocalyptic genre: pseudepigraphic, visionary and composed c. 300–100 BC, many centuries after the antediluvian era it narrates. Its exclusion from the Jewish and most Christian canons is a documented process of canon formation, not a suppression.",
+  "summary": "Qumran (Hebrew: קומראן; Arabic: خربة قمران, romanized: Khirbet Qumrān) is an archaeological site in the West Bank managed by Israel's Qumran National Park. It is located on a dry marl plateau about 1.5 km (1 mi) from the northwestern shore of the Dead Sea, about 10 km (6 mi) south of the historic city of Jericho, and adjacent to the modern Israeli settlement and kibbutz of Kalya.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site in the West Bank",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.740833,
+  "longitude": 35.458611,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Qumran",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Qumran",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q223399",
+  "image_file": "Kumeran4.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/qumran.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Qumran — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=qumran",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Qumran in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Qumran",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Qumran"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q223399",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q223399"
+  }
+ ],
+ "bbox": [
+  35.458611,
+  31.740833,
+  35.458611,
+  31.740833
+ ]
+}

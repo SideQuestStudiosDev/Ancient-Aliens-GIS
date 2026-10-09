@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "sicily-shipwreck",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   14.25,
+   37.0667
+  ]
+ },
+ "properties": {
+  "name": "Sicily — Gela Shipwrecks",
+  "subtitle": "Gela, Sicily, Italy",
+  "country": "Italy",
+  "region": "Europe",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "shipwreck",
+   "orichalcum",
+   "atlantis",
+   "ingots"
+  ],
+  "aliases": [
+   "Gela",
+   "orichalcum",
+   "Atlantis ingots"
+  ],
+  "claim": "Metal ingots recovered off Gela were reported in 2015 as orichalcum, the alloy Plato says clad the walls of Atlantis — cited as physical confirmation of the lost city.",
+  "context": "Analysis identified the ingots as a brass alloy of roughly 75–80% copper with zinc, lead and iron — a composition consistent with 6th-century-BC Mediterranean metallurgy and cargo from a shipwreck. 'Orichalcum' is a term of uncertain reference used by several ancient authors for brass-like alloys; the identification is a label, not a provenance, and Plato's Atlantis appears in the Timaeus and Critias as a didactic fiction.",
+  "summary": "Gela (Sicilian and Italian pronunciation: [ˈdʒɛːla]; Ancient Greek: Γέλα) is a city and comune (municipality) in the Autonomous Region of Sicily, Italy; in terms of area and population, it is the largest municipality on the southern coast of Sicily. Gela is part of the Province of Caltanissetta and is one of the few comuni in Italy with a population and area that exceed those of the provincial capital.Gela was founded around 688 BC by Greek colonists from Rhodes and Crete; it was an influential polis of Magna Graecia in the 7th and 6th centuries BC and became one of the most powerful cities until the 5th c.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Comune in Sicily, Italy",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.0667,
+  "longitude": 14.25,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Gela",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Gela",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q39971",
+  "image_file": "Gela_Panorama.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/sicily-shipwreck.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Sicily — Gela Shipwrecks — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=sicily-shipwreck",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Sicily — Gela Shipwrecks in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Gela",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Gela"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q39971",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q39971"
+  }
+ ],
+ "bbox": [
+  14.25,
+  37.0667,
+  14.25,
+  37.0667
+ ]
+}

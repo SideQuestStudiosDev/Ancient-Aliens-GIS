@@ -1,0 +1,90 @@
+{
+ "type": "Feature",
+ "id": "chichen-itza",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -88.568611,
+   20.683056
+  ]
+ },
+ "properties": {
+  "name": "Chichén Itzá — El Castillo",
+  "subtitle": "Yucatán, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "maya",
+   "equinox",
+   "kukulkan",
+   "acoustics",
+   "cenote"
+  ],
+  "aliases": [
+   "El Castillo",
+   "Kukulkan",
+   "Yucatan",
+   "Temple of Kukulcan"
+  ],
+  "claim": "A pyramid with 365 steps whose balustrade casts a descending serpent at the equinoxes, whose staircase returns a chirped echo resembling the quetzal's call, and which sits atop a cenote and nested earlier structures, is presented as an engineered instrument built to a supplied specification.",
+  "context": "Both effects are real and both are now well studied. The equinoctial shadow serpent is widely accepted as deliberate — Kukulkan's descent is the building's stated subject. The chirped echo was analysed by Declercq and others and arises from periodic scattering off the step risers, a predictable consequence of the geometry that Maya builders could tune by ear. The subterranean cenote was confirmed by electrical resistivity survey in 2015, matching Maya placement of temples over water entrances to the underworld.",
+  "summary": "Chichen Itza was a large pre-Columbian city built by the Maya people of the Terminal Classic period. The archeological site is located in Tinúm Municipality, Yucatán, Mexico, between the cities of Valladolid and Mérida.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Pre-Columbian Maya city in Mexico",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 20.683056,
+  "longitude": -88.568611,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Chichen Itza",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Chichen_Itza",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5859",
+  "image_file": "Chichen_Itza_3.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/chichen-itza.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Chichén Itzá — El Castillo — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=chichen-itza",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Chichén Itzá — El Castillo in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Chichen_Itza",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Chichen Itza"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5859",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5859"
+  }
+ ],
+ "bbox": [
+  -88.568611,
+  20.683056,
+  -88.568611,
+  20.683056
+ ]
+}

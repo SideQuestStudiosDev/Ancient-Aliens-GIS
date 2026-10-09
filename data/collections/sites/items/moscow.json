@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "moscow",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   37.617778,
+   55.755833
+  ]
+ },
+ "properties": {
+  "name": "Moscow",
+  "subtitle": "Russia",
+  "country": "Russia",
+  "region": "Europe",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "space-program",
+   "archives",
+   "cold-war"
+  ],
+  "aliases": [
+   "Kremlin",
+   "Soviet Union",
+   "USSR"
+  ],
+  "claim": "Soviet archives are said to hold recovered craft and encounter reports from across the USSR — including the 1908 Tunguska event read as a crash — with the state space programme built on the findings.",
+  "context": "Post-1991 archival opening released an enormous volume of Soviet military and space material, including candid failure reports; no recovered-craft documentation has surfaced. Tunguska is well characterised as a 3–5 km airburst of a stony body, supported by the butterfly-shaped treefall pattern, seismic and barographic records from 1908, and later microparticle work.",
+  "summary": "Moscow is the capital and largest city of Russia, situated on the Moskva River in Central Russia. The city has a population estimated at more than 13 million residents within city limits, more than 19.1 million residents in the urban area, and more than 21.5 million residents in the metropolitan area. The city covers an area of 2,511 square kilometers (970 sq mi); the urban area covers 5,891 square kilometers (2,275 sq mi); and the metropolitan area covers more than 26,000 square kilometers (10,000 sq mi).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Capital and most populous city of Russia",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 55.755833,
+  "longitude": 37.617778,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Moscow",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Moscow",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q649",
+  "image_file": "Saint_Basil's_Cathedral_and_the_Red_Square.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/moscow.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Moscow — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=moscow",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Moscow in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Moscow",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Moscow"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q649",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q649"
+  }
+ ],
+ "bbox": [
+  37.617778,
+  55.755833,
+  37.617778,
+  55.755833
+ ]
+}

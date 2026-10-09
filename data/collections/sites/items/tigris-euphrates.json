@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "tigris-euphrates",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   47.435,
+   31.0089
+  ]
+ },
+ "properties": {
+  "name": "Tigris & Euphrates Confluence",
+  "subtitle": "Al-Qurnah, Basra Governorate, Iraq",
+  "country": "Iraq",
+  "region": "Middle East",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "river",
+   "shatt-al-arab",
+   "eden"
+  ],
+  "aliases": [
+   "Shatt al-Arab",
+   "Garden of Eden",
+   "Al-Qurnah"
+  ],
+  "claim": "The four-river description of Eden in Genesis is matched to this confluence, and the garden read as an off-world genetics facility.",
+  "context": "Genesis names Tigris, Euphrates, Pishon and Gihon; the latter two are unidentified, and proposals range from the Karun and Wadi al-Batin to the Nile. The alluvium here has shifted substantially since antiquity, and the Shatt al-Arab itself is a late formation — which is why no fixed location can be derived from the text.",
+  "summary": "The Shatt al-Arab (Arabic: شط العرب, lit. 'River of the Arabs') is a river about 200 kilometres (120 mi) in length that is formed at the confluence of the Euphrates and Tigris rivers in the town of al-Qurnah in the Basra Governorate of southern Iraq. The southern end of the river constitutes the Iran–Iraq border down to its mouth, where it discharges into the Persian Gulf.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "River in West Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.0089,
+  "longitude": 47.435,
+  "celestial_body": "earth",
+  "radius_km": 150,
+  "camera_height_m": 120000,
+  "camera_pitch_deg": -65,
+  "wikipedia_title": "Shatt al-Arab",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Shatt_al-Arab",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q166966",
+  "image_file": "Shat_al-arab-22.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tigris-euphrates.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tigris & Euphrates Confluence — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tigris-euphrates",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tigris & Euphrates Confluence in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Shatt_al-Arab",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Shatt al-Arab"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q166966",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q166966"
+  }
+ ],
+ "bbox": [
+  45.86285,
+  29.66143,
+  49.00715,
+  32.35637
+ ]
+}

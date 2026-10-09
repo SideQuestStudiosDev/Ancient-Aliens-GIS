@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "comalcalco",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -93.201753,
+   18.280081
+  ]
+ },
+ "properties": {
+  "name": "Comalcalco",
+  "subtitle": "Tabasco, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "maya",
+   "fired-brick",
+   "chontalpa",
+   "classic"
+  ],
+  "aliases": [
+   "Tabasco",
+   "brick pyramid",
+   "Joy Chan"
+  ],
+  "claim": "The only major Maya city built of fired brick rather than stone, with hundreds of bricks bearing marks and figures on their hidden faces, is presented as evidence of an outside building tradition — and the 2012 discovery of a brick with a Long Count date as a second prophecy text.",
+  "context": "Comalcalco sits in the Chontalpa, an alluvial plain with no building stone — which is precisely why its builders fired brick from local clay. The marked faces were laid inward, so they are read as makers' marks, tallies and casual graffiti, a category well known from Roman and medieval brickwork. The 2012 brick records a calendrical date; epigraphers noted at the time that it carries no prophetic statement.",
+  "summary": "Comalcalco is a city located in Comalcalco Municipality about 45 miles (60 km) northwest of Villahermosa in the Mexican state of Tabasco. The city is near the Pre-Columbian Maya archaeological site of Comalcalco. The literal English translation of \"Comalcalco\" is \"in the house of the comals\".",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in the Mexican state of Tabasco",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 18.280081,
+  "longitude": -93.201753,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Comalcalco",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Comalcalco",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q868423",
+  "image_file": "Comalcalco.Iglesia_y_Palacio.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/comalcalco.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Comalcalco — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=comalcalco",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Comalcalco in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Comalcalco",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Comalcalco"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q868423",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q868423"
+  }
+ ],
+ "bbox": [
+  -93.201753,
+  18.280081,
+  -93.201753,
+  18.280081
+ ]
+}

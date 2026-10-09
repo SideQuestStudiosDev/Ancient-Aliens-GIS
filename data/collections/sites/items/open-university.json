@@ -1,0 +1,84 @@
+{
+ "type": "Feature",
+ "id": "open-university",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -0.705556,
+   52.025
+  ]
+ },
+ "properties": {
+  "name": "The Open University",
+  "subtitle": "Milton Keynes, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "academia",
+   "planetary-science",
+   "meteoritics"
+  ],
+  "aliases": [
+   "Milton Keynes"
+  ],
+  "claim": "Cited for its planetary and meteoritic research, invoked to support the proposition that organic precursors — and so life — arrived on Earth from space.",
+  "context": "The OU's planetary science group does lead genuine work on meteoritic organics and sample return. Amino acids and nucleobases in carbonaceous chondrites are an established finding. That supports exogenous delivery of chemistry, which is a mainstream hypothesis — and says nothing about intelligent agents.",
+  "summary": "The Open University (OU) is a public research university and the largest university in the United Kingdom by number of students. The majority of the OU's undergraduate students are based in the United Kingdom and principally study off-campus; many of its courses (both undergraduate and postgraduate) can also be studied anywhere in the world. There are also a number of full-time postgraduate research students based on the 45 ha (110-acre) university campus at Walton Hall in Milton Keynes, Buckinghamshire, where they use the staff facilities for research, as well as more than 1,000 members of academic and research staff and over 2,500 administrative, operational and support staff.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Public research university in the UK",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 52.025,
+  "longitude": -0.705556,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Open University",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Open_University",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2413375",
+  "image_file": "Coat_of_Arms_of_the_Open_University.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/open-university.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "The Open University — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=open-university",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "The Open University in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Open_University",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Open University"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2413375",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2413375"
+  }
+ ],
+ "bbox": [
+  -0.705556,
+  52.025,
+  -0.705556,
+  52.025
+ ]
+}

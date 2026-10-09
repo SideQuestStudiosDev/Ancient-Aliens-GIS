@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "peenemunde",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   13.8,
+   54.15
+  ]
+ },
+ "properties": {
+  "name": "Peenemünde Army Research Centre",
+  "subtitle": "Usedom, Mecklenburg-Vorpommern, Germany",
+  "country": "Germany",
+  "region": "Europe",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "v2",
+   "rocketry",
+   "operation-paperclip",
+   "wwii"
+  ],
+  "aliases": [
+   "V-2",
+   "A4 rocket",
+   "von Braun",
+   "Usedom",
+   "Heeresversuchsanstalt"
+  ],
+  "claim": "The leap from artillery to a liquid-fuelled guided ballistic missile inside a decade, and the Nazi 'foo fighter' and Die Glocke stories, are presented as German reverse-engineering of recovered craft — with the knowledge later carried to the US by Operation Paperclip.",
+  "context": "The A4/V-2 programme is documented to an unusual depth: design drawings, test telemetry, failure reports, procurement records and the forced-labour history of Mittelwerk, where roughly 20,000 prisoners died. Its intellectual lineage runs through Oberth, Goddard and the VfR. Paperclip is also fully documented, and what it transferred was engineers and A4 hardware. Die Glocke appears first in Igor Witkowski's 2000 book, sourced to an unnamed informant and unverifiable documents.",
+  "summary": "The Peenemünde Army Research Center (German: Heeresversuchsanstalt Peenemünde, HVP) was founded in 1937 as one of five military proving grounds under the German Army Weapons Office (Heereswaffenamt). Several German guided missiles and rockets of World War II were developed by the HVP, including the V-2 rocket. The works were attacked by the British in Operation Crossbow from August 1943, before falling to the Soviets in May 1945.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Research center under Nazi Germany",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 54.15,
+  "longitude": 13.8,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Peenemünde Army Research Center",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Army_Research_Center",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q897509",
+  "image_file": "Peenemunde_test_stand_VII.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/peenemunde.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Peenemünde Army Research Centre — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=peenemunde",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Peenemünde Army Research Centre in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Peenem%C3%BCnde_Army_Research_Center",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Peenemünde Army Research Center"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q897509",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q897509"
+  }
+ ],
+ "bbox": [
+  13.8,
+  54.15,
+  13.8,
+  54.15
+ ]
+}

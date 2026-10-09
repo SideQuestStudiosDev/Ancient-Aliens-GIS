@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "andrews-afb",
+ "geometry": {
+  "type": "MultiPoint",
+  "coordinates": [
+   [
+    -76.867,
+    38.8108
+   ],
+   [
+    -77.0402,
+    38.8512
+   ]
+  ]
+ },
+ "properties": {
+  "name": "Joint Base Andrews & Washington National",
+  "subtitle": "Washington, D.C. area, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1952",
+   "radar-visual",
+   "project-blue-book",
+   "washington-flap"
+  ],
+  "aliases": [
+   "Andrews Air Force Base",
+   "Washington National Airport",
+   "Washington flap",
+   "1952 Washington"
+  ],
+  "claim": "Over two July weekends in 1952, objects were tracked simultaneously on radar at Washington National, Andrews and Bolling, seen visually by airline and military pilots, and intercepted by F-94s — the best-corroborated radar-visual case in US history, prompting the largest Air Force press conference since the war.",
+  "context": "The case is genuine, extensively documented and remains partly unresolved. The Air Force attributed the returns to temperature inversions producing anomalous propagation, which Washington's July conditions support and which was a known radar artefact; Edward Ruppelt, who ran Project Blue Book, considered the explanation incomplete. Capt. Harry Barnes's and the pilots' accounts are on the record and have never been retracted.",
+  "summary": "From July 12 to 29, 1952, a series of unidentified flying object (UFO) sightings were reported in Washington, D.C., and later became known as the Washington flap, the Washington National Airport Sightings, or the Invasion of Washington. The most publicized sightings took place on consecutive weekends, July 18–19 and July 26–27. UFO historian Curtis Peebles called the incident \"the climax of the 1952 (UFO) flap\"—\"Never before or after did Project Blue Book and the Air Force undergo such a tidal wave of (UFO) reports.\" This became one of the most known UFO sightings ever.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "U.S. Capital flying saucer incidents on consecutive weekends",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.831,
+  "longitude": -76.9536,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 30000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "1952 Washington, D.C., UFO incident",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/1952_Washington,_D.C.,_UFO_incident",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2656375",
+  "image_file": "Washington_National_(1944).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/andrews-afb.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Joint Base Andrews & Washington National — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=andrews-afb",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Joint Base Andrews & Washington National in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/1952_Washington,_D.C.,_UFO_incident",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: 1952 Washington, D.C., UFO incident"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2656375",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2656375"
+  }
+ ],
+ "bbox": [
+  -77.0402,
+  38.8108,
+  -76.867,
+  38.8512
+ ]
+}

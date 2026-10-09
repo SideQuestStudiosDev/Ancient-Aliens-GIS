@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "teotihuacan",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -98.843889,
+   19.6925
+  ]
+ },
+ "properties": {
+  "name": "Teotihuacan",
+  "subtitle": "State of Mexico, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "pyramid-of-the-sun",
+   "mica",
+   "mercury",
+   "avenue-of-the-dead"
+  ],
+  "aliases": [
+   "Pyramid of the Sun",
+   "Avenue of the Dead",
+   "Mexico City",
+   "mica"
+  ],
+  "claim": "A city of 125,000 whose builders left no name, no king-lists and no readable script; sheets of mica from Brazil set into floors where they cannot be seen; and liquid mercury and thousands of metallic spheres found in a tunnel under the Temple of the Feathered Serpent — presented as industrial materials in a reactor or insulation.",
+  "context": "Teotihuacan is intensively excavated and its chronology is secure (c. 100 BC–AD 550). Mica occurs in Mexican deposits in Oaxaca and Hidalgo; long-distance exchange in exotic materials is normal Mesoamerican practice, documented for jade, obsidian, cacao and quetzal feathers. Mercury appears in several Mesoamerican ritual deposits — at Copán and Kaminaljuyú too — and is read as a mirror-symbol for an underworld lake; the spheres are clay coated in pyrite, a reflective ritual material.",
+  "summary": "Teotihuacan (Spanish: Teotihuacán, Spanish pronunciation: [teotiwaˈkan] ; Classical Nahuatl: Teōtīhuacān, Classical Nahuatl pronunciation: [te.oːtiːˈwakaːn] ) is an ancient Mesoamerican city located in a sub-valley of the Valley of Mexico, which is located in the State of Mexico, 40 kilometers (25 mi) northeast of modern-day Mexico City.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ancient Mesoamerican city",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 19.6925,
+  "longitude": -98.843889,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Teotihuacan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Teotihuacan",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q172613",
+  "image_file": "ZA77_Teotihuacán_edo_de_mex_Herberto_de_la_rosa.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/teotihuacan.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Teotihuacan — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=teotihuacan",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Teotihuacan in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Teotihuacan",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Teotihuacan"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q172613",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q172613"
+  }
+ ],
+ "bbox": [
+  -98.843889,
+  19.6925,
+  -98.843889,
+  19.6925
+ ]
+}

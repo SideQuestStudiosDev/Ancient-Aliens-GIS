@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "casas-grandes",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -107.9475,
+   30.366389
+  ]
+ },
+ "properties": {
+  "name": "Casas Grandes (Paquimé)",
+  "subtitle": "Chihuahua, Mexico",
+  "country": "Mexico",
+  "region": "Central America & Caribbean",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "mogollon",
+   "adobe",
+   "macaw-pens",
+   "water-system"
+  ],
+  "aliases": [
+   "Paquime",
+   "Chihuahua",
+   "Mogollon"
+  ],
+  "claim": "A multi-storey adobe city with piped water, subterranean reservoirs, macaw breeding pens and T-shaped doorways matching Chaco Canyon's, built in the middle of a desert and abandoned, is presented as a planted settlement linking two regions.",
+  "context": "Paquimé is a World Heritage site excavated by Charles Di Peso, and its Chaco and Mesoamerican connections are the mainstream interpretation: it was a trading centre between the Puebloan south-west and West Mexico, moving copper bells, shell and scarlet macaws north. The macaw pens and the water system are real engineering by the Casas Grandes culture, with regional antecedents.",
+  "summary": "Casas Grandes (Spanish for Great Houses; also known as Paquimé) is a prehistoric archaeological site in the northern Mexican state of Chihuahua. Construction of the site is attributed to the Mogollon culture. Casas Grandes has been designated a UNESCO World Heritage Site under the purview of INAH and a \"Pueblo Mágico\" since 2015.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Prehistoric archaeological site in Mexico",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 30.366389,
+  "longitude": -107.9475,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Casas Grandes",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Casas_Grandes",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q853265",
+  "image_file": "Paquime1.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/casas-grandes.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Casas Grandes (Paquimé) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=casas-grandes",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Casas Grandes (Paquimé) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Casas_Grandes",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Casas Grandes"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q853265",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q853265"
+  }
+ ],
+ "bbox": [
+  -107.9475,
+  30.366389,
+  -107.9475,
+  30.366389
+ ]
+}

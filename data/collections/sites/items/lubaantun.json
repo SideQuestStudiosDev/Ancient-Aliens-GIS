@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "lubaantun",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -88.9617,
+   16.2825
+  ]
+ },
+ "properties": {
+  "name": "Lubaantun",
+  "subtitle": "Toledo District, Belize",
+  "country": "Belize",
+  "region": "Central America & Caribbean",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "maya",
+   "crystal-skull",
+   "dry-masonry",
+   "mitchell-hedges"
+  ],
+  "aliases": [
+   "Belize",
+   "Crystal Skull",
+   "Mitchell-Hedges",
+   "Toledo"
+  ],
+  "claim": "The Mitchell-Hedges crystal skull, said to have been found here by a teenage Anna Mitchell-Hedges in 1924, is presented as carved from a single quartz crystal against the grain by methods unavailable to the Maya — one of thirteen skulls holding stored knowledge.",
+  "context": "Smithsonian and British Museum analyses of this and comparable skulls found rotary-tool marks — wheel-cut striations inconsistent with pre-Columbian lapidary technique and consistent with 19th-century European workshops. F. A. Mitchell-Hedges did not mention the skull in his 1931 account of the excavation, and records indicate he bought it at a Sotheby's sale in 1943. Lubaantun itself is a genuine Late Classic site, notable for mortarless masonry and the absence of stelae.",
+  "summary": "Lubaantun is a pre-Columbian ruined city of the Maya civilization in southern Belize, Central America. Lubaantun is in Belize's Toledo District, about 42 kilometres (26 mi) northwest of Punta Gorda, and approximately 3.2 kilometres (2 mi) from the village of San Pedro Columbia, at an elevation of 61 metres (200 ft) feet above mean sea level. One of the most distinguishing features of Lubaantun is the large collection of miniature ceramic objects found on site; these detailed constructs are thought to have been charmstones or ritual-accompanying accoutrements.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Pre-Columbian Mayan city in Belize",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 16.2825,
+  "longitude": -88.9617,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Lubaantun",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lubaantun",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q529147",
+  "image_file": "Lubaantun_04.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/lubaantun.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lubaantun — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=lubaantun",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lubaantun in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Lubaantun",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Lubaantun"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q529147",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q529147"
+  }
+ ],
+ "bbox": [
+  -88.9617,
+  16.2825,
+  -88.9617,
+  16.2825
+ ]
+}

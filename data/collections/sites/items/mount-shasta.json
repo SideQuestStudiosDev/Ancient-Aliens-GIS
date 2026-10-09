@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "mount-shasta",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -122.194888,
+   41.409196
+  ]
+ },
+ "properties": {
+  "name": "Mount Shasta",
+  "subtitle": "Siskiyou County, California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "volcano",
+   "lemuria",
+   "telos",
+   "new-age"
+  ],
+  "aliases": [
+   "Shasta",
+   "Telos",
+   "Lemurians",
+   "California",
+   "Guy Ballard"
+  ],
+  "claim": "A 4,322 m stratovolcano said to house Telos, a Lemurian city inside the mountain, and to produce lenticular clouds read as cloaked craft — one of North America's densest clusters of contact claims.",
+  "context": "Shasta is an active Cascade stratovolcano with four overlapping cones; its lenticular caps are standard orographic clouds formed in the lee of an isolated peak. The Telos tradition begins with Frederick Spencer Oliver's 1894 novel 'A Dweller on Two Planets' and was developed by Guy Ballard's 'I AM' movement from 1930. Geological and geophysical surveys show no cavity system; the mountain is sacred to Winnemem Wintu, Shasta, Modoc and Achumawi peoples.",
+  "summary": "Mount Shasta ( SHASS-tə; Shasta: Waka-nunee-Tuki-wuki; Karuk: Úytaahkoo) is a potentially active stratovolcano at the southern end of the Cascade Range in Siskiyou County, California. At an elevation of 14,179 ft (4,322 m), it is the second-highest peak in the Cascades and the fifth-highest in the state. Mount Shasta has an estimated volume of 85 cubic miles (350 cubic kilometers), which makes it the most voluminous stratovolcano in the Cascade Volcanic Arc.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Stratovolcano in California, United States",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 41.409196,
+  "longitude": -122.194888,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mount Shasta",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Shasta",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q748355",
+  "image_file": "MtShasta_aerial.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mount-shasta.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Shasta — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mount-shasta",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Shasta in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mount_Shasta",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mount Shasta"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q748355",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q748355"
+  }
+ ],
+ "bbox": [
+  -122.194888,
+  41.409196,
+  -122.194888,
+  41.409196
+ ]
+}

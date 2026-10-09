@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "bermuda-triangle",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -71.0,
+   25.0
+  ]
+ },
+ "properties": {
+  "name": "Bermuda Triangle",
+  "subtitle": "Western North Atlantic",
+  "country": "",
+  "region": "Oceans & Marine",
+  "category": "anomaly",
+  "category_label": "Anomaly Zone",
+  "tags": [
+   "flight-19",
+   "gulf-stream",
+   "methane-hydrate",
+   "marine"
+  ],
+  "aliases": [
+   "Devil's Triangle",
+   "Flight 19",
+   "USS Cyclops",
+   "Atlantic"
+  ],
+  "claim": "A tract between Miami, Bermuda and Puerto Rico where ships and aircraft are said to vanish without trace — Flight 19 in 1945, the USS Cyclops in 1918 — is presented as the site of a submerged Atlantean power source or a recurring extraction point.",
+  "context": "Lloyd's of London and the US Coast Guard have both stated the area shows no elevated loss rate, and marine insurers charge no premium for it — a straightforward actuarial test the claim fails. It is also one of the busiest stretches of ocean, crossed by the Gulf Stream, prone to rapid tropical development and to sudden squalls. Flight 19's loss is attributable to the flight leader's compass failure and disorientation over featureless water, documented in the Navy's own board of inquiry.",
+  "summary": "The Bermuda Triangle, also known as the Devil's Triangle, is a loosely defined region in the North Atlantic Ocean, roughly bounded by Florida, Bermuda, and Puerto Rico. Since the mid-20th century, it has been the focus of an urban legend suggesting that many aircraft, ships, and people have disappeared there under mysterious circumstances. However, extensive investigations by reputable sources, including the U.S. federal government and scientific organizations, have found no evidence of unusual activity, attributing reported incidents to natural phenomena, human error, and misinterpretation.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Urban legend based on a region in North Atlantic",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.0,
+  "longitude": -71.0,
+  "celestial_body": "earth",
+  "radius_km": 800,
+  "camera_height_m": 1800000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Bermuda Triangle",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q43708",
+  "image_file": "Bermuda_Triangle.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bermuda-triangle.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bermuda Triangle — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bermuda-triangle",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bermuda Triangle in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bermuda_Triangle",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bermuda Triangle"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q43708",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q43708"
+  }
+ ],
+ "bbox": [
+  -78.92941,
+  17.81351,
+  -63.07059,
+  32.18649
+ ]
+}

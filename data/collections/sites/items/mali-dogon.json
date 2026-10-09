@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "mali-dogon",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -3.6,
+   14.35
+  ]
+ },
+ "properties": {
+  "name": "Dogon Country — Bandiagara Escarpment",
+  "subtitle": "Mopti Region, Mali",
+  "country": "Mali",
+  "region": "Africa",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "ethnoastronomy",
+   "sirius",
+   "dogon"
+  ],
+  "aliases": [
+   "Dogon",
+   "Sirius B",
+   "Nommo",
+   "Bandiagara"
+  ],
+  "claim": "The Dogon are said to have known that Sirius has a dense, invisible companion with a fifty-year orbit, taught to them by amphibious beings called the Nommo who came from that system.",
+  "context": "The claim rests on Marcel Griaule and Germaine Dieterlen's 1950 paper. Anthropologist Walter van Beek's later fieldwork among the same communities found no independent Sirius-B tradition and concluded Griaule's informants had reflected back material introduced during interviews — Sirius B's orbit was published in 1844 and widely reported before Griaule's visits. The Bandiagara Escarpment remains a World Heritage site of major importance.",
+  "summary": "The Bandiagara Escarpment (Arabic: منحدرات باندياغارا الصخرية, French: falaise de Bandiagara) is a sandstone cliff in the Dogon country of Mali. It rises about 500 m (1,600 ft) above the lower sandy flats to the south, and has a length of approximately 150 km (90 mi).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Escarpment in Dogon country of Mali",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 14.35,
+  "longitude": -3.6,
+  "celestial_body": "earth",
+  "radius_km": 60,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Bandiagara Escarpment",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bandiagara_Escarpment",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q650546",
+  "image_file": "Les_Falaises_de_Bandiagara.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mali-dogon.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Dogon Country — Bandiagara Escarpment — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mali-dogon",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Dogon Country — Bandiagara Escarpment in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bandiagara_Escarpment",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bandiagara Escarpment"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q650546",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q650546"
+  }
+ ],
+ "bbox": [
+  -4.15634,
+  13.81101,
+  -3.04366,
+  14.88899
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "black-mesa",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -110.3,
+   36.5
+  ]
+ },
+ "properties": {
+  "name": "Black Mesa",
+  "subtitle": "Navajo & Hopi lands, north-eastern Arizona, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "hopi",
+   "navajo",
+   "coal",
+   "mesa"
+  ],
+  "aliases": [
+   "Arizona",
+   "Hopi",
+   "Navajo",
+   "Dzil Yijiin"
+  ],
+  "claim": "Hopi prophecy — the emergence from previous worlds, the Blue Star Kachina, and the Ant People who sheltered the Hopi underground between worlds — is presented as a preserved account of off-world guardians, with Black Mesa as its centre.",
+  "context": "Hopi religious knowledge is held by initiated members of specific clans and societies, and Hopi authorities have repeatedly stated that popularised versions of 'Hopi prophecy' — including most published Blue Star material, which traces to non-Hopi authors from the 1950s onward — misrepresent it. The mesa's documented modern history is dominated by the Peabody coal lease, aquifer drawdown and the Navajo–Hopi land dispute.",
+  "summary": "Black Mesa (also called Big Mountain) is an upland mountainous mesa of Arizona, north-trending in Navajo County, west and southeast-trending in Apache County. In Navajo it is called Dziłíjiin ('Black Mountain') and during Mexican rule of Arizona it was called Mesa de las Vacas (Spanish for 'mesa of the cows'). It derives its dark appearance from its pinyon-juniper and mixed conifer woodlands.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Landform in Arizona",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 36.5,
+  "longitude": -110.3,
+  "celestial_body": "earth",
+  "radius_km": 60,
+  "camera_height_m": 90000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Black Mesa (Apache-Navajo Counties, Arizona)",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Mesa_(Apache-Navajo_Counties,_Arizona)",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1774742",
+  "image_file": "NE_AZ-NW_NM_NASA.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/black-mesa.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Black Mesa — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=black-mesa",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Black Mesa in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Black_Mesa_(Apache-Navajo_Counties,_Arizona)",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Black Mesa (Apache-Navajo Counties, Arizona)"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1774742",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1774742"
+  }
+ ],
+ "bbox": [
+  -110.9705,
+  35.96101,
+  -109.6295,
+  37.03899
+ ]
+}

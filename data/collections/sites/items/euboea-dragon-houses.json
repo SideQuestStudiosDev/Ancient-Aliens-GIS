@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "euboea-dragon-houses",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   24.4667,
+   38.05
+  ]
+ },
+ "properties": {
+  "name": "Mount Ochi — Dragon Houses",
+  "subtitle": "Euboea, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "drakospita",
+   "corbelled",
+   "quarry",
+   "karystos"
+  ],
+  "aliases": [
+   "Drakospita",
+   "Dragon Houses",
+   "Evia",
+   "Karystos",
+   "Mount Ochi"
+  ],
+  "claim": "Corbel-roofed stone structures on a remote 1,400 m summit, built from multi-tonne slabs with no mortar and no agreed date or purpose, are offered as pre-Greek construction by non-human builders — hence the local 'dragon' name.",
+  "context": "The drakospita sit beside the Karystos cipollino marble quarries that supplied Rome, and the leading reading is quarry-workers' shelters or a sanctuary of the Roman and late Classical periods, using slabs split from the outcrops on site. Dating is genuinely unresolved for want of stratified deposits; corbelling itself is a widespread Mediterranean dry-stone technique, as in Apulian trulli and Sardinian nuraghi.",
+  "summary": "The dragon houses (Greek: Δρακόσπιτα, Drakospita) or Draga (Δραγκά) are some twenty large, ruined buildings found in the south of the island of Euboea, Greece. They were built with massive stone blocks without mortar and large stone slabs for the roofs. The Dragon House on Mount Ochi (Δρακόσπιτο της Όχης), north of Karystos is the most famous and well preserved.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ruined buildings on Euboea, Greece",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 38.05,
+  "longitude": 24.4667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Dragon houses",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Dragon_houses",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q16328890",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/euboea-dragon-houses.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Ochi — Dragon Houses — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=euboea-dragon-houses",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Ochi — Dragon Houses in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Dragon_houses",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Dragon houses"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q16328890",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q16328890"
+  }
+ ],
+ "bbox": [
+  24.4667,
+  38.05,
+  24.4667,
+  38.05
+ ]
+}

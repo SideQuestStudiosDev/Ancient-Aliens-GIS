@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "fatima",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -8.6727,
+   39.6317
+  ]
+ },
+ "properties": {
+  "name": "Fátima",
+  "subtitle": "Santarém District, Portugal",
+  "country": "Portugal",
+  "region": "Europe",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "marian-apparition",
+   "miracle-of-the-sun",
+   "1917"
+  ],
+  "aliases": [
+   "Miracle of the Sun",
+   "Our Lady of Fatima",
+   "Cova da Iria"
+  ],
+  "claim": "The 13 October 1917 'Miracle of the Sun' — a crowd of tens of thousands reporting the sun spinning, changing colour and plunging toward the earth, preceded by a luminous object and a figure visible to three children — is read as a mass contact event rather than a Marian apparition.",
+  "context": "The event is unusually well attested for its size, and accounts vary widely: many present reported nothing. Proposed natural explanations include sun-gazing-induced retinal afterimages and phosphene effects, atmospheric optics from ice crystals, and collective expectation in a crowd primed by three months of publicity. No instrument recorded solar motion, and observatories worldwide recorded nothing.",
+  "summary": "Our Lady of Fátima (Portuguese: Nossa Senhora de Fátima, pronounced [ˈnɔsɐ sɨˈɲɔɾɐ ðɨ ˈfatimɐ]; formally known as Our Lady of the Holy Rosary of Fátima) is a Catholic title of Mary, mother of Jesus, based on the Marian apparitions reported in 1917 by three shepherd children at the Cova da Iria in Fátima, Portugal. The three children were Lúcia dos Santos and her cousins Francisco and Jacinta Marto. José Alves Correia da Silva, Bishop of Leiria, declared the events worthy of belief on 13 October 1930.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Title for Mary, mother of Jesus",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 39.6317,
+  "longitude": -8.6727,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Our Lady of Fátima",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q719524",
+  "image_file": "Fatima_(3_–_cropped).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/fatima.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Fátima — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=fatima",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Fátima in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Our_Lady_of_F%C3%A1tima",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Our Lady of Fátima"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q719524",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q719524"
+  }
+ ],
+ "bbox": [
+  -8.6727,
+  39.6317,
+  -8.6727,
+  39.6317
+ ]
+}

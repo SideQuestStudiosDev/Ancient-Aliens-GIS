@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "ohio-state",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -83.0305,
+   40.0067
+  ]
+ },
+ "properties": {
+  "name": "Ohio State University",
+  "subtitle": "Columbus, Ohio, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "big-ear",
+   "wow-signal",
+   "radio-astronomy"
+  ],
+  "aliases": [
+   "Columbus",
+   "Ohio",
+   "Big Ear",
+   "Wow! signal"
+  ],
+  "claim": "The 'Wow!' signal — a 72-second narrowband burst at 1420 MHz recorded by Ohio State's Big Ear telescope on 15 August 1977, never repeated — is presented as a detected transmission.",
+  "context": "The signal is real and remains unexplained, and it is the strongest candidate SETI has produced. It is also non-reproducible: Big Ear's twin-feed design should have seen it twice and recorded it once, and no subsequent search of that sky position has recovered it. Proposed natural and terrestrial explanations include a scintillating background source, a comet's hydrogen cloud and satellite interference, none established.",
+  "summary": "The Wow! signal was a strong narrowband radio signal detected on August 15, 1977, by Ohio State University's Big Ear radio telescope in the United States, then used to support the search for extraterrestrial intelligence. The signal appeared to come from the direction of the constellation Sagittarius and bore expected hallmarks of extraterrestrial origin.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "1977 radio signal detected as part of SETI",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.0067,
+  "longitude": -83.0305,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Wow! signal",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wow!_signal",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q33297",
+  "image_file": "Wow_signal.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/ohio-state.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Ohio State University — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=ohio-state",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Ohio State University in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Wow!_signal",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Wow! signal"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q33297",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q33297"
+  }
+ ],
+ "bbox": [
+  -83.0305,
+  40.0067,
+  -83.0305,
+  40.0067
+ ]
+}

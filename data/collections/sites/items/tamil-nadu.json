@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "tamil-nadu",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   78.6569,
+   11.1271
+  ]
+ },
+ "properties": {
+  "name": "Tamil Nadu",
+  "subtitle": "Southern India",
+  "country": "India",
+  "region": "South Asia",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "kumari-kandam",
+   "sangam",
+   "keeladi",
+   "temples"
+  ],
+  "aliases": [
+   "Kumari Kandam",
+   "Lemuria",
+   "Keeladi",
+   "Dravidian"
+  ],
+  "claim": "Kumari Kandam — a submerged southern landmass in Tamil literary tradition — is merged with the 19th-century 'Lemuria' hypothesis and presented as a drowned advanced civilisation, with Tamil Nadu's temple geometry as its inheritance.",
+  "context": "Lemuria was proposed in 1864 by zoologist Philip Sclater to explain lemur distribution and was superseded by plate tectonics and the Gondwana model. Post-glacial sea-level rise did drown large tracts of the Indian shelf, and the Gulf of Khambhat and Poompuhar nearshore finds are genuinely studied. Keeladi's excavations have pushed Tamil urban and literate culture substantially earlier — an important mainstream result.",
+  "summary": "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "State in southern India",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 11.1271,
+  "longitude": 78.6569,
+  "celestial_body": "earth",
+  "radius_km": 350,
+  "camera_height_m": 700000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Tamil Nadu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1445",
+  "image_file": "Mamallapuram_view.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tamil-nadu.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tamil Nadu — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tamil-nadu",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tamil Nadu in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tamil_Nadu",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tamil Nadu"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1445",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1445"
+  }
+ ],
+ "bbox": [
+  75.45257,
+  7.98301,
+  81.86123,
+  14.27119
+ ]
+}

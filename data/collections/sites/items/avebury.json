@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "avebury",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -1.854167,
+   51.428611
+  ]
+ },
+ "properties": {
+  "name": "Avebury",
+  "subtitle": "Wiltshire, England",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "neolithic",
+   "henge",
+   "silbury-hill"
+  ],
+  "aliases": [
+   "Silbury Hill",
+   "West Kennet",
+   "The Sanctuary"
+  ],
+  "claim": "The largest stone circle in Europe, with its avenues and the artificial mound of Silbury Hill, is read as a landscape-scale diagram — and the area's crop-circle concentration as a continuing signal.",
+  "context": "The Avebury complex (c. 2850–2200 BC) is a World Heritage landscape with excavated ditch sections, buried stones recovered and re-erected by Alexander Keiller, and Silbury Hill's internal construction phases exposed by tunnelling. Crop formations in the area have been repeatedly claimed and demonstrated by their human makers since Doug Bower and Dave Chorley came forward in 1991.",
+  "summary": "Avebury is a Neolithic henge monument containing three stone circles, around the village of Avebury in Wiltshire, in south-west England. One of the best-known prehistoric sites in Britain, it contains the largest megalithic stone circle in the world. It is both a tourist attraction and a place of religious importance to contemporary pagans.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Neolithic henge monument in Wiltshire, England",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 51.428611,
+  "longitude": -1.854167,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Avebury",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Avebury",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q661855",
+  "image_file": "Wiltshire-Avebury.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/avebury.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Avebury — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=avebury",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Avebury in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Avebury",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Avebury"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q661855",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q661855"
+  }
+ ],
+ "bbox": [
+  -1.854167,
+  51.428611,
+  -1.854167,
+  51.428611
+ ]
+}

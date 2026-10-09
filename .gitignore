@@ -1,0 +1,24 @@
+# Build caches
+.cache/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node (only ever used for the Playwright smoke test in CI)
+node_modules/
+package-lock.json
+package.json
+
+# Editors / OS
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Local test output
+/tmp-shots/
+*.log

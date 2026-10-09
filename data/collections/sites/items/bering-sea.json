@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "bering-sea",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -178.0,
+   58.0
+  ]
+ },
+ "properties": {
+  "name": "Bering Sea",
+  "subtitle": "North Pacific, between Alaska & Siberia",
+  "country": "",
+  "region": "Oceans & Marine",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "beringia",
+   "land-bridge",
+   "migration",
+   "marine"
+  ],
+  "aliases": [
+   "Beringia",
+   "Bering Strait",
+   "land bridge"
+  ],
+  "claim": "The peopling of the Americas across Beringia is cited as a migration too rapid and too technologically abrupt to be unassisted, and the sea as the route by which guidance arrived.",
+  "context": "Beringia's exposure during the Last Glacial Maximum is established by sea-level and sediment records, and the peopling sequence is now reconstructed in detail from ancient DNA — the Beringian standstill, the coastal and interior routes, and the Ancient Beringian genome from Upward Sun River. Coastal watercraft capability is indicated by the Monte Verde and Huaca Prieta dates far to the south. It is one of the best-resolved migration stories in prehistory.",
+  "summary": "The Bering Sea ( BAIR-ing, BERR-ing, US also BEER-ing; Russian: Бе́рингово мо́ре, romanized: Béringovo móre, IPA: [ˈbʲerʲɪnɡəvə ˈmorʲe]) is a marginal sea of the Northern Pacific Ocean. It forms, along with the Bering Strait, the divide between the two largest landmasses on Earth: Eurasia and the Americas. It comprises a deep water basin, which then rises through a narrow slope into the shallower water above the continental shelves.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Sea of the northern Pacific Ocean off the coast of Alaska and Russia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 58.0,
+  "longitude": -178.0,
+  "celestial_body": "earth",
+  "radius_km": 800,
+  "camera_height_m": 1800000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Bering Sea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Bering_Sea",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q44725",
+  "image_file": "LA2-Bering-Sea-UTM-zones.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/bering-sea.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Bering Sea — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=bering-sea",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Bering Sea in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Bering_Sea",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Bering Sea"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q44725",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q44725"
+  }
+ ],
+ "bbox": [
+  -191.56148,
+  50.81351,
+  -164.43852,
+  65.18649
+ ]
+}

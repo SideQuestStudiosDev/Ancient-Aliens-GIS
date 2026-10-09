@@ -1,0 +1,73 @@
+# Pull-request checks: keep the published data tree in step with the authored
+# catalogue, and keep the app loading in a real browser.
+
+name: Validate
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  data:
+    name: Catalogue and OGC documents
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Catalogue invariants
+        run: python3 scripts/build_data.py --check
+
+      - name: Published tree matches the schema
+        run: python3 scripts/validate_data.py
+
+      - name: Rebuild offline and diff
+        # The committed data/ tree must be reproducible from data-source/.
+        # --offline uses the cached Wikipedia records, so this check does not
+        # depend on the network or on live article edits.
+        run: |
+          python3 scripts/build_data.py --offline
+          if ! git diff --quiet -- data/ data-source/sites.json; then
+            echo "::error::data/ is out of date. Run scripts/build_data.py and commit the result."
+            git --no-pager diff --stat -- data/ data-source/sites.json
+            exit 1
+          fi
+          echo "data/ is reproducible from data-source/"
+
+      - name: GeoServer artefacts build
+        run: python3 scripts/build_geoserver.py
+
+      - name: SLD is well-formed
+        run: |
+          python3 - <<'EOF'
+          import xml.etree.ElementTree as ET, glob, sys
+          for f in glob.glob('geoserver/**/*.sld', recursive=True):
+              ET.parse(f)
+              print(f'ok  {f}')
+          EOF
+
+  browser:
+    name: Browser smoke test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install Playwright
+        run: |
+          npm init -y >/dev/null
+          npm install --no-fund --no-audit playwright@1.56.0
+          npx playwright install --with-deps chromium
+
+      - name: Load the app and assert it boots
+        run: node scripts/smoke.mjs

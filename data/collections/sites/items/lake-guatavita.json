@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "lake-guatavita",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -73.775,
+   4.9775
+  ]
+ },
+ "properties": {
+  "name": "Lake Guatavita",
+  "subtitle": "Cundinamarca, Colombia",
+  "country": "Colombia",
+  "region": "South America",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "muisca",
+   "el-dorado",
+   "offerings",
+   "crater-lake"
+  ],
+  "aliases": [
+   "Guatavita",
+   "El Dorado",
+   "Guanavita",
+   "Cundinamarca"
+  ],
+  "claim": "The ritual lake behind the El Dorado legend — where a gilded Muisca chief was rafted out to cast gold into the water — is presented as a deposit site for offerings to beings who arrived there.",
+  "context": "Muisca lake offerings are archaeologically confirmed; the Muisca raft in Bogotá's Gold Museum, recovered from a cave near Pasca, depicts the ceremony directly. Spanish drainage attempts from 1562 onward, including Antonio de Sepúlveda's partial cut of the rim, recovered gold and are documented in colonial records. The lake is a volcanic or impact-related depression, now a protected site where diving is prohibited.",
+  "summary": "Lake Guatavita (Spanish: Laguna Guatavita) is located in the Cordillera Oriental of the Colombian Andes in the municipality of Sesquilé in the Almeidas Province, Cundinamarca department of Colombia, 57 km (35 mi) northeast of Bogotá, the capital of Colombia. This lake is famous for being the inspiration for the legendary El Dorado.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Lake in Cundinamarca Department, Colombia",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 4.9775,
+  "longitude": -73.775,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Lake Guatavita",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lake_Guatavita",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1552915",
+  "image_file": "LagunaDeGuatavita.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/lake-guatavita.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lake Guatavita — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=lake-guatavita",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lake Guatavita in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Lake_Guatavita",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Lake Guatavita"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1552915",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1552915"
+  }
+ ],
+ "bbox": [
+  -73.775,
+  4.9775,
+  -73.775,
+  4.9775
+ ]
+}

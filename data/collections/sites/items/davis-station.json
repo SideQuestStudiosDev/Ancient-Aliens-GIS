@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "davis-station",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   77.9675,
+   -68.576667
+  ]
+ },
+ "properties": {
+  "name": "Davis Station",
+  "subtitle": "Princess Elizabeth Land, East Antarctica",
+  "country": "Antarctica (Australia)",
+  "region": "Antarctica & Southern Ocean",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "aad",
+   "vestfold-hills",
+   "oasis"
+  ],
+  "aliases": [
+   "Vestfold Hills",
+   "Australian Antarctic Division",
+   "East Antarctica"
+  ],
+  "claim": "Australia's station in the ice-free Vestfold Hills — an 'Antarctic oasis' with saline lakes — is cited among the continent's anomalous zones and as a site of restricted activity.",
+  "context": "The Vestfold Hills are a genuine ice-free oasis of about 400 km², exposed because local topography diverts the ice sheet, and the hypersaline Deep Lake is among the coldest liquid water on Earth at around −20 °C. It is a major astrobiological analogue site, and the halophilic archaea living in it are published. The Australian Antarctic Division's programme and station logs are public.",
+  "summary": "Davis Station, commonly called Davis, is one of three permanent bases and research outposts in Antarctica maintained by the Australian Antarctic Division (AAD). Davis is situated on the coast of Cooperation Sea in Princess Elizabeth Land, Ingrid Christensen Coast in the Australian Antarctic Territory, a territory claimed by Australia. Davis lies in an Antarctic oasis, a mostly ice-free area known as the Vestfold Hills.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Capital of the Australian Antarctic Territory",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -68.576667,
+  "longitude": 77.9675,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 15000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Davis Station",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Davis_Station",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1315213",
+  "image_file": "Davis_Station_November_2005.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/davis-station.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Davis Station — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=davis-station",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Davis Station in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Davis_Station",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Davis Station"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1315213",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1315213"
+  }
+ ],
+ "bbox": [
+  77.9675,
+  -68.576667,
+  77.9675,
+  -68.576667
+ ]
+}

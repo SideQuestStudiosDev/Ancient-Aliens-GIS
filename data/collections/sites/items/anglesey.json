@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "anglesey",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -4.4,
+   53.28
+  ]
+ },
+ "properties": {
+  "name": "Anglesey (Ynys Môn)",
+  "subtitle": "Wales, United Kingdom",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "druids",
+   "bryn-celli-ddu",
+   "neolithic",
+   "copper"
+  ],
+  "aliases": [
+   "Ynys Mon",
+   "Bryn Celli Ddu",
+   "Druids",
+   "Mona"
+  ],
+  "claim": "Tacitus's account of the Roman assault on the Druid stronghold, plus the solstice-aligned passage tomb at Bryn Celli Ddu, is used to cast the Druids as custodians of transmitted off-world knowledge.",
+  "context": "Anglesey holds a dense, well-excavated Neolithic and Bronze Age monument group and the Parys Mountain copper workings, mined from the Bronze Age. Druidic practice is known almost entirely through hostile Roman sources; Bryn Celli Ddu's midsummer alignment is securely demonstrated and locally achievable.",
+  "summary": "Anglesey ( ANG-gəl-see), or Ynys Môn (Welsh: [ˈənɨs ˈmoːn]), is an island off the north-west coast of Wales. It forms the majority of the county of the Isle of Anglesey, which also includes Holy Island to the west and some islets and skerries. The county borders Gwynedd across the Menai Strait to the south-east and is otherwise surrounded by the Irish Sea.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Island county in Wales",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 53.28,
+  "longitude": -4.4,
+  "celestial_body": "earth",
+  "radius_km": 30,
+  "camera_height_m": 60000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Anglesey",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Anglesey",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q168159",
+  "image_file": "View_from_the_Anglesey_Coastal_Path_(geograph_6222502).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/anglesey.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Anglesey (Ynys Môn) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=anglesey",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Anglesey (Ynys Môn) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Anglesey",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Anglesey"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q168159",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q168159"
+  }
+ ],
+ "bbox": [
+  -4.85073,
+  53.01051,
+  -3.94927,
+  53.54949
+ ]
+}

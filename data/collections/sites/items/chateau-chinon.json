@@ -1,0 +1,92 @@
+{
+ "type": "Feature",
+ "id": "chateau-chinon",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   3.9333,
+   47.0667
+  ]
+ },
+ "properties": {
+  "name": "Château-Chinon",
+  "subtitle": "Nièvre, Burgundy, France",
+  "country": "France",
+  "region": "Europe",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "sighting",
+   "morvan",
+   "burgundy"
+  ],
+  "aliases": [
+   "Chateau-Chinon",
+   "Morvan",
+   "Nièvre"
+  ],
+  "claim": "Cited among the French sighting record — the kind of rural case that fed GEPAN/GEIPAN, France's official state investigation of unidentified aerospace phenomena.",
+  "context": "France is genuinely unusual in running a public, state-funded investigation: GEIPAN, within CNES, has published its case files online since 2007. Its own statistics classify roughly a quarter of cases as unexplained for want of data (class D) — a statement about insufficient information, not about origin.",
+  "summary": "Château-Chinon is the name of two communes of the Nièvre département, in France:",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Index of articles associated with the same name",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 47.0667,
+  "longitude": 3.9333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Château-Chinon",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Ch%C3%A2teau-Chinon",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2152613",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/chateau-chinon.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Château-Chinon — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=chateau-chinon",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Château-Chinon in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Ch%C3%A2teau-Chinon",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Château-Chinon"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2152613",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2152613"
+  },
+  {
+   "href": "https://www.cnes-geipan.fr/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "GEIPAN (CNES) — official case database"
+  }
+ ],
+ "bbox": [
+  3.9333,
+  47.0667,
+  3.9333,
+  47.0667
+ ]
+}

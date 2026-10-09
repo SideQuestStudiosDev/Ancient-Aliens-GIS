@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "colombia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -74.2973,
+   4.5709
+  ]
+ },
+ "properties": {
+  "name": "Colombia",
+  "subtitle": "Republic of Colombia (regional)",
+  "country": "Colombia",
+  "region": "South America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "muisca",
+   "gold",
+   "san-agustin"
+  ],
+  "aliases": [
+   "Muisca",
+   "El Dorado",
+   "San Agustín",
+   "Ciudad Perdida"
+  ],
+  "claim": "Muisca goldwork — including the tunjo figurines and the so-called 'Gold Flyer' models that some claim resemble delta-winged aircraft — is presented as scale modelling of observed craft.",
+  "context": "The Quimbaya and Muisca figurines are catalogued votive objects, and zoologists identify the 'aircraft' forms as stylised fish, insects, bats and flying reptiles — motifs that recur across the same assemblages in unambiguous versions. Colombian goldwork used lost-wax casting and depletion gilding, techniques documented in excavated workshops. San Agustín's monumental statuary and Ciudad Perdida are the region's major archaeological complexes.",
+  "summary": "Colombia, officially the Republic of Colombia, is a country located in South America, with insular regions in North America. Colombia's mainland is bordered by the Caribbean Sea to the north, Venezuela to the east, Brazil to the southeast, Peru and Ecuador to the south and southwest, the Pacific Ocean to the west, and Panama to the northwest. Colombia is divided into 32 departments.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Country in South America",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 4.5709,
+  "longitude": -74.2973,
+  "celestial_body": "earth",
+  "radius_km": 600,
+  "camera_height_m": 1500000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Colombia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Colombia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q739",
+  "image_file": "Flag_of_Colombia.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/colombia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Colombia — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=colombia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Colombia in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Colombia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Colombia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q739",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q739"
+  }
+ ],
+ "bbox": [
+  -79.70436,
+  -0.81897,
+  -68.89024,
+  9.96077
+ ]
+}

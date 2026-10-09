@@ -1,0 +1,82 @@
+{
+ "type": "Feature",
+ "id": "naqada",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   32.726,
+   25.898
+  ]
+ },
+ "properties": {
+  "name": "Naqada",
+  "subtitle": "Qena Governorate, Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "predynastic",
+   "cemetery",
+   "nagada"
+  ],
+  "aliases": [],
+  "claim": "Elongated skulls and unusually tall skeletons from predynastic burials here are cited as a non-human or hybrid ruling lineage predating the pharaohs.",
+  "context": "Naqada defines the Naqada I–III predynastic sequence (c. 4000–3000 BC) and is central to mainstream accounts of Egyptian state formation. The skeletal series falls within modern human variation; Petrie's 19th-century 'dynastic race' reading of the material was abandoned by the mid-20th century and is not supported by later craniometric or genetic work.",
+  "summary": "Naqada (Egyptian Arabic: نقادة Naqāda; Coptic language: ⲛⲉⲕⲁⲧⲏⲣⲓⲟⲛ Nekatērion; Ancient Greek: Παμπανις Pampanis, Ancient Egyptian: Nbyt \"City of Gold\") is a town on the west bank of the Nile in Qena Governorate, Egypt, situated ca. 20 km north of Luxor. It includes the villages of Tukh, Khatara, Danfiq, and Zawayda. According to the 1960 census, it is one of the most sparsely populated areas and had only 3,000 inhabitants, mostly of the Christian faith who preserved elements of the Coptic language up until the 1930s.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Place in Qena, Egypt",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.898,
+  "longitude": 32.726,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Naqada",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Naqada",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q959859",
+  "image_file": "MbgIMG_0411.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/naqada.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Naqada — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=naqada",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Naqada in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Naqada",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Naqada"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q959859",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q959859"
+  }
+ ],
+ "bbox": [
+  32.726,
+  25.898,
+  32.726,
+  25.898
+ ]
+}

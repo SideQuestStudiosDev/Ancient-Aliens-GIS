@@ -1,0 +1,93 @@
+{
+ "type": "Feature",
+ "id": "mcmurdo-station",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   166.668235,
+   -77.846323
+  ]
+ },
+ "properties": {
+  "name": "McMurdo Station, Ross Island",
+  "subtitle": "Ross Dependency, Antarctica",
+  "country": "Antarctica (United States)",
+  "region": "Antarctica & Southern Ocean",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "usap",
+   "logistics",
+   "ross-island",
+   "neutrino"
+  ],
+  "aliases": [
+   "Ross Island",
+   "USAP",
+   "Operation Deep Freeze"
+  ],
+  "claim": "The scale of the US Antarctic Program — an airfield, a former nuclear reactor, continuous military airlift and high-profile visitors — is presented as cover for work at a site under the ice.",
+  "context": "McMurdo is the logistics hub for US Antarctic science, and its operations are published in annual USAP reports with open science plans. The PM-3A reactor operated 1962–72 and was removed; its decommissioning is documented. The research it supports is likewise public: the IceCube neutrino observatory at the Pole, ice-core palaeoclimate programmes, and the Antarctic meteorite collection that yielded the Martian meteorite ALH84001.",
+  "summary": "McMurdo Station is an American Antarctic research station on the southern tip of Ross Island. It is operated by the United States through the United States Antarctic Program (USAP), a branch of the National Science Foundation (NSF). The station is the largest community in Antarctica, capable of supporting up to 1,200 residents, though the population fluctuates seasonally; during the Antarctic night, there are fewer than two hundred people.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "American Antarctic base",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -77.846323,
+  "longitude": 166.668235,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "McMurdo Station",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/McMurdo_Station",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q498627",
+  "image_file": "McMurdo_Station_From_The_Top_Of_Observation_Hill.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mcmurdo-station.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "McMurdo Station, Ross Island — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mcmurdo-station",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "McMurdo Station, Ross Island in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/McMurdo_Station",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: McMurdo Station"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q498627",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q498627"
+  },
+  {
+   "href": "https://www.usap.gov/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "US Antarctic Program"
+  }
+ ],
+ "bbox": [
+  166.668235,
+  -77.846323,
+  166.668235,
+  -77.846323
+ ]
+}

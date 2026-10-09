@@ -1,0 +1,31 @@
+# External map services change their terms without notice. This project
+# originally shipped CARTO Dark Matter as its default basemap; CARTO began
+# requiring an API key and started answering every tile request with a 200
+# and an identical "API KEY REQUIRED" watermark. A status check passed while
+# the globe was covered in advertising.
+#
+# This job fetches tiles from three widely separated coordinates for every
+# configured endpoint and fails if they are byte-identical, so the next such
+# change is caught in a scheduled run rather than by a visitor.
+
+name: Map services health
+
+on:
+  schedule:
+    - cron: '17 6 * * 1'     # Mondays, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  probe:
+    name: Probe every configured endpoint
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check imagery, elevation and CDN
+        run: python3 scripts/check_services.py

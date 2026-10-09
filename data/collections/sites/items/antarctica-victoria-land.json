@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "antarctica-victoria-land",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   160.0,
+   -72.0
+  ]
+ },
+ "properties": {
+  "name": "Victoria Land & the Oates Coast",
+  "subtitle": "East Antarctica",
+  "country": "Antarctica (Antarctic Treaty)",
+  "region": "Antarctica & Southern Ocean",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "dry-valleys",
+   "transantarctic",
+   "piri-reis",
+   "regional"
+  ],
+  "aliases": [
+   "Oates Coast",
+   "Victoria Land",
+   "Shackleton Range",
+   "Transantarctic Mountains",
+   "Piri Reis map"
+  ],
+  "claim": "The 1513 Piri Reis map, said to show an ice-free Antarctic coastline, plus satellite images read as pyramids in the Transantarctic ranges, are presented as evidence of a civilisation beneath the ice and of a deliberately restricted continent.",
+  "context": "The Piri Reis map's southern landmass is a conventional cartographic Terra Australis, and the coastline does not match Antarctica's subglacial topography as mapped by BEDMAP radar; Charles Hapgood's correlation required substantial reprojection. Antarctica has been ice-covered for roughly 34 million years. The 'pyramids' are nunataks — glacially carved horns, the same form as the Matterhorn, common throughout the range. Access is restricted by the Antarctic Treaty's environmental protocols and by logistics, not secrecy.",
+  "summary": "Victoria Land is a region in eastern Antarctica which fronts the western side of the Ross Sea and the Ross Ice Shelf, extending southward from about 70°30'S to 78°00'S, and westward from the Ross Sea to the edge of the Antarctic Plateau. It was discovered by Captain James Clark Ross in January 1841 and named after Queen Victoria. The rocky promontory of Minna Bluff is often regarded as the southernmost point of Victoria Land, and separates the Scott Coast to the north from the Hillary Coast of the Ross Dependency to the south.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Region of Eastern Antarctica",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -72.0,
+  "longitude": 160.0,
+  "celestial_body": "earth",
+  "radius_km": 800,
+  "camera_height_m": 2000000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Victoria Land",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Victoria_Land",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q208965",
+  "image_file": "AN_-Victoria_Land.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/antarctica-victoria-land.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Victoria Land & the Oates Coast — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=antarctica-victoria-land",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Victoria Land & the Oates Coast in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Victoria_Land",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Victoria Land"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q208965",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q208965"
+  }
+ ],
+ "bbox": [
+  136.74403,
+  -79.18649,
+  183.25597,
+  -64.81351
+ ]
+}

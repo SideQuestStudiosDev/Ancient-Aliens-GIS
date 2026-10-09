@@ -1,0 +1,333 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover, maximum-scale=5">
+<title>Ancient Aliens GIS — OGC 3D Geoportal</title>
+<meta name="description" content="A 3D OGC-compliant geoportal for every location featured in Ancient Aliens: fly to the site, read the claim against the archaeological record, and jump to the sources.">
+<meta name="theme-color" content="#04070d">
+<meta name="color-scheme" content="dark">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Ancient Aliens GIS">
+<meta name="mobile-web-app-capable" content="yes">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Ancient Aliens GIS">
+<meta property="og:description" content="3D OGC geoportal of 246 Ancient Aliens locations — claim, record and context, side by side.">
+<meta property="og:image" content="assets/img/social-card.svg">
+<meta name="twitter:card" content="summary_large_image">
+
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/img/icon-180.png">
+<link rel="manifest" href="manifest.webmanifest">
+
+<link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="dns-prefetch" href="https://server.arcgisonline.com">
+<link rel="dns-prefetch" href="https://tiles.maps.eox.at">
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Rajdhani:wght@500;600;700&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/cesium@1.146.0/Build/Cesium/Widgets/widgets.css">
+<link rel="stylesheet" href="assets/css/tokens.css">
+<link rel="stylesheet" href="assets/css/base.css">
+<link rel="stylesheet" href="assets/css/app.css">
+
+<script>window.CESIUM_BASE_URL = "https://cdn.jsdelivr.net/npm/cesium@1.146.0/Build/Cesium/";</script>
+</head>
+
+<body>
+<a class="skip-link" href="#sitelist">Skip to site list</a>
+
+<div class="app" id="app" data-fx="on">
+
+  <!-- ===================================================== GLOBE STAGE -->
+  <main class="stage" aria-label="3D globe">
+    <div id="globe" role="application"
+         aria-label="Interactive 3D globe. Use the site list to navigate; arrow keys pan, plus and minus zoom."></div>
+
+    <!-- boot screen -->
+    <div class="boot" id="boot" aria-live="polite">
+      <svg class="boot__mark" viewBox="0 0 100 100" aria-hidden="true">
+        <defs>
+          <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1">
+            <stop offset="0" stop-color="#22e0f2"/><stop offset="1" stop-color="#0fb6a8"/>
+          </linearGradient>
+        </defs>
+        <g class="boot__ring" fill="none" stroke="url(#bg1)" stroke-width="1.5">
+          <circle cx="50" cy="50" r="46" stroke-dasharray="14 8" opacity=".75"/>
+          <circle cx="50" cy="50" r="36" stroke-dasharray="4 10" opacity=".5"/>
+        </g>
+        <circle cx="50" cy="50" r="26" fill="none" stroke="#22e0f2" stroke-width="2" opacity=".9"/>
+        <ellipse cx="50" cy="50" rx="26" ry="9" fill="none" stroke="#6ff0ff" stroke-width="1.2" opacity=".8"/>
+        <path d="M24 50h52M50 24v52" stroke="#0fb6a8" stroke-width=".8" opacity=".55"/>
+      </svg>
+      <div class="boot__title">Ancient Aliens GIS</div>
+      <div class="boot__bar"><i></i></div>
+      <div class="boot__msg" id="bootMsg">Initialising OGC services…</div>
+    </div>
+
+    <!-- ========================================================= TOPBAR -->
+    <div class="topbar">
+      <div class="brand">
+        <svg class="brand__mark" viewBox="0 0 24 24" aria-hidden="true" fill="none">
+          <circle cx="12" cy="12" r="9" stroke="#22e0f2" stroke-width="1.4"/>
+          <ellipse cx="12" cy="12" rx="9" ry="3.4" stroke="#6ff0ff" stroke-width="1"/>
+          <path d="M12 3v18" stroke="#0fb6a8" stroke-width="1"/>
+          <circle cx="12" cy="12" r="1.6" fill="#ff4fd8"/>
+        </svg>
+        <span class="brand__text">
+          <span class="brand__name">Ancient Aliens</span>
+          <span class="brand__sub">GIS · OGC</span>
+        </span>
+      </div>
+
+      <div class="search" role="combobox" aria-expanded="false" aria-haspopup="listbox"
+           aria-owns="searchResults" id="searchCombo">
+        <div class="search__field">
+          <svg class="search__icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+            <circle cx="6.8" cy="6.8" r="4.8" stroke="currentColor" stroke-width="1.5"/>
+            <path d="m10.5 10.5 3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          </svg>
+          <input id="searchInput" type="search" autocomplete="off" spellcheck="false"
+                 placeholder="Search sites, countries, categories…"
+                 aria-controls="searchResults" aria-autocomplete="list"
+                 aria-label="Search sites">
+          <button class="icon-btn" id="searchClear" hidden aria-label="Clear search" style="width:28px;height:28px">
+            <svg width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+              <path d="M3 3l8 8M11 3l-8 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+        <div class="search__results scroll-y" id="searchResults" role="listbox"
+             aria-label="Search results" hidden></div>
+      </div>
+
+      <button class="tools__btn" id="btnHelp" aria-label="Help and keyboard shortcuts" style="flex:none">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <circle cx="9" cy="9" r="7.2" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M6.9 6.9a2.1 2.1 0 1 1 3 1.9c-.6.3-.9.8-.9 1.4v.3" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+          <circle cx="9" cy="13" r=".85" fill="currentColor"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- ===================================================== TOOL STACK -->
+    <div class="tools" role="toolbar" aria-label="Globe tools" aria-orientation="vertical">
+      <div class="tools__group" role="radiogroup" aria-label="Scene projection">
+        <button class="tools__btn" data-scene="3D" role="radio" aria-checked="true"
+                aria-label="3D globe" title="3D globe (1)">
+          <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+            <circle cx="9" cy="9" r="7" stroke="currentColor" stroke-width="1.4"/>
+            <ellipse cx="9" cy="9" rx="7" ry="2.8" stroke="currentColor" stroke-width="1.1"/>
+            <path d="M9 2v14" stroke="currentColor" stroke-width="1.1"/>
+          </svg>
+        </button>
+        <button class="tools__btn" data-scene="COLUMBUS" role="radio" aria-checked="false"
+                aria-label="2.5D perspective map" title="2.5D perspective (2)">
+          <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+            <path d="M2 12.5 9 8l7 4.5-7 4.5-7-4.5Z" stroke="currentColor" stroke-width="1.4"/>
+            <path d="M9 8V2.5" stroke="currentColor" stroke-width="1.4" stroke-linecap="round"/>
+          </svg>
+        </button>
+        <button class="tools__btn" data-scene="2D" role="radio" aria-checked="false"
+                aria-label="Flat 2D map" title="Flat 2D map (3)">
+          <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+            <rect x="2" y="4" width="14" height="10" rx="1.2" stroke="currentColor" stroke-width="1.4"/>
+            <path d="M2 8h14M7 4v10" stroke="currentColor" stroke-width="1"/>
+          </svg>
+        </button>
+      </div>
+
+      <button class="tools__btn" id="btnGeolocate" aria-label="Show my location" title="My location (L)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <circle cx="9" cy="9" r="3" stroke="currentColor" stroke-width="1.5"/>
+          <path d="M9 1v2.4M9 14.6V17M1 9h2.4M14.6 9H17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <circle cx="9" cy="9" r="6.4" stroke="currentColor" stroke-width="1.1" opacity=".5"/>
+        </svg>
+      </button>
+
+      <button class="tools__btn" id="btnHome" aria-label="Reset view" title="Reset view (H)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <path d="M3 8.2 9 3l6 5.2V15a.8.8 0 0 1-.8.8H3.8A.8.8 0 0 1 3 15V8.2Z" stroke="currentColor" stroke-width="1.4"/>
+        </svg>
+      </button>
+
+      <button class="tools__btn" id="btnFx" aria-pressed="true" aria-label="Toggle visual effects" title="Visual FX (F)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <path d="M9 2.2 10.6 6l4-.3-2.6 3 2.6 3-4-.3L9 15.2 7.4 11.4l-4 .3 2.6-3-2.6-3 4 .3L9 2.2Z"
+                stroke="currentColor" stroke-width="1.3" stroke-linejoin="round"/>
+        </svg>
+      </button>
+
+      <button class="tools__btn" id="btnPanel" aria-label="Toggle side panel" title="Toggle panel (Tab)">
+        <svg width="18" height="18" viewBox="0 0 18 18" fill="none" aria-hidden="true">
+          <rect x="2" y="3" width="14" height="12" rx="1.2" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M7 3v12" stroke="currentColor" stroke-width="1.4"/>
+        </svg>
+      </button>
+    </div>
+
+    <!-- ======================================================= READOUT -->
+    <div class="readout" id="readout" aria-hidden="true">
+      <div class="readout__row"><span>LAT</span><b id="roLat">—</b><span>LON</span><b id="roLon">—</b></div>
+      <div class="readout__row"><span>ELEV</span><b id="roElev">—</b><span>CAM</span><b id="roCam">—</b></div>
+      <div class="readout__row"><span>CRS</span><b>EPSG:4326</b><span id="roScene">3D</span></div>
+    </div>
+
+    <div class="tiles-busy" id="tilesBusy" hidden aria-live="polite">
+      <span class="tiles-busy__spin" aria-hidden="true"></span>
+      <span id="tilesBusyText">Streaming imagery…</span>
+    </div>
+
+    <div class="attrib" id="attrib">
+      <button class="attrib__toggle" id="attribToggle" type="button"
+              aria-expanded="false" aria-controls="attribBody"
+              aria-label="Show data attribution">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <circle cx="8" cy="8" r="6.4" stroke="currentColor" stroke-width="1.3"/>
+          <path d="M8 7v4.2" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/>
+          <circle cx="8" cy="4.9" r=".9" fill="currentColor"/>
+        </svg>
+      </button>
+      <div class="attrib__body" id="attribBody"></div>
+    </div>
+    <div class="toasts" id="toasts" aria-live="polite" aria-atomic="false"></div>
+  </main>
+
+  <!-- ========================================================== PANEL -->
+  <aside class="panel" id="panel" data-snap="peek" aria-label="Site browser">
+    <div class="panel__grab" id="panelGrab" role="button" tabindex="0"
+         aria-label="Drag to resize panel. Press Enter to cycle panel size."></div>
+
+    <div class="panel__tabs" role="tablist" aria-label="Panel sections">
+      <button class="panel__tab" role="tab" id="tabSites" aria-controls="paneSites" aria-selected="true">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path d="M8 14.5s5-4.3 5-8a5 5 0 0 0-10 0c0 3.7 5 8 5 8Z" stroke="currentColor" stroke-width="1.4"/>
+          <circle cx="8" cy="6.4" r="1.8" stroke="currentColor" stroke-width="1.3"/>
+        </svg><span>Sites</span>
+      </button>
+      <button class="panel__tab" role="tab" id="tabDetail" aria-controls="paneDetail" aria-selected="false">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="3" y="2" width="10" height="12" rx="1.2" stroke="currentColor" stroke-width="1.4"/>
+          <path d="M5.5 5.5h5M5.5 8h5M5.5 10.5h3" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"/>
+        </svg><span>Dossier</span>
+      </button>
+      <button class="panel__tab" role="tab" id="tabLayers" aria-controls="paneLayers" aria-selected="false">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path d="M8 2 2 5l6 3 6-3-6-3Z" stroke="currentColor" stroke-width="1.3"/>
+          <path d="m2 8.5 6 3 6-3M2 11.5l6 3 6-3" stroke="currentColor" stroke-width="1.3"/>
+        </svg><span>Layers</span>
+      </button>
+      <button class="panel__tab" role="tab" id="tabServices" aria-controls="paneServices" aria-selected="false">
+        <svg width="15" height="15" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <rect x="2" y="3" width="12" height="4" rx="1" stroke="currentColor" stroke-width="1.3"/>
+          <rect x="2" y="9" width="12" height="4" rx="1" stroke="currentColor" stroke-width="1.3"/>
+          <circle cx="4.6" cy="5" r=".7" fill="currentColor"/><circle cx="4.6" cy="11" r=".7" fill="currentColor"/>
+        </svg><span>OGC</span>
+      </button>
+    </div>
+
+    <div class="panel__body">
+      <!-- ---------------------------------------------------- SITES ---- -->
+      <section class="tabpane is-active" id="paneSites" role="tabpanel" aria-labelledby="tabSites" tabindex="0">
+        <div class="filters">
+          <div class="filters__row">
+            <select class="select" id="filterRegion" aria-label="Filter by region"></select>
+            <select class="select" id="sortBy" aria-label="Sort sites">
+              <option value="name">A → Z</option>
+              <option value="region">By region</option>
+              <option value="category">By category</option>
+              <option value="distance">Nearest to view</option>
+            </select>
+          </div>
+          <div class="filters__row filters__row--wrap" id="categoryChips" role="group" aria-label="Filter by category"></div>
+          <div class="filters__meta">
+            <span id="resultCount">—</span>
+            <button class="btn btn--sm btn--ghost" id="btnResetFilters">Reset</button>
+          </div>
+        </div>
+        <div class="sitelist scroll-y" id="sitelist" role="list" aria-label="Site list"></div>
+      </section>
+
+      <!-- --------------------------------------------------- DETAIL ---- -->
+      <section class="tabpane" id="paneDetail" role="tabpanel" aria-labelledby="tabDetail" tabindex="0">
+        <div class="detail" id="detail"></div>
+      </section>
+
+      <!-- --------------------------------------------------- LAYERS ---- -->
+      <section class="tabpane" id="paneLayers" role="tabpanel" aria-labelledby="tabLayers" tabindex="0">
+        <div class="layers scroll-y" id="layersPane"></div>
+      </section>
+
+      <!-- ------------------------------------------------- SERVICES ---- -->
+      <section class="tabpane" id="paneServices" role="tabpanel" aria-labelledby="tabServices" tabindex="0">
+        <div class="svc scroll-y" id="servicesPane"></div>
+      </section>
+    </div>
+  </aside>
+</div>
+
+<!-- ============================================================ MODAL -->
+<div class="modal" id="helpModal" role="dialog" aria-modal="true" aria-labelledby="helpTitle" hidden>
+  <div class="modal__box">
+    <div class="modal__head">
+      <h2 id="helpTitle" style="font-size:var(--fs-md)">Ancient Aliens GIS</h2>
+      <button class="icon-btn" id="helpClose" aria-label="Close">
+        <svg width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+          <path d="M4 4l8 8M12 4l-8 8" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+    <div class="modal__body scroll-y">
+      <h4>What this is</h4>
+      <p>A 3D geoportal for every location referenced in the television series
+      <em>Ancient Aliens</em>. Each site is presented in three parts — the
+      <strong>Claim</strong> made on screen, the <strong>Record</strong> as
+      described by Wikipedia and archaeological sources, and
+      <strong>Context</strong> noting where the two diverge.</p>
+      <p class="note">This is a reference and mapping tool, not an endorsement. The
+      <em>Claim</em> section reports what the series asserts. The
+      <em>Record</em> and <em>Context</em> sections report the mainstream
+      scholarly position. Where a claim has no evidentiary support, the
+      dossier says so.</p>
+
+      <h4>Navigating</h4>
+      <ul>
+        <li><strong>Drag</strong> to orbit · <strong>scroll / pinch</strong> to zoom · <strong>right-drag / two-finger drag</strong> to tilt.</li>
+        <li>Pick any site from the list or search to fly there.</li>
+        <li>Click a marker on the globe to open its dossier.</li>
+      </ul>
+
+      <h4>Keyboard</h4>
+      <ul>
+        <li><span class="kbd">/</span> focus search · <span class="kbd">Esc</span> close</li>
+        <li><span class="kbd">1</span><span class="kbd">2</span><span class="kbd">3</span> 3D / 2.5D / 2D projection</li>
+        <li><span class="kbd">H</span> reset view · <span class="kbd">L</span> my location · <span class="kbd">F</span> toggle FX</li>
+        <li><span class="kbd">Tab</span>-navigable throughout; <span class="kbd">↑</span><span class="kbd">↓</span> move through search results</li>
+      </ul>
+
+      <h4>Standards &amp; sources</h4>
+      <p>Sites are served as <strong>OGC API — Features</strong> (GeoJSON, EPSG:4326 /
+      CRS84). Imagery arrives over <strong>OGC WMTS</strong> and XYZ tile services;
+      terrain is a quantised-mesh elevation service. See the
+      <strong>OGC</strong> tab for live endpoints and declared conformance classes.</p>
+      <p class="note">Descriptive text in the <em>Record</em> section is drawn from
+      Wikipedia and is reused under
+      <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener">CC BY-SA 4.0</a>.
+      Imagery and basemap attributions appear at the lower-right of the globe.</p>
+    </div>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/cesium@1.146.0/Build/Cesium/Cesium.js"></script>
+<script type="module" src="assets/js/main.js"></script>
+<noscript>
+  <div style="position:fixed;inset:0;display:grid;place-content:center;padding:2rem;background:#04070d;color:#cfe3ec;text-align:center;font-family:system-ui;z-index:999">
+    <h1 style="font-size:1.2rem">Ancient Aliens GIS requires JavaScript</h1>
+    <p>The site catalogue is also published as plain GeoJSON at
+      <code>data/collections/sites/items.json</code>.</p>
+  </div>
+</noscript>
+</body>
+</html>

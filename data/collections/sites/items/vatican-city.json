@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "vatican-city",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   12.4525,
+   41.9025
+  ]
+ },
+ "properties": {
+  "name": "Vatican City",
+  "subtitle": "Vatican City State",
+  "country": "Vatican City",
+  "region": "Europe",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "vatican-observatory",
+   "archives",
+   "specola"
+  ],
+  "aliases": [
+   "Holy See",
+   "Vatican Observatory",
+   "Specola Vaticana",
+   "Vatican Secret Archives"
+  ],
+  "claim": "The Vatican Observatory's work, its LUCIFER-instrumented telescope on Mount Graham, and senior clerics' public remarks about baptising extraterrestrials are presented as evidence the Church knows more than it says, with proof held in the Apostolic Archive.",
+  "context": "The Vatican Observatory is a working research institution publishing in refereed journals, and its Mount Graham collaboration is a real partnership with the University of Arizona. LUCIFER is an acronym for a German-built near-infrared spectrograph, since renamed LUCI. The Apostolic Archive has been open to credentialed researchers since 1881; its catalogue is published.",
+  "summary": "Vatican City, officially the Vatican City State (Italian: Stato della Città del Vaticano; Latin: Status Civitatis Vaticanae), often shortened as the Vatican, is a landlocked sovereign city-state in Southern Europe. Ruled by the pope, it is an enclave within the city of Rome, Italy, and serves as the administrative centre of the Catholic Church. Vatican City is governed by the See of Rome, commonly known as the Holy See, itself a sovereign entity under international law, which maintains its temporal power, governance, diplomacy, and spiritual independence.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Enclaved Holy See's independent city-state",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 41.9025,
+  "longitude": 12.4525,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Vatican City",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Vatican_City",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q237",
+  "image_file": "Flag_of_Vatican_City_(2023–present).svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/vatican-city.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Vatican City — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=vatican-city",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Vatican City in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Vatican_City",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Vatican City"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q237",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q237"
+  },
+  {
+   "href": "https://www.vaticanobservatory.va/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "Vatican Observatory"
+  }
+ ],
+ "bbox": [
+  12.4525,
+  41.9025,
+  12.4525,
+  41.9025
+ ]
+}

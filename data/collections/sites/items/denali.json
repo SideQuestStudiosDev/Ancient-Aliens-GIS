@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "denali",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -151.006389,
+   63.069167
+  ]
+ },
+ "properties": {
+  "name": "Denali",
+  "subtitle": "Denali National Park, Alaska, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "highest-peak",
+   "alaska",
+   "1986-jal-case"
+  ],
+  "aliases": [
+   "Mount McKinley",
+   "Alaska",
+   "Mt. Denali"
+  ],
+  "claim": "North America's highest summit anchors the Alaskan material, including the November 1986 Japan Air Lines Flight 1628 case in which a crew reported two small craft and then a vast object tracking them, with the captain's account corroborated by ground radar.",
+  "context": "JAL 1628 is a genuinely strong case: Captain Kenju Terauchi's report, the FAA's investigation and division chief John Callahan's later testimony about the radar data are all on record. The FAA concluded the radar returns were a split image of the aircraft itself, and the visual elements have been attributed to Jupiter and Mars, unusually bright and low on the horizon at that latitude and date. Terauchi maintained his account and was reassigned to a desk.",
+  "summary": "Denali ( də-NAH-lee; Koyukon: Deenaalee), federally designated as Mount McKinley, is the highest mountain peak in North America, with a summit elevation of 20,310 feet (6,190 m) above sea level. Its vertical relief above the surrounding plateaus is one of the greatest on Earth, measuring about 18,000 feet (5,500 meters). With a topographic prominence of 20,156 feet (6,144 m) and a topographic isolation of 4,621.1 miles (7,436.9 km), Denali is the third most prominent and third-most isolated peak on Earth, after Mount Everest and Aconcagua.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Highest mountain in North America",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 63.069167,
+  "longitude": -151.006389,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 30000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Denali",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Denali",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q130018",
+  "image_file": "Wonder_Lake_and_Denali.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/denali.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Denali — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=denali",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Denali in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Denali",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Denali"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q130018",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q130018"
+  }
+ ],
+ "bbox": [
+  -151.006389,
+  63.069167,
+  -151.006389,
+  63.069167
+ ]
+}

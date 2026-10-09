@@ -1,0 +1,54 @@
+# Ancient Aliens GIS — conformant OGC deployment.
+#
+#   docker compose up
+#   open http://localhost:8080/geoserver          (admin / change-me-now)
+#
+# GitHub Pages cannot run GeoServer: Pages serves static files, with no Java
+# servlet container and no database. This compose file is the other half of
+# the deployment story — the same catalogue, served by GeoServer with full
+# OGC query-parameter support:
+#
+#   OGC API - Features  http://localhost:8080/geoserver/ogc/features/v1
+#   WFS 2.0.0           .../geoserver/wfs?service=WFS&version=2.0.0&request=GetCapabilities
+#   WMS 1.3.0           .../geoserver/wms?service=WMS&version=1.3.0&request=GetCapabilities
+#
+# Point APP.geoserverFeatures in assets/js/config.js at the OGC API landing
+# page and the browser client switches over unchanged — the feature schema is
+# identical by construction, because scripts/build_geoserver.py derives the
+# shapefile and the SLD from the same catalogue as the static tree.
+
+services:
+  geoserver:
+    # Pinned: GeoServer's config format changes between minor versions, and an
+    # unpinned tag would silently invalidate the data directory below.
+    image: docker.osgeo.org/geoserver:2.26.2
+    container_name: aagis-geoserver
+    ports:
+      - "8080:8080"
+    environment:
+      # Change these before exposing the container to anything.
+      GEOSERVER_ADMIN_USER: admin
+      GEOSERVER_ADMIN_PASSWORD: change-me-now
+      # CORS, so a browser client on another origin (GitHub Pages, say) can
+      # read the service directly.
+      CORS_ENABLED: "true"
+      CORS_ALLOWED_ORIGINS: "*"
+      CORS_ALLOWED_METHODS: "GET,POST,HEAD,OPTIONS"
+      CORS_ALLOWED_HEADERS: "*"
+      # Extensions: OGC API - Features is still a community/extension module.
+      INSTALL_EXTENSIONS: "true"
+      STABLE_EXTENSIONS: "ogcapi-features,csw,inspire"
+      SKIP_DEMO_DATA: "true"
+      # 246 small features need no heap to speak of.
+      EXTRA_JAVA_OPTS: "-Xms256m -Xmx1g -XX:+UseG1GC"
+      PROXY_BASE_URL: "http://localhost:8080/geoserver"
+    volumes:
+      - ./data_dir:/opt/geoserver_data:rw
+      - ./layers:/opt/aagis_layers:ro
+    healthcheck:
+      test: ["CMD-SHELL", "curl -fsS http://localhost:8080/geoserver/web/ > /dev/null || exit 1"]
+      interval: 20s
+      timeout: 8s
+      retries: 12
+      start_period: 120s
+    restart: unless-stopped

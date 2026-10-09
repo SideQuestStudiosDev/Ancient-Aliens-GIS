@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "mojave-desert",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -116.5,
+   35.0
+  ]
+ },
+ "properties": {
+  "name": "Mojave Desert",
+  "subtitle": "California / Nevada / Arizona, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "integratron",
+   "giant-rock",
+   "contactee",
+   "edwards-afb"
+  ],
+  "aliases": [
+   "Giant Rock",
+   "Integratron",
+   "George Van Tassel",
+   "Landers"
+  ],
+  "claim": "The cradle of the 1950s contactee movement: George Van Tassel's Giant Rock conventions drew thousands, and he built the Integratron at Landers to plans he said were dictated by Venusians — all within sight of the Edwards and China Lake test ranges.",
+  "context": "Giant Rock and the Integratron are both still standing, and the conventions are well documented in photographs and periodicals. The Integratron does not function as described and no rejuvenation effect has been demonstrated. The proximity to Edwards AFB matters: the Mojave was where the X-planes flew, and the region's sighting record tracks the flight-test calendar closely.",
+  "summary": "The Mojave Desert (Mohave: Hayikwiir Mat'aar; Spanish: Desierto de Mojave) is a desert in the rain shadow of the southern Sierra Nevada mountains and Transverse Ranges in the Southwestern United States. Named after the indigenous Mohave people, it is located primarily in southeastern California and southwestern Nevada, with small portions extending into Arizona and Utah.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Desert in the southwestern United States",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 35.0,
+  "longitude": -116.5,
+  "celestial_body": "earth",
+  "radius_km": 300,
+  "camera_height_m": 700000,
+  "camera_pitch_deg": -68,
+  "wikipedia_title": "Mojave Desert",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mojave_Desert",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q184355",
+  "image_file": "Death_Valley_-_Mesquite_Flat_Dunes_-_dune_showing_stoss,_brink_and_slip_surfaces.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mojave-desert.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mojave Desert — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mojave-desert",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mojave Desert in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mojave_Desert",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mojave Desert"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q184355",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q184355"
+  }
+ ],
+ "bbox": [
+  -119.78991,
+  32.30507,
+  -113.21009,
+  37.69493
+ ]
+}

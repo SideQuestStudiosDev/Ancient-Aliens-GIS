@@ -1,0 +1,79 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "$id": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/queryables.json",
+ "title": "Ancient Aliens locations — queryable properties",
+ "type": "object",
+ "properties": {
+  "name": {
+   "type": "string",
+   "title": "Site name"
+  },
+  "country": {
+   "type": "string",
+   "title": "Country or territory"
+  },
+  "region": {
+   "type": "string",
+   "title": "World region",
+   "enum": [
+    "Africa",
+    "Middle East",
+    "Europe",
+    "South Asia",
+    "East Asia",
+    "Southeast Asia & Oceania",
+    "North America",
+    "Central America & Caribbean",
+    "South America",
+    "Antarctica & Southern Ocean",
+    "Oceans & Marine",
+    "Beyond Earth"
+   ]
+  },
+  "category": {
+   "type": "string",
+   "title": "Site category",
+   "enum": [
+    "anomaly",
+    "artifact",
+    "city",
+    "geoglyph",
+    "landform",
+    "megalithic",
+    "military",
+    "offworld",
+    "pyramid",
+    "region",
+    "research",
+    "sacred",
+    "ufo",
+    "underground",
+    "underwater"
+   ]
+  },
+  "location_precision": {
+   "type": "string",
+   "title": "Positional precision",
+   "enum": [
+    "exact",
+    "approximate",
+    "area",
+    "uncertain"
+   ]
+  },
+  "celestial_body": {
+   "type": "string",
+   "enum": [
+    "earth",
+    "moon"
+   ]
+  },
+  "tags": {
+   "type": "array",
+   "items": {
+    "type": "string"
+   }
+  }
+ },
+ "additionalProperties": false
+}

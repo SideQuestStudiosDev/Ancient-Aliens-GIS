@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "black-sea-turkey",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   35.0,
+   41.7
+  ]
+ },
+ "properties": {
+  "name": "Black Sea (Turkish Coast)",
+  "subtitle": "Southern Black Sea shelf",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "underwater",
+  "category_label": "Submerged",
+  "tags": [
+   "flood-hypothesis",
+   "marine",
+   "submerged"
+  ],
+  "aliases": [
+   "Black Sea deluge",
+   "Ryan-Pitman"
+  ],
+  "claim": "Drowned shorelines and freshwater molluscs on the shelf are presented as the literal Flood described to Noah — and as the event survivors were warned about from above.",
+  "context": "Ryan and Pitman's 1997 catastrophic-inflow hypothesis is a real and actively debated piece of marine geology. Later coring and sea-level work support a Holocene reconnection with the Mediterranean but mostly argue for a slower, less violent rise than the original model, and some workers reverse the flow direction. Either way it is a datable geological event with no inferable agency.",
+  "summary": "The Black Sea deluge is the best known of three hypothetical flood scenarios for the Late Quaternary history of the Black Sea that have been proposed since 1997. One other flood scenario proposes a rapid, even catastrophic, rise in sea level of the Black Sea. The maximum depth of the Bosporus and Dardanelles straits is 110 meters (360 ft) and 103 meters (338 ft), respectively, which would put them above the ocean levels in the Last Glacial Maximum, some 125 meters (410 ft) lower than in present times.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Hypothetical flood scenario",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 41.7,
+  "longitude": 35.0,
+  "celestial_body": "earth",
+  "radius_km": 350,
+  "camera_height_m": 600000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Black Sea deluge hypothesis",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q2046809",
+  "image_file": "Map_of_the_Black_Sea_with_bathymetry_and_surrounding_relief.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/black-sea-turkey.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Black Sea (Turkish Coast) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=black-sea-turkey",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Black Sea (Turkish Coast) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Black_Sea_deluge_hypothesis",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Black Sea deluge hypothesis"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q2046809",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q2046809"
+  }
+ ],
+ "bbox": [
+  30.78901,
+  38.55591,
+  39.21099,
+  44.84409
+ ]
+}

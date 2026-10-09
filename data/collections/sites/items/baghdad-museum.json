@@ -1,0 +1,85 @@
+{
+ "type": "Feature",
+ "id": "baghdad-museum",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   44.3858,
+   33.3286
+  ]
+ },
+ "properties": {
+  "name": "National Museum of Iraq",
+  "subtitle": "Baghdad, Iraq",
+  "country": "Iraq",
+  "region": "Middle East",
+  "category": "artifact",
+  "category_label": "Artefact Locus",
+  "tags": [
+   "museum",
+   "baghdad-battery",
+   "looting"
+  ],
+  "aliases": [
+   "Baghdad Battery",
+   "Baghdad"
+  ],
+  "claim": "The 'Baghdad Battery' — a ceramic jar with a copper cylinder and iron rod — is presented as a Parthian galvanic cell, implying electroplating and electric light in antiquity.",
+  "context": "Replicas do produce a fraction of a volt with an acidic electrolyte, but no wires, conductors or connected sets have ever been excavated, and no object from the period shows electroplating. The accepted reading is a storage vessel for sacred scrolls, matching similar jars from Seleucia whose organic contents survived. The museum's catastrophic 2003 looting is separately documented.",
+  "summary": "The Iraq Museum (Arabic: المتحف العراقي) is the national museum of Iraq, located in Baghdad. The Iraq Museum contains relics from the Mesopotamian, Abbasid, and Persian civilizations. It was looted during and after the 2003 Invasion of Iraq.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "National museum of Iraq",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 33.3286,
+  "longitude": 44.3858,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Iraq Museum",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Iraq_Museum",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q521251",
+  "image_file": "المتحف_الوطني_العراقي_01.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/baghdad-museum.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "National Museum of Iraq — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=baghdad-museum",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "National Museum of Iraq in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Iraq_Museum",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Iraq Museum"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q521251",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q521251"
+  }
+ ],
+ "bbox": [
+  44.3858,
+  33.3286,
+  44.3858,
+  33.3286
+ ]
+}

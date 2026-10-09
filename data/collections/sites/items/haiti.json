@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "haiti",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -72.346389,
+   18.536389
+  ]
+ },
+ "properties": {
+  "name": "Port-au-Prince",
+  "subtitle": "Ouest Department, Haiti",
+  "country": "Haiti",
+  "region": "Central America & Caribbean",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "vodou",
+   "taino",
+   "2010-earthquake",
+   "enriquillo-fault"
+  ],
+  "aliases": [
+   "Haiti",
+   "Hispaniola",
+   "Vodou",
+   "Taino"
+  ],
+  "claim": "Referenced for Vodou's lwa — spirits who mount and speak through practitioners — read as channelled non-human intelligences, and for Taíno traditions of beings who came from the sky.",
+  "context": "Vodou is a syncretic religion with West African, Taíno and Catholic components, studied extensively by anthropologists; possession trance is a documented, culturally patterned phenomenon found in religious traditions worldwide. The 2010 earthquake was a magnitude 7.0 rupture on the Enriquillo–Plantain Garden fault, a known strike-slip system.",
+  "summary": "Port-au-Prince ( PORT oh PRINSS; French: [pɔʁ o pʁɛ̃s] ; Haitian Creole: Pòtoprens, [pɔtopɣɛ̃s]) is the capital and most populous city of Haiti. The city's population was estimated at 1,200,000 in 2022 with the metropolitan area estimated at a population of 2,618,894. The metropolitan area is defined by the IHSI as including the communes of Port-au-Prince, Delmas, Cité Soleil, Tabarre, Carrefour, and Pétion-Ville.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Capital of Haiti",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 18.536389,
+  "longitude": -72.346389,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 15000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Port-au-Prince",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Port-au-Prince",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q34261",
+  "image_file": "US_Navy_100221-N-5787K-002_An_aerial_view_of_the_logistical_area_near_the_port_in_Port-au-Prince_(cropped2).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/haiti.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Port-au-Prince — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=haiti",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Port-au-Prince in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Port-au-Prince",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Port-au-Prince"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q34261",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q34261"
+  }
+ ],
+ "bbox": [
+  -72.346389,
+  18.536389,
+  -72.346389,
+  18.536389
+ ]
+}

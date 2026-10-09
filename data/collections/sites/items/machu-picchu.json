@@ -1,0 +1,90 @@
+{
+ "type": "Feature",
+ "id": "machu-picchu",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -72.545556,
+   -13.163333
+  ]
+ },
+ "properties": {
+  "name": "Machu Picchu — Temple of the Three Windows",
+  "subtitle": "Cusco Region, Peru",
+  "country": "Peru",
+  "region": "South America",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "unesco",
+   "inca",
+   "ashlar",
+   "intihuatana",
+   "archaeoastronomy"
+  ],
+  "aliases": [
+   "Peru",
+   "Inca",
+   "Temple of Three Windows",
+   "Intihuatana",
+   "Cusco"
+  ],
+  "claim": "Mortarless ashlar fitted so tightly a blade will not enter, on a 2,430 m ridge between fault lines, with solstice-aligned windows and the Intihuatana stone, is presented as impossible without stone-softening or cutting technology.",
+  "context": "Machu Picchu is a 15th-century royal estate of Pachacuti, identified in Spanish colonial land documents. Inca masonry technique is directly observable: unfinished walls, abandoned blocks with pounding scars, hammerstones and the quarry inside the site itself all survive. Blocks were shaped by repeated percussion and fitted by trial, which is slow but needs no exotic method; the dry joints and trapezoidal openings are deliberate seismic design that has held through five centuries of earthquakes.",
+  "summary": "Machu Picchu is a 15th-century Inca citadel located in the Eastern Cordillera of southern Peru on a mountain ridge at 2,430 meters (7,970 ft). It is situated in the Machupicchu District of Urubamba Province about 80 kilometers (50 miles) northwest of Cusco, above the Sacred Valley and along the Urubamba River, which forms a deep canyon with a subtropical mountain climate.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "15th-century Inca citadel in Peru",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -13.163333,
+  "longitude": -72.545556,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -25,
+  "wikipedia_title": "Machu Picchu",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Machu_Picchu",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q676203",
+  "image_file": "Machu_Picchu,_2023_(012).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/machu-picchu.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Machu Picchu — Temple of the Three Windows — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=machu-picchu",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Machu Picchu — Temple of the Three Windows in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Machu_Picchu",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Machu Picchu"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q676203",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q676203"
+  }
+ ],
+ "bbox": [
+  -72.545556,
+  -13.163333,
+  -72.545556,
+  -13.163333
+ ]
+}

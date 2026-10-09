@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "wucheng-sichuan",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   104.0667,
+   30.65
+  ]
+ },
+ "properties": {
+  "name": "Sichuan Basin — 'Wucheng' Reference",
+  "subtitle": "Sichuan Province, China",
+  "country": "China",
+  "region": "East Asia",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "sanxingdui",
+   "bronze-age",
+   "unresolved-reference"
+  ],
+  "aliases": [
+   "Wucheng",
+   "Sanxingdui",
+   "Sichuan"
+  ],
+  "claim": "A Sichuan locality is referenced in connection with bronze masks bearing enormous protruding eyes and non-human proportions, presented as portraits of visitors.",
+  "context": "The place name as given does not resolve to a published archaeological site in Sichuan — the mapped Wucheng sites are in Jiangxi and Shandong — so this entry is positioned on the Sichuan Basin as a label rather than a location. The imagery described matches Sanxingdui (c. 1200 BC) near Guanghan, whose bronze masks and 2.6 m standing figure are stylised ritual objects from a distinct Shu culture, excavated with crucibles, moulds and casting debris on site.",
+  "summary": "Sichuan is an inland province in Southwestern China. It is located in the Sichuan Basin and Tibetan Plateau—between the Jinsha River to the west, the Daba Mountains to the north, and the Yunnan–Guizhou Plateau to the south. Its capital city is Chengdu, and the province's population stands at 83 million.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Province in Southwestern China",
+  "location_precision": "uncertain",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 30.65,
+  "longitude": 104.0667,
+  "celestial_body": "earth",
+  "radius_km": 350,
+  "camera_height_m": 900000,
+  "camera_pitch_deg": -70,
+  "wikipedia_title": "Sichuan",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Sichuan",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q19770",
+  "image_file": "1_huanglong_2.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/wucheng-sichuan.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Sichuan Basin — 'Wucheng' Reference — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=wucheng-sichuan",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Sichuan Basin — 'Wucheng' Reference in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Sichuan",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Sichuan"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q19770",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q19770"
+  }
+ ],
+ "bbox": [
+  100.41205,
+  27.50591,
+  107.72135,
+  33.79409
+ ]
+}

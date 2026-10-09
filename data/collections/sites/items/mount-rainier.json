@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "mount-rainier",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -121.7603,
+   46.8523
+  ]
+ },
+ "properties": {
+  "name": "Mount Rainier",
+  "subtitle": "Pierce County, Washington, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1947",
+   "kenneth-arnold",
+   "flying-saucer",
+   "cascades"
+  ],
+  "aliases": [
+   "Kenneth Arnold",
+   "flying saucer",
+   "Washington",
+   "Tahoma"
+  ],
+  "claim": "On 24 June 1947 the pilot Kenneth Arnold reported nine crescent objects weaving between Rainier and Mount Adams at an estimated 1,700 mph — the sighting that gave the world the phrase 'flying saucer' and opened the modern era.",
+  "context": "Arnold's report is the origin point of the entire phenomenon as a public category, and the term itself came from a reporter's compression of his description of how the objects moved, not their shape. Proposed explanations include a formation of pelicans, lenticular cloud and mirage effects over the Cascades; Arnold rejected all of them and never recanted. Rainier is an active, heavily glaciated stratovolcano and the most dangerous volcano in the contiguous US by lahar risk.",
+  "summary": "On June 24, 1947, private pilot Kenneth Arnold saw what he described as a string of nine shiny unidentified flying objects flying past Mount Rainier at speeds that he estimated to be at least 1,200 miles per hour (1,900 km/h).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Alleged 1947 sighting in Washington, US",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 46.8523,
+  "longitude": -121.7603,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Kenneth Arnold UFO sighting",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q4424090",
+  "image_file": "Chicago_Sun_1947-06-26-2_Flying_Saucer_headline-th.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mount-rainier.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Rainier — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mount-rainier",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Rainier in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Kenneth_Arnold_UFO_sighting",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Kenneth Arnold UFO sighting"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q4424090",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q4424090"
+  }
+ ],
+ "bbox": [
+  -121.7603,
+  46.8523,
+  -121.7603,
+  46.8523
+ ]
+}

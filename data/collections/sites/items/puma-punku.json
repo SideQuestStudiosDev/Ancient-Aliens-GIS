@@ -1,0 +1,97 @@
+{
+ "type": "Feature",
+ "id": "puma-punku",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -68.67993,
+   -16.56169
+  ]
+ },
+ "properties": {
+  "name": "Pumapunku & Tiwanaku",
+  "subtitle": "La Paz Department, Bolivia",
+  "country": "Bolivia",
+  "region": "South America",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "tiwanaku",
+   "h-blocks",
+   "andesite",
+   "gateway-of-the-sun"
+  ],
+  "aliases": [
+   "Puma Punku",
+   "Tiahuanaco",
+   "Tiwanaku",
+   "H-blocks",
+   "Gate of the Sun",
+   "La Paz"
+  ],
+  "claim": "The H-blocks of Pumapunku — andesite cut to interchangeable profiles with flat faces, sharp interior angles and drilled channels — plus 130-tonne sandstone slabs, are presented as machine-made to a standard template, with Arthur Posnansky's archaeoastronomical dating pushing the site to 15,000 BC.",
+  "context": "Tiwanaku is radiocarbon-dated to roughly AD 500–1000, not 15,000 BC; Posnansky's figure came from assuming the obliquity of the ecliptic at construction and has been superseded by direct dating. Sandstone came from Kimsachata 10 km south and andesite from the Copacabana peninsula across the lake, both identified petrologically. Jean-Pierre Protzen and Stella Nair showed the interchangeable profiles were produced from templates by percussion and grinding — modular prefabrication, which is a real and impressive engineering choice. Unfinished blocks on site preserve the stages.",
+  "summary": "Pumapunku or Puma Punku (Aymara and Quechua 'Gate of the Puma') is a 6th-century T-shaped and strategically aligned man-made terraced platform mound with a sunken court and monumental structure on top, near Tiwanaku, La Paz, Bolivia. It is part of the Pumapunku complex, at the Tiwanaku Site, an ancient archeological complex in the Andes of western Bolivia that has been designated a UNESCO World Heritage Site.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Terraced platform mound in Bolivia",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -16.56169,
+  "longitude": -68.67993,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 900,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Pumapunku",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pumapunku",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q665223",
+  "image_file": "Puma_Punku14.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/puma-punku.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Pumapunku & Tiwanaku — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=puma-punku",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Pumapunku & Tiwanaku in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Pumapunku",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Pumapunku"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q665223",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q665223"
+  },
+  {
+   "href": "https://whc.unesco.org/en/list/567/",
+   "rel": "related",
+   "type": "text/html",
+   "title": "UNESCO — Tiwanaku World Heritage listing"
+  }
+ ],
+ "bbox": [
+  -68.67993,
+  -16.56169,
+  -68.67993,
+  -16.56169
+ ]
+}

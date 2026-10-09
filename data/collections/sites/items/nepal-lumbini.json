@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "nepal-lumbini",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   83.2767,
+   27.4833
+  ]
+ },
+ "properties": {
+  "name": "Lumbini",
+  "subtitle": "Rupandehi District, Nepal",
+  "country": "Nepal",
+  "region": "South Asia",
+  "category": "sacred",
+  "category_label": "Sacred Site",
+  "tags": [
+   "unesco",
+   "buddha",
+   "ashoka-pillar",
+   "pilgrimage"
+  ],
+  "aliases": [
+   "Buddha",
+   "Siddhartha Gautama",
+   "Maya Devi",
+   "Nepal"
+  ],
+  "claim": "The Buddha's birth narrative — conception by a white elephant entering his mother's side in a dream, a child who walks and speaks at once, thirty-two bodily marks — is read as a managed hybrid birth, with Shambhala as the custodians' base.",
+  "context": "Lumbini's identification rests on the Ashokan pillar erected c. 249 BC, whose inscription names the birthplace; excavation has exposed earlier timber and brick shrine phases beneath the Maya Devi temple. The miraculous birth elements belong to Buddhist hagiography and appear in later texts, not the earliest strata of the canon.",
+  "summary": "Lumbini is a Buddhist pilgrimage site in the Rupandehi District of Lumbini Province in Nepal. According to sacred texts and Buddhist commentaries, Queen Maya gave birth to Siddhartha Gautama, the Buddha, in Lumbini, c. 563 BCE. Lumbini is one of four most sacred pilgrimage sites pivotal in the life of the Buddha.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Historical city in Lumbini Province, Nepal",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 27.4833,
+  "longitude": 83.2767,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Lumbini",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Lumbini",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q9213",
+  "image_file": "BRP_Lumbini_Mayadevi_temple.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nepal-lumbini.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Lumbini — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nepal-lumbini",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Lumbini in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Lumbini",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Lumbini"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q9213",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q9213"
+  }
+ ],
+ "bbox": [
+  83.2767,
+  27.4833,
+  83.2767,
+  27.4833
+ ]
+}

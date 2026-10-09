@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "mount-erebus",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   167.153333,
+   -77.529722
+  ]
+ },
+ "properties": {
+  "name": "Mount Erebus",
+  "subtitle": "Ross Island, Antarctica",
+  "country": "Antarctica (Antarctic Treaty)",
+  "region": "Antarctica & Southern Ocean",
+  "category": "landform",
+  "category_label": "Landform",
+  "tags": [
+   "volcano",
+   "lava-lake",
+   "anorthoclase",
+   "flight-901"
+  ],
+  "aliases": [
+   "Erebus",
+   "Ross Island",
+   "lava lake"
+  ],
+  "claim": "The southernmost active volcano, with a persistent lava lake and a long association with the 1979 Air New Zealand Flight 901 disaster, is presented as a vent or power source for a facility beneath the ice.",
+  "context": "Erebus has hosted a convecting phonolite lava lake since at least 1972 and is continuously monitored by the Mount Erebus Volcano Observatory; it is one of very few volcanoes worldwide with a long-lived lake, which is its actual scientific importance, along with the large anorthoclase crystals it ejects. Flight 901 killed 257 people and was investigated twice: the Mahon Royal Commission attributed it to an altered flight plan and the whiteout 'sector whiteout' illusion, not pilot error.",
+  "summary": "Mount Erebus is the southernmost active volcano on Earth, located on Ross Island in the Ross Dependency in Antarctica. With a summit elevation of 3,792 metres (12,441 ft), it is the second most prominent mountain in Antarctica (after Mount Vinson) and the second-highest volcano in Antarctica (after the dormant Mount Sidley). It is the highest point on Ross Island, which is also home to three inactive volcanoes: Mount Terror, Mount Bird, and Mount Terra Nova.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Volcano on Ross Island, Antarctica",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -77.529722,
+  "longitude": 167.153333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 20000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Mount Erebus",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Mount_Erebus",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q188982",
+  "image_file": "Mt_erebus.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/mount-erebus.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Mount Erebus — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=mount-erebus",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Mount Erebus in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Mount_Erebus",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Mount Erebus"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q188982",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q188982"
+  }
+ ],
+ "bbox": [
+  167.153333,
+  -77.529722,
+  167.153333,
+  -77.529722
+ ]
+}

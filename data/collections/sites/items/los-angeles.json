@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "los-angeles",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -118.2437,
+   34.0522
+  ]
+ },
+ "properties": {
+  "name": "Los Angeles",
+  "subtitle": "California, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "1942",
+   "battle-of-los-angeles",
+   "wwii",
+   "media"
+  ],
+  "aliases": [
+   "California",
+   "Battle of Los Angeles",
+   "Hollywood"
+  ],
+  "claim": "On the night of 24–25 February 1942, anti-aircraft batteries fired more than 1,400 rounds at an object over Los Angeles that searchlights held and that shells appeared not to damage — photographed by the Los Angeles Times and presented as a craft surviving a sustained barrage.",
+  "context": "The event is fully documented and occurred eleven weeks after Pearl Harbor, amid genuine invasion fear and the previous day's Japanese submarine shelling of Ellwood. The Army initially blamed a false alarm, then jittery nerves; later analysis points to a weather balloon launched that night, with searchlight beams converging in smoke and haze. The famous photograph was substantially retouched before publication, a routine practice of the period. Five civilian deaths resulted from the barrage.",
+  "summary": "The Battle of Los Angeles, also known as the Great Los Angeles Air Raid, is the name given by contemporary sources to a rumored attack on the continental United States by Imperial Japan and the subsequent anti-aircraft artillery barrage which took place from late February 24, to early February 25, 1942, over Los Angeles, California. Five civilians died during the barrage and four Japanese aircraft were erroneously reported shot down. The incident occurred less than three months after the U.S. entered World War II in response to the Imperial Japanese Navy's surprise attack on Pearl Harbor, and one day after the bombardment of Ellwood near Santa Barbara on 23 February.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Anti-aircraft shelling during WWII against an imagined invader",
+  "location_precision": "exact",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 34.0522,
+  "longitude": -118.2437,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 25000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Battle of Los Angeles",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1066650",
+  "image_file": "Battle_of_Los_Angeles_LATimes.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/los-angeles.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Los Angeles — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=los-angeles",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Los Angeles in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Battle_of_Los_Angeles",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Battle of Los Angeles"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1066650",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1066650"
+  }
+ ],
+ "bbox": [
+  -118.2437,
+  34.0522,
+  -118.2437,
+  34.0522
+ ]
+}

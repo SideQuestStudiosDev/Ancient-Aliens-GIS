@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "penn-state",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -77.86,
+   40.798333
+  ]
+ },
+ "properties": {
+  "name": "Pennsylvania State University",
+  "subtitle": "State College, Pennsylvania, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "academia",
+   "technosignatures",
+   "exoplanets"
+  ],
+  "aliases": [
+   "State College",
+   "Penn State",
+   "Pennsylvania"
+  ],
+  "claim": "Appears as an interview location, with its exoplanet and technosignature researchers cited to support the likelihood of detectable extraterrestrial civilisations.",
+  "context": "Penn State's Center for Exoplanets and Habitable Worlds does lead genuine technosignature work, including Jason Wright's programme and the Breakthrough Listen analyses. That research is explicitly a search: its published results to date are non-detections and upper limits, which is the opposite of the inference drawn from its existence.",
+  "summary": "The Pennsylvania State University (Penn State or PSU) is a public state-related land-grant research university with campuses and facilities throughout Pennsylvania, United States. Founded in 1855 as the Farmers' High School of Pennsylvania, Penn State was named the state's first land-grant university eight years later. Its primary campus, known as Penn State University Park, is located in State College and College Township in Centre County.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Public university in Pennsylvania, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.798333,
+  "longitude": -77.86,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 3000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Pennsylvania State University",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Pennsylvania_State_University",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q739627",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/penn-state.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Pennsylvania State University — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=penn-state",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Pennsylvania State University in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Pennsylvania_State_University",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Pennsylvania State University"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q739627",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q739627"
+  }
+ ],
+ "bbox": [
+  -77.86,
+  40.798333,
+  -77.86,
+  40.798333
+ ]
+}

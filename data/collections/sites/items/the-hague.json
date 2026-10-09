@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "the-hague",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   4.31,
+   52.08
+  ]
+ },
+ "properties": {
+  "name": "The Hague — World Forum",
+  "subtitle": "South Holland, Netherlands",
+  "country": "Netherlands",
+  "region": "Europe",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "diplomacy",
+   "conference",
+   "disclosure"
+  ],
+  "aliases": [
+   "Den Haag",
+   "World Forum",
+   "ICC"
+  ],
+  "claim": "Cited as a venue for disclosure conferences and as the seat of international justice that would handle first contact — framing a legal and diplomatic architecture already quietly in place.",
+  "context": "The Hague hosts the ICJ, ICC and OPCW, and the World Forum is a commercial conference centre used by a wide range of organisers. There is no treaty body with a mandate over extraterrestrial contact; the nearest instruments are the 1967 Outer Space Treaty and COSPAR's planetary-protection protocols, which address contamination, not diplomacy.",
+  "summary": "The Hague (Dutch: Den Haag, short for 's-Gravenhage) is the capital city of the South Holland province of the Netherlands. With a population of over half a million, it is the third-largest city in the Netherlands. Situated on the west coast facing the North Sea, The Hague is the country's administrative centre and its seat of government, and has been described as the country's de facto capital since the time of the Dutch Republic, while Amsterdam is the official capital of the Netherlands.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City and municipality in the Netherlands",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 52.08,
+  "longitude": 4.31,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "The Hague",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/The_Hague",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q36600",
+  "image_file": "Den_Haag_Skyline_1.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/the-hague.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "The Hague — World Forum — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=the-hague",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "The Hague — World Forum in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/The_Hague",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: The Hague"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q36600",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q36600"
+  }
+ ],
+ "bbox": [
+  4.31,
+  52.08,
+  4.31,
+  52.08
+ ]
+}

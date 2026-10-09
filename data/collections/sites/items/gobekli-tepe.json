@@ -1,0 +1,95 @@
+{
+ "type": "Feature",
+ "id": "gobekli-tepe",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   38.921667,
+   37.223611
+  ]
+ },
+ "properties": {
+  "name": "Göbekli Tepe",
+  "subtitle": "Şanlıurfa Province, Turkey",
+  "country": "Turkey",
+  "region": "Middle East",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "unesco",
+   "neolithic",
+   "t-pillars",
+   "pre-pottery",
+   "archaeoastronomy"
+  ],
+  "aliases": [
+   "Sanliurfa",
+   "Urfa",
+   "Potbelly Hill",
+   "Karahan Tepe"
+  ],
+  "claim": "A monumental enclosure complex 7,000 years older than Stonehenge, built before agriculture and then deliberately buried, is presented as proof of an advanced instructor civilisation — with the Pillar 43 'Vulture Stone' read as a dated record of a comet impact or a star map.",
+  "context": "Göbekli Tepe genuinely overturned assumptions about Neolithic social complexity and is one of the most important excavations of the last half-century. It is also demonstrably local: the limestone is from the same ridge, unfinished pillars lie in situ in the bedrock quarry, and flint tools, animal bone and grinding equipment show a hunter-forager community capable of organised labour. Recent work has revised the 'deliberate backfill' model toward gradual slope accumulation. The 'comet' reading of Pillar 43 has been contested in the literature on both statistical and iconographic grounds.",
+  "summary": "Göbekli Tepe (Turkish pronunciation: [ɟœbecˈli teˈpe] 'Potbelly Hill'; Kurdish: Girê Mirazan or Xerabreşkê, 'Wish Hill') is a Neolithic archaeological site in Upper Mesopotamia (al-Jazira) in modern-day Turkey. The settlement was inhabited from around 9500 BCE to at least 8000 BCE, during the Pre-Pottery Neolithic. It is known for its large circular structures that contain large stone pillars – among the world's oldest known megaliths.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Neolithic archaeological site in Turkey",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 37.223611,
+  "longitude": 38.921667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 700,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Göbekli Tepe",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q214944",
+  "image_file": "Göbekli_Tepe,_Urfa.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/gobekli-tepe.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Göbekli Tepe — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=gobekli-tepe",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Göbekli Tepe in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/G%C3%B6bekli_Tepe",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Göbekli Tepe"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q214944",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q214944"
+  },
+  {
+   "href": "https://www.dainst.org/projekt/-/project-display/25953",
+   "rel": "related",
+   "type": "text/html",
+   "title": "German Archaeological Institute — Göbekli Tepe project"
+  }
+ ],
+ "bbox": [
+  38.921667,
+  37.223611,
+  38.921667,
+  37.223611
+ ]
+}

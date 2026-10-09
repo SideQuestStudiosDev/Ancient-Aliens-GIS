@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "princeton-ias",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -74.667778,
+   40.331667
+  ]
+ },
+ "properties": {
+  "name": "Institute for Advanced Study",
+  "subtitle": "Princeton, New Jersey, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "research",
+  "category_label": "Research Centre",
+  "tags": [
+   "physics",
+   "einstein",
+   "wormholes",
+   "oppenheimer"
+  ],
+  "aliases": [
+   "Princeton",
+   "IAS",
+   "Einstein",
+   "New Jersey"
+  ],
+  "claim": "Cited for the theoretical physics that would make interstellar travel possible — Einstein–Rosen bridges, warp metrics and the Oppenheimer-era work — implying that the mechanism is known and the application classified.",
+  "context": "The Einstein–Rosen paper of 1935 is real and foundational, and traversable-wormhole and Alcubierre-metric solutions do exist within general relativity. Every known version requires exotic matter with negative energy density in quantities with no demonstrated source, and quantum energy conditions constrain it severely. The literature is open and actively published — which is how its difficulties are known.",
+  "summary": "The Institute for Advanced Study (IAS) is a center for theoretical research and intellectual inquiry, designed and funded by the U.S. government, the Rockefeller Foundation and the Carnegie Endowment, located in Princeton, New Jersey. It has served as the academic home of internationally preeminent scholars, including Albert Einstein, J. Robert Oppenheimer, Emmy Noether, Hermann Weyl, John von Neumann, Michael Walzer, Clifford Geertz, Freeman Dyson and Kurt Gödel, many of whom had emigrated from Europe to the United States.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Postgraduate center in New Jersey, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 40.331667,
+  "longitude": -74.667778,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 2500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Institute for Advanced Study",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Institute_for_Advanced_Study",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q635642",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/princeton-ias.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Institute for Advanced Study — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=princeton-ias",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Institute for Advanced Study in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Institute_for_Advanced_Study",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Institute for Advanced Study"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q635642",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q635642"
+  }
+ ],
+ "bbox": [
+  -74.667778,
+  40.331667,
+  -74.667778,
+  40.331667
+ ]
+}

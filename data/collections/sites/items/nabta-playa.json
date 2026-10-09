@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "nabta-playa",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   30.7256,
+   22.507967
+  ]
+ },
+ "properties": {
+  "name": "Nabta Playa",
+  "subtitle": "Nubian Desert, southern Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "archaeoastronomy",
+   "neolithic",
+   "calendar-circle",
+   "sahara"
+  ],
+  "aliases": [
+   "Nubian Desert",
+   "calendar circle",
+   "Sahara"
+  ],
+  "claim": "A Neolithic stone circle in the Sahara aligned on Sirius and Orion is read as a star map left for, or by, visitors — and as evidence that the knowledge behind Giza arrived from the desert long before Egypt was unified.",
+  "context": "Nabta Playa is a genuinely significant archaeoastronomical site, roughly a millennium older than Stonehenge, built by cattle pastoralists around a seasonal lake. The alignments plausibly track the summer solstice and the heliacal rising of Sirius, which signalled the rains. The debate among specialists is over which stars and how precisely — not over human authorship.",
+  "summary": "Nabta Playa was once a large endorheic basin (a temporary lake, or \"playa\") in the Nubian Desert, located approximately 800 kilometers south of modern-day Cairo or about 100 kilometers west of Abu Simbel in southern Egypt, 22.51° north, 30.73° east. Today the region is characterized by numerous archaeological sites. The Nabta Playa archaeological site, one of the earliest of the Nubian Neolithic Period, is dated to circa 7500 BC.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Region of archaeological sites in the Nubian Desert",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 22.507967,
+  "longitude": 30.7256,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1500,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Nabta Playa",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Nabta_Playa",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q1535226",
+  "image_file": "Calendar_aswan.JPG"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/nabta-playa.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Nabta Playa — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=nabta-playa",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Nabta Playa in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Nabta_Playa",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Nabta Playa"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q1535226",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q1535226"
+  }
+ ],
+ "bbox": [
+  30.7256,
+  22.507967,
+  30.7256,
+  22.507967
+ ]
+}

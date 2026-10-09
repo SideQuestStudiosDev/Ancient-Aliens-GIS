@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "montevecchia",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   9.383333,
+   45.7
+  ]
+ },
+ "properties": {
+  "name": "Montevecchia",
+  "subtitle": "Brianza, Lombardy, Italy",
+  "country": "Italy",
+  "region": "Europe",
+  "category": "megalithic",
+  "category_label": "Megalithic",
+  "tags": [
+   "terraces",
+   "claimed-pyramids",
+   "lombardy"
+  ],
+  "aliases": [
+   "Milan",
+   "Brianza",
+   "Italian pyramids"
+  ],
+  "claim": "Three terraced hills near Milan, reported to mirror Orion's belt and to share the Giza pyramids' slope angle, are promoted as Europe's lost pyramid complex.",
+  "context": "The hills are natural moraine and bedrock features, agriculturally terraced over centuries for vines — a standard Brianza landscape practice. No excavation has produced built structure, and no Italian archaeological authority recognises them as monuments. Orion correlations are easy to generate from any three raised points.",
+  "summary": "Montevecchia (Italian: [ˌmonteˈvɛkkja]; Brianzöö: Muntavégia) is a comune (municipality) in the Province of Lecco in the Italian region of Lombardy, located about 30 kilometres (19 mi) northeast of Milan and about 15 kilometres (9 mi) south of Lecco. As of 31 December 2004, it had a population of 2,477 and an area of 5.9 square kilometres (2.3 mi2).",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Comune in Lombardy, Italy",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 45.7,
+  "longitude": 9.383333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 5000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Montevecchia",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Montevecchia",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q42260",
+  "image_file": ""
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/montevecchia.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Montevecchia — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=montevecchia",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Montevecchia in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Montevecchia",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Montevecchia"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q42260",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q42260"
+  }
+ ],
+ "bbox": [
+  9.383333,
+  45.7,
+  9.383333,
+  45.7
+ ]
+}

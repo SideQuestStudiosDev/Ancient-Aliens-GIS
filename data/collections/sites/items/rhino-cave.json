@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "rhino-cave",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   21.7333,
+   18.75
+  ]
+ },
+ "properties": {
+  "name": "Rhino Cave, Tsodilo Hills",
+  "subtitle": "Ngamiland, Botswana",
+  "country": "Botswana",
+  "region": "Africa",
+  "category": "underground",
+  "category_label": "Subterranean",
+  "tags": [
+   "unesco",
+   "rock-art",
+   "middle-stone-age",
+   "python"
+  ],
+  "aliases": [
+   "Tsodilo",
+   "Python Cave",
+   "Female Hill"
+  ],
+  "claim": "A python-shaped rock panel with hundreds of worked cupules, and deliberately burned spearpoints of non-local stone, are offered as a 70,000-year-old ritual to serpent beings from the sky.",
+  "context": "Sheila Coulson's excavations did report ritual destruction of finely made points in the cave, which — if the Middle Stone Age dating holds — would place symbolic behaviour here remarkably early. That is an argument about the antiquity of human ritual, not its authorship. The Tsodilo Hills hold over 4,500 paintings and remain sacred to Ju/'hoansi and Hambukushu communities today.",
+  "summary": "The Tsodilo Hills (Tswana: Lefelo la Tsodilo) are a UNESCO World Heritage Site (WHS), consisting of rock art, rock shelters, depressions, and caves in Botswana, Southern Africa.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "UNESCO World Heritage Site in Botswana",
+  "location_precision": "approximate",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 18.75,
+  "longitude": 21.7333,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 6000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Tsodilo",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tsodilo",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q214007",
+  "image_file": "Tsodilo_rock_paintings_1.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/rhino-cave.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Rhino Cave, Tsodilo Hills — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=rhino-cave",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Rhino Cave, Tsodilo Hills in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tsodilo",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tsodilo"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q214007",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q214007"
+  }
+ ],
+ "bbox": [
+  21.7333,
+  18.75,
+  21.7333,
+  18.75
+ ]
+}

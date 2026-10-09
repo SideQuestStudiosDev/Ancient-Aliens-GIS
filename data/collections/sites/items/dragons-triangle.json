@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "dragons-triangle",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   135.0,
+   25.0
+  ]
+ },
+ "properties": {
+  "name": "Dragon's Triangle",
+  "subtitle": "Philippine Sea, south of Japan",
+  "country": "",
+  "region": "Oceans & Marine",
+  "category": "anomaly",
+  "category_label": "Anomaly Zone",
+  "tags": [
+   "devils-sea",
+   "seamounts",
+   "submarine-volcanism",
+   "marine"
+  ],
+  "aliases": [
+   "Devil's Sea",
+   "Ma-no Umi",
+   "Pacific",
+   "Miyake"
+  ],
+  "claim": "A Pacific counterpart to the Bermuda Triangle, where Japanese vessels are said to disappear and where the government reportedly declared a danger zone after losing survey ships in the 1950s.",
+  "context": "The single documented loss is the research vessel Kaiyō Maru No. 5 in 1952, which sank investigating the eruption of Myōjin-shō — a submarine volcano that was actively erupting, a fully sufficient cause. Japanese authorities have stated no danger-zone declaration of the kind described was made. The area is genuinely hazardous: it sits on the Izu–Bonin volcanic arc with frequent seamount eruptions and typhoon tracks.",
+  "summary": "The Devil's Sea (Japanese: 魔の海, Hepburn: Ma no Umi), also known as the Devil's triangle, the Dragon's Triangle, the Formosa Triangle and the Pacific Bermuda Triangle, is a region of the Pacific, south of Tokyo. The Devil's Sea is sometimes considered a paranormal location, though the veracity of these claims has been questioned.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Site of reported paranormal activity",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 25.0,
+  "longitude": 135.0,
+  "celestial_body": "earth",
+  "radius_km": 700,
+  "camera_height_m": 1500000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Devil's Sea",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Devil's_Sea",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q252633",
+  "image_file": "Map_of_Izu_Islands.png"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/dragons-triangle.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Dragon's Triangle — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=dragons-triangle",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Dragon's Triangle in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Devil's_Sea",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Devil's Sea"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q252633",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q252633"
+  }
+ ],
+ "bbox": [
+  128.06176,
+  18.71182,
+  141.93824,
+  31.28818
+ ]
+}

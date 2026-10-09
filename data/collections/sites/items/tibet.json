@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "tibet",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   88.0,
+   31.5
+  ]
+ },
+ "properties": {
+  "name": "Tibet",
+  "subtitle": "Tibetan Plateau (regional)",
+  "country": "China",
+  "region": "East Asia",
+  "category": "region",
+  "category_label": "Broad Region",
+  "tags": [
+   "regional",
+   "shambhala",
+   "plateau",
+   "bon"
+  ],
+  "aliases": [
+   "Shambhala",
+   "Tibetan Plateau",
+   "Shangri-La",
+   "Bön"
+  ],
+  "claim": "Tibet is cast as the guardian of an underground city — Shambhala or Agartha — reached through tunnels, holding records from before the Flood; the Nazi Ahnenerbe expeditions of 1938–39 are offered as evidence that states took this seriously.",
+  "context": "Shambhala appears in the Kalachakra tantra as a pure land, a spiritual rather than geographic destination within its own tradition; Tibetan commentators treat its location as not physically accessible. Ernst Schäfer's 1938–39 expedition is documented in its own publications and collected ornithological, ethnographic and anthropometric data in service of Nazi racial theory. It found no city.",
+  "summary": "Tibet is a region in the western part of East Asia, covering much of the Tibetan Plateau. It is the homeland of the Tibetans. Other ethnic groups also reside on the plateau, including Mongols, the Lhoba, Monpa, Qiang, Sherpa, and since the 20th century, Han and Hui peoples.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Ethno-cultural region in Asia",
+  "location_precision": "area",
+  "coordinate_source": "authored",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 31.5,
+  "longitude": 88.0,
+  "celestial_body": "earth",
+  "radius_km": 900,
+  "camera_height_m": 1800000,
+  "camera_pitch_deg": -72,
+  "wikipedia_title": "Tibet",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Tibet",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q17252",
+  "image_file": "Tibet-claims.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/tibet.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Tibet — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=tibet",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Tibet in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Tibet",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Tibet"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q17252",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q17252"
+  }
+ ],
+ "bbox": [
+  78.51792,
+  23.4152,
+  97.48208,
+  39.5848
+ ]
+}

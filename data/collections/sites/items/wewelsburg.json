@@ -1,0 +1,94 @@
+{
+ "type": "Feature",
+ "id": "wewelsburg",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   8.651667,
+   51.606389
+  ]
+ },
+ "properties": {
+  "name": "Wewelsburg Castle",
+  "subtitle": "Büren, North Rhine-Westphalia, Germany",
+  "country": "Germany",
+  "region": "Europe",
+  "category": "military",
+  "category_label": "Military / Secure",
+  "tags": [
+   "ss",
+   "himmler",
+   "occult",
+   "black-sun"
+  ],
+  "aliases": [
+   "Himmler",
+   "Black Sun",
+   "Schwarze Sonne",
+   "SS"
+  ],
+  "claim": "Himmler's renovated castle, with its dark-green sun wheel inlaid in the north-tower floor, is presented as the ritual centre of an SS programme to contact non-human intelligences and recover Hyperborean technology.",
+  "context": "The SS occupation of Wewelsburg (1934–45) is well documented, and the castle now houses a permanent museum on SS ideology. The 'Black Sun' name and its later esoteric meanings are post-war inventions; the ornament is an SS design of uncertain intent. The Ahnenerbe's pseudo-scholarship — Tibet and Antarctic expeditions included — was real, politically driven and produced no technology.",
+  "summary": "Wewelsburg (German pronunciation: [ˈveːvl̩sbʊɐ̯k]) is a Renaissance castle located in the village of Wewelsburg, which is a district of the town of Büren, Westphalia, in the Landkreis of Paderborn in the northeast of North Rhine-Westphalia, Germany. The castle has a triangular layout, with three round towers connected by massive walls. After 1934 it was used by the Schutzstaffel (SS) under Heinrich Himmler and was to be expanded into a complex which would serve as the central SS cult-site.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Renaissance castle located in the village of Wewelsburg",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 51.606389,
+  "longitude": 8.651667,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Wewelsburg",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Wewelsburg",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q637827",
+  "image_file": "Wewelsburg2010_b_(cropped).jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/wewelsburg.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Wewelsburg Castle — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=wewelsburg",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Wewelsburg Castle in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Wewelsburg",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Wewelsburg"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q637827",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q637827"
+  },
+  {
+   "href": "https://www.wewelsburg.de/",
+   "rel": "canonical",
+   "type": "text/html",
+   "title": "Kreismuseum Wewelsburg — SS history exhibition"
+  }
+ ],
+ "bbox": [
+  8.651667,
+  51.606389,
+  8.651667,
+  51.606389
+ ]
+}

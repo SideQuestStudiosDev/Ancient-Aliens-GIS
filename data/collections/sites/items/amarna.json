@@ -1,0 +1,86 @@
+{
+ "type": "Feature",
+ "id": "amarna",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   30.896389,
+   27.645278
+  ]
+ },
+ "properties": {
+  "name": "Amarna (Akhetaten)",
+  "subtitle": "Minya Governorate, Egypt",
+  "country": "Egypt",
+  "region": "Africa",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "akhenaten",
+   "new-kingdom",
+   "planned-city"
+  ],
+  "aliases": [
+   "Tell el-Amarna",
+   "Akhetaten",
+   "Akhenaten"
+  ],
+  "claim": "Akhenaten's abrupt imposition of a single sun-disc god, his elongated portraiture, and the city raised from nothing in a few years are presented as evidence that the pharaoh was a hybrid or an extraterrestrial emissary of the Aten.",
+  "context": "Amarna art is a deliberate royal style, applied to the whole court and abandoned after Akhenaten's death; skeletal remains from the Amarna cemeteries show ordinary human morphology. The Aten cult has traceable antecedents in earlier solar theology at Heliopolis, and the city's speed of construction is explained by mud-brick cores with stone facing and a conscripted workforce.",
+  "summary": "Amarna (Arabic: العمارنة, romanized: al-ʿAmārna) is an extensive ancient Egyptian archaeological site containing the ruins of Akhetaten (Ancient Egyptian: 𓈌𓐰𓏏𓐱𓉐𓇋𓏏𓐰𓈖𓐰𓇳, romanized: ꜣḫt-jtn), the capital city during the late Eighteenth Dynasty. The city was established in 1346 BC, built at the direction of the Pharaoh Akhenaten, and abandoned shortly after his death in 1332 BC.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Akhenaten's capital of Egypt, 1346–1332 BC",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 27.645278,
+  "longitude": 30.896389,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 4000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Amarna",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Amarna",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q5736",
+  "image_file": "Small_aten_temple.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/amarna.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Amarna (Akhetaten) — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=amarna",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Amarna (Akhetaten) in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Amarna",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Amarna"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q5736",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q5736"
+  }
+ ],
+ "bbox": [
+  30.896389,
+  27.645278,
+  30.896389,
+  27.645278
+ ]
+}

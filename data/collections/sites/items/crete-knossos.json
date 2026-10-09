@@ -1,0 +1,89 @@
+{
+ "type": "Feature",
+ "id": "crete-knossos",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   25.163056,
+   35.298056
+  ]
+ },
+ "properties": {
+  "name": "Crete — Knossos",
+  "subtitle": "Heraklion, Crete, Greece",
+  "country": "Greece",
+  "region": "Europe",
+  "category": "city",
+  "category_label": "Ancient City",
+  "tags": [
+   "minoan",
+   "labyrinth",
+   "bronze-age",
+   "linear-a"
+  ],
+  "aliases": [
+   "Knossos",
+   "Minoan",
+   "Labyrinth",
+   "Minotaur",
+   "Linear A"
+  ],
+  "claim": "The Minotaur is read as a genetic hybrid produced in a laboratory under the palace, with the labyrinth as its containment and undeciphered Linear A as the suppressed record.",
+  "context": "Knossos is a multi-storey Bronze Age palace complex whose storerooms, light-wells, drainage and workshops explain the 'labyrinth' impression directly; Arthur Evans named the culture after the legend, not the reverse. Linear B was deciphered as Greek by Ventris in 1952 and records inventories and rations; Linear A remains unread chiefly because the corpus is small and the underlying language unknown. Bull-leaping frescoes document the cult that the myth most likely refracts.",
+  "summary": "Knossos (Ancient Greek: Κνωσσός, romanized: Knōssós; Greek: Κνωσός, romanized: Knōsós; Linear B: 𐀒𐀜𐀰 Ko-no-so) is an archaeological site and ancient urban centre in Crete, Greece. It is located within the southern periphery of Heraklion, about 5 km (3.1 mi) south of the city's historic centre. The site was occupied from the Neolithic period into the first millennium AD and became the largest and best-known centre of the Minoan civilisation.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "Archaeological site and Minoan palace complex in Heraklion, Crete",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 35.298056,
+  "longitude": 25.163056,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Knossos",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Knossos",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q173527",
+  "image_file": "Crete_integrated_map-en.svg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/crete-knossos.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Crete — Knossos — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=crete-knossos",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Crete — Knossos in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Knossos",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Knossos"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q173527",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q173527"
+  }
+ ],
+ "bbox": [
+  25.163056,
+  35.298056,
+  25.163056,
+  35.298056
+ ]
+}

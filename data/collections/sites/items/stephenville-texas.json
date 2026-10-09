@@ -1,0 +1,87 @@
+{
+ "type": "Feature",
+ "id": "stephenville-texas",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -98.2375,
+   32.209722
+  ]
+ },
+ "properties": {
+  "name": "Stephenville",
+  "subtitle": "Erath County, Texas, United States",
+  "country": "United States",
+  "region": "North America",
+  "category": "ufo",
+  "category_label": "UFO Incident",
+  "tags": [
+   "2008",
+   "radar",
+   "mufon",
+   "f16"
+  ],
+  "aliases": [
+   "Texas",
+   "Erath County",
+   "2008 Stephenville"
+  ],
+  "claim": "In January 2008 dozens of witnesses around Stephenville reported a silent object around a mile wide with F-16s in pursuit; FAA radar data obtained under FOIA was said to show an uncorrelated target tracking toward President Bush's Crawford ranch.",
+  "context": "The witness volume and the FOIA radar release are real and make this one of the better-documented recent US cases. The Air Force initially denied, then confirmed, that ten F-16s from the 457th Fighter Squadron were conducting training in the airspace that evening — a reversal that drove much of the suspicion. Analysts disagree over whether the uncorrelated returns represent a discrete object or transponder-off traffic and radar artefacts.",
+  "summary": "Stephenville is a city in and the county seat of Erath County, Texas, United States. It sits on the North Bosque River, which rises nearby. Founded in 1854, it is home to Tarleton State University.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "City in Texas, US",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": 32.209722,
+  "longitude": -98.2375,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 12000,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Stephenville, Texas",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Stephenville,_Texas",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q981525",
+  "image_file": "Downtown_Stephenville_2024.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/stephenville-texas.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Stephenville — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=stephenville-texas",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Stephenville in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Stephenville,_Texas",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Stephenville, Texas"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q981525",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q981525"
+  }
+ ],
+ "bbox": [
+  -98.2375,
+  32.209722,
+  -98.2375,
+  32.209722
+ ]
+}

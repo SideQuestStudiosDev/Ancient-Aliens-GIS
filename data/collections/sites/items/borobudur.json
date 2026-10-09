@@ -1,0 +1,88 @@
+{
+ "type": "Feature",
+ "id": "borobudur",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   110.204,
+   -7.608
+  ]
+ },
+ "properties": {
+  "name": "Borobudur",
+  "subtitle": "Magelang, Central Java, Indonesia",
+  "country": "Indonesia",
+  "region": "Southeast Asia & Oceania",
+  "category": "pyramid",
+  "category_label": "Pyramid / Temple",
+  "tags": [
+   "unesco",
+   "buddhist",
+   "stupa",
+   "mandala",
+   "java"
+  ],
+  "aliases": [
+   "Magelang",
+   "Java",
+   "Sailendra"
+  ],
+  "claim": "A nine-tier stone mandala of some two million blocks, assembled without mortar, interlocked to survive eruptions and earthquakes, then abandoned and buried under ash for centuries, is presented as built to withstand a cataclysm foreseen from outside.",
+  "context": "Borobudur is a 9th-century Sailendra monument whose 2,672 relief panels narrate specific Buddhist texts — the Lalitavistara, Jatakas and Gandavyuha — identifying its builders and their programme precisely. Interlocking dry masonry is standard in Javanese candi architecture. Its decline follows the shift of Javanese power east and the spread of Islam; the Merapi ash burial is well dated.",
+  "summary": "Borobudur, also transcribed Barabudur (Indonesian: Candi Borobudur, Javanese: ꦕꦤ꧀ꦝꦶꦧꦫꦧꦸꦝꦸꦂ, romanized: Candhi Barabudhur), is a 9th-century Mahayana Buddhist temple in Magelang Regency, near the town of Muntilan, northwest of the city of Yogyakarta, in Central Java, Indonesia.",
+  "summary_source": "Wikipedia (CC BY-SA 4.0)",
+  "short_description": "9th-century Buddhist temple in Java, Indonesia",
+  "location_precision": "exact",
+  "coordinate_source": "wikipedia",
+  "coordinate_reference_system": "http://www.opengis.net/def/crs/OGC/1.3/CRS84",
+  "latitude": -7.608,
+  "longitude": 110.204,
+  "celestial_body": "earth",
+  "radius_km": null,
+  "camera_height_m": 1200,
+  "camera_pitch_deg": -40.0,
+  "wikipedia_title": "Borobudur",
+  "wikipedia_url": "https://en.wikipedia.org/wiki/Borobudur",
+  "wikipedia_verified": true,
+  "wikidata_id": "Q42798",
+  "image_file": "Pradaksina.jpg"
+ },
+ "links": [
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items/borobudur.json",
+   "rel": "self",
+   "type": "application/geo+json",
+   "title": "Borobudur — this document"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/collections/sites/items.json",
+   "rel": "collection",
+   "type": "application/geo+json",
+   "title": "Ancient Aliens sites"
+  },
+  {
+   "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/?site=borobudur",
+   "rel": "alternate",
+   "type": "text/html",
+   "title": "Borobudur in the 3D geoportal"
+  },
+  {
+   "href": "https://en.wikipedia.org/wiki/Borobudur",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikipedia: Borobudur"
+  },
+  {
+   "href": "https://www.wikidata.org/wiki/Q42798",
+   "rel": "describedby",
+   "type": "text/html",
+   "title": "Wikidata: Q42798"
+  }
+ ],
+ "bbox": [
+  110.204,
+  -7.608,
+  110.204,
+  -7.608
+ ]
+}
