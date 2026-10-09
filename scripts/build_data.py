@@ -4,7 +4,9 @@ Build the static OGC API - Features tree for Ancient Aliens GIS.
 
   python3 scripts/build_data.py              # enrich from upstream, then build
   python3 scripts/build_data.py --offline    # build from the committed cache
-  python3 scripts/build_data.py --check      # validate, write nothing
+  python3 scripts/build_data.py --check      # validate the catalogue
+  python3 scripts/build_data.py --check-reproducible
+                                             # assert data/ matches the source
 
 Set SOURCE_DATE_EPOCH to pin the timestamp written into the generated
 documents, which makes the build byte-for-byte reproducible.
@@ -530,14 +532,19 @@ STATIC_LIMITATIONS = [
 ]
 
 
-def build_timestamp() -> str:
-    """The build time stamped into the generated documents.
+# The three places a wall-clock time is written into the generated tree.
+# OGC API - Features wants a real timeStamp on a FeatureCollection, so these
+# stay honest rather than being frozen — and --check-reproducible ignores
+# them instead, since they describe when, not what.
+TIMESTAMP_FIELDS = {
+    "index.json": "x-generated",
+    "app-index.json": "generated",
+    os.path.join("collections", "sites", "items.json"): "timeStamp",
+}
 
-    Honours SOURCE_DATE_EPOCH (the reproducible-builds convention). Without
-    it the clock makes every rebuild differ, which would turn CI's
-    "regenerate and diff" check — the thing that keeps data/ honest about
-    data-source/ — into a guaranteed failure.
-    """
+
+def build_timestamp() -> str:
+    """When this build ran. SOURCE_DATE_EPOCH pins it if set."""
     epoch = os.environ.get("SOURCE_DATE_EPOCH")
     if epoch and epoch.isdigit():
         when = datetime.fromtimestamp(int(epoch), tz=timezone.utc)
@@ -839,6 +846,88 @@ def build_openapi(count: int) -> dict:
     }
 
 
+
+def check_reproducible() -> int:
+    """Assert the committed data/ is what data-source/ currently generates.
+
+    Builds into a scratch directory and compares. The three generated
+    timestamps are normalised away: they record when a build ran, not what
+    it produced, and no amount of SOURCE_DATE_EPOCH plumbing can make CI
+    guess the clock reading that was in effect when the tree was committed.
+
+    Everything else must match byte for byte, which is the invariant worth
+    enforcing — that nobody edited data/ by hand or forgot to rebuild it
+    after changing the catalogue.
+    """
+    import filecmp
+    import shutil
+    import tempfile
+
+    global OUT_DATA
+    committed = os.path.join(ROOT, "data")
+    if not os.path.isdir(committed):
+        print("  no data/ to compare against")
+        return 1
+
+    scratch = tempfile.mkdtemp(prefix="aagis-repro-")
+    original = OUT_DATA
+    try:
+        OUT_DATA = os.path.join(scratch, "data")
+        sites = [dict(x) for x in catalog.SITES]
+        stats = enrich(sites, offline=True)
+        stats["elevations"] = add_elevation(sites, offline=True)
+        import io
+        import contextlib
+        with contextlib.redirect_stdout(io.StringIO()):
+            build(sites, stats)
+
+        def normalise(path: str, rel: str):
+            field = TIMESTAMP_FIELDS.get(rel)
+            with open(path, encoding="utf-8") as fh:
+                doc = json.load(fh)
+            if field:
+                doc.pop(field, None)
+            return json.dumps(doc, sort_keys=True, ensure_ascii=False)
+
+        problems = []
+        for root, _dirs, files in os.walk(OUT_DATA):
+            for name in files:
+                built = os.path.join(root, name)
+                rel = os.path.relpath(built, OUT_DATA)
+                against = os.path.join(committed, rel)
+                if not os.path.exists(against):
+                    problems.append(f"{rel}: generated but not committed")
+                    continue
+                if rel in TIMESTAMP_FIELDS:
+                    if normalise(built, rel) != normalise(against, rel):
+                        problems.append(f"{rel}: content differs")
+                elif not filecmp.cmp(built, against, shallow=False):
+                    problems.append(f"{rel}: content differs")
+
+        for root, _dirs, files in os.walk(committed):
+            for name in files:
+                rel = os.path.relpath(os.path.join(root, name), committed)
+                if not os.path.exists(os.path.join(OUT_DATA, rel)):
+                    problems.append(f"{rel}: committed but no longer generated")
+
+        if problems:
+            print(f"  data/ is out of date — {len(problems)} difference(s):")
+            for item in problems[:20]:
+                print(f"    - {item}")
+            if len(problems) > 20:
+                print(f"    … and {len(problems) - 20} more")
+            print("\n  Run: python3 scripts/build_data.py && git add data/")
+            return 1
+
+        total = sum(len(f) for _, _, f in os.walk(committed))
+        print(f"  data/ reproduces exactly from data-source/ "
+              f"({total} files, timestamps excluded)")
+        return 0
+    finally:
+        OUT_DATA = original
+        shutil.rmtree(scratch, ignore_errors=True)
+
+
 # --------------------------------------------------------------------------- #
 def validate(sites: list[dict]) -> list[str]:
     errs = []
@@ -879,7 +968,10 @@ def main() -> int:
     ap.add_argument("--offline", action="store_true",
                     help="do not contact Wikipedia; use authored data only")
     ap.add_argument("--check", action="store_true",
-                    help="validate only, write nothing")
+                    help="validate the catalogue only, write nothing")
+    ap.add_argument("--check-reproducible", action="store_true",
+                    help="assert committed data/ matches what the source "
+                         "generates; writes nothing")
     args = ap.parse_args()
 
     sites = [dict(s) for s in catalog.SITES]
@@ -897,6 +989,9 @@ def main() -> int:
     if args.check:
         print("  --check: nothing written")
         return 0
+
+    if args.check_reproducible:
+        return check_reproducible()
 
     stats = enrich(sites, offline=args.offline)
     stats["elevations"] = add_elevation(sites, offline=args.offline)
