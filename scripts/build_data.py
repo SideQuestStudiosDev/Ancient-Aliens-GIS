@@ -31,6 +31,7 @@ network. Delete a cache file to refresh it from upstream.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import math
 import os
@@ -576,8 +577,9 @@ def build(sites: list[dict], stats: dict) -> None:
             "the claim made on screen, a summary of the archaeological "
             "record, and context noting where the two diverge.",
         "attribution":
-            "Ancient Aliens GIS. Descriptive summaries from Wikipedia, "
-            "CC BY-SA 4.0. Claim and context text © the project, CC BY 4.0.",
+            "Ancient Aliens GIS, by Side Quest Studios. Descriptive summaries "
+            "from Wikipedia, CC BY-SA 4.0. Claim and context text "
+            "© Side Quest Studios, CC BY 4.0.",
         "links": [
             {"href": f"{BASE_URL}/data/index.json", "rel": "self",
              "type": "application/json", "title": "this document"},
@@ -709,8 +711,9 @@ def build(sites: list[dict], stats: dict) -> None:
         "categories": cats,
         "bbox": extent,
         "attribution":
-            "Site summaries from Wikipedia (CC BY-SA 4.0); claim and context "
-            "text CC BY 4.0.",
+            "Ancient Aliens GIS, by Side Quest Studios. Site summaries from "
+            "Wikipedia (CC BY-SA 4.0); claim and context text "
+            "© Side Quest Studios, CC BY 4.0.",
         "sites": [{
             "id": f["id"],
             "n": f["properties"]["name"],
@@ -847,6 +850,97 @@ def build_openapi(count: int) -> dict:
 
 
 
+# --------------------------------------------------------------------------- #
+# Service worker cache version
+#
+# sw.js serves its caches stale-while-revalidate, and a browser only installs
+# a new worker when sw.js itself changes bytes. With a hand-written constant
+# that means a release reaches returning visitors a full load late, and only
+# when somebody remembered to bump it — the failure mode being a deploy that
+# looks broken because the old catalogue is still on screen.
+#
+# So the constant is derived rather than typed: a digest of every file the
+# worker precaches. Change any of them and sw.js changes with them, the
+# browser installs the new worker, activate drops the stale caches, and the
+# first load after a deploy is already current.
+#
+# sw.js is excluded by construction — a worker never precaches itself — so
+# writing the digest back into it cannot perturb the digest.
+
+SW_FILE = os.path.join(ROOT, "sw.js")
+SW_VERSION_RE = re.compile(r"(?m)^(const VERSION = ')([^']*)(';)$")
+SW_SHELL_RE = re.compile(r"const SHELL_FILES = \[(.*?)\];", re.S)
+
+
+def sw_shell_files(text: str) -> list[str]:
+    """The paths sw.js precaches, read out of sw.js so the two cannot drift."""
+    found = SW_SHELL_RE.search(text)
+    if not found:
+        raise SystemExit("sw.js: SHELL_FILES list not found")
+    return re.findall(r"'([^']+)'", found.group(1))
+
+
+def shell_path(rel: str, data_root: str) -> str:
+    """Resolve a sw.js precache path. Entries under data/ resolve against
+    data_root, so the reproducibility check can point at its scratch build."""
+    rel = rel[2:] if rel.startswith("./") else rel
+    if rel in ("", "/"):
+        rel = "index.html"                      # './' is served by index.html
+    if rel.startswith("data/"):
+        return os.path.join(data_root, rel[len("data/"):])
+    return os.path.join(ROOT, rel)
+
+
+def stable_bytes(path: str, data_root: str) -> bytes:
+    """File content with the build timestamp removed, so a rebuild that
+    changed nothing produces the same digest."""
+    field = TIMESTAMP_FIELDS.get(os.path.relpath(path, data_root))
+    if field:
+        with open(path, encoding="utf-8") as fh:
+            doc = json.load(fh)
+        doc.pop(field, None)
+        return json.dumps(doc, sort_keys=True, ensure_ascii=False).encode()
+    with open(path, "rb") as fh:
+        return fh.read()
+
+
+def site_version(data_root: str) -> str:
+    """Digest of everything the service worker precaches."""
+    with open(SW_FILE, encoding="utf-8") as fh:
+        shell = sw_shell_files(fh.read())
+    digest = hashlib.sha256()
+    for rel in sorted(shell):
+        path = shell_path(rel, data_root)
+        if not os.path.exists(path):
+            raise SystemExit(f"sw.js precaches {rel}, which does not exist")
+        digest.update(rel.encode())
+        digest.update(b"\0")
+        digest.update(stable_bytes(path, data_root))
+        digest.update(b"\0")
+    return "aagis-" + digest.hexdigest()[:12]
+
+
+def read_sw_version() -> str | None:
+    with open(SW_FILE, encoding="utf-8") as fh:
+        found = SW_VERSION_RE.search(fh.read())
+    return found.group(2) if found else None
+
+
+def stamp_service_worker(version: str) -> bool:
+    """Write the digest into sw.js. True when it changed."""
+    with open(SW_FILE, encoding="utf-8") as fh:
+        text = fh.read()
+    new, count = SW_VERSION_RE.subn(
+        lambda m: m.group(1) + version + m.group(3), text)
+    if not count:
+        raise SystemExit("sw.js: VERSION constant not found")
+    if new == text:
+        return False
+    with open(SW_FILE, "w", encoding="utf-8") as fh:
+        fh.write(new)
+    return True
+
+
 def check_reproducible() -> int:
     """Assert the committed data/ is what data-source/ currently generates.
 
@@ -910,18 +1004,30 @@ def check_reproducible() -> int:
                 if not os.path.exists(os.path.join(OUT_DATA, rel)):
                     problems.append(f"{rel}: committed but no longer generated")
 
+        # A forgotten rebuild shows up here as much as a hand-edited
+        # document: the digest is taken over the scratch build, so it is what
+        # the committed sw.js should be carrying.
+        expected = site_version(OUT_DATA)
+        actual = read_sw_version()
+        if actual != expected:
+            problems.append(
+                f"sw.js: cache version is {actual or 'missing'}, "
+                f"expected {expected}")
+
         if problems:
             print(f"  data/ is out of date — {len(problems)} difference(s):")
             for item in problems[:20]:
                 print(f"    - {item}")
             if len(problems) > 20:
                 print(f"    … and {len(problems) - 20} more")
-            print("\n  Run: python3 scripts/build_data.py && git add data/")
+            print("\n  Run: python3 scripts/build_data.py "
+                  "&& git add data/ sw.js")
             return 1
 
         total = sum(len(f) for _, _, f in os.walk(committed))
         print(f"  data/ reproduces exactly from data-source/ "
               f"({total} files, timestamps excluded)")
+        print(f"  sw.js cache version matches the tree ({expected})")
         return 0
     finally:
         OUT_DATA = original
@@ -998,6 +1104,12 @@ def main() -> int:
     write_json(os.path.join(ROOT, "data-source", "sites.json"),
                {"count": len(sites), "sites": sites})
     build(sites, stats)
+
+    version = site_version(OUT_DATA)
+    moved = stamp_service_worker(version)
+    print(f"  cache version   {version}"
+          f"{'  (sw.js updated)' if moved else '  (sw.js unchanged)'}")
+
     print("\n  done")
     return 0
 

@@ -233,8 +233,12 @@ Corrections to coordinates, dating or context are especially welcome. See
 
 ## Credits and licensing
 
-- **Code**: MIT, see [LICENSE](LICENSE).
-- **Claim and context text**: CC BY 4.0, written for this project.
+Ancient Aliens GIS is designed, built and maintained by
+**Side Quest Studios**.
+
+- **Code**: MIT, © Side Quest Studios — see [LICENSE](LICENSE).
+- **Claim and context text**: CC BY 4.0, © Side Quest Studios,
+  researched and written for this project.
 - **Encyclopaedic summaries**: English Wikipedia, CC BY-SA 4.0, attributed
   per site with a link to the source article.
 - **Imagery**: Esri, NASA EOSDIS GIBS, EOX (Sentinel-2 cloudless is

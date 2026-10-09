@@ -8,7 +8,12 @@
  *                            worker cache would blow past storage quotas
  *                            within a few minutes of panning.
  */
-const VERSION = 'aagis-v1';
+/* Derived by scripts/build_data.py from a digest of every file in
+ * SHELL_FILES — do not edit by hand. Any change to the shell or the
+ * catalogue changes this line, which is what makes the browser install a
+ * new worker and drop the stale caches on activate. CI fails the build if
+ * it is out of date. */
+const VERSION = 'aagis-4873a88475c5';
 const SHELL = `${VERSION}-shell`;
 const DATA = `${VERSION}-data`;
 

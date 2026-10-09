@@ -103,3 +103,10 @@ that way. Plain ES modules and CSS custom properties.
 - Test at 390 px wide before opening a PR. Mobile is the priority, and the
   mobile-specific bugs in this codebase's history were all layering and
   sizing problems that only appear at that width.
+
+- `sw.js`'s `VERSION` is generated, not typed. `scripts/build_data.py`
+  rewrites it with a digest of every file in `SHELL_FILES`, which is what
+  makes a browser install the new worker and drop the stale caches instead
+  of serving the previous release for one more load. Run the build after
+  touching anything the worker precaches, and commit `sw.js` alongside
+  `data/` — `--check-reproducible` fails the deploy if the two disagree.
