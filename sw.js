@@ -13,7 +13,7 @@
  * catalogue changes this line, which is what makes the browser install a
  * new worker and drop the stale caches on activate. CI fails the build if
  * it is out of date. */
-const VERSION = 'aagis-4873a88475c5';
+const VERSION = 'aagis-2a6ada67f3ef';
 const SHELL = `${VERSION}-shell`;
 const DATA = `${VERSION}-data`;
 

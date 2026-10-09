@@ -1,0 +1,41 @@
+Ancient Aliens GIS
+Copyright 2026 Side Quest Studios
+
+This product includes software developed by Side Quest Studios
+<https://github.com/SideQuestStudiosDev/Ancient-Aliens-GIS>.
+
+If you redistribute this work, in source or binary form, with or without
+modification, you must carry this notice. That is the whole of what is
+asked in return: credit Side Quest Studios, and do not represent the
+third-party material below as ours or as yours.
+
+
+WHAT EACH LICENSE COVERS
+
+  Software — Apache License 2.0, see LICENSE.
+      Everything in this repository that Side Quest Studios wrote as
+      code: assets/js, assets/css, scripts, geoserver configuration,
+      the workflows, index.html and sw.js.
+
+  Authored content — Creative Commons Attribution 4.0 International.
+      The 246-entry catalogue researched and written for this project:
+      the `claim`, `context`, `short_description`, `subtitle`, `tags`,
+      `aliases`, `category`, `region` and `location_precision` fields of
+      every feature, and the camera framing that goes with them.
+      <https://creativecommons.org/licenses/by/4.0/>
+
+  Everything else — not ours, and not licensed by us.
+      Encyclopaedic summaries, map imagery, the elevation mesh, the
+      globe engine and the series name belong to their own rights
+      holders, on their own terms. Several of those terms are stricter
+      than the two above, and one is non-commercial. They are set out in
+      full in THIRD-PARTY-NOTICES.md, which you should read before
+      redistributing or deploying this.
+
+Attribution for every map layer is rendered in the running application
+and is a condition of the providers' terms. Do not remove it.
+
+"Ancient Aliens" is a trademark of A&E Television Networks. This is an
+independent, unaffiliated reference project, not endorsed by the
+programme or its producers. Neither the Apache License nor CC BY grants
+any right in that mark, or in the Side Quest Studios name or marks.

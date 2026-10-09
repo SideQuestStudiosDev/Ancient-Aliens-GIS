@@ -57,7 +57,7 @@ async function start() {
       onTiles: (queued) => UI.setTilesBusy(queued),
       onCredits: (parts) => UI.setAttribution([
         ...parts,
-        'Site data: <a href="https://github.com/SideQuestStudiosDev/Ancient-Aliens-GIS" target="_blank" rel="noopener">Ancient Aliens GIS</a> © Side Quest Studios · summaries from Wikipedia (CC BY-SA 4.0)',
+        'Site data: <a href="https://github.com/SideQuestStudiosDev/Ancient-Aliens-GIS" target="_blank" rel="noopener">Ancient Aliens GIS</a> © <a href="https://github.com/SideQuestStudiosDev/Ancient-Aliens-GIS/blob/main/NOTICE" target="_blank" rel="noopener">Side Quest Studios</a>, CC BY 4.0 · summaries from Wikipedia (CC BY-SA 4.0)',
       ]),
     });
   } catch (err) {

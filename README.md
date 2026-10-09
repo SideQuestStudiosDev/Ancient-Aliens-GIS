@@ -236,19 +236,40 @@ Corrections to coordinates, dating or context are especially welcome. See
 Ancient Aliens GIS is designed, built and maintained by
 **Side Quest Studios**.
 
-- **Code**: MIT, © Side Quest Studios — see [LICENSE](LICENSE).
-- **Claim and context text**: CC BY 4.0, © Side Quest Studios,
-  researched and written for this project.
-- **Encyclopaedic summaries**: English Wikipedia, CC BY-SA 4.0, attributed
-  per site with a link to the source article.
-- **Imagery**: Esri, NASA EOSDIS GIBS, EOX (Sentinel-2 cloudless is
-  **CC BY-NC-SA 4.0 — non-commercial**), OpenStreetMap contributors,
-  OpenTopoMap. Attribution is rendered in the app and must stay there.
-- **Elevation**: Esri Terrain3D for the 3D terrain mesh; per-site ground
+**Use it freely — just credit us, and do not claim the parts that are
+not ours.** The project is open source under two licenses, and leans on
+third-party material under several more.
+
+| What | License | What you owe |
+|---|---|---|
+| **Software** — the app, the build scripts, the GeoServer configuration | [Apache 2.0](LICENSE) | Keep the license and [`NOTICE`](NOTICE) with any copy you distribute |
+| **Authored catalogue** — the 246 claim / context / description entries researched for this project | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | Credit Side Quest Studios |
+| **Everything else** | see [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md) | Varies, and some of it is stricter |
+
+Apache 2.0 rather than MIT for one reason that matters here: its
+[`NOTICE`](NOTICE) mechanism makes attribution travel with the code
+instead of relying on a copyright line nobody reads, and its section 6
+is explicit that no trademark right comes with it.
+
+### What is not ours
+
+Read [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md) before
+redistributing. In short:
+
+- **Encyclopaedic summaries** are English Wikipedia, **CC BY-SA 4.0** —
+  share-alike, so adaptations of that text stay BY-SA. Attributed per
+  site with a link to the source article.
+- **Imagery** is Esri, NASA EOSDIS GIBS, EOX, OpenStreetMap contributors
+  and OpenTopoMap. EOX **Sentinel-2 cloudless is CC BY-NC-SA 4.0 —
+  non-commercial**; remove that layer before monetising a deployment.
+  Layer attribution is rendered in the app and must stay there.
+- **Elevation** is the Esri Terrain3D mesh, plus per-site ground
   elevation from the [Open-Meteo elevation API](https://open-meteo.com/)
   (Copernicus DEM), CC BY 4.0.
-- **Globe**: [CesiumJS](https://cesium.com/platform/cesiumjs/), Apache 2.0.
+- **The globe** is [CesiumJS](https://cesium.com/platform/cesiumjs/),
+  Apache 2.0, loaded from a pinned CDN build.
 
 *Ancient Aliens* is a trademark of A&E Television Networks. This is an
 independent, unaffiliated reference project and is not endorsed by the
-programme or its producers.
+programme or its producers. No episode content is reproduced: each
+`claim` is an original summary written for this project.

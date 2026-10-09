@@ -577,9 +577,11 @@ def build(sites: list[dict], stats: dict) -> None:
             "the claim made on screen, a summary of the archaeological "
             "record, and context noting where the two diverge.",
         "attribution":
-            "Ancient Aliens GIS, by Side Quest Studios. Descriptive summaries "
-            "from Wikipedia, CC BY-SA 4.0. Claim and context text "
-            "© Side Quest Studios, CC BY 4.0.",
+            "Ancient Aliens GIS, by Side Quest Studios. Claim and context "
+            "text © Side Quest Studios, CC BY 4.0. Descriptive "
+            "summaries from Wikipedia, CC BY-SA 4.0. Imagery, "
+            "elevation and the series name belong to their own "
+            "rights holders — see THIRD-PARTY-NOTICES.md.",
         "links": [
             {"href": f"{BASE_URL}/data/index.json", "rel": "self",
              "type": "application/json", "title": "this document"},
@@ -590,6 +592,17 @@ def build(sites: list[dict], stats: dict) -> None:
              "type": "application/json", "title": "declared conformance classes"},
             {"href": f"{BASE_URL}/data/collections/index.json", "rel": "data",
              "type": "application/json", "title": "feature collections"},
+            # Two licenses, because the catalogue is two bodies of work:
+            # what was written for this project, and the encyclopaedic
+            # summaries it quotes. A client honouring rel="license" sees
+            # both; the collection document carries CC BY 4.0 already.
+            {"href": "https://creativecommons.org/licenses/by/4.0/",
+             "rel": "license", "type": "text/html",
+             "title": "claim and context text — CC BY 4.0, "
+                      "© Side Quest Studios"},
+            {"href": "https://creativecommons.org/licenses/by-sa/4.0/",
+             "rel": "license", "type": "text/html",
+             "title": "Wikipedia summaries — CC BY-SA 4.0"},
             {"href": f"{BASE_URL}/", "rel": "alternate", "type": "text/html",
              "title": "Ancient Aliens GIS 3D geoportal"},
         ],
@@ -711,9 +724,9 @@ def build(sites: list[dict], stats: dict) -> None:
         "categories": cats,
         "bbox": extent,
         "attribution":
-            "Ancient Aliens GIS, by Side Quest Studios. Site summaries from "
-            "Wikipedia (CC BY-SA 4.0); claim and context text "
-            "© Side Quest Studios, CC BY 4.0.",
+            "Ancient Aliens GIS, by Side Quest Studios. Claim and context "
+            "text © Side Quest Studios, CC BY 4.0; site summaries "
+            "from Wikipedia, CC BY-SA 4.0.",
         "sites": [{
             "id": f["id"],
             "n": f["properties"]["name"],

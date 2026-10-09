@@ -1,7 +1,7 @@
 {
  "title": "Ancient Aliens GIS — OGC API Features",
  "description": "Every location referenced in the television series Ancient Aliens, published as OGC API - Features. Each feature carries the claim made on screen, a summary of the archaeological record, and context noting where the two diverge.",
- "attribution": "Ancient Aliens GIS, by Side Quest Studios. Descriptive summaries from Wikipedia, CC BY-SA 4.0. Claim and context text © Side Quest Studios, CC BY 4.0.",
+ "attribution": "Ancient Aliens GIS, by Side Quest Studios. Claim and context text © Side Quest Studios, CC BY 4.0. Descriptive summaries from Wikipedia, CC BY-SA 4.0. Imagery, elevation and the series name belong to their own rights holders — see THIRD-PARTY-NOTICES.md.",
  "links": [
   {
    "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/data/index.json",
@@ -28,6 +28,18 @@
    "title": "feature collections"
   },
   {
+   "href": "https://creativecommons.org/licenses/by/4.0/",
+   "rel": "license",
+   "type": "text/html",
+   "title": "claim and context text — CC BY 4.0, © Side Quest Studios"
+  },
+  {
+   "href": "https://creativecommons.org/licenses/by-sa/4.0/",
+   "rel": "license",
+   "type": "text/html",
+   "title": "Wikipedia summaries — CC BY-SA 4.0"
+  },
+  {
    "href": "https://sidequeststudiosdev.github.io/Ancient-Aliens-GIS/",
    "rel": "alternate",
    "type": "text/html",
@@ -39,5 +51,5 @@
   "The collection is small (hundreds of features, well under 1 MB gzipped), which is why returning it whole is practical.",
   "For a deployment that honours the Core parameter requirements, run the GeoServer configuration in geoserver/ — it serves the same data as OGC API - Features, WFS 2.0.0 and WMS 1.3.0 over the identical schema."
  ],
- "x-generated": "2026-10-09T14:43:14Z"
+ "x-generated": "2026-10-09T15:49:57Z"
 }
