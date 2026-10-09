@@ -642,6 +642,14 @@ export function renderDetail(site, feature) {
     links.push(linkRow(link.title ?? link.href, link.href,
                        link.rel === 'canonical' ? 'official' : 'reference'));
   }
+  // "Official Ancient Aliens documentation, if it exists" is best served by
+  // a scoped search of the broadcaster's own site. History.com's season and
+  // episode numbering is inconsistent with every other index, so building
+  // per-episode URLs by hand would produce confident links to the wrong
+  // page — or to none.
+  links.push(linkRow(`Search History.com for “${p.name ?? site.n}”`,
+    `https://www.history.com/search?q=${encodeURIComponent(p.name ?? site.n)}`,
+    'official'));
   links.push(linkRow('Ancient Aliens — official show pages (History)',
                      'https://www.history.com/shows/ancient-aliens', 'official'));
   links.push(linkRow('Episode index (Wikipedia)',

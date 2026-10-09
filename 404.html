@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Not found — Ancient Aliens GIS</title>
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#04070d">
+<link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/css/tokens.css">
+<link rel="stylesheet" href="assets/css/base.css">
+<style>
+  body { display: grid; place-items: center; padding: var(--s-6); overflow: auto; }
+  .nf { max-width: 46ch; text-align: center; display: grid; gap: var(--s-4);
+        justify-items: center; }
+  .nf h1 { font-size: var(--fs-xl); letter-spacing: var(--track-wide); }
+  .nf p { color: var(--ink-muted); font-size: var(--fs-sm); }
+  .nf code { font-family: var(--font-mono); font-size: var(--fs-xs);
+             color: var(--neon-teal-ink); }
+  .nf__mark { width: 72px; height: 72px; opacity: .85; }
+  .nf__row { display: flex; gap: var(--s-2); flex-wrap: wrap; justify-content: center; }
+</style>
+</head>
+<body>
+  <main class="nf">
+    <svg class="nf__mark" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+      <circle cx="12" cy="12" r="9" stroke="#22e0f2" stroke-width="1.2"/>
+      <ellipse cx="12" cy="12" rx="9" ry="3.4" stroke="#6ff0ff" stroke-width=".9"/>
+      <path d="M12 3v18" stroke="#0fb6a8" stroke-width=".9"/>
+      <circle cx="12" cy="12" r="1.5" fill="#ff4fd8"/>
+    </svg>
+    <h1>No such coordinate</h1>
+    <p>That address is not part of Ancient Aliens GIS.</p>
+    <p>Sites are addressed by query string rather than by path — for example
+       <code>?site=gobekli-tepe</code> — so a deep link always begins at the
+       app root.</p>
+    <div class="nf__row">
+      <a class="btn" href="./">Open the geoportal</a>
+      <a class="btn btn--ghost" href="./data/collections/sites/items.json">Raw GeoJSON</a>
+    </div>
+  </main>
+</body>
+</html>
